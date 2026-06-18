@@ -1,0 +1,42 @@
+name: Veille documentaire automatique
+
+# Quand le script se lance
+on:
+  schedule:
+    - cron: "0 9 * * *"      # tous les jours à 9h00 UTC (6h00 en Guyane, UTC-3)
+  workflow_dispatch:          # + un bouton "Run workflow" pour lancer à la main
+
+# Autorise le job à réécrire les fichiers du dépôt
+permissions:
+  contents: write
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Récupère le contenu du dépôt
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      # 2. Installe Python
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 3. Installe les bibliothèques nécessaires
+      - name: Installer les dépendances
+        run: pip install feedparser openpyxl requests
+
+      # 4. Lance la veille (génère xlsx, index.html, veille.xml)
+      - name: Exécuter la veille
+        run: python veille.py
+
+      # 5. Publie les fichiers générés dans le dépôt
+      - name: Enregistrer les résultats
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "Veille du $(date +'%Y-%m-%d')" || echo "Aucune modification à enregistrer"
+          git push
