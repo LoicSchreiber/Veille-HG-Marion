@@ -40,7 +40,7 @@ JOURNAL_HTML= os.path.join(BASE_DIR, "index.html")        # page web de veille
 JOURNAL_RSS = os.path.join(BASE_DIR, "veille.xml")        # flux RSS agrégé
 # URL publique où sera hébergé le flux (GitHub Pages, ENT...). Sert à remplir
 # les liens <atom:link> et <guid>. Adapte-la, ou laisse vide si usage local.
-SITE_URL    = "https://exemple.github.io/veille"
+SITE_URL    = "https://loicschreiber.github.io/veille"
 DONNEES_JSON= os.path.join(BASE_DIR, "donnees.json")      # historique complet (pour le HTML)
 VUS_JSON    = os.path.join(BASE_DIR, "vus.json")           # mémoire anti-doublons
 PDF_DIR     = os.path.join(BASE_DIR, "documents")          # PDF téléchargés
