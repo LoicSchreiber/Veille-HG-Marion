@@ -1,0 +1,13 @@
+nom;url_flux;type;telecharger_pdf
+IFÉ - Veille & Analyses;https://veille-et-analyses.ens-lyon.fr/rss/rss_index.php;rss;oui
+The Conversation FR - Histoire;https://theconversation.com/fr/histoire/articles.atom;rss;non
+The Conversation FR - Éducation;https://theconversation.com/fr/education/articles.atom;rss;non
+The Conversation FR - International;https://theconversation.com/fr/international/articles.atom;rss;non
+Le Grand Continent;https://legrandcontinent.eu/fr/feed/;rss;non
+IFRI - Publications;https://www.ifri.org/fr/flux-rss/publications.rss;rss;oui
+APHG;https://www.aphg.fr/spip.php?page=backend;rss;non
+OpenEdition - Annales HSS;https://journals.openedition.org/ahss/backend?format=rssarticles;rss;non
+OpenEdition - Géoconfluences;https://geoconfluences.ens-lyon.fr/spip.php?page=backend;rss;non
+Réseau Canopé - Actualités;https://www.reseau-canope.fr/fileadmin/rss/actualites.xml;rss;non
+CRIFPE;https://www.crifpe.ca/rss;rss;non
+GIRSEF - UCLouvain;https://uclouvain.be/fr/instituts-recherche/iacchos/girsef;scrape;non
