@@ -4,9 +4,209 @@
     <title>Veille — Histoire, Géographie, Éducation</title>
     <link>https://loicschreiber.github.io/veille</link>
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
-    <description>Flux agrégé de 6 sources de veille.</description>
+    <description>Flux agrégé de 7 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 18 Jun 2026 21:54:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:43:00 +0000</lastBuildDate>
+    <item>
+      <title>Comment le génie de George Sand a été minimisé par l'histoire littéraire</title>
+      <link>https://theconversation.com/comment-le-genie-de-george-sand-a-ete-minimise-par-lhistoire-litteraire-283164</link>
+      <description>[The Conversation FR - Histoire] Cent cinquante ans après sa mort, quelle image de George Sand domine ? La scandaleuse ? La romantique défenseuse des paysans ? Son génie ne peut se réduire à ces clichés.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">0800fb0ca5abf8ab32a3348aa0bcce3fc3bcb5a4</guid>
+      <pubDate>Fri, 19 Jun 2026 11:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En 1768, comment un roi paralysa l’État en se mettant en grève</title>
+      <link>https://theconversation.com/en-1768-comment-un-roi-paralysa-letat-en-se-mettant-en-greve-285736</link>
+      <description>[The Conversation FR - Histoire] Au XVIIIe siècle, la Suède expérimenta une forme de gouvernement proche du parlementarisme moderne. Lorsqu'un conflit institutionnel éclata en 1768, un roi décida de se mettre en grève, déclenchant une crise constitutionnelle qui interrogeait le rôle même de la monarchie.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">428513112d0d9111abebfe87b4776bcc6748c0b8</guid>
+      <pubDate>Fri, 19 Jun 2026 10:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comment célèbre-t-on en Europe le jour le plus long de l’année ?</title>
+      <link>https://theconversation.com/comment-celebre-t-on-en-europe-le-jour-le-plus-long-de-lannee-285716</link>
+      <description>[The Conversation FR - Histoire] Pourquoi allume-t-on de grands feux à la Saint-Jean ? Pourquoi danse-t-on autour d’un mât décoré de fleurs ? Derrière ces traditions festives se cache un héritage complexe où se croisent croyances ancestrales, folklore et identité culturelle.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">03339ae7cac0cf3d1f5fb56790c6747c401fc376</guid>
+      <pubDate>Fri, 19 Jun 2026 09:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quarante ans après, faut-il encore célébrer la « Main de Dieu » de Maradona ?</title>
+      <link>https://theconversation.com/quarante-ans-apres-faut-il-encore-celebrer-la-main-de-dieu-de-maradona-285714</link>
+      <description>[The Conversation FR - Histoire] Quarante ans après le quart de finale légendaire entre l’Argentine et l’Angleterre, la « Main de Dieu » continue de diviser. Peut-on célébrer un geste de tricherie tout en admirant le génie de Diego Maradona ?</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">08d46cf2ab576719c01838896aefff1b056e7a2d</guid>
+      <pubDate>Fri, 19 Jun 2026 07:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les attaques de drones ukrainiens en Russie ont été multipliées par 13 depuis 2023</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/19/les-attaques-de-drones-ukrainiens-en-russie-ont-ete-multipliees-par-13-depuis-2023/</link>
+      <description>[Le Grand Continent] Depuis le début de l’année, plus de 150 attaques de drones ukrainiens ont visé des cibles en Russie, soit deux fois plus que l’an dernier et quatre fois plus qu’en 2024. L’article Les attaques de drones ukrainiens en Russie ont été multipliées par 13 depuis 2023 est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">4120c5146c5626ffd01fe0687e4ad040fdfc0e95</guid>
+      <pubDate>Fri, 19 Jun 2026 11:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le philosophe normalien du moment géopolitique</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/19/le-philosophe-normalien-du-moment-geopolitique/</link>
+      <description>[Le Grand Continent] Pourquoi lire Pierre Hassner est plus urgent que jamais. L’article Le philosophe normalien du moment géopolitique est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">7f2c5f1a0a5e62c10c373470897d08fd37595024</guid>
+      <pubDate>Fri, 19 Jun 2026 04:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La hausse des températures pourrait coûter à l’économie indienne jusqu’à 4,5 % de son PIB d’ici 2030</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/19/la-hausse-des-temperatures-pourrait-couter-a-leconomie-indienne-jusqua-45-de-son-pib-dici-2030/</link>
+      <description>[Le Grand Continent] Depuis plusieurs semaines, New Delhi subit une vague de chaleur intense, avec des températures dépassant fréquemment les 40°C. L’article La hausse des températures pourrait coûter à l’économie indienne jusqu’à 4,5&amp;#160;% de son PIB d’ici 2030 est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">3422a68705f49a582670fa17dcca04b25391d110</guid>
+      <pubDate>Fri, 19 Jun 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Opération Coup de pouce! pour le capes interne</title>
+      <link>https://www.aphg.fr/operation-coup-de-pouce-pour-le-capes-interne/</link>
+      <description>[APHG] Le premier rendez-vous de la saison 2026-2027 est prévu le 29 juin 2026 à 20h30, avec Marie Digout, Thomas Gosselin et Marine Sorano. &amp;#160; &amp;#160; &amp;#160; L’article Opération Coup de pouce! pour le capes interne est apparu en premier sur APHG .</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">140aa6058b93385b23a7699335ed96d489ea5080</guid>
+      <pubDate>Thu, 18 Jun 2026 17:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coup de pouce Agrégation interne – Victor Delaporte – Le militantisme pro-Algérie française de 1944 à 1962</title>
+      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-victor-delaporte-le-militantisme-pro-algerie-francaise-de-1944-a-1962/</link>
+      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2025-2026 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance de Victor Delaporte consacrée au thème « Le militantisme pro-Algérie française de 1944 à 1962 ». Le podcast est proposé [&amp;#8230;] L’article Coup de pouce Agrégation interne &amp;#8211; Victor Delaporte &amp;#8211; Le militantisme pro-Algérie française de 1944 à 1962</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">326f29ebbcec6ed75a5c070ff9418a987b5e0395</guid>
+      <pubDate>Mon, 09 Mar 2026 11:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coup de pouce Agrégation interne – Catherine Denys – L’âge des révolutions : les anciens Pays-Bas</title>
+      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-catherine-denys-lage-des-revolutions-les-anciens-pays-bas/</link>
+      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2025-2026 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance de Catherine Denys consacrée au thème « L’âge des révolutions : les anciens Pays-Bas ». Le podcast est proposé en version [&amp;#8230;] L’article Coup de pouce Agrégation interne &amp;#8211; Catherine Denys &amp;#8211; L’âge des révolutions : les anciens Pays-Bas est app</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">504d2af7e3b296bd8b676f686e84fd2231e747ac</guid>
+      <pubDate>Mon, 09 Mar 2026 11:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Glossaire bilingue sur les centres de données / Bilingual Glossary About Data Centers</title>
+      <link>https://geoconfluences.ens-lyon.fr/programmes/dnl/dnl-hg-anglais/glossaire-bilingue-sur-les-centres-de-donnees-bilingual-glossary-about-data-centers</link>
+      <description>[OpenEdition - Géoconfluences]</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">60583573233d112c50647403ad542a97b7d85998</guid>
+      <pubDate>Fri, 19 Jun 2026 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ressources de Géoconfluences pour traiter les programmes de géographie en CE2</title>
+      <link>https://geoconfluences.ens-lyon.fr/programmes/classes/ressources-pour-le-cycle-2/ressources-de-geoconfluences-pour-traiter-les-programmes-de-geographie-en-ce2</link>
+      <description>[OpenEdition - Géoconfluences]</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">e8b03161fb7eb6821c2e3b9dd9ea57e15b8fa97b</guid>
+      <pubDate>Fri, 19 Jun 2026 08:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sujets de spécialité HGGSP 2026</title>
+      <link>https://geoconfluences.ens-lyon.fr/actualites/veille/concours-examens-programmes/sujets-de-specialite-hggsp-2026</link>
+      <description>[OpenEdition - Géoconfluences]</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">a90e478a78949d982de740ef65ac9cf9961d2911</guid>
+      <pubDate>Thu, 18 Jun 2026 08:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ressources de Géoconfluences pour traiter les programmes de géographie en CE1</title>
+      <link>https://geoconfluences.ens-lyon.fr/programmes/classes/ressources-pour-le-cycle-2/ressources-de-geoconfluences-pour-traiter-les-programmes-de-geographie-en-ce1</link>
+      <description>[OpenEdition - Géoconfluences]</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">8a8b64daf4a731b169e0b12cea772d8881e7cda2</guid>
+      <pubDate>Thu, 18 Jun 2026 08:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Irak: Wassermangel in einem Land nach dem Konflikt</title>
+      <link>https://geoconfluences.ens-lyon.fr/programmes/dnl/dnl-hg-allemand/irak-wassermangel-in-einem-land-nach-dem-konflikt</link>
+      <description>[OpenEdition - Géoconfluences] Im Irak hat der Wassermangel sich zu einer Wasserkrise entwickelt, welche durch den Klimawandel ausgelöst, sich dann aber durch den desolaten Zustand des Landes nach der Beilegung des Konflikts verstärkt hat, begleitet von einer ungenügenden Wasserwirtschaft sowie dem Bau von Stauanlagen in den Nachbarländern stromaufwärts. Der gesamte Irak ist davon betroffen, und zwar auch der Norden, die Weizenkammer des Landes, welchem bisher solche Engpässe erspart geblieben sind. Die Auswirkungen der Wasse</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">1c56b1be960f50255916b9ce128cf5821e7a43ce</guid>
+      <pubDate>Wed, 17 Jun 2026 07:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Risque sismique et résilience dans l’espace urbain de Malatya (Turquie)</title>
+      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-thematiques/risques-et-societes/risque-sismique-et-resilience-malatya-turquie</link>
+      <description>[OpenEdition - Géoconfluences] En 2025, deux ans après les séismes du 6 février 2023 en Turquie, les conséquences sont encore visibles dans le paysage urbain de la ville de Malatya. Outre la vulnérabilité de ces territoires au risque sismique, cette situation reflète aussi une préparation insuffisante des pouvoirs publics face à la catastrophe et à la reconstruction. La résilience s'opère néanmoins sur le temps long, et s'accompagne localement de la construction d'une nouvelle culture du risque.</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">f73242af6135c378a2899b61d7f2f70b80a31cf0</guid>
+      <pubDate>Mon, 15 Jun 2026 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les photographies lauréates du concours Géophoto Guyane 2026</title>
+      <link>https://geoconfluences.ens-lyon.fr/actualites/veille/evenements/photographies-laureates-du-concours-geophoto-guyane-2026</link>
+      <description>[OpenEdition - Géoconfluences] Les élèves avaient pour consigne de transmettre une photographie accompagnée d'un commentaire mobilisant du vocabulaire géographique. Ces photographies sont susceptibles d'illustrer de nombreuses thématiques des programmes scolaires de géographie. Les versions originales de ces photographies ont été versées dans la banque d’images de Géoconfluences.</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">591ebc966b4c1f8b912b0ef8f43992e43a868fad</guid>
+      <pubDate>Fri, 12 Jun 2026 12:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ressources de Géoconfluences pour traiter les programmes de géographie en CP</title>
+      <link>https://geoconfluences.ens-lyon.fr/programmes/classes/ressources-pour-le-cycle-2/selection-de-ressources-de-geoconfluences-pour-le-programme-de-geographie-en-cp</link>
+      <description>[OpenEdition - Géoconfluences]</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">e6d165e9d815d263e29bdc44b6e0abd419971c00</guid>
+      <pubDate>Thu, 11 Jun 2026 12:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ressources pour le cycle 2</title>
+      <link>https://geoconfluences.ens-lyon.fr/programmes/classes/ressources-pour-le-cycle-2</link>
+      <description>[OpenEdition - Géoconfluences]</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">07ad422e6a91ce4143d287d8ad4a2c350e270da4</guid>
+      <pubDate>Thu, 11 Jun 2026 12:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Étude de cas</title>
+      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-regionaux/france-espaces-ruraux-periurbains/etude-de-cas</link>
+      <description>[OpenEdition - Géoconfluences]</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">4127c5932b34ed8187a647ad15da4afa9dd5b0cb</guid>
+      <pubDate>Wed, 10 Jun 2026 14:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Géographie intime des capitales. Rêves d'Etat, vie des citoyens</title>
+      <link>https://geoconfluences.ens-lyon.fr/actualites/ageoda/geographie-intime-des-capitales-reves-detat-vie-des-citoyens</link>
+      <description>[OpenEdition - Géoconfluences] Exposition photo</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">d1e23421eb8ad76f3c79728a3dfbb776e3e3d8a5</guid>
+      <pubDate>Wed, 10 Jun 2026 12:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les Glorieuses (Îles éparses) et Diego Garcia (archipel des Chagos) : des aires marines protégées au service des ZEE</title>
+      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-thematiques/geographie-du-politique/articles/glorieuses-iles-eparses-et-diego-garcia-archipel-des-chagos-des-amp-au-service-des-zee</link>
+      <description>[OpenEdition - Géoconfluences] En droit international, la &quot;terre commande la mer&quot; : c'est la possession des terres qui justifie le contrôle des eaux. Deux puissances maritimes, la France et le Royaume-Uni, tentent d'inverser la logique. En plaçant les espaces maritimes sous protection environnementale, ils espèrent consolider leur contrôle sur des archipels contestés. Mais dans les Îles Glorieuses comme dans les Chagos, cette stratégie du fait accompli se heurte aux réactions des États voisins, et peut crisper les tensions au</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">d5902fc2a36bc16c2d74140cf60683f0901e5237</guid>
+      <pubDate>Tue, 09 Jun 2026 06:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coupe du monde de football 2026 : les États-Unis et la géopolitique du sport</title>
+      <link>https://geoconfluences.ens-lyon.fr/actualites/veille/breves/coupe-du-monde-de-football-2026-les-etats-unis-et-la-geopolitique-du-sport</link>
+      <description>[OpenEdition - Géoconfluences] Organisée du 11 juin au 19 juillet entre Canada, Mexique et États-Unis, la 23e Coupe du monde de football est un évènement majeur. Comme toutes les grandes compétitions sportives, le Mondial possède une forte dimension géopolitique, liée à sa médiatisation, voire à son instrumentalisation, dans un contexte complexe marqué par tensions internes et externes liées à la présidence de Donald Trump et la poursuite de la guerre au Moyen-Orient.</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">87f4c3a11be118de70e2a8c695f2cdc6edb6161e</guid>
+      <pubDate>Mon, 08 Jun 2026 14:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les régions transfrontalières en Europe, laboratoires de recompositions territoriales</title>
+      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-regionaux/territoires-europeens-regions-etats-union/articles-scientifiques/les-regions-transfrontalieres-en-europe-laboratoires-de-recompositions-territoriales</link>
+      <description>[OpenEdition - Géoconfluences] Au cœur de la construction européenne et d’intégration régionale, les régions transfrontalières sont des laboratoires de transformation territoriale. Entre recomposition de la région, retour des frontières, et politique européenne spécifique (INTERREG), elles participent de la création de nouvelles formes d'espaces transfrontaliers. Cet article est une proposition de synthèse sur les différentes formes de régions transfrontalières et leur évolution en Europe, menée en suivant deux exemples, la G</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">7a614735862e9adefa9a43fe0e50d64efd6a0552</guid>
+      <pubDate>Mon, 08 Jun 2026 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le prix du livre de géographie 2026 est attribué à Pascal Clerc (Émanciper ou contrôler ? Les élèves et l’école au XXIe siècle)</title>
+      <link>https://geoconfluences.ens-lyon.fr/actualites/veille/evenements/pascal-clerc-laureat-du-prix-du-livre-de-geographie-des-lyceens-et-etudiants-les-commentaires-des-eleves-et-etudiants</link>
+      <description>[OpenEdition - Géoconfluences] Le Prix du livre de géographie des lycéens et étudiants 2026 a été décerné à Pascal Clerc pour &quot;Émanciper ou contrôler ? Les élèves et l’école au XXIe siècle&quot; (éditions Autrement). Les collégiens, lycéens et étudiants exposent leurs arguments en faveur de cet ouvrage.</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">dfc68a415d42b32f5aa87b0f323caefca2921fb9</guid>
+      <pubDate>Thu, 04 Jun 2026 15:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pourquoi les impressionnistes aimaient-ils tant peindre des jardins ?</title>
       <link>https://theconversation.com/pourquoi-les-impressionnistes-aimaient-ils-tant-peindre-des-jardins-285613</link>
