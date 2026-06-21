@@ -6,7 +6,71 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 7 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 20 Jun 2026 11:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 11:43:00 +0000</lastBuildDate>
+    <item>
+      <title>Oui, le football a une histoire aux États-Unis. Le « soccer » est devenu un sport populaire</title>
+      <link>https://theconversation.com/oui-le-football-a-une-histoire-aux-etats-unis-le-soccer-est-devenu-un-sport-populaire-284594</link>
+      <description>[The Conversation FR - Histoire] Aux États-Unis, le football n’est pas né avec l’arrivée de Lionel Messi en 2023 à la Major League Soccer (MLS), mais en 1913. Depuis, le soccer a trouvé son public et son modèle économique.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">79165dcd33567931b94f5010571c5cffc5caceff</guid>
+      <pubDate>Sun, 21 Jun 2026 09:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quelle éducation au vivant à l’heure de l’anthropocène ?</title>
+      <link>https://theconversation.com/quelle-education-au-vivant-a-lheure-de-lanthropocene-281654</link>
+      <description>[The Conversation FR - Éducation] À l’école, on tend à découper le savoir en disciplines afin d’en faciliter l’appropriation par les élèves. Mais cette décomposition en objets d’étude peut transmettre une vision fragmentée du vivant.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">58246176f712ef57c252b8e21629158a4e5263bf</guid>
+      <pubDate>Sun, 21 Jun 2026 09:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un tiers de l’humanité doit s’endetter pour vivre</title>
+      <link>https://theconversation.com/un-tiers-de-lhumanite-doit-sendetter-pour-vivre-284126</link>
+      <description>[The Conversation FR - International] Emprunter pour manger, se loger ou se soigner&amp;nbsp;: pour plus de 2,5&amp;nbsp;milliards de personnes, la dette est un outil ordinaire de survie.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">ace3084322c1f7d5f2c5ee87168c617a5668ec75</guid>
+      <pubDate>Sun, 21 Jun 2026 07:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Votre cerveau pourrait être le dernier mot de passe impossible à hacker</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/21/votre-cerveau-pourrait-etre-le-dernier-mot-de-passe-que-lon-ne-peut-pas-hacker/</link>
+      <description>[Le Grand Continent] Face au développement vertigineux de la cybercriminalité, des scientifiques travaillent à une nouvelle forme d'authentification continue basée sur la bio-cryptographie et utilisant les ondes cérébrales. L’article Votre cerveau pourrait être le dernier mot de passe impossible à hacker est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">74706cc4a4149c783dc6f90a7846b76aba3107f2</guid>
+      <pubDate>Sun, 21 Jun 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi les élites gagnent toujours</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/21/pourquoi-les-elites-gagnent-toujours/</link>
+      <description>[Le Grand Continent] Un siècle après, l’école italienne de l’élitisme reste extraordinairement pertinente pour analyser le Brexit, Trump et la crise de la démocratie. L’article Pourquoi les élites gagnent toujours est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">59e5d5463aa64fd043cac65bb3c719154772eebd</guid>
+      <pubDate>Sun, 21 Jun 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Coupe du monde, les États-Unis commencent à rêver</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/20/en-coupe-du-monde-les-etats-unis-commencent-a-rever/</link>
+      <description>[Le Grand Continent] Deux matchs, deux victoires&amp;#160;: pour la première fois depuis 1930, les États-Unis enchaînent en Coupe du monde. Mais le plus difficile reste à venir. L’article En Coupe du monde, les États-Unis commencent à rêver est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">f2b38a4685c843ca2bbfe3bf556d7d6b519b2e42</guid>
+      <pubDate>Sat, 20 Jun 2026 17:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qui est Andy Burnham, le travailliste qui pourrait devenir le prochain Premier ministre du Royaume-Uni ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/20/qui-est-andy-burnham-le-travailliste-qui-pourrait-devenir-le-prochain-premier-ministre-du-royaume-uni/</link>
+      <description>[Le Grand Continent] Après avoir remporté l’élection du 19 juin à Makerfield, Andy Burnham se prépare à défier le Premier ministre, Keir Starmer. L’article Qui est Andy Burnham, le travailliste qui pourrait devenir le prochain Premier ministre du Royaume-Uni&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">3651fc03e48fc6a68a0425aa2078023f68b494cb</guid>
+      <pubDate>Sat, 20 Jun 2026 15:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>À quoi sert la géopolitique ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/20/quoi-sert-la-geopolitique/</link>
+      <description>[Le Grand Continent] Le fondateur de la revue Hérodote retrace l’histoire d’une discipline longtemps marginalisée, aujourd’hui centrale. L’article À quoi sert la géopolitique&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">af741a8887eb0d41ccc5aff8885a9daf30bb2cfd</guid>
+      <pubDate>Sat, 20 Jun 2026 06:46:00 +0000</pubDate>
+    </item>
     <item>
       <title>À quoi sert la géopolitique ?</title>
       <link>https://legrandcontinent.eu/fr/2026/06/20/a-quoi-sert-la-geopolitique/</link>
