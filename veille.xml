@@ -6,7 +6,87 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 7 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 23 Jun 2026 11:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:43:00 +0000</lastBuildDate>
+    <item>
+      <title>Violences sexuelles sur mineurs : deux siècles de bruit médiatique et d’inertie</title>
+      <link>https://theconversation.com/violences-sexuelles-sur-mineurs-deux-siecles-de-bruit-mediatique-et-dinertie-285500</link>
+      <description>[The Conversation FR - Histoire] Malgré les révélations qui éclatent régulièrement dans l’actualité à leur sujet, les violences sexuelles sur mineurs restent invisibilisées dans la société.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">216711208b0980e22b7fa696f18a232c14ea265d</guid>
+      <pubDate>Tue, 23 Jun 2026 14:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alliances d’universités européennes : porter des projets communs, un défi linguistique ?</title>
+      <link>https://theconversation.com/alliances-duniversites-europeennes-porter-des-projets-communs-un-defi-linguistique-282630</link>
+      <description>[The Conversation FR - Éducation] Comment coordonner des formations et des projets de recherche issus d’environnements linguistiques différents&amp;nbsp;? La question recoupe des enjeux à la fois pragmatiques et stratégiques.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">cf11c393c8f01fd7ac0f4c4202b130b86ab4572e</guid>
+      <pubDate>Tue, 23 Jun 2026 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>« L’arc de Trump » : une glorification des États-Unis… et surtout de leur président actuel</title>
+      <link>https://theconversation.com/larc-de-trump-une-glorification-des-etats-unis-et-surtout-de-leur-president-actuel-285682</link>
+      <description>[The Conversation FR - International] À l’occasion des 250&amp;nbsp;ans des États-Unis, Donald Trump veut bâtir un arc de triomphe géant à Washington. Un monument qui sera avant tout à sa propre gloire…</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">420c8908ac382143b7992d5c75bed9775ed51625</guid>
+      <pubDate>Tue, 23 Jun 2026 14:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comment la diaspora iranienne vit la guerre à distance</title>
+      <link>https://theconversation.com/comment-la-diaspora-iranienne-vit-la-guerre-a-distance-283713</link>
+      <description>[The Conversation FR - International] Les Iraniens de l’étranger, obnubilés par la situation dans leur pays, traversent une période très compliquée sur le plan psychologique.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">7de41ddd95282193881296552425f15e2e4d2afd</guid>
+      <pubDate>Tue, 23 Jun 2026 14:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dans les villes européennes, seulement 47 % de la population voit au moins 3 arbres depuis sa fenêtre</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/24/dans-les-villes-europeennes-seulement-47-de-la-population-voit-au-moins-3-arbres-depuis-sa-fenetre/</link>
+      <description>[Le Grand Continent] En plus d’avoir un impact positif sur la santé mentale et de contribuer à une meilleure forme physique, la couverture arborée en ville contribue à la réduction des îlots de chaleur. L’article Dans les villes européennes, seulement 47&amp;#160;% de la population voit au moins 3 arbres depuis sa fenêtre est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">59884925118b5af2c2937b7ba1a759de02f6c01b</guid>
+      <pubDate>Wed, 24 Jun 2026 10:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Chine américanise sa puissance</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/24/la-chine-americanise-sa-puissance/</link>
+      <description>[Le Grand Continent] En se dotant d'un nouvel arsenal juridique pour transformer l'interdépendance en levier, le Parti communiste s'inspire de plus en plus des doctrines de Washington. L’article La Chine américanise sa puissance est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">de057c5ec0b4b81f808bfefc782df0e5a296b4c3</guid>
+      <pubDate>Wed, 24 Jun 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malgré une reprise du trafic, l’incertitude persiste dans le détroit d’Ormuz</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/24/malgre-une-reprise-du-trafic-lincertitude-persiste-dans-le-detroit-dormuz/</link>
+      <description>[Le Grand Continent] Les armateurs, qui perçoivent l’accord signé entre Téhéran et Washington comme un signal positif, font toujours l’objet d’instructions contradictoires. L’article Malgré une reprise du trafic, l’incertitude persiste dans le détroit d’Ormuz est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">80d1f2905186604838cc1aac74571467fc0f515c</guid>
+      <pubDate>Wed, 24 Jun 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Afrique est le continent qui a le plus profité de l’élargissement de la compétition à 48 équipes</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/23/lafrique-est-le-continent-qui-a-le-plus-profite-de-lelargissement-de-la-competition-a-48-equipes/</link>
+      <description>[Le Grand Continent] Le Ghana et la République démocratique du Congo jouent ce soir leur qualification pour la phase éliminatoire. L’article L’Afrique est le continent qui a le plus profité de l’élargissement de la compétition à 48 équipes est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">58d09b6f13125fbca77633dbb0c586456532ac1a</guid>
+      <pubDate>Tue, 23 Jun 2026 17:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le Testament de Marc Bloch lu par Carlo Ginzburg</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/23/le-testament-de-marc-bloch-lu-par-carlo-ginzburg/</link>
+      <description>[Le Grand Continent] À l'occasion de sa panthéonisation, nous republions ce texte étincelant, accompagné d'une note introductive du grand historien italien récemment disparu. L’article Le Testament de Marc Bloch lu par Carlo Ginzburg est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">d1c7e2ccdcf2dc75db60522173ccc4e39ed989f3</guid>
+      <pubDate>Tue, 23 Jun 2026 15:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Il fait plus chaud en France que sur 99 % de la planète : pourquoi la vague de chaleur qui frappe le pays est historique</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/23/il-fait-plus-chaud-aujourdhui-en-france-que-sur-99-de-la-planete-pourquoi-la-vague-de-chaleur-qui-frappe-le-pays-est-historique/</link>
+      <description>[Le Grand Continent] Après avoir connu la nuit la plus chaude depuis 1947, du 22 au 23 juin, la France a connu la journée la plus chaude de son histoire récente. L’article Il fait plus chaud en France que sur 99&amp;#160;% de la planète&amp;#160;: pourquoi la vague de chaleur qui frappe le pays est historique est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">4edde33f564f7fb76a74797364a9bba492e785dd</guid>
+      <pubDate>Tue, 23 Jun 2026 15:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Comment Marc Bloch a révolutionné le métier d’historien</title>
       <link>https://theconversation.com/comment-marc-bloch-a-revolutionne-le-metier-dhistorien-285757</link>
@@ -1526,54 +1606,6 @@
       <category>APHG</category>
       <guid isPermaLink="false">0c11e579901819bd19ee034035789982a5aec2db</guid>
       <pubDate>Mon, 09 Mar 2026 12:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coup de pouce Agrégation interne – Sandrine Vaucelle – Aménagement et/ou protection : les zones humides urbaines en contexte de changements climatiques (une approche à différentes échelles)</title>
-      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-sandrine-vaucelle-amenagement-et-ou-protection-les-zones-humides-urbaines-en-contexte-de-changements-climatiques-une-approche-a-differentes-echelles/</link>
-      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2025-2026 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance de Sandrine Vaucelle consacrée au thème « Aménagement et/ou protection : les zones humides urbaines en contexte de changements climatiques [&amp;#8230;] L’article Coup de pouce Agrégation interne &amp;#8211; Sandrine Vaucelle &amp;#8211; Aménagement et/ou protection : le</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">bf090f349642951f7c241270715d4384f82c95f3</guid>
-      <pubDate>Mon, 09 Mar 2026 12:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coup de pouce Agrégation interne – Jean-François Dunyach – Matérialités révolutionnaires : objets, vecteurs et agents de la circulation des idées et des « modèles » politiques (1770-1804)</title>
-      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-jean-francois-dunyach-materialites-revolutionnaires-objets-vecteurs-et-agents-de-la-circulation-des-idees-et-des-modeles-politiques-1770-1804/</link>
-      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2025-2026 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance de Jean-François Dunyach autour du thème « Matérialités révolutionnaires : objets, vecteurs et agents de la circulation des idées et [&amp;#8230;] L’article Coup de pouce Agrégation interne &amp;#8211; Jean-François Dunyach &amp;#8211; Matérialités révolutionnaires : obj</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">77887bc556de2dbb63b2dbfba6021a475030664b</guid>
-      <pubDate>Mon, 09 Mar 2026 12:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pour une approche critique de l’I.A en cours d’histoire-géographie – EMC</title>
-      <link>https://www.aphg.fr/pour-une-approche-critique-de-li-a-en-cours-dhistoire-geographie-emc/</link>
-      <description>[APHG] Les membres de l’Association des professeurs d’histoire et de géographie, vigilants quant aux détournements des nouvelles technologies au service de projets autoritaires, conscients des risques portés par l’intelligence artificielle pour le travail des élèves, l’apprentissage de l’indépendance d’esprit et pour l’enseignement de l’histoire, de la géographie et de l’enseignement moral et civique, adoptent les cinq [&amp;#8230;] L’article Pour une approche critique de l’I.A en cours d’histoire-géograph</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">4f493befc4f2d6d4bf08cb331c94022bc8a0271b</guid>
-      <pubDate>Mon, 09 Mar 2026 12:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Calendrier 2025-2026 des réunions institutionnelles de l’APHG</title>
-      <link>https://www.aphg.fr/calendrier-2025-2026-des-reunions-institutionnelles-de-laphg-2/</link>
-      <description>[APHG] Samedi 20 Septembre 2025 : Bureau National (10h-12h en présentiel)Conseil de Gestion (14h-16h30 en présentiel) Samedi 27 septembre 2025 : Demi-journée d’étude en Sorbonne « Marc Bloch : vie, combats, héritages » Du vendredi 3 au Dimanche 5 Octobre 2025 : FIG à Saint-Dié-des-Vosges Du Mercredi 8 octobre au Dimanche 12 Octobre 2025 : RDVH à Blois Samedi 18 octobre 2025 : Journée d’étude organisée pour les agrégatives [&amp;#8230;] L’article Calendrier 2025-2026 des réunions institutionnelles de l’APHG</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">bd598b33afc1f49cb461154da52e8e31479484f5</guid>
-      <pubDate>Mon, 09 Mar 2026 12:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pour une préparation sereine du DNB – Motion de l’atelier collège de l’APHG</title>
-      <link>https://www.aphg.fr/pour-une-preparation-sereine-du-dnb-motion-de-latelier-college-de-laphg/</link>
-      <description>[APHG] La note de service du 2 septembre 2025, parue au BOEN n°33 du 4 septembre de la même année, a établi les nouvelles modalités du diplôme national du brevet (DNB) à compter de la session 2026. Celles-ci introduisent quant à l’épreuve d’Histoire-Géographie et d’Enseignement Moral et Civique un certain nombre de changements : notes séparées pour [&amp;#8230;] L’article Pour une préparation sereine du DNB &amp;#8211; Motion de l’atelier collège de l’APHG est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">bc670ef12b4efbd4f0a616c523d66b626364ed99</guid>
-      <pubDate>Mon, 09 Mar 2026 12:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Calendrier 2025-2026 des réunions institutionnelles de l’APHG</title>
-      <link>https://www.aphg.fr/calendrier-2025-2026-des-reunions-institutionnelles-de-laphg/</link>
-      <description>[APHG] Samedi 20 Septembre 2025 : Bureau National (10h-12h en présentiel)Conseil de Gestion (14h-16h30 en présentiel) Samedi 27 septembre 2025 : Demi-journée d’étude en Sorbonne « Marc Bloch : vie, combats, héritages » Du vendredi 3 au Dimanche 5 Octobre 2025 : FIG à Saint-Dié-des-Vosges Du Mercredi 8 octobre au Dimanche 12 Octobre 2025 : RDVH à Blois Samedi 18 octobre 2025 : Journée d’étude organisée pour les agrégatives [&amp;#8230;] L’article Calendrier 2025-2026 des réunions institutionnelles de l’APHG</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">7c1d816ce6ebcdd017565f2bac87fb720ab98982</guid>
-      <pubDate>Mon, 09 Mar 2026 12:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
