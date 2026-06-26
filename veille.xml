@@ -6,7 +6,71 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 7 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 25 Jun 2026 11:38:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 11:43:00 +0000</lastBuildDate>
+    <item>
+      <title>Céline Dion, la superstar qui rapproche le Québec et la France</title>
+      <link>https://theconversation.com/celine-dion-la-superstar-qui-rapproche-le-quebec-et-la-france-285777</link>
+      <description>[The Conversation FR - Histoire] Plus qu’une chanteuse, Céline Dion est devenue en trente&amp;nbsp;ans la figure emblématique des relations culturelles entre la France et le Québec.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">d6ca653b867b887712428a4c68f83db92c1f89db</guid>
+      <pubDate>Thu, 25 Jun 2026 13:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quand l’IA s’invite dans nos relations, la véritable intimité tend à disparaître</title>
+      <link>https://theconversation.com/quand-lia-sinvite-dans-nos-relations-la-veritable-intimite-tend-a-disparaitre-285287</link>
+      <description>[The Conversation FR - Éducation] La banalisation de l’IA sape la curiosité de soi et l’envie de prendre des risques, nécessaires à la construction d’une véritable intimité et de relations qui ont du sens.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">388ed2574de9920dd894aa4e06792a7bc7c58730</guid>
+      <pubDate>Thu, 25 Jun 2026 13:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>De Southampton à Belfast : comment Nigel Farage fait entrer les thèmes de l’extrême droite dans le débat public britannique</title>
+      <link>https://theconversation.com/de-southampton-a-belfast-comment-nigel-farage-fait-entrer-les-themes-de-lextreme-droite-dans-le-debat-public-britannique-285823</link>
+      <description>[The Conversation FR - International] Nigel Farage, à la tête du parti donné favori pour remporter les prochaines législatives au Royaume-Uni, banalise volontairement des slogans jusqu’ici cantonnés aux groupuscules d’extrême droite.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">3378158cfeb3ebcf07eabef0dd3b145e1096b06c</guid>
+      <pubDate>Thu, 25 Jun 2026 13:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Norvège peut-elle mettre en difficulté la France pour la suite de la compétition ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/26/la-norvege-peut-elle-mettre-en-difficulte-la-france-pour-la-suite-de-la-competition/</link>
+      <description>[Le Grand Continent] La victoire de ce soir est clef, car elle déterminera le parcours de chaque équipe en phase éliminatoire. L’article La Norvège peut-elle mettre en difficulté la France pour la suite de la compétition&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">ffb8e1ca75f1fc7625674a2dea3a5d57742a6be3</guid>
+      <pubDate>Fri, 26 Jun 2026 10:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’IA est l’une des technologies qui suscite le plus d’hostilité depuis l’essor d’Internet</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/26/lia-est-lune-des-technologies-qui-suscite-le-plus-dhostilite-depuis-lessor-dinternet/</link>
+      <description>[Le Grand Continent] Aux États-Unis, seulement 16&amp;#160;% de la population considère que l’intelligence artificielle va avoir un impact positif sur la société. L’article L&amp;rsquo;IA est l’une des technologies qui suscite le plus d’hostilité depuis l&amp;rsquo;essor d&amp;rsquo;Internet est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">87056366dbc2db8065da5f913ca73963e9f39cca</guid>
+      <pubDate>Fri, 26 Jun 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qui est le général Donahue, purgé par le secrétaire à la Défense de Trump ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/25/qui-est-le-general-donahue-purge-par-le-secretaire-a-la-defense-de-trump/</link>
+      <description>[Le Grand Continent] Donahue est la dernière cible de la purge menée par Pete Hegseth parmi les hauts gradés de l’armée. L’article Qui est le général Donahue, purgé par le secrétaire à la Défense de Trump&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">ad2d830fea306298c5af29b2419620c442d60a9c</guid>
+      <pubDate>Thu, 25 Jun 2026 16:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi les Chinois ne dépensent pas ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/25/pourquoi-les-chinois-ne-depensent-pas/</link>
+      <description>[Le Grand Continent] Une enquête à hauteur de citoyen, signée par l’un des meilleurs sociologues spécialistes de la Chine. L’article Pourquoi les Chinois ne dépensent pas&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b1761bec86cae446034849f5e786b0258b83143a</guid>
+      <pubDate>Thu, 25 Jun 2026 14:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Il a fait plus chaud en France que dans presque un tiers du désert du Sahara (carte inédite)</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/25/mercredi-il-faisait-plus-chaud-en-france-que-dans-presque-un-tiers-du-desert-du-sahara/</link>
+      <description>[Le Grand Continent] Avec une température moyenne de 30°C, la France a connu mercredi des températures supérieures à celles relevées dans 30,8&amp;#160;% du Sahara. L’article Il a fait plus chaud en France que dans presque un tiers du désert du Sahara (carte inédite) est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">67406af796c573305a0ed121f8f832134b0c8fe3</guid>
+      <pubDate>Thu, 25 Jun 2026 13:04:00 +0000</pubDate>
+    </item>
     <item>
       <title>Le boycott académique contre Israël est minoritaire et traduit l’émergence de nouvelles normes académiques</title>
       <link>https://theconversation.com/le-boycott-academique-contre-israel-est-minoritaire-et-traduit-lemergence-de-nouvelles-normes-academiques-284203</link>
@@ -1542,70 +1606,6 @@
       <category>APHG</category>
       <guid isPermaLink="false">0f1fbd403152ecb48ae0e8ba2695b81b7617a28e</guid>
       <pubDate>Tue, 24 Mar 2026 13:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Michelle Perrot : « Chacun ici a son chemin des livres, qui est une manière de reparcourir sa vie. »</title>
-      <link>https://www.aphg.fr/michelle-perrot-chacun-ici-a-son-chemin-des-livres-qui-est-une-maniere-de-reparcourir-sa-vie/</link>
-      <description>[APHG] Michelle Perrot souligne tout d’abord que, pour sa génération, les livres tenaient une place centrale, mais que cette place n’est sans doute pas éternelle, et qu’il y a d’autres manières de lire que de lire des livres. Les premiers livres qu’elle a fréquentés sont ceux de la bibliothèque de ses grands-parents, une bibliothèque qui reproduisait [&amp;#8230;] L’article Michelle Perrot : « Chacun ici a son chemin des livres, qui est une manière de reparcourir sa vie. » est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">6f7e7ccfeefdf8f8421389533d213209c5aca5fb</guid>
-      <pubDate>Sat, 21 Mar 2026 08:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arnaud-Dominique Houte – Hubertine Auclert: une féministe en République</title>
-      <link>https://www.aphg.fr/arnaud-dominique-houte-hubertine-auclert-une-feministe-en-republique/</link>
-      <description>[APHG] Ce café &amp;#8211; modèle hybride entre la visioconférence en public et l&amp;#8217;entretien &amp;#8211; est à retrouver en accès réservé aux adhérents et en version audio pour protéger le droit à l&amp;#8217;image des participants. &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1177959937?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243; frameborder= »0&amp;#8243;</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">f47310a72fef5d37bd00766c6ed5022e070e08d5</guid>
-      <pubDate>Fri, 20 Mar 2026 13:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anna Colin Lebedev – Ukraine: la force des faibles</title>
-      <link>https://www.aphg.fr/nna-colin-lebedev-ukraine-la-force-des-faibles/</link>
-      <description>[APHG] Ce café &amp;#8211; modèle hybride entre la visioconférence en public et l&amp;#8217;entretien &amp;#8211; est à retrouver en accès réservé aux adhérents et en version audio pour protéger le droit à l&amp;#8217;image des participants. &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1177959881?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243; frameborder= »0&amp;#8243;</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">42414c3ce784b0c95b34624c70ea92035f569cb7</guid>
-      <pubDate>Thu, 19 Mar 2026 13:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Opération Coup de pouce pour le Capes interne – La préparation de l’oral – 2</title>
-      <link>https://www.aphg.fr/operation-coup-de-pouce-pour-le-capes-interne-la-preparation-de-loral-2/</link>
-      <description>[APHG] Vous retrouverez sur cette page le podcast de la session ainsi que des supports proposés par l’équipe Coup de pouce Capes Interne. Pour vous inscrire au dispositif, une seule adresse : c2pcapesinterne.aphg@gmail.com &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1173558497?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243; frameborder= »0&amp;#8243; all</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">e429f1ee88a43e2d8711ad29d24d107db5a4fb82</guid>
-      <pubDate>Sat, 14 Mar 2026 12:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’histoire par les textes</title>
-      <link>https://www.aphg.fr/lhistoire-par-les-textes/</link>
-      <description>[APHG] Antiquité Moyen Âge Période moderne Période contemporaine Thèmes transversaux Historiographie Liens utiles N.B. Les documents portant sur les séquences intermédiaires entre plusieurs ères (antiquité tardive, transition Moyen Âge / première modernité, période révolutionnaire) peuvent se trouver dans les deux pages concernées. Principes du projet et avertissements Pour valoriser et partager ces efforts conséquents, cette page [&amp;#8230;] L’article L’histoire par les textes est apparu en premier sur</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">42e01ae15cc7e79391a3112c5380eec72b4f3e47</guid>
-      <pubDate>Tue, 10 Mar 2026 23:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coup de pouce Agrégation interne – La France et l’unité italienne</title>
-      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-arthur-herisson-la-france-et-lunite-italienne/</link>
-      <description>[APHG] Vous pouvez retrouver sur cette page une séance de préparation aux épreuves orales avec une mise au point scientifique et didactique proposée par Arthur Hérisson autour du thème « La France et l’unité italienne ». Le podcast est proposé en version audio hybride avec diaporama intégré. Pour vous inscrire au dispositif, une seule adresse : coupdepouceaphg@gmail.com L’article Coup de pouce Agrégation interne &amp;#8211; La France et l’unité italienne est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">ceaa22af8e9a3eb3aff1ef7f4f15a28d5fec20e6</guid>
-      <pubDate>Tue, 10 Mar 2026 15:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Voix aux chapitres – Les rois thaumaturges</title>
-      <link>https://www.aphg.fr/voix-aux-chapitres-les-rois-thaumaturges/</link>
-      <description>[APHG] Voix aux chapitres : autour de Marc Bloch et de son ouvrage Les rois thaumaturges. Informations et vidéos : www.ehess.fr/voix-aux-chapitres Contact : jerome.malois@ehess.fr L’article Voix aux chapitres &amp;#8211; Les rois thaumaturges est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">d51f42f2117b9a0021e7fad57bc7f8f463376afa</guid>
-      <pubDate>Mon, 09 Mar 2026 15:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Journée d’étude : Michelle Perrot, Le chemin des livres</title>
-      <link>https://www.aphg.fr/journee-detude-michelle-perrot-le-chemin-des-livres/</link>
-      <description>[APHG] Journée d’étude : Michelle Perrot, Le chemin des livres Jeudi 19 mars 2026 : 9h30 – 17hArchives nationales, Site de Pierrefitte-sur-Seine Les Archives nationales et l’Université Paris 8 organisent une journée d’étude consacrée à Michelle Perrot, figure majeure de l’histoire des femmes et du genre en France. À l’occasion de l’entrée de ses archives (cote 757 AP) aux [&amp;#8230;] L’article Journée d’étude : Michelle Perrot, Le chemin des livres est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">efcd29acd821e8a7d2edae60bfe7fb0e89e2082c</guid>
-      <pubDate>Mon, 09 Mar 2026 15:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
