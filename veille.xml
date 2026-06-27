@@ -6,7 +6,63 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 7 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 26 Jun 2026 11:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 10:56:00 +0000</lastBuildDate>
+    <item>
+      <title>Quand les religieuses prêtaient de l’argent : l’influence méconnue des couvents sur l’économie viennoise</title>
+      <link>https://theconversation.com/quand-les-religieuses-pretaient-de-largent-linfluence-meconnue-des-couvents-sur-leconomie-viennoise-285715</link>
+      <description>[The Conversation FR - Histoire] Bien avant l’apparition des banques modernes, la Vienne médiévale reposait sur un vaste marché du crédit. Et parmi ses acteurs les plus fiables figuraient des communautés de religieuses, devenues des prêteuses incontournables.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">0fb250dab4f855bef6ce9cba99ed5aecaf8c396a</guid>
+      <pubDate>Fri, 26 Jun 2026 12:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un portrait de Pocahontas daté de 1616 révèle le regard des colons anglais sur les peuples autochtones américains</title>
+      <link>https://theconversation.com/un-portrait-de-pocahontas-date-de-1616-revele-le-regard-des-colons-anglais-sur-les-peuples-autochtones-americains-284216</link>
+      <description>[The Conversation FR - Histoire] Bien loin de l'image popularisée par Disney, l'unique portrait réalisé du vivant de Pocahontas éclaire la manière dont les Anglais voyaient les peuples autochtones et justifiaient leur projet colonial.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">ecbdc358d6013fd76d7c40128e358b12317387cb</guid>
+      <pubDate>Fri, 26 Jun 2026 12:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le populisme IA est en train d’arriver. Nous ne sommes pas prêts</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/27/le-populisme-ia-est-en-train-darriver-nous-ne-sommes-pas-prets/</link>
+      <description>[Le Grand Continent] L'anthropologie sauvage d’une des nouvelles voix les plus influentes de la Silicon Valley. L’article Le populisme IA est en train d’arriver. Nous ne sommes pas prêts est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">84315921663894ebe76c358920efbba2c0a7a133</guid>
+      <pubDate>Sat, 27 Jun 2026 06:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Russie, l’intérêt pour l’achat de systèmes anti-drones sur Internet est au plus haut depuis 2023</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/27/en-russie-linteret-pour-lachat-de-systemes-anti-drones-sur-internet-est-au-plus-haut-depuis-2023/</link>
+      <description>[Le Grand Continent] Sur Yandex, les recherches concernant l’achat de systèmes anti-drones ont dépassé les 8 000 par semaine à la mi-juin, soit une hausse de 35&amp;#160;% par rapport à la fin du mois de mai. L’article En Russie, l’intérêt pour l’achat de systèmes anti-drones sur Internet est au plus haut depuis 2023 est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">29fa7d4732d89d1d10a02645cb571d84c437d069</guid>
+      <pubDate>Sat, 27 Jun 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Une voiture électrique sur dix vendue en Europe est désormais chinoise</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/26/une-voiture-electrique-sur-dix-vendue-en-europe-est-desormais-chinoise/</link>
+      <description>[Le Grand Continent] Près d’un quart des voitures hybrides et 11&amp;#160;% des voitures électriques vendues le mois dernier en Europe étaient de marque chinoise, soit presque deux fois plus qu’il y a un an. L’article Une voiture électrique sur dix vendue en Europe est désormais chinoise est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">409ceb21b1f05bc795d9286d301b10f4a3795075</guid>
+      <pubDate>Fri, 26 Jun 2026 16:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ce que l’État le plus numérique du continent a compris de l’IA</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/26/ce-que-lestonie-a-compris-de-lia/</link>
+      <description>[Le Grand Continent] Une conversation fleuve avec la ministre de l’Éducation de l’Estonie. L’article Ce que l’État le plus numérique du continent a compris de l’IA est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2cef4c63a75ffc5f560568116ec65d039dc5e5be</guid>
+      <pubDate>Fri, 26 Jun 2026 12:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comment le réchauffement climatique a rendu possible la vague de chaleur qui frappe l’Europe</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/26/comment-le-rechauffement-climatique-rend-possible-la-vague-de-chaleur-qui-frappe-leurope/</link>
+      <description>[Le Grand Continent] Selon une étude, la vague de chaleur que traverse l’Europe occidentale serait impossible sans le réchauffement climatique causé par les émissions de gaz à effet de serre. L’article Comment le réchauffement climatique a rendu possible la vague de chaleur qui frappe l’Europe est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">65c1f859629c984f4341264e00a86b36e2f4164c</guid>
+      <pubDate>Fri, 26 Jun 2026 12:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>Céline Dion, la superstar qui rapproche le Québec et la France</title>
       <link>https://theconversation.com/celine-dion-la-superstar-qui-rapproche-le-quebec-et-la-france-285777</link>
@@ -1550,62 +1606,6 @@
       <category>APHG</category>
       <guid isPermaLink="false">3fc59e897bf1817b926cf132eba8427d70f37fa4</guid>
       <pubDate>Tue, 14 Apr 2026 11:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Panthéonisation de Marc Bloch – Toutes les ressources pédagogiques</title>
-      <link>https://www.aphg.fr/pantheonisation-de-marc-bloch-toutes-les-ressources/</link>
-      <description>[APHG] Marc Bloch, un historien pour aujourd’hui Emmanuel Macron a annoncé la décision de faire entrer au Panthéon le [23] juin 2026 Marc Bloch, grand historien et résistant, assassiné en 1944. De Marc Bloch (1886-1944), la parole présidentielle et médiatique retient, et c’est justice, le républicain, le héros des deux guerres mondiales, le résistant et martyr, [&amp;#8230;] L’article Panthéonisation de Marc Bloch &amp;#8211; Toutes les ressources pédagogiques est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">4d3ea71abaaaf6ff3e100c4015cb507e039c2345</guid>
-      <pubDate>Sat, 11 Apr 2026 18:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>François Godicheau, Pierre Salmon et Mercedes Yusta Rodrigo – La guerre d’Espagne</title>
-      <link>https://www.aphg.fr/francois-godicheau-pierre-salmon-et-mercedes-yusta-rodrigo-la-guerre-despagne/</link>
-      <description>[APHG] Ce café &amp;#8211; modèle hybride entre la visioconférence en public et l&amp;#8217;entretien &amp;#8211; est à retrouver en accès réservé aux adhérents et en version audio pour protéger le droit à l&amp;#8217;image des participants. &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1182329815?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243; frameborder= »0&amp;#8243;</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">24e392efa7340af062fcd16ab66504ac03f1dbdb</guid>
-      <pubDate>Sat, 11 Apr 2026 06:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Opération Coup de pouce pour le Capes interne – La préparation de l’oral – 3</title>
-      <link>https://www.aphg.fr/operation-coup-de-pouce-pour-le-capes-interne-la-preparation-de-loral-3/</link>
-      <description>[APHG] Vous retrouverez sur cette page le podcast de la session ainsi que des supports proposés par l’équipe Coup de pouce Capes Interne. Pour vous inscrire au dispositif, une seule adresse : c2pcapesinterne.aphg@gmail.com L&amp;#8217;équipe Coup de pouce Capes interne vous propose également les sujets qui ont été traités pendant la visio : &amp;#160; Enseigner-Bourgeoisies-marchandes-negoces-internationaux-traites-negrieres-et-esclavage-au-XVIIIe-siecle-4e &amp;#160; Enseigner-les-villes-a-lechelle-mondiale-Premi</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">0175431f5215c0a8b0a9ffc085125eaa3630e6e0</guid>
-      <pubDate>Thu, 09 Apr 2026 17:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les questions socialement vives en histoire-géographie-EMC : une journée de réflexions le 11 avril 2026</title>
-      <link>https://www.aphg.fr/les-questions-socialement-vives-en-histoire-geographie-emc-une-journee-de-reflexions-le-11-avril-2026/</link>
-      <description>[APHG] La tâche est d&amp;#8217;autant plus complexe que ces questions sont désormais traversées par des phénomènes de désinformation, de manipulation de l&amp;#8217;information et de récits alternatifs qui s&amp;#8217;imposent dans l&amp;#8217;espace public et jusque dans nos classes. Face à des élèves exposés à des discours concurrents, parfois complotistes ou révisionnistes, les enseignants doivent plus que jamais s&amp;#8217;appuyer [&amp;#8230;] L’article Les questions socialement vives en histoire-géographie-EMC : une j</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">367b54087d2a1101b610452a2b8755ed8fd4bfbc</guid>
-      <pubDate>Fri, 27 Mar 2026 16:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Laurent Lopez et Jean-Noël Luc – Gendarmerie mobile et maintien de l’ordre. XIXe-XXIe siècle</title>
-      <link>https://www.aphg.fr/laurent-lopez-et-jean-noel-luc-gendarmerie-mobile-et-maintien-de-lordre-xixe-xxie-siecle/</link>
-      <description>[APHG] Ce café &amp;#8211; modèle hybride entre la visioconférence en public et l&amp;#8217;entretien &amp;#8211; est à retrouver en accès réservé aux adhérents et en version audio pour protéger le droit à l&amp;#8217;image des participants. &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1177960131?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243; frameborder= »0&amp;#8243;</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">8f87698c3128291fa70686f8929d6a77f9799ec9</guid>
-      <pubDate>Fri, 27 Mar 2026 13:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aline Cateux – Mostar, ceci n’est pas une ville</title>
-      <link>https://www.aphg.fr/aline-cateux-mostar-ceci-nest-pas-une-ville/</link>
-      <description>[APHG] Ce café &amp;#8211; modèle hybride entre la visioconférence en public et l&amp;#8217;entretien &amp;#8211; est à retrouver en accès réservé aux adhérents et en version audio pour protéger le droit à l&amp;#8217;image des participants. &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1177960064?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243; frameborder= »0&amp;#8243;</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">ad131cd2eaef2a5ff86f1f4446dc6acac185bfe7</guid>
-      <pubDate>Thu, 26 Mar 2026 13:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jean Vigreux – Découvrir le Front Populaire</title>
-      <link>https://www.aphg.fr/jean-vigreux-decouvrir-le-front-populaire/</link>
-      <description>[APHG] Ce café &amp;#8211; modèle hybride entre la visioconférence en public et l&amp;#8217;entretien &amp;#8211; est à retrouver en accès réservé aux adhérents et en version audio avec diaporama intégré pour protéger le droit à l&amp;#8217;image des participants. &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1177959991?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243;</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">0f1fbd403152ecb48ae0e8ba2695b81b7617a28e</guid>
-      <pubDate>Tue, 24 Mar 2026 13:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
