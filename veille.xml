@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 7 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 29 Jun 2026 13:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 11:43:00 +0000</lastBuildDate>
+    <item>
+      <title>Petits-enfants d’immigrés : du diplôme à l’emploi, le modèle républicain tient-il ses promesses ?</title>
+      <link>https://theconversation.com/petits-enfants-dimmigres-du-diplome-a-lemploi-le-modele-republicain-tient-il-ses-promesses-284677</link>
+      <description>[The Conversation FR - Éducation] Si, dans les familles immigrées, l’ascension scolaire est réelle, la génération des petits-enfants se heurte sur le terrain de l’emploi à des inégalités persistantes.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">76daf8654f2435fa3b729c8b1a758624c15e69b1</guid>
+      <pubDate>Mon, 29 Jun 2026 13:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sahel : pourquoi les massacres de civils par les forces officielles sont en recul</title>
+      <link>https://theconversation.com/sahel-pourquoi-les-massacres-de-civils-par-les-forces-officielles-sont-en-recul-285449</link>
+      <description>[The Conversation FR - International] Au Sahel, les exactions des armées et des milices nourrissent les rébellions djihadistes. La baisse apparente de ces massacres doit être appréhendée avec une grande circonspection.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">6a262bfc996a4db17a897206f2c66c5ab5990e0f</guid>
+      <pubDate>Mon, 29 Jun 2026 14:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le mensonge qui unit Lula et Bolsonaro</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/30/le-mensonge-qui-unit-lula-et-bolsonaro/</link>
+      <description>[Le Grand Continent] L’extrême droite bolsonariste et le Parti des travailleurs tentent de dissimuler une réalité géoéconomique de plus en plus contraignante&amp;#160;: l'étreinte avec la Chine de Xi Jinping. L’article Le mensonge qui unit Lula et Bolsonaro est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">f3f1dbfb3b7d40bd0d9b4427a62da4922047bd6f</guid>
+      <pubDate>Tue, 30 Jun 2026 05:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les manifestations anti-migrants en Afrique du Sud pourraient provoquer le pire épisode de violences depuis 2021</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/30/les-manifestations-anti-migrants-en-afrique-du-sud-pourraient-provoquer-le-pire-episode-de-violences-depuis-2021/</link>
+      <description>[Le Grand Continent] Des manifestants anti-immigration ont fixé un ultimatum&amp;#160;: tous les migrants en situation irrégulière doivent quitter le pays d'ici 30 juin. L’article Les manifestations anti-migrants en Afrique du Sud pourraient provoquer le pire épisode de violences depuis 2021 est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">e54ed8ef188c9c3605fc67dee20c97a9ec206444</guid>
+      <pubDate>Tue, 30 Jun 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pax Silica : l’Europe s’aligne-t-elle sur Washington dans la guerre technologique avec Pékin ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/29/pax-silica-leurope-saligne-t-elle-sur-washington-dans-la-guerre-technologique-avec-pekin/</link>
+      <description>[Le Grand Continent] L’initiative américaine compte désormais 24 pays, dont cinq États membres de l’Union ainsi que la Commission européenne. L’article Pax Silica&amp;#160;: l&amp;rsquo;Europe s&amp;rsquo;aligne-t-elle sur Washington dans la guerre technologique avec Pékin&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">908b47addfa8e2361b6c25646ead38a290670370</guid>
+      <pubDate>Mon, 29 Jun 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Europe marche comme un somnambule vers le nouveau choc chinois</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/29/leurope-marche-comme-un-somnambule-vers-le-nouveau-choc-chinois/</link>
+      <description>[Le Grand Continent] Les conséquences de la stratégie du parti sur le modèle industriel européen sont tout simplement trop massives pour continuer à faire semblant. L’article L’Europe marche comme un somnambule vers le nouveau choc chinois est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">519f7e030468abdf6aeaab3eadf18e0da265eb40</guid>
+      <pubDate>Mon, 29 Jun 2026 13:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Le Japon et le Maroc sont deux équipes à ne pas sous-estimer</title>
       <link>https://legrandcontinent.eu/fr/2026/06/29/le-japon-et-le-maroc-sont-deux-equipes-a-ne-pas-sous-estimer/</link>
@@ -1558,54 +1606,6 @@
       <category>IFRI - Publications</category>
       <guid isPermaLink="false">518b7edbd461a48dc7426a4dd2d0b7d1f1186259</guid>
       <pubDate>Mon, 21 Feb 2022 14:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les enjeux du 6e Sommet Union africaine - Union européenne avec Maud Arnould (Vidéo)</title>
-      <link>https://www.ifri.org/fr/video/les-enjeux-du-6e-sommet-union-africaine-union-europeenne-avec-maud-arnould-video</link>
-      <description>[IFRI - Publications] Les enjeux du 6e Sommet Union africaine - Union européenne avec Maud Arnould (Vidéo) afrique@ifri.org mer 16/02/2022 - 11:40 16/02/2022 Type d'interventions médiatiques Vidéo Accroche Interview de Maud Arnould, Conseillère Afrique du Haut Représentant de l'Union Européenne pour les affaires étrangères. Référence contenu Centres et Programmes Centre Afrique subsaharienne Contenu intervention médiatique &quot;L'enjeu, c'est vraiment d'essayer de faire de l'Europe le partenaire de choix des pays africai</description>
-      <category>IFRI - Publications</category>
-      <guid isPermaLink="false">cf19a35ba669569781b6d7c3fc8235be844f8c98</guid>
-      <pubDate>Wed, 16 Feb 2022 10:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ludovic Lestrelin – Les territoires du supporterisme</title>
-      <link>https://www.aphg.fr/ludovic-lestrelin-les-territoires-du-supporterisme/</link>
-      <description>[APHG] Ce café &amp;#8211; modèle hybride entre la visioconférence en public et l&amp;#8217;entretien &amp;#8211; est à retrouver en accès réservé aux adhérents et en version audio pour protéger le droit à l&amp;#8217;image des participants. &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1201920272?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243; frameborder= »0&amp;#8243;</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">7c12ed68f84706101dccf1f3f6afa17ad5d8f2c4</guid>
-      <pubDate>Tue, 16 Jun 2026 20:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Justine Audebrand – La vie des femmes au Moyen Âge</title>
-      <link>https://www.aphg.fr/justine-audebrand-la-vie-des-femmes-au-moyen-age/</link>
-      <description>[APHG] Ce café &amp;#8211; modèle hybride entre la visioconférence en public et l&amp;#8217;entretien &amp;#8211; est à retrouver en accès réservé aux adhérents et en version audio pour protéger le droit à l&amp;#8217;image des participants. &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1201920273?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243; frameborder= »0&amp;#8243;</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">930036f7e89b836b24ebad3d05784e72149f659c</guid>
-      <pubDate>Fri, 12 Jun 2026 20:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dimitri Chavaroche – Corps-à-corps. Le combat rapproché pendant la Première Guerre mondiale</title>
-      <link>https://www.aphg.fr/dimitri-chavaroche-corps-a-corps-pgm/</link>
-      <description>[APHG] Ce café &amp;#8211; modèle hybride entre la visioconférence en public et l&amp;#8217;entretien &amp;#8211; est à retrouver en accès réservé aux adhérents et en version audio pour protéger le droit à l&amp;#8217;image des participants. &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1201920592?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243; frameborder= »0&amp;#8243;</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">5c4baf87258d9aec3b9732d3aaef172d7c96ed90</guid>
-      <pubDate>Thu, 11 Jun 2026 20:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les Agoras de l’APHG 2026 — Montpellier</title>
-      <link>https://www.aphg.fr/les-agoras-de-laphg-2026-montpellier/</link>
-      <description>[APHG] L&amp;#8217;APHG vous donne rendez-vous à Montpellier pour quatre journées alliant réflexion scientifique, découverte du terrain et moments de convivialité. Au programme : une conférence inaugurale de Christian Amalvi, des excursions au choix (Pont du Gard, Aigues-Mortes, Tautavel, Sète…), des conférences en histoire et géographie, des visites thématiques de Montpellier aux choix, et une conférence de [&amp;#8230;] L’article Les Agoras de l&amp;rsquo;APHG 2026 — Montpellier est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">1dc93b6a7199cece5a1d1879896dfbaf491c10a0</guid>
-      <pubDate>Thu, 11 Jun 2026 17:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frédéric Sallée – Les enfants du pays, histoire intime d’une rafle</title>
-      <link>https://www.aphg.fr/frederic-sallee-les-enfants-du-pays/</link>
-      <description>[APHG] Ce café &amp;#8211; modèle hybride entre la visioconférence en public et l&amp;#8217;entretien &amp;#8211; est à retrouver en accès réservé aux adhérents et en version audio pour protéger le droit à l&amp;#8217;image des participants. &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1200227374?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243; frameborder= »0&amp;#8243;</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">be78ebb159caa64a76921ddba641e12f33cb8a1c</guid>
-      <pubDate>Wed, 10 Jun 2026 20:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
