@@ -4,9 +4,113 @@
     <title>Veille — Histoire, Géographie, Éducation</title>
     <link>https://loicschreiber.github.io/veille</link>
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
-    <description>Flux agrégé de 7 sources de veille.</description>
+    <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 30 Jun 2026 11:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 11:58:00 +0000</lastBuildDate>
+    <item>
+      <title>Le 4-Juillet : une date inventée, un mythe construit, un récit disputé</title>
+      <link>https://theconversation.com/le-4-juillet-une-date-inventee-un-mythe-construit-un-recit-dispute-286386</link>
+      <description>[The Conversation FR - Histoire] Le 4-Juillet est le grand rite de la religion civile états-unienne. Et comme bien des rites, il est soumis, selon les périodes, à bien des interprétations différentes…</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">7f01a9e5712fc2b9222ea0c6defa17e26de93748</guid>
+      <pubDate>Wed, 01 Jul 2026 10:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>250 ans après, les griefs de la Déclaration d’indépendance des États-Unis restent étonnamment actuels</title>
+      <link>https://theconversation.com/250-ans-apres-les-griefs-de-la-declaration-dindependance-des-etats-unis-restent-etonnamment-actuels-286322</link>
+      <description>[The Conversation FR - Histoire] Au-delà de ses grandes formules sur la liberté et l’égalité, la Déclaration d’indépendance est un acte d’accusation contre le pouvoir britannique. Ses 27&amp;nbsp;doléances éclairent les origines concrètes de la révolution américaine.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">236457a6ef18912d30a87e280e358f68fc4670f2</guid>
+      <pubDate>Wed, 01 Jul 2026 10:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>« Juneteenth Independence Day » : le long combat des Afro-Américains pour l’accès à l’éducation après l’abolition de l’esclavage</title>
+      <link>https://theconversation.com/juneteenth-independence-day-le-long-combat-des-afro-americains-pour-lacces-a-leducation-apres-labolition-de-lesclavage-285961</link>
+      <description>[The Conversation FR - Histoire] Contraction des mots «&amp;nbsp;June&amp;nbsp;» (juin) et «&amp;nbsp;nineteenth&amp;nbsp;» (dix-neuvième), le Juneteenth, qui marque l’émancipation des esclaves, est devenu un jour férié en 2021 aux États-Unis.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">9b78cbfd965c8c76ac879af112db790f83950cc5</guid>
+      <pubDate>Wed, 01 Jul 2026 10:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Fayette a aidé les Américains à renverser le cours de la guerre d’indépendance – et à forger un sentiment d’identité nationale</title>
+      <link>https://theconversation.com/la-fayette-a-aide-les-americains-a-renverser-le-cours-de-la-guerre-dindependance-et-a-forger-un-sentiment-didentite-nationale-285953</link>
+      <description>[The Conversation FR - Histoire] Accueilli comme un héros de retour au pays, le marquis de La&amp;nbsp;Fayette effectua une grande tournée aux États-Unis en 1824-1825, juste avant le 50ᵉ&amp;nbsp;anniversaire de l’indépendance.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">59499dd82fdbe842a0ae76ffaae382c9cea0ef55</guid>
+      <pubDate>Wed, 01 Jul 2026 10:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Savoir nager est essentiel, mais ne suffit pas à prévenir les noyades</title>
+      <link>https://theconversation.com/savoir-nager-est-essentiel-mais-ne-suffit-pas-a-prevenir-les-noyades-286377</link>
+      <description>[The Conversation FR - Éducation] Le regain de baignades pendant la canicule s’est accompagné d’une hausse marquée des noyades. Comment intégrer à l’apprentissage de la natation les réflexes de prévention nécessaires à tous les âges&amp;nbsp;?</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">f975b890b2f43927541f344a7d22d0d9f8831f0e</guid>
+      <pubDate>Tue, 30 Jun 2026 14:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le Viêt Nam a franchi le cap des 100 millions d’habitants. Et demain ?</title>
+      <link>https://theconversation.com/le-viet-nam-a-franchi-le-cap-des-100-millions-dhabitants-et-demain-286280</link>
+      <description>[The Conversation FR - International] La hausse de la population devrait ralentir dans les prochaines décennies, et une baisse pourrait survenir dans la seconde moitié du siècle.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">929b8c58964ba6110d2f776096d8ad8194883f0c</guid>
+      <pubDate>Tue, 30 Jun 2026 14:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’équipe de France peut-elle être battue ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/01/lequipe-de-france-peut-elle-etre-battue/</link>
+      <description>[Le Grand Continent] La sélection française a dominé la Suède sur tous les plans livrant l’une de ses meilleures prestations depuis des années. L’article L’équipe de France peut-elle être battue&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">382ccb447e4dc6e647fbe0e4007c7fb6c7c1211c</guid>
+      <pubDate>Wed, 01 Jul 2026 11:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La stratégie de l’État connecteur est en train de faire gagner le Maroc</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/01/la-strategie-de-letat-connecteur-est-en-train-de-faire-gagner-le-maroc/</link>
+      <description>[Le Grand Continent] Dans les bouleversements de la nouvelle mondialisation, Rabat transforme sa position d’interface entre l’Europe, l’Afrique et la Chine en levier de croissance. L’article La stratégie de l&amp;rsquo;État connecteur est en train de faire gagner le Maroc est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">9a4ac857c59151a6a5b1d79bf38615f56f1abe99</guid>
+      <pubDate>Wed, 01 Jul 2026 08:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Économie russe : malgré une hausse des volumes d’exportations de pétrole, les revenus diminuent</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/01/economie-russe-malgre-une-hausse-des-volumes-dexportations-de-petrole-les-revenus-diminuent/</link>
+      <description>[Le Grand Continent] L’accord signé entre les États-Unis et l’Iran pour mettre fin à la guerre a conduit à une baisse de 62&amp;#160;% du prix du baril d’Oural. L’article Économie russe&amp;#160;: malgré une hausse des volumes d’exportations de pétrole, les revenus diminuent est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">77d888d978b794f212b1b05559bae12be28bcb09</guid>
+      <pubDate>Wed, 01 Jul 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Après la défaite de l’Allemagne, la France doit redoubler de vigilance face à la Suède</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/30/apres-la-defaite-de-lallemagne-la-france-doit-redoubler-de-vigilance-face-a-la-suede/</link>
+      <description>[Le Grand Continent] Si la France a tous les atouts pour s'imposer ce soir, mardi 30 juin, elle affrontera un adversaire imprévisible dont le parcours dans la compétition reste difficile à cerner. L’article Après la défaite de l’Allemagne, la France doit redoubler de vigilance face à la Suède est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2134dfe0e6e7f3ca78606d0903ac5080ae43bbc3</guid>
+      <pubDate>Tue, 30 Jun 2026 16:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En 2025, la hausse des émissions de CO₂ a été quatre fois plus forte aux États-Unis qu’en Chine</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/30/en-2025-la-hausse-des-emissions-de-co%e2%82%82-a-ete-quatre-fois-plus-forte-aux-etats-unis-quen-chine/</link>
+      <description>[Le Grand Continent] La production américaine d’électricité à partir de charbon a bondi de 13&amp;#160;% l’an dernier pour répondre à la hausse de la demande créée par les centres de données. L’article En 2025, la hausse des émissions de CO₂ a été quatre fois plus forte aux États-Unis qu&amp;rsquo;en Chine est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2a52159e07fecedd817ad9e80151474d3826c625</guid>
+      <pubDate>Tue, 30 Jun 2026 16:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les négociations avec les États-Unis sont en train de diviser le régime iranien</title>
+      <link>https://legrandcontinent.eu/fr/2026/06/30/les-negociations-avec-les-etats-unis-sont-en-train-de-diviser-le-regime-iranien/</link>
+      <description>[Le Grand Continent] L’Assemblée des experts a publié une déclaration rare et critique à l'égard des négociations menées avec Washington. L’article Les négociations avec les États-Unis sont en train de diviser le régime iranien est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">8cb7afc6883c748c83ac24026369f18208a7d235</guid>
+      <pubDate>Tue, 30 Jun 2026 13:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Préparer l’agrégation interne d’histoire-géographie avec l’opération Coup de pouce!</title>
+      <link>https://www.aphg.fr/preparer-l-agregation-interne-d-histoire-geographie-avec-l-operation-coup-de/</link>
+      <description>[APHG] En 2022-2023, Joëlle Alazard a initié l&amp;#8217;opération « Coup pouce Agrégation interne » de l&amp;#8217;Association des Professeurs d&amp;#8217;Histoire et de Géographie pour venir en aide aux candidats adhérents à l&amp;#8217;association. Pour faire vivre l&amp;#8217;association, les actions « coup de pouce » sont réservées aux adhérents 2026-2027 (adhésion + abonnement à la revue). Pour ce faire, il vous suffit de cliquer [&amp;#8230;] L’article Préparer l&amp;rsquo;agrégation interne d&amp;rsquo;histoire-géographie ave</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">217298f42b350a958b7017008f066954919942bf</guid>
+      <pubDate>Tue, 30 Jun 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Petits-enfants d’immigrés : du diplôme à l’emploi, le modèle républicain tient-il ses promesses ?</title>
       <link>https://theconversation.com/petits-enfants-dimmigres-du-diplome-a-lemploi-le-modele-republicain-tient-il-ses-promesses-284677</link>
@@ -1502,110 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">d7420030f3d762a3cc304c844c089ccef8e8ec03</guid>
       <pubDate>Thu, 18 Jun 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Europe après la guerre en Iran : un bilan à chaud</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/17/leurope-apres-la-guerre-en-iran/</link>
-      <description>[Le Grand Continent] Les États-Unis ont échoué. L’Union est marginalisée. Pour peser dans la nouvelle compétition régionale qui commence, il faut tirer quelques leçons. L’article L’Europe après la guerre en Iran&amp;#160;: un bilan à chaud est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">2a56e7fd77d5f80584583b6b7c636a0e040e2d2f</guid>
-      <pubDate>Wed, 17 Jun 2026 18:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump soulèvera-t-il la Coupe du monde ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/17/donald-trump-soulevera-t-il-la-coupe-du-monde/</link>
-      <description>[Le Grand Continent] Lionel Messi entre un peu plus dans l’histoire, tandis que Luka Modrić et Cristiano Ronaldo s’apprêtent peut-être à disputer leur dernier Mondial. L’article Donald Trump soulèvera-t-il la Coupe du monde&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">cc9695e508dd9cb765a1382daf5bc560a15bb7fa</guid>
-      <pubDate>Wed, 17 Jun 2026 17:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cinq jours après son introduction en bourse, la capitalisation de SpaceX a dépassé celle d’Amazon</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/17/cinq-jours-apres-son-introduction-en-bourse-la-capitalisation-de-spacex-a-depasse-celle-damazon/</link>
-      <description>[Le Grand Continent] L’entreprise spatiale fondée par Elon Musk affiche une capitalisation boursière de 2 700 milliards de dollars, devançant ainsi Amazon, alors que ses revenus sont 40 fois inférieurs. L’article Cinq jours après son introduction en bourse, la capitalisation de SpaceX a dépassé celle d’Amazon est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">8816326a827ed725de4b0de1308132306a3a33c7</guid>
-      <pubDate>Wed, 17 Jun 2026 16:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’armée ukrainienne peut-elle couper la Crimée de la Russie ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/17/larmee-ukrainienne-peut-elle-couper-la-crimee-de-la-russie/</link>
-      <description>[Le Grand Continent] L’amélioration des capacités ukrainiennes en matière de drones à moyenne distance a conduit à un effondrement du trafic de 60&amp;#160;% sur l'autoroute reliant la Russie à la Crimée. L’article L’armée ukrainienne peut-elle couper la Crimée de la Russie&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">e115bcb2c9672d15c5e7483d1732691546468342</guid>
-      <pubDate>Wed, 17 Jun 2026 13:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump, enfin rattrapé par la justice?</title>
-      <link>https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/donald-trump-enfin-rattrape-par-la-justice</link>
-      <description>[IFRI - Publications] Donald Trump, enfin rattrapé par la justice? nardon@ifri.org jeu 23/03/2023 - 10:06 22/03/2023 Type d'interventions médiatiques Presse - contenus repris sur le site Accroche L'ancien président a annoncé être bientôt inculpé, et ce pour avoir acheté le silence d'une ancienne actrice porno, Stormy Daniels, avec l'argent de sa campagne. Photo Laurence NARDON Intitulé du poste Responsable du Programme Amériques de l'Ifri Voir plus Référence contenu Centres et Programmes Programme Amériques Contenu i</description>
-      <category>IFRI - Publications</category>
-      <guid isPermaLink="false">eb5c9bd60d6b5a0a44097dc7be665506de3b91f1</guid>
-      <pubDate>Thu, 23 Mar 2023 09:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rencontre avec Tidjane Thiam : Impact du contexte macroéconomique sur les marchés émergents</title>
-      <link>https://www.ifri.org/fr/rencontre-avec-tidjane-thiam-impact-du-contexte-macroeconomique-sur-les-marches-emergents</link>
-      <description>[IFRI - Publications] Rencontre avec Tidjane Thiam : Impact du contexte macroéconomique sur les marchés émergents afrique@ifri.org ven 24/06/2022 - 12:37 Image Conférence Mercredi 6 juillet 2022 - 09:30 - Mercredi 6 juillet 2022 - 11:00 mar 05/07/2022 - 16:00 Économie Développement économique Sociétés Afrique subsaharienne Afrique subsaharienne L'Afrique dans les relations internationales Mutations sociales et économiques de l'Afrique Éditoriaux Image principale L’enjeu des dettes publiques en Afrique. Une cristallis</description>
-      <category>IFRI - Publications</category>
-      <guid isPermaLink="false">bc9f107fbbba38bf3cc95e756d7ddd670deb5e55</guid>
-      <pubDate>Fri, 24 Jun 2022 10:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Boko Haram dans la région de l’extrême-Nord du Cameroun : L’arbre qui cache la forêt</title>
-      <link>https://www.ifri.org/fr/notes/boko-haram-dans-la-region-de-lextreme-nord-du-cameroun-larbre-qui-cache-la-foret</link>
-      <description>[IFRI - Publications] Boko Haram dans la région de l’extrême-Nord du Cameroun : L’arbre qui cache la forêt afrique@ifri.org ven 03/06/2022 - 12:37 Date de publication 08/06/2022 Notes Droit d'accès legend-public Accroche La région de l’Extrême-Nord du Cameroun est secouée depuis 2013 par le conflit dû à Boko Haram dont l’origine et l’épicentre sont le nord-est du Nigeria (l’État de Borno) et qui s’étend à quatre pays (Nigeria, Cameroun, Tchad et Niger). Les interactions complexes entre le mouvement djihadiste Boko Ha</description>
-      <category>IFRI - Publications</category>
-      <guid isPermaLink="false">e794915ac95a98cbe0befad8a2f6cd2e55be6ebd</guid>
-      <pubDate>Fri, 03 Jun 2022 10:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les villes africaines peuvent-elles être un moteur de développement économique pour l’Afrique ?</title>
-      <link>https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/les-villes-africaines-peuvent-elles-etre-un-moteur-de</link>
-      <description>[IFRI - Publications] Les villes africaines peuvent-elles être un moteur de développement économique pour l’Afrique ? afrique@ifri.org mar 24/05/2022 - 17:43 15/04/2022 Type d'interventions médiatiques Presse - contenus repris sur le site Accroche Comment les villes africaines vont absorber la croissance&amp;nbsp;démographique rapide ? Comment améliorer la bonne gouvernance urbaine en Afrique ? Comment combler le financement des infrastructures urbaines ? Logo Référence contenu Centres et Programmes Centre Afrique subsah</description>
-      <category>IFRI - Publications</category>
-      <guid isPermaLink="false">a98109965c5779034f2538a4835f43d5f9bd98f0</guid>
-      <pubDate>Tue, 24 May 2022 15:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lapidation au Nigeria : «La radicalité religieuse, seule boussole» d'une partie de la population musulmane</title>
-      <link>https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/lapidation-au-nigeria-la-radicalite-religieuse-seule-boussole</link>
-      <description>[IFRI - Publications] Lapidation au Nigeria : «La radicalité religieuse, seule boussole» d'une partie de la population musulmane afrique@ifri.org jeu 19/05/2022 - 10:24 18/05/2022 Type d'interventions médiatiques Presse - contenus repris sur le site Accroche Pour&amp;nbsp; Benjamin Augé, chercheur associé à l'Ifri , le meurtre de l'étudiante chrétienne Deborah Samuel s'inscrit dans un engrenage infernal où pauvreté et insécurité favorisent l'islamisme. Pour un simple message WhatsApp où elle remet en cause la légitimité</description>
-      <category>IFRI - Publications</category>
-      <guid isPermaLink="false">9a6c98a0a64d6d876cba5ee8dde309d02e797117</guid>
-      <pubDate>Thu, 19 May 2022 08:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Etat de siège en RDC : &quot;un échec prévisible&quot; selon Thierry Vircoulon</title>
-      <link>https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/etat-de-siege-en-rdc-un-echec-previsible-selon-thierry-vircoulon</link>
-      <description>[IFRI - Publications] Etat de siège en RDC : &quot;un échec prévisible&quot; selon Thierry Vircoulon afrique@ifri.org ven 13/05/2022 - 11:27 13/05/2022 Type d'interventions médiatiques Presse - contenus repris sur le site Accroche Après un an d'état de siège, le niveau de violence a augmenté au Nord-Kivu et en Ituri. Selon les chiffres du baromètre de sécurité du Kivu (KST), il y a deux fois plus de morts depuis l'instauration de cette mesure dans l'Est de la RDC. Pour le chercher associé à l'IFRI, Thierry Vircoulon, l'état de</description>
-      <category>IFRI - Publications</category>
-      <guid isPermaLink="false">d8567794ca24081e9303c8b162c6e2cd4271ee42</guid>
-      <pubDate>Fri, 13 May 2022 09:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accords militaires avec la Russie : de Madagascar au Cameroun, Moscou en &quot;phase d'accélération&quot; en Afrique</title>
-      <link>https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/accords-militaires-avec-la-russie-de-madagascar-au-cameroun</link>
-      <description>[IFRI - Publications] Accords militaires avec la Russie : de Madagascar au Cameroun, Moscou en &quot;phase d'accélération&quot; en Afrique afrique@ifri.org mer 11/05/2022 - 16:33 21/04/2022 Type d'interventions médiatiques Presse - contenus repris sur le site Accroche Madagascar, puis le Cameroun. Ce mois-ci, la signature de deux nouveaux accords militaires de pays africains avec la Russie ont été révélés. Ces signatures interrogent sur les rapprochements entre certains États du continent et Moscou.&amp;nbsp; Photo Thierry VIRCOUL</description>
-      <category>IFRI - Publications</category>
-      <guid isPermaLink="false">8f2b4a91725f79f50eefe4e710ad0363dfc46d2a</guid>
-      <pubDate>Wed, 11 May 2022 14:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Légalisation du bitcoin en Centrafrique : l’ombre de la Russie ?</title>
-      <link>https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/legalisation-du-bitcoin-en-centrafrique-lombre-de-la-russie</link>
-      <description>[IFRI - Publications] Légalisation du bitcoin en Centrafrique : l’ombre de la Russie ? afrique@ifri.org lun 09/05/2022 - 12:31 29/04/2022 Type d'interventions médiatiques Presse - contenus repris sur le site Accroche Deuxième pays le moins développé au monde, la République centrafricaine, en proie à une guerre civile depuis 2013, a annoncé ce&amp;nbsp;27&amp;nbsp;avril reconnaître le bitcoin comme monnaie légale. Une mesure «&amp;nbsp;surréaliste&amp;nbsp;» pour de nombreux observateurs, et qui pourrait bien profiter à la Russie pou</description>
-      <category>IFRI - Publications</category>
-      <guid isPermaLink="false">cc6589fd1cb1977caf8fcd87033764597390381b</guid>
-      <pubDate>Mon, 09 May 2022 10:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Débat : Retrait du Mali des forces françaises et européennes : nouvelle donne en Afrique de l'Ouest ?</title>
-      <link>https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/debat-retrait-du-mali-des-forces-francaises-et-europeennes</link>
-      <description>[IFRI - Publications] Débat : Retrait du Mali des forces françaises et européennes : nouvelle donne en Afrique de l'Ouest ? afrique@ifri.org lun 21/02/2022 - 15:04 17/02/2022 Type d'interventions médiatiques Presse - contenus repris sur le site Accroche La France et ses partenaires européens ont annoncé leur retrait militaire du Mali mais affirment vouloir rester engagés au Sahel et dans les pays du golfe de Guinée. Quel va être l'impact du redéploiement sécuritaire de la France et de l'Europe&amp;nbsp;au Sahel&amp;nbsp;? Ph</description>
-      <category>IFRI - Publications</category>
-      <guid isPermaLink="false">518b7edbd461a48dc7426a4dd2d0b7d1f1186259</guid>
-      <pubDate>Mon, 21 Feb 2022 14:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
