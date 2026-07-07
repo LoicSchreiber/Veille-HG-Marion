@@ -6,7 +6,63 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 06 Jul 2026 12:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 11:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Qu’est-ce que « l’affichage parental d’images de mineurs » ?</title>
+      <link>https://theconversation.com/quest-ce-que-laffichage-parental-dimages-de-mineurs-286722</link>
+      <description>[The Conversation FR - Éducation] Publier une photo de famille sur les réseaux sociaux, est-ce partager un souvenir ou exposer son enfant&amp;nbsp;? L’expression «&amp;nbsp;affichage parental d’images de mineurs&amp;nbsp;» invite à se poser la question.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">7b8b17b7b02a5db26b24310e1d7828e3e6924611</guid>
+      <pubDate>Mon, 06 Jul 2026 13:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi l’Iran ne parviendra pas à instaurer un péage dans le détroit d’Ormuz</title>
+      <link>https://theconversation.com/pourquoi-liran-ne-parviendra-pas-a-instaurer-un-peage-dans-le-detroit-dormuz-286573</link>
+      <description>[The Conversation FR - International] L’instauration par l’Iran d’un péage permanent sur le détroit d’Ormuz ne serait ni légale ni réalisable.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">d414e8fc4add13bae0ee4592a6c544df16ea521d</guid>
+      <pubDate>Mon, 06 Jul 2026 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi est-ce si difficile d’estimer les bénéfices et les coûts du Brexit ?</title>
+      <link>https://theconversation.com/pourquoi-est-ce-si-difficile-destimer-les-benefices-et-les-couts-du-brexit-279281</link>
+      <description>[The Conversation FR - International] Les effets du Brexit, économiques et managériaux, divisent. Nous proposons de l’analyser comme un «&amp;nbsp;risque&amp;nbsp;» à l’aide des outils du «&amp;nbsp;risk management&amp;nbsp;».</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">37913bd58f43c33d605e43eff8c309d46ea10da3</guid>
+      <pubDate>Mon, 06 Jul 2026 13:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le sommet de l’OTAN s’ouvre à Ankara. Quels sont les points à suivre ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/07/le-sommet-de-lotan-souvre-a-ankara-quels-sont-les-points-a-suivre/</link>
+      <description>[Le Grand Continent] Le sommet annuel de l'OTAN, qui réunira les chefs d'État et de gouvernement des 32 États membres, s'ouvre aujourd'hui, 7 juillet, à Ankara. Avec des discussions qui se concentreront principalement sur la hausse des dépenses de défense, et en s'appuyant sur la proximité d'Erdoğan avec le président américain, les alliés ont un objectif principal&amp;#160;: éviter un affrontement direct avec Donald Trump. L’article Le sommet de l’OTAN s’ouvre à Ankara. Quels sont les points à suivre&amp;#160;? est apparu e</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c8dd8b6d56c73f532e9ea76513c464aae142ed78</guid>
+      <pubDate>Tue, 07 Jul 2026 07:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>À Erfurt, Alice Weidel renforce son pouvoir lors du congrès de l’AfD</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/06/a-erfurt-alice-weidel-renforce-son-pouvoir-lors-du-congres-de-lafd/</link>
+      <description>[Le Grand Continent] Le parti de droite radicale Alternative für Deutschland (AfD) a tenu son congrès annuel ce week-end dans la capitale de la Thuringe, malgré la contestation de la société civile. Plus qu’une occasion de présenter un nouveau programme, s'il s’agit surtout d’une mise en scène comme une force de gouvernement possible. L’article À Erfurt, Alice Weidel renforce son pouvoir lors du congrès de l’AfD est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">987d228e584ee4970afcd3808b43822054827c18</guid>
+      <pubDate>Mon, 06 Jul 2026 18:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ce que révèle la mise en scène des funérailles du Khamenei</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/06/ce-que-revele-la-mise-en-scene-des-funerailles-du-khamenei/</link>
+      <description>[Le Grand Continent] Pourquoi le régime iranien organise-t-il les plus grandes funérailles du XXIᵉ siècle&amp;#160;? L’article Ce que révèle la mise en scène des funérailles du Khamenei est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2b9a6465b871b84bd66f5530d12e55dbbc86c3cf</guid>
+      <pubDate>Mon, 06 Jul 2026 18:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le réalisme européen commence par l’exemplarité</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/06/le-realisme-europeen-commence-par-lexemplarite/</link>
+      <description>[Le Grand Continent] Pour définir sa puissance, l’Europe doit comprendre que sa force tient d'abord à la crédibilité de ses principes. L’article Le réalisme européen commence par l&amp;rsquo;exemplarité est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b4cf0bd9c30884fc118f7060fd92216d52c4ffa0</guid>
+      <pubDate>Mon, 06 Jul 2026 04:39:00 +0000</pubDate>
+    </item>
     <item>
       <title>La Norvège a éliminé le Brésil. L’Espagne affronte le Portugal, dans ce qui est devenu un classique du football européen</title>
       <link>https://legrandcontinent.eu/fr/2026/07/06/la-norvege-a-elimine-le-bresil-lespagne-affronte-le-portugal-dans-ce-qui-est-devenu-un-classique-du-football-europeen/</link>
@@ -1550,62 +1606,6 @@
       <category>The Conversation FR - Histoire</category>
       <guid isPermaLink="false">47876c52762804e8ea8b7546bfa856938430694f</guid>
       <pubDate>Wed, 20 May 2026 09:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qu’est-ce que le « piège de Thucydide » évoqué par Xi Jinping face à Trump ? Les leçons de la guerre entre Athènes et Sparte</title>
-      <link>https://theconversation.com/quest-ce-que-le-piege-de-thucydide-evoque-par-xi-jinping-face-a-trump-les-lecons-de-la-guerre-entre-athenes-et-sparte-283125</link>
-      <description>[The Conversation FR - Histoire] La rivalité entre les États-Unis et la Chine donne souvent lieu à l'invocation du «&amp;nbsp;piège de Thucydide&amp;nbsp;» — la guerre «&amp;nbsp;inévitable&amp;nbsp;» ayant opposé Athènes à Sparte au Vᵉ siècle avant notre ère. Or de nombreux spécialistes de la Grèce antique contestent cette lecture simplifiée de l’histoire.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">85714b992e7f133f6d81c8ad1df5277a30abd8ce</guid>
-      <pubDate>Sun, 17 May 2026 08:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Coalie », la nouvelle mascotte de Trump, prolonge des décennies de publicité autour du « charbon propre »</title>
-      <link>https://theconversation.com/coalie-la-nouvelle-mascotte-de-trump-prolonge-des-decennies-de-publicite-autour-du-charbon-propre-282892</link>
-      <description>[The Conversation FR - Histoire] De la mascotte « Coalie » aux slogans sur le « charbon propre », l’administration Trump recycle une longue tradition de communication destinée à présenter le charbon comme une énergie inoffensive.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">852838d0c59218e5bf4e11cd009617f550cdd87b</guid>
-      <pubDate>Fri, 15 May 2026 09:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment un fragment de l’« Iliade » s’est-il retrouvé à l’intérieur d’une momie égyptienne ?</title>
-      <link>https://theconversation.com/comment-un-fragment-de-l-iliade-sest-il-retrouve-a-linterieur-dune-momie-egyptienne-282886</link>
-      <description>[The Conversation FR - Histoire] Retrouvé à l’intérieur d’une momie égyptienne de l’époque romaine, un fragment de l’«&amp;nbsp;Iliade&amp;nbsp;» révèle l’immense place occupée par Homère dans la culture quotidienne de l’Empire romain, bien au-delà des cercles savants.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">4fffe5f2314dbb341a7aefcde915581e7fc1dc95</guid>
-      <pubDate>Fri, 15 May 2026 09:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>À Polytechnique, des diplômés dénoncent l’emprise des industriels sur les formations : coup d’éclat ou réveil écologique de fond ?</title>
-      <link>https://theconversation.com/a-polytechnique-des-diplomes-denoncent-lemprise-des-industriels-sur-les-formations-coup-declat-ou-reveil-ecologique-de-fond-285432</link>
-      <description>[The Conversation FR - Éducation] À Polytechnique, la cérémonie de remise des diplômes a été perturbée par des étudiants dénonçant l’influence de grands groupes sur les formations et les ravages de l’industrie sur l’environnement.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">da9c13346e41dcb7f0b8ebe73965b9f41e83770a</guid>
-      <pubDate>Thu, 18 Jun 2026 14:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Solitudes en France : les origines politiques et sociales du « problème »</title>
-      <link>https://theconversation.com/solitudes-en-france-les-origines-politiques-et-sociales-du-probleme-283722</link>
-      <description>[The Conversation FR - Éducation] Présentée au fil de l’histoire tour à tour comme une déviance ou comme un espace de ressourcement, la solitude est devenue un problème public dont s’emparent les politiques et candidats à la présidentielle.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">a8dcb4a9207e886858182bad1d70f043ccdf1df3</guid>
-      <pubDate>Wed, 17 Jun 2026 15:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le travail domestique des enfants : une réalité invisible et des inégalités tenaces</title>
-      <link>https://theconversation.com/le-travail-domestique-des-enfants-une-realite-invisible-et-des-inegalites-tenaces-283906</link>
-      <description>[The Conversation FR - Éducation] La question du travail domestique est abordée dans le débat public sous l’angle de l’inégale répartition des tâches entre femmes et hommes. Mais qu’en est-il de la participation des enfants&amp;nbsp;?</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">867c0229551edcf3ee3c16b82ffbd1725573364a</guid>
-      <pubDate>Mon, 15 Jun 2026 15:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Loi contre les violences scolaires : une victoire des victimes ?</title>
-      <link>https://theconversation.com/loi-contre-les-violences-scolaires-une-victoire-des-victimes-284747</link>
-      <description>[The Conversation FR - Éducation] La proposition de loi visant à protéger les enfants contre les violences en milieu scolaire a été adoptée à l’unanimité, actant un changement de regard sur l’enfant dans la société.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">0a52ba9397f79d462afcccbc2de20f0f1afb9c8c</guid>
-      <pubDate>Wed, 10 Jun 2026 14:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
