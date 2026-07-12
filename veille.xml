@@ -6,7 +6,71 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 11 Jul 2026 10:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 10:23:00 +0000</lastBuildDate>
+    <item>
+      <title>Peut-on cartographier l'Odyssée ? Comment géographes antiques et chercheurs d'aujourd'hui ont retracé le voyage d'Ulysse</title>
+      <link>https://theconversation.com/peut-on-cartographier-lodyssee-comment-geographes-antiques-et-chercheurs-daujourdhui-ont-retrace-le-voyage-dulysse-287354</link>
+      <description>[The Conversation FR - Histoire] Et si l’Odyssée était aussi un atlas ? Pendant des siècles, des érudits ont tenté d'identifier les escales d'Ulysse sur les rivages de la Méditerranée, brouillant sans cesse la frontière entre histoire, géographie et mythologie.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">cf0d3fdb738cf339a780d50e8fa8580a02e93c55</guid>
+      <pubDate>Sun, 12 Jul 2026 09:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marianne : pourquoi la République a-t-elle choisi une femme désincarnée comme symbole d’unité nationale ?</title>
+      <link>https://theconversation.com/marianne-pourquoi-la-republique-a-t-elle-choisi-une-femme-desincarnee-comme-symbole-dunite-nationale-281777</link>
+      <description>[The Conversation FR - Histoire] Allégorie convoquée par tous les camps politiques, Marianne est insaisissable dès qu’il s’agit de lui donner une incarnation. Mais que représente-t-elle vraiment&amp;nbsp;?</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">8ac896fe7bed533475bccfece12f47f3fd460ab6</guid>
+      <pubDate>Sun, 12 Jul 2026 08:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quand la Légion d’honneur fait monter les cours de Bourse : les décorations d’État, signaux de proximité politique ?</title>
+      <link>https://theconversation.com/quand-la-legion-dhonneur-fait-monter-les-cours-de-bourse-les-decorations-detat-signaux-de-proximite-politique-286866</link>
+      <description>[The Conversation FR - Éducation] Les distinctions comme la Légion d’honneur ne sont-elles que des «&amp;nbsp;hochets avec lesquels on mène les hommes&amp;nbsp;», selon le mot de Napoléon&amp;nbsp;? Non, répond une recherche autour de leur impact économique.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">5c4b1bf010d9a0fe1e34001dcfae6ef8d2ef906f</guid>
+      <pubDate>Sun, 12 Jul 2026 08:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Allons-nous vers une « corridorisation » du monde ?</title>
+      <link>https://theconversation.com/allons-nous-vers-une-corridorisation-du-monde-286179</link>
+      <description>[The Conversation FR - International] De l’Europe à la Chine, les grandes puissances souhaitent construire davantage de corridors, nouvelles voies stratégiques de la mondialisation.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">7fa86c2ac05c31617d20a72f93f72912ce391d3d</guid>
+      <pubDate>Sun, 12 Jul 2026 08:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aux États-Unis, l’utilisation de médicaments amaigrissants tels qu’Ozempic ou Wegovy a presque quadruplé en deux ans</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/12/aux-etats-unis-lutilisation-de-medicaments-amaigrissants-tels-quozempic-ou-wegovy-a-presque-quadruple-en-deux-ans/</link>
+      <description>[Le Grand Continent] Environ 25 millions d'Américains pourraient suivre un traitement à base de GLP-1 d'ici 2030, soit près de 10&amp;#160;% de la population adulte, contre 10 millions en 2025. L’article Aux États-Unis, l&amp;rsquo;utilisation de médicaments amaigrissants tels qu’Ozempic ou Wegovy a presque quadruplé en deux ans est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c00dc8fc703d8ea4c69e37690674d51c253a5448</guid>
+      <pubDate>Sun, 12 Jul 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vladimir Poutine a un problème avec l’intelligence artificielle</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/11/vladimir-poutine-a-un-probleme-avec-lintelligence-artificielle/</link>
+      <description>[Le Grand Continent] Incapable de rivaliser avec les États-Unis ou la Chine au cœur de la révolution technologique, le Kremlin investit ses marges. L’article Vladimir Poutine a un problème avec l’intelligence artificielle est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">dd02cfad2d8c88b5be02683edb0b14623239d250</guid>
+      <pubDate>Sat, 11 Jul 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Demi-finale : France-Espagne, le rendez-vous devenu rituel</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/11/demi-finale-france-espagne-le-rendez-vous-devenu-rituel/</link>
+      <description>[Le Grand Continent] Vainqueure de la Belgique (2-1), l'Espagne retrouvera les Bleus en demi-finale, comme à l'Euro 2024 et en Ligue des nations en 2025. L’article Demi-finale&amp;#160;: France-Espagne, le rendez-vous devenu rituel est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">81efe52fd2e18a3ed15a4c734e233efbac5b456a</guid>
+      <pubDate>Sat, 11 Jul 2026 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Tusk tente d’apaiser les tensions mémorielles avec l’Ukraine</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/11/346025/</link>
+      <description>[Le Grand Continent] Ce 11 juillet marque la 83ᵉ commémoration du «&amp;#160;dimanche sanglant&amp;#160;» de Volhynie, point culminant d'un massacre de 1943 que la Pologne qualifie de génocide, mais que Kiev refuse toujours de reconnaître comme tel. Le Premier ministre, Donald Tusk, a profité de l'occasion pour appeler à la vérité historique, tout en plaidant pour l'apaisement des relations avec l'Ukraine, après une séquence diplomatique tendue. L’article Donald Tusk tente d’apaiser les tensions mémorielles avec l’Ukraine e</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">df70cb595c8c6522db69ad4598f1f170e481e468</guid>
+      <pubDate>Sat, 11 Jul 2026 12:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pays pauvres : comment les institutions financières internationales leur permettent de se financer à moindre coût ?</title>
       <link>https://theconversation.com/pays-pauvres-comment-les-institutions-financieres-internationales-leur-permettent-de-se-financer-a-moindre-cout-280837</link>
@@ -1542,70 +1606,6 @@
       <category>APHG</category>
       <guid isPermaLink="false">140aa6058b93385b23a7699335ed96d489ea5080</guid>
       <pubDate>Thu, 18 Jun 2026 17:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coup de pouce Agrégation interne – Victor Delaporte – Le militantisme pro-Algérie française de 1944 à 1962</title>
-      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-victor-delaporte-le-militantisme-pro-algerie-francaise-de-1944-a-1962/</link>
-      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2025-2026 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance de Victor Delaporte consacrée au thème « Le militantisme pro-Algérie française de 1944 à 1962 ». Le podcast est proposé [&amp;#8230;] L’article Coup de pouce Agrégation interne &amp;#8211; Victor Delaporte &amp;#8211; Le militantisme pro-Algérie française de 1944 à 1962</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">326f29ebbcec6ed75a5c070ff9418a987b5e0395</guid>
-      <pubDate>Mon, 09 Mar 2026 11:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coup de pouce Agrégation interne – Catherine Denys – L’âge des révolutions : les anciens Pays-Bas</title>
-      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-catherine-denys-lage-des-revolutions-les-anciens-pays-bas/</link>
-      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2025-2026 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance de Catherine Denys consacrée au thème « L’âge des révolutions : les anciens Pays-Bas ». Le podcast est proposé en version [&amp;#8230;] L’article Coup de pouce Agrégation interne &amp;#8211; Catherine Denys &amp;#8211; L’âge des révolutions : les anciens Pays-Bas est app</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">504d2af7e3b296bd8b676f686e84fd2231e747ac</guid>
-      <pubDate>Mon, 09 Mar 2026 11:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Glossaire bilingue sur les centres de données / Bilingual Glossary About Data Centers</title>
-      <link>https://geoconfluences.ens-lyon.fr/programmes/dnl/dnl-hg-anglais/glossaire-bilingue-sur-les-centres-de-donnees-bilingual-glossary-about-data-centers</link>
-      <description>[OpenEdition - Géoconfluences]</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">60583573233d112c50647403ad542a97b7d85998</guid>
-      <pubDate>Fri, 19 Jun 2026 11:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ressources de Géoconfluences pour traiter les programmes de géographie en CE2</title>
-      <link>https://geoconfluences.ens-lyon.fr/programmes/classes/ressources-pour-le-cycle-2/ressources-de-geoconfluences-pour-traiter-les-programmes-de-geographie-en-ce2</link>
-      <description>[OpenEdition - Géoconfluences]</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">e8b03161fb7eb6821c2e3b9dd9ea57e15b8fa97b</guid>
-      <pubDate>Fri, 19 Jun 2026 08:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sujets de spécialité HGGSP 2026</title>
-      <link>https://geoconfluences.ens-lyon.fr/actualites/veille/concours-examens-programmes/sujets-de-specialite-hggsp-2026</link>
-      <description>[OpenEdition - Géoconfluences]</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">a90e478a78949d982de740ef65ac9cf9961d2911</guid>
-      <pubDate>Thu, 18 Jun 2026 08:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ressources de Géoconfluences pour traiter les programmes de géographie en CE1</title>
-      <link>https://geoconfluences.ens-lyon.fr/programmes/classes/ressources-pour-le-cycle-2/ressources-de-geoconfluences-pour-traiter-les-programmes-de-geographie-en-ce1</link>
-      <description>[OpenEdition - Géoconfluences]</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">8a8b64daf4a731b169e0b12cea772d8881e7cda2</guid>
-      <pubDate>Thu, 18 Jun 2026 08:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Irak: Wassermangel in einem Land nach dem Konflikt</title>
-      <link>https://geoconfluences.ens-lyon.fr/programmes/dnl/dnl-hg-allemand/irak-wassermangel-in-einem-land-nach-dem-konflikt</link>
-      <description>[OpenEdition - Géoconfluences] Im Irak hat der Wassermangel sich zu einer Wasserkrise entwickelt, welche durch den Klimawandel ausgelöst, sich dann aber durch den desolaten Zustand des Landes nach der Beilegung des Konflikts verstärkt hat, begleitet von einer ungenügenden Wasserwirtschaft sowie dem Bau von Stauanlagen in den Nachbarländern stromaufwärts. Der gesamte Irak ist davon betroffen, und zwar auch der Norden, die Weizenkammer des Landes, welchem bisher solche Engpässe erspart geblieben sind. Die Auswirkungen der Wasse</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">1c56b1be960f50255916b9ce128cf5821e7a43ce</guid>
-      <pubDate>Wed, 17 Jun 2026 07:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Risque sismique et résilience dans l’espace urbain de Malatya (Turquie)</title>
-      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-thematiques/risques-et-societes/risque-sismique-et-resilience-malatya-turquie</link>
-      <description>[OpenEdition - Géoconfluences] En 2025, deux ans après les séismes du 6 février 2023 en Turquie, les conséquences sont encore visibles dans le paysage urbain de la ville de Malatya. Outre la vulnérabilité de ces territoires au risque sismique, cette situation reflète aussi une préparation insuffisante des pouvoirs publics face à la catastrophe et à la reconstruction. La résilience s'opère néanmoins sur le temps long, et s'accompagne localement de la construction d'une nouvelle culture du risque.</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">f73242af6135c378a2899b61d7f2f70b80a31cf0</guid>
-      <pubDate>Mon, 15 Jun 2026 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
