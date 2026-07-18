@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 17 Jul 2026 10:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 10:16:00 +0000</lastBuildDate>
+    <item>
+      <title>Se faire attacher pour résister aux Sirènes : ce que le choix d’Ulysse révèle du droit</title>
+      <link>https://theconversation.com/se-faire-attacher-pour-resister-aux-sirenes-ce-que-le-choix-dulysse-revele-du-droit-287612</link>
+      <description>[The Conversation FR - Histoire] Lorsqu’Ulysse parie sur sa faiblesse face au chant des Sirènes et se fait attacher au mât de son navire, il démontre en réalité la force du contrat, en droit.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">12caa3ca45f37647701e6f50c3bc0211816d8f5f</guid>
+      <pubDate>Sat, 18 Jul 2026 05:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La nationalisation qui vient</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/18/la-nationalisation-qui-vient/</link>
+      <description>[Le Grand Continent] Ce n'est pas Marx, ce n'est pas Trump. Généalogie historique du nouveau paradigme géo-économique. L’article La nationalisation qui vient est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">581ee51296aaec63af1aead94586010793f66ca3</guid>
+      <pubDate>Sat, 18 Jul 2026 10:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effet Trump : pour la première fois depuis 20 ans, la Chine est perçue plus positivement dans le monde que les États-Unis</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/18/effet-trump-pour-la-premiere-fois-depuis-20-ans-la-chine-est-percue-plus-positivement-dans-le-monde-que-les-etats-unis/</link>
+      <description>[Le Grand Continent] La première année de la deuxième présidence Trump a été marquée par un effondrement de l’image des États-Unis à l’international – au profit de la Chine. L’article Effet Trump&amp;#160;: pour la première fois depuis 20 ans, la Chine est perçue plus positivement dans le monde que les États-Unis est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">12bab78fd55f83173a827738d2f5a6508f2834d9</guid>
+      <pubDate>Sat, 18 Jul 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kimi K3 : le nouveau modèle d’IA chinois à la frontière de l’open source</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/17/kimi-k3-le-nouveau-modele-dia-chinois-a-la-frontiere-de-lopen-source/</link>
+      <description>[Le Grand Continent] Après DeepSeek et Zhipu AI, l'entreprise chinoise Moonshot publie à son tour un modèle d'IA dont les capacités rivalisent avec celles de ses concurrents américains. L’article Kimi K3&amp;#160;: le nouveau modèle d’IA chinois à la frontière de l’open source est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b772312b4f0e88485837e0325fcc2c7518fc3a83</guid>
+      <pubDate>Fri, 17 Jul 2026 13:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La doctrine AI+ : le plan de Xi Jinping pour ruiner la Silicon Valley</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/17/la-doctrine-ai-le-plan-de-xi-jinping-pour-ruiner-la-silicon-valley/</link>
+      <description>[Le Grand Continent] Traduction commentée du discours du président chinois à la Conférence mondiale sur l'IA de Shanghai. L’article La doctrine AI+&amp;#160;: le plan de Xi Jinping pour ruiner la Silicon Valley est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">1a666cdaa5a17157b44d88f3bcf6d5a7076c4087</guid>
+      <pubDate>Fri, 17 Jul 2026 11:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Ukraine, le limogeage du ministre de la Défense Fedorov pourrait avoir des conséquences sur la trajectoire de la guerre</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/17/en-ukraine-le-limogeage-du-ministre-de-la-defense-fedorov-pourrait-avoir-des-consequences-sur-la-trajectoire-de-la-guerre/</link>
+      <description>[Le Grand Continent] Le limogeage de Mykhaïlo Fedorov a provoqué la crise politique la plus importante en Ukraine depuis le remplacement de l’ancien commandant en chef de l’armée, Valery Zaloujny, par Oleksandr Syrsky en 2024. L’article En Ukraine, le limogeage du ministre de la Défense Fedorov pourrait avoir des conséquences sur la trajectoire de la guerre est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">08993a41e24a5e2e4a024608ac92d4c01e4921d5</guid>
+      <pubDate>Fri, 17 Jul 2026 11:48:00 +0000</pubDate>
+    </item>
     <item>
       <title>Botticelli : une nouvelle étude relance le mystère de la mort de son célèbre modèle</title>
       <link>https://theconversation.com/botticelli-une-nouvelle-etude-relance-le-mystere-de-la-mort-de-son-celebre-modele-287697</link>
@@ -1558,54 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">58d09b6f13125fbca77633dbb0c586456532ac1a</guid>
       <pubDate>Tue, 23 Jun 2026 17:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Testament de Marc Bloch lu par Carlo Ginzburg</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/23/le-testament-de-marc-bloch-lu-par-carlo-ginzburg/</link>
-      <description>[Le Grand Continent] À l'occasion de sa panthéonisation, nous republions ce texte étincelant, accompagné d'une note introductive du grand historien italien récemment disparu. L’article Le Testament de Marc Bloch lu par Carlo Ginzburg est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">d1c7e2ccdcf2dc75db60522173ccc4e39ed989f3</guid>
-      <pubDate>Tue, 23 Jun 2026 15:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Il fait plus chaud en France que sur 99 % de la planète : pourquoi la vague de chaleur qui frappe le pays est historique</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/23/il-fait-plus-chaud-aujourdhui-en-france-que-sur-99-de-la-planete-pourquoi-la-vague-de-chaleur-qui-frappe-le-pays-est-historique/</link>
-      <description>[Le Grand Continent] Après avoir connu la nuit la plus chaude depuis 1947, du 22 au 23 juin, la France a connu la journée la plus chaude de son histoire récente. L’article Il fait plus chaud en France que sur 99&amp;#160;% de la planète&amp;#160;: pourquoi la vague de chaleur qui frappe le pays est historique est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">4edde33f564f7fb76a74797364a9bba492e785dd</guid>
-      <pubDate>Tue, 23 Jun 2026 15:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment Marc Bloch a révolutionné le métier d’historien</title>
-      <link>https://theconversation.com/comment-marc-bloch-a-revolutionne-le-metier-dhistorien-285757</link>
-      <description>[The Conversation FR - Histoire] Marc Bloch (1886-1944), historien et résistant, entre au Panthéon ce 23&amp;nbsp;juin. Il fit dialoguer histoire et sciences sociales en refusant de s’enfermer dans une histoire nationale.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">ebe9c28b93d29893eeda0c1309b7f6ceda6d7c8f</guid>
-      <pubDate>Mon, 22 Jun 2026 14:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supporters, joueurs, stades, territoires : la géographie cachée du football</title>
-      <link>https://theconversation.com/supporters-joueurs-stades-territoires-la-geographie-cachee-du-football-285202</link>
-      <description>[The Conversation FR - International] Le football mobilise bien des enjeux géographiques&amp;nbsp;: territoires, mobilités, identités et usages de l’espace&amp;nbsp;– du stade aux foules mondialisées.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">2430e1276f6a41157389437d8b26e2f7644f8837</guid>
-      <pubDate>Mon, 22 Jun 2026 14:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Colombie : l’élection d’Abelardo De la Espriella marque une nouvelle victoire pour Trump en Amérique latine</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/23/colombie-lelection-dabelardo-de-la-espriella-marque-une-nouvelle-victoire-pour-trump-en-amerique-latine/</link>
-      <description>[Le Grand Continent] Abelardo De la Espriella, candidat d’extrême droite soutenu par Trump, a remporté dimanche le second tour de l’élection présidentielle en Colombie. L’article Colombie&amp;#160;: l’élection d’Abelardo De la Espriella marque une nouvelle victoire pour Trump en Amérique latine est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">2e1d28cfe9292d306c4d697c168aaf10832ea4a7</guid>
-      <pubDate>Tue, 23 Jun 2026 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La géo-ingénierie est une idée dangereuse que nous ne pouvons plus éluder</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/23/geo-ingenierie-une-idee-dangereuse-que-nous-ne-pouvons-plus-eluder/</link>
-      <description>[Le Grand Continent] Pour lutter contre les risques existentiels du réchauffement climatique, faut-il atténuer la lumière du soleil&amp;#160;? L’article La géo-ingénierie est une idée dangereuse que nous ne pouvons plus éluder est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">0e23a1296c37be3b888ea4c90a29a07336ac3d13</guid>
-      <pubDate>Tue, 23 Jun 2026 04:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
