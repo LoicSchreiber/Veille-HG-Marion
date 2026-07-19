@@ -6,7 +6,183 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 18 Jul 2026 10:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 10:24:00 +0000</lastBuildDate>
+    <item>
+      <title>Taylor au pays des Soviets : quand Lénine s'inspirait de l'organisation scientifique du travail</title>
+      <link>https://theconversation.com/taylor-au-pays-des-soviets-quand-lenine-sinspirait-de-lorganisation-scientifique-du-travail-278683</link>
+      <description>[The Conversation FR - Histoire] Contrairement à une idée reçue, le taylorisme et le management n’ont pas seulement concerné les capitalistes. L’URSS a également repris ces principes pour rationaliser le travail.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">2ce7601a38e0381aec243864956782b7dc038c34</guid>
+      <pubDate>Sun, 19 Jul 2026 09:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Santé des étudiants : plus d’un sur deux entre à l’université avec une fragilité physique ou mentale</title>
+      <link>https://theconversation.com/sante-des-etudiants-plus-dun-sur-deux-entre-a-luniversite-avec-une-fragilite-physique-ou-mentale-286054</link>
+      <description>[The Conversation FR - Éducation] Plus d’un étudiant sur deux arrive à l’université avec une vulnérabilité physique ou mentale : la meilleure solution pourrait être l’activité physique individualisée.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">f770a035f351c6f933090cc056160b24b83589e1</guid>
+      <pubDate>Sun, 19 Jul 2026 09:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quand l’État vacille, qui gouverne encore ?</title>
+      <link>https://theconversation.com/quand-letat-vacille-qui-gouverne-encore-286368</link>
+      <description>[The Conversation FR - International] Quand l’État s’effondre, l’action publique ne disparaît pas toujours. À Haïti comme ailleurs, d’autres acteurs prennent le relais, redéfinissant la frontière entre gouvernance-légitimité-pouvoir.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">3a86ee32d535f275171a1880b7eef7bcf96023ee</guid>
+      <pubDate>Sun, 19 Jul 2026 09:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les bananes pourraient-elles disparaître ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/19/les-bananes-pourraient-elles-disparaitre/</link>
+      <description>[Le Grand Continent] En raison des maladies et du réchauffement climatique, les bananes Cavendish, les plus consommées au monde, pourraient connaître le même sort que la Gros Michel. L’article Les bananes pourraient-elles disparaître&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">e3e649077951b4536cb6b525e4d1bcf3b881f3e9</guid>
+      <pubDate>Sun, 19 Jul 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ce que l’IA apprend (et n’apprend pas) aux enfants</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/19/ia-enseignement/</link>
+      <description>[Le Grand Continent] L'école peut fermer en juillet, la transmission, elle, ne s'arrête jamais — et les géants de la tech l'ont parfaitement compris. L’article Ce que l’IA apprend (et n’apprend pas) aux enfants est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">09c4fdd163fc62785400e04e0423abeb365c44fa</guid>
+      <pubDate>Sun, 19 Jul 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>France-Angleterre : la petite finale de la Coupe du monde verra s’affronter deux grandes équipes déçues</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/18/france-angleterre-la-petite-finale-de-la-coupe-du-monde-verra-saffronter-deux-grandes-equipes-decues/</link>
+      <description>[Le Grand Continent] France et Angleterre n'ont plus grand-chose à se dire dans cette finale pour la troisième place. L’article France-Angleterre&amp;#160;: la petite finale de la Coupe du monde verra s’affronter deux grandes équipes déçues est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">a5793d379b611bb645e7ceb632568de81dad8bf3</guid>
+      <pubDate>Sat, 18 Jul 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Économie russe : l’indice de la bourse de Moscou a chuté de 27 % depuis le début de l’année</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/18/economie-russe-lindice-de-la-bourse-de-moscou-a-chute-de-27-depuis-le-debut-de-lannee/</link>
+      <description>[Le Grand Continent] La dégradation de la situation économique russe inquiète jusque dans les cercles les plus proches de Vladimir Poutine. L’article Économie russe&amp;#160;: l’indice de la bourse de Moscou a chuté de 27&amp;#160;% depuis le début de l’année est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">65fe858bd3a514e246ef8e5f0bd7e312ceb53a0f</guid>
+      <pubDate>Sat, 18 Jul 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Géographie au CAPES d'histoire-géographie à bac+3 : bibliographie indicative</title>
+      <link>https://geoconfluences.ens-lyon.fr/programmes/concours/capes-hg-bibliographie-indicative-geo</link>
+      <description>[OpenEdition - Géoconfluences] Des pistes bibliographiques pour préparer le CAPES bac+3.</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">90f4c25395a5f28fa50faaa29b72432dcea7ebed</guid>
+      <pubDate>Thu, 16 Jul 2026 16:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parutions papier en géographie, printemps 2026</title>
+      <link>https://geoconfluences.ens-lyon.fr/actualites/veille/parutions/parutions-papier-en-geographie-printemps-2026</link>
+      <description>[OpenEdition - Géoconfluences] Parmi les thèmes abordés dans les livres en français parus ce printemps : Amérique, États-Unis, Hérault, Sfax, feu, catastrophe, destruction du patrimoine, photo de paysage, géographie sensible, quantitative, économique, géopolitique, transitions, projets alimentaires territoriaux, matériaux, mers et océans, Antoine Bailly, Camille Vallaux...</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">13eb21535e0a8e78a65db67ccf7638c034acbaea</guid>
+      <pubDate>Thu, 16 Jul 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frontières : ressources sur Géoconfluences</title>
+      <link>https://geoconfluences.ens-lyon.fr/programmes/concours/anciens-prog-concours/frontieres-ressources-sur-geoconfluences</link>
+      <description>[OpenEdition - Géoconfluences] Les ressources de Géoconfluences sur le thème des frontières.</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">43cc1054b526a7d220cbe797698c78c1935322b2</guid>
+      <pubDate>Wed, 15 Jul 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Image à la une. Tomates et mondialisation en Martinique</title>
+      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/a-la-une/image-a-la-une/image-a-la-une-tomates-et-mondialisation-en-martinique</link>
+      <description>[OpenEdition - Géoconfluences] La photographie d’un rayon de fruits et légumes en Martinique illustre tout autant le coût de la vie très élevé dans les DROM que plusieurs aspects de la mondialisation : une mondialisation économique qui, grâce à des transports internationaux bon marché, broie une économie locale de petite taille, une mondialisation culturelle (de l’alimentation et des goûts) illustrée par la préférence pour certains types de produits, voire une mondialisation des techniques de production.</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">4b34334a430e91b604a804defa9917b286e3b141</guid>
+      <pubDate>Wed, 15 Jul 2026 06:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lettre d'information n° 224</title>
+      <link>https://geoconfluences.ens-lyon.fr/a-propos/lettres-dinformation/lettre-information-224</link>
+      <description>[OpenEdition - Géoconfluences]</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">d1d01e432a13fa5371e043d8ee60f100d7e21ab3</guid>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Après la victoire de Péter Magyar en Hongrie, une transition libérale très scrutée</title>
+      <link>https://geoconfluences.ens-lyon.fr/actualites/eclairage/apres-la-victoire-de-peter-magyar-en-hongrie-une-transition-liberale-tres-scrutee</link>
+      <description>[OpenEdition - Géoconfluences] Au terme d’un scrutin particulièrement suivi dans le monde entier, le dirigeant hongrois souverainiste et anti-européen, Viktor Orbán, a été largement battu par son opposant Péter Magyar. Cette victoire met fin à seize ans d’un gouvernement illibéral, marqué par un ralentissement économique, un rapprochement avec la Russie et de nombreuses affaires de corruption. Le système Orbán pourrait cependant survivre à une élection qui bouleverse déjà les équilibres européens.</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">d5510e6dd380b0e0b3bc75b8a880d1f3ba4e3f49</guid>
+      <pubDate>Fri, 10 Jul 2026 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Géohistoire d’une catégorie spatiale située : l’outre-mer</title>
+      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-thematiques/epistemo/articles/geohistoire-d-une-categorie-spatiale-situee-l-outre-mer</link>
+      <description>[OpenEdition - Géoconfluences] L'outre-mer a d'abord désigné en français les régions situées au-delà de la Méditerranée, correspondant à ce qu'on appellerait aujourd'hui le Proche-Orient. Le mot a ensuite servi à nommer l'ensemble des terres situées au-delà des océans, et plus particulièrement les possessions françaises. C'est alors qu'il a pris une connotation coloniale. L'expression a survécu à la décolonisation et à la départementalisation, incarnée par les DOM-TOM puis les DROM, mais la connotation demeure et pose questio</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">e28f4ed1d62e1afe712d7e3a734a0a046d08f502</guid>
+      <pubDate>Fri, 10 Jul 2026 11:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nouveautés en géographie sur les sites académiques — d'avril à juillet 2026</title>
+      <link>https://geoconfluences.ens-lyon.fr/actualites/veille/revues-de-presse/nouveautes-en-geographie-sur-les-sites-academiques-avril-a-juillet-2026</link>
+      <description>[OpenEdition - Géoconfluences] De nombreux scénarios pédagogiques, des inspirations, des analyses de gestes professionnels, des formations, des concours ou des prix pour les élèves, des communications officielles, des conférences scientifiques, des outils numériques... Les portails histoire-géographie des sites académiques offrent un large éventail d'informations et de ressources pour l'enseignement.</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">29db2eb7aeb44faba505a08c58279cbda3ff6d1d</guid>
+      <pubDate>Fri, 10 Jul 2026 10:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Bibliographie] Mobilités et transports urbains dans le monde (ENS de Lyon 2027)</title>
+      <link>https://geoconfluences.ens-lyon.fr/programmes/concours/bibliographie-mobilites-et-transports-urbains-dans-le-monde-ens-de-lyon-2027</link>
+      <description>[OpenEdition - Géoconfluences] Des indications bibliographiques pour préparer la question au programme du concours d'entrée à l'ENS de Lyon pour la session 2027. Cette bibliographie, pas plus qu'aucune autre, ne saurait être exhaustive : n'hésitez pas à nous communiquer vos suggestions.</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">50656bf67909749e87df9215cafdffe54eafbfd8</guid>
+      <pubDate>Wed, 08 Jul 2026 14:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Bibliographie] Les territoires d'Outre-mer français (ENS de Paris 2027)</title>
+      <link>https://geoconfluences.ens-lyon.fr/programmes/concours/bibliographie-les-territoires-doutre-mer-francais-ens-de-paris-2027</link>
+      <description>[OpenEdition - Géoconfluences] Des indications bibliographiques pour préparer la question au programme du concours d'entrée à l'ENS de Paris pour la session 2027. Cette bibliographie, pas plus qu'aucune autre, ne saurait être exhaustive : n'hésitez pas à nous communiquer vos suggestions.</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">4673b6b2301c9096f635cf04a8ba8b59bcb291af</guid>
+      <pubDate>Wed, 08 Jul 2026 13:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ressources de Géoconfluences pour traiter les programmes de géographie en CM1</title>
+      <link>https://geoconfluences.ens-lyon.fr/programmes/classes/ressources-cycle-3/selection-ressources-cm1</link>
+      <description>[OpenEdition - Géoconfluences] (Nouveaux programmes 2026)</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">c593079a580faa5255dc7c1c1bcec6323a327c02</guid>
+      <pubDate>Mon, 06 Jul 2026 07:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlas et bibliographies</title>
+      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-regionaux/arctique/outils-et-ressources</link>
+      <description>[OpenEdition - Géoconfluences]</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">5d46b606a775415fff09826c02fd33a7860f5d79</guid>
+      <pubDate>Thu, 02 Jul 2026 14:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlas et bibliographies</title>
+      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-regionaux/arctique/outils-et-ressources/bibliographies</link>
+      <description>[OpenEdition - Géoconfluences]</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">827065ad72030d03d1d388140b3452f95edebcbf</guid>
+      <pubDate>Thu, 02 Jul 2026 14:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bibliographies</title>
+      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-thematiques/geographie-critique-des-ressources/bibliographies-1/bibliographies</link>
+      <description>[OpenEdition - Géoconfluences]</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">6c67ce176b301536337c3a1244f0521cce423a8b</guid>
+      <pubDate>Thu, 02 Jul 2026 14:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bibliographies</title>
+      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-thematiques/geographie-critique-des-ressources/bibliographies-1</link>
+      <description>[OpenEdition - Géoconfluences]</description>
+      <category>OpenEdition - Géoconfluences</category>
+      <guid isPermaLink="false">bb85af4b368b7bb618bac2ff8fe06afa74e94103</guid>
+      <pubDate>Thu, 02 Jul 2026 14:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>Se faire attacher pour résister aux Sirènes : ce que le choix d’Ulysse révèle du droit</title>
       <link>https://theconversation.com/se-faire-attacher-pour-resister-aux-sirenes-ce-que-le-choix-dulysse-revele-du-droit-287612</link>
@@ -1430,182 +1606,6 @@
       <category>The Conversation FR - International</category>
       <guid isPermaLink="false">3378158cfeb3ebcf07eabef0dd3b145e1096b06c</guid>
       <pubDate>Thu, 25 Jun 2026 13:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Norvège peut-elle mettre en difficulté la France pour la suite de la compétition ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/26/la-norvege-peut-elle-mettre-en-difficulte-la-france-pour-la-suite-de-la-competition/</link>
-      <description>[Le Grand Continent] La victoire de ce soir est clef, car elle déterminera le parcours de chaque équipe en phase éliminatoire. L’article La Norvège peut-elle mettre en difficulté la France pour la suite de la compétition&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">ffb8e1ca75f1fc7625674a2dea3a5d57742a6be3</guid>
-      <pubDate>Fri, 26 Jun 2026 10:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’IA est l’une des technologies qui suscite le plus d’hostilité depuis l’essor d’Internet</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/26/lia-est-lune-des-technologies-qui-suscite-le-plus-dhostilite-depuis-lessor-dinternet/</link>
-      <description>[Le Grand Continent] Aux États-Unis, seulement 16&amp;#160;% de la population considère que l’intelligence artificielle va avoir un impact positif sur la société. L’article L&amp;rsquo;IA est l’une des technologies qui suscite le plus d’hostilité depuis l&amp;rsquo;essor d&amp;rsquo;Internet est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">87056366dbc2db8065da5f913ca73963e9f39cca</guid>
-      <pubDate>Fri, 26 Jun 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qui est le général Donahue, purgé par le secrétaire à la Défense de Trump ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/25/qui-est-le-general-donahue-purge-par-le-secretaire-a-la-defense-de-trump/</link>
-      <description>[Le Grand Continent] Donahue est la dernière cible de la purge menée par Pete Hegseth parmi les hauts gradés de l’armée. L’article Qui est le général Donahue, purgé par le secrétaire à la Défense de Trump&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">ad2d830fea306298c5af29b2419620c442d60a9c</guid>
-      <pubDate>Thu, 25 Jun 2026 16:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pourquoi les Chinois ne dépensent pas ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/25/pourquoi-les-chinois-ne-depensent-pas/</link>
-      <description>[Le Grand Continent] Une enquête à hauteur de citoyen, signée par l’un des meilleurs sociologues spécialistes de la Chine. L’article Pourquoi les Chinois ne dépensent pas&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">b1761bec86cae446034849f5e786b0258b83143a</guid>
-      <pubDate>Thu, 25 Jun 2026 14:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Il a fait plus chaud en France que dans presque un tiers du désert du Sahara (carte inédite)</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/25/mercredi-il-faisait-plus-chaud-en-france-que-dans-presque-un-tiers-du-desert-du-sahara/</link>
-      <description>[Le Grand Continent] Avec une température moyenne de 30°C, la France a connu mercredi des températures supérieures à celles relevées dans 30,8&amp;#160;% du Sahara. L’article Il a fait plus chaud en France que dans presque un tiers du désert du Sahara (carte inédite) est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">67406af796c573305a0ed121f8f832134b0c8fe3</guid>
-      <pubDate>Thu, 25 Jun 2026 13:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le boycott académique contre Israël est minoritaire et traduit l’émergence de nouvelles normes académiques</title>
-      <link>https://theconversation.com/le-boycott-academique-contre-israel-est-minoritaire-et-traduit-lemergence-de-nouvelles-normes-academiques-284203</link>
-      <description>[The Conversation FR - Éducation] De l’Allemagne de l’après-Première Guerre mondiale à l’Afrique du Sud de l’apartheid, les boycotts académiques ont jalonné l’histoire contemporaine. Le cas israélien ravive aujourd’hui les interrogations sur leur légitimité et leur efficacité.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">356ed0e4ca3822d899f90f0ef771c43873d54d29</guid>
-      <pubDate>Wed, 24 Jun 2026 12:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La démocratie en recul face à la poussée des autoritarismes</title>
-      <link>https://theconversation.com/la-democratie-en-recul-face-a-la-poussee-des-autoritarismes-285091</link>
-      <description>[The Conversation FR - International] Partout ou presque, l’autoritarisme gagne du terrain, sous une forme spécifique mêlant nationalisme sourcilleux et capitalisme débridé. Enquête sur un modèle qui défie ouvertement les démocraties libérales.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">a955ffd87f4525907db786be0252edba00e9be68</guid>
-      <pubDate>Wed, 24 Jun 2026 12:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coupe du monde de football 2026 : faut-il craindre une hausse des violences envers les femmes ?</title>
-      <link>https://theconversation.com/coupe-du-monde-de-football-2026-faut-il-craindre-une-hausse-des-violences-envers-les-femmes-285265</link>
-      <description>[The Conversation FR - International] Les violences domestiques augmentent souvent les jours de match. Dans plusieurs pays, associations et autorités tentent d’endiguer le phénomène.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">237cdfb9b49e664fada57d9b9a9cb583967a2123</guid>
-      <pubDate>Wed, 24 Jun 2026 12:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les classements des premiers groupes laissent apparaître quelques surprises</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/25/les-classements-des-premiers-groupes-laissent-apparaitre-quelques-surprises/</link>
-      <description>[Le Grand Continent] L'Afrique du Sud a notamment décroché sa première qualification pour la phase à élimination directe de son histoire. L’article Les classements des premiers groupes laissent apparaître quelques surprises est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">4c0d7a20d7d8cabaaf248e22afed22e9ba223331</guid>
-      <pubDate>Thu, 25 Jun 2026 09:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Résoudre l’énigme Trump</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/25/resoudre-lenigme-trump/</link>
-      <description>[Le Grand Continent] Si l'erratique est devenu une méthode, c’est que dans le nouveau paradigme du capitalisme politique américain, la géopolitique, ça sert, d’abord, à faire des actifs. L’article Résoudre l&amp;rsquo;énigme Trump est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">919daf19d04a1f4a45afb551d21413f91021437a</guid>
-      <pubDate>Thu, 25 Jun 2026 05:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Après El Fasher, le risque de nouveaux massacres commis par les FSR pèse sur El Obeid</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/25/apres-el-fasher-le-risque-de-nouveaux-massacres-commis-par-les-fsr-pese-sur-el-obeid/</link>
-      <description>[Le Grand Continent] Les Forces de soutien rapide auraient reçu d’importants renforts autour d’El Obeid, dans le cadre du siège maintenu autour de la ville depuis 2023. L’article Après El Fasher, le risque de nouveaux massacres commis par les FSR pèse sur El Obeid est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">148fb971c632e5bd9232b8d3f3257f424fceade5</guid>
-      <pubDate>Thu, 25 Jun 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Économie russe : le marché boursier est à son niveau le plus faible depuis mars 2023</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/24/economie-russe-le-marche-boursier-est-a-son-niveau-le-plus-faible-depuis-mars-2023/</link>
-      <description>[Le Grand Continent] La dégradation de la situation financière du pays et l'intensification des frappes ukrainiennes sur les infrastructures énergétiques ont provoqué de vives inquiétudes chez les investisseurs. L’article Économie russe&amp;#160;: le marché boursier est à son niveau le plus faible depuis mars 2023 est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">55a5d8723b7531ce1afd8135ede5ec11647ac198</guid>
-      <pubDate>Wed, 24 Jun 2026 17:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cristiano Ronaldo marque l’histoire, alors que Haïti fait ses adieux à la Coupe du monde</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/24/cristiano-ronaldo-marque-lhistoire-alors-que-haiti-fait-ses-adieux-a-la-coupe-du-monde/</link>
-      <description>[Le Grand Continent] Critiqué après son premier match, Ronaldo a répondu par un doublé face à l'Ouzbékistan. À l’approche de la phase à éliminations directes, le débat se concentre désormais sur la modification des règles des tirs au but. L’article Cristiano Ronaldo marque l’histoire, alors que Haïti fait ses adieux à la Coupe du monde est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">f6657029d3f70c17de85d6022a612f01fc72c276</guid>
-      <pubDate>Wed, 24 Jun 2026 13:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’État islamique est en train de s’étendre en Afrique de l’Ouest</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/24/letat-islamique-est-en-train-de-setendre-en-afrique-de-louest/</link>
-      <description>[Le Grand Continent] Entretien fleuve avec l’un des meilleurs spécialistes du terrain sahélien. L’article L’État islamique est en train de s’étendre en Afrique de l’Ouest est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">f9fb82bf4776c8727aadf1c55979732ed860c816</guid>
-      <pubDate>Wed, 24 Jun 2026 12:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Violences sexuelles sur mineurs : deux siècles de bruit médiatique et d’inertie</title>
-      <link>https://theconversation.com/violences-sexuelles-sur-mineurs-deux-siecles-de-bruit-mediatique-et-dinertie-285500</link>
-      <description>[The Conversation FR - Histoire] Malgré les révélations qui éclatent régulièrement dans l’actualité à leur sujet, les violences sexuelles sur mineurs restent invisibilisées dans la société.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">216711208b0980e22b7fa696f18a232c14ea265d</guid>
-      <pubDate>Tue, 23 Jun 2026 14:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alliances d’universités européennes : porter des projets communs, un défi linguistique ?</title>
-      <link>https://theconversation.com/alliances-duniversites-europeennes-porter-des-projets-communs-un-defi-linguistique-282630</link>
-      <description>[The Conversation FR - Éducation] Comment coordonner des formations et des projets de recherche issus d’environnements linguistiques différents&amp;nbsp;? La question recoupe des enjeux à la fois pragmatiques et stratégiques.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">cf11c393c8f01fd7ac0f4c4202b130b86ab4572e</guid>
-      <pubDate>Tue, 23 Jun 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>« L’arc de Trump » : une glorification des États-Unis… et surtout de leur président actuel</title>
-      <link>https://theconversation.com/larc-de-trump-une-glorification-des-etats-unis-et-surtout-de-leur-president-actuel-285682</link>
-      <description>[The Conversation FR - International] À l’occasion des 250&amp;nbsp;ans des États-Unis, Donald Trump veut bâtir un arc de triomphe géant à Washington. Un monument qui sera avant tout à sa propre gloire…</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">420c8908ac382143b7992d5c75bed9775ed51625</guid>
-      <pubDate>Tue, 23 Jun 2026 14:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment la diaspora iranienne vit la guerre à distance</title>
-      <link>https://theconversation.com/comment-la-diaspora-iranienne-vit-la-guerre-a-distance-283713</link>
-      <description>[The Conversation FR - International] Les Iraniens de l’étranger, obnubilés par la situation dans leur pays, traversent une période très compliquée sur le plan psychologique.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">7de41ddd95282193881296552425f15e2e4d2afd</guid>
-      <pubDate>Tue, 23 Jun 2026 14:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dans les villes européennes, seulement 47 % de la population voit au moins 3 arbres depuis sa fenêtre</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/24/dans-les-villes-europeennes-seulement-47-de-la-population-voit-au-moins-3-arbres-depuis-sa-fenetre/</link>
-      <description>[Le Grand Continent] En plus d’avoir un impact positif sur la santé mentale et de contribuer à une meilleure forme physique, la couverture arborée en ville contribue à la réduction des îlots de chaleur. L’article Dans les villes européennes, seulement 47&amp;#160;% de la population voit au moins 3 arbres depuis sa fenêtre est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">59884925118b5af2c2937b7ba1a759de02f6c01b</guid>
-      <pubDate>Wed, 24 Jun 2026 10:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Chine américanise sa puissance</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/24/la-chine-americanise-sa-puissance/</link>
-      <description>[Le Grand Continent] En se dotant d'un nouvel arsenal juridique pour transformer l'interdépendance en levier, le Parti communiste s'inspire de plus en plus des doctrines de Washington. L’article La Chine américanise sa puissance est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">de057c5ec0b4b81f808bfefc782df0e5a296b4c3</guid>
-      <pubDate>Wed, 24 Jun 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malgré une reprise du trafic, l’incertitude persiste dans le détroit d’Ormuz</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/24/malgre-une-reprise-du-trafic-lincertitude-persiste-dans-le-detroit-dormuz/</link>
-      <description>[Le Grand Continent] Les armateurs, qui perçoivent l’accord signé entre Téhéran et Washington comme un signal positif, font toujours l’objet d’instructions contradictoires. L’article Malgré une reprise du trafic, l’incertitude persiste dans le détroit d’Ormuz est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">80d1f2905186604838cc1aac74571467fc0f515c</guid>
-      <pubDate>Wed, 24 Jun 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Afrique est le continent qui a le plus profité de l’élargissement de la compétition à 48 équipes</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/23/lafrique-est-le-continent-qui-a-le-plus-profite-de-lelargissement-de-la-competition-a-48-equipes/</link>
-      <description>[Le Grand Continent] Le Ghana et la République démocratique du Congo jouent ce soir leur qualification pour la phase éliminatoire. L’article L’Afrique est le continent qui a le plus profité de l’élargissement de la compétition à 48 équipes est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">58d09b6f13125fbca77633dbb0c586456532ac1a</guid>
-      <pubDate>Tue, 23 Jun 2026 17:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
