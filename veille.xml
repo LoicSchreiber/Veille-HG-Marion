@@ -6,7 +6,47 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 21 Jul 2026 11:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:05:00 +0000</lastBuildDate>
+    <item>
+      <title>Le « SAVE America Act » : réforme de bon sens ou manœuvre partisane ?</title>
+      <link>https://theconversation.com/le-save-america-act-reforme-de-bon-sens-ou-manoeuvre-partisane-287881</link>
+      <description>[The Conversation FR - International] Avec le projet de loi «&amp;nbsp;SAVE America Act&amp;nbsp;», Donald Trump affirme vouloir mettre fin à la fraude électorale. Selon ses adversaires, il veut surtout avantager son parti aux prochaines midterms.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">a55ebee30d13bb5380817dd322267f53fc9ecaef</guid>
+      <pubDate>Tue, 21 Jul 2026 16:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les enjeux politiques et religieux autour du bombardement de la cathédrale de la Dormition à Kiev</title>
+      <link>https://theconversation.com/les-enjeux-politiques-et-religieux-autour-du-bombardement-de-la-cathedrale-de-la-dormition-a-kiev-287117</link>
+      <description>[The Conversation FR - International] La frappe contre la cathédrale de la Dormition remet au premier plan un autre front de la guerre&amp;nbsp;: la bataille entre Moscou et Kiev pour l’héritage orthodoxe.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">a638ae971bea06c292d66b9ab9d0da265ed44b57</guid>
+      <pubDate>Tue, 21 Jul 2026 16:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En lançant l’Organisation de coopération mondiale sur l’IA (WAICO), Pékin peut-il rivaliser avec la Pax Silica américaine ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/22/en-lancant-lorganisation-de-cooperation-mondiale-sur-lia-waico-pekin-peut-il-rivaliser-avec-la-pax-silica-americaine/</link>
+      <description>[Le Grand Continent] La course IA ne se joue plus seulement sur les modèles, mais aussi sur les alliances. L’article En lançant l’Organisation de coopération mondiale sur l’IA (WAICO), Pékin peut-il rivaliser avec la Pax Silica américaine&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">f3ffa0c9eaec73f9a96117ea8caca92f958aee72</guid>
+      <pubDate>Wed, 22 Jul 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malgré l’imposition de tarifs sur la majeure partie du monde, les États-Unis ont perdu 75 000 emplois manufacturiers depuis l’investiture de Trump</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/21/malgre-limposition-de-tarifs-sur-la-majeure-partie-du-monde-les-etats-unis-ont-perdu-75-000-emplois-manufacturiers-depuis-linvestiture-de-trump/</link>
+      <description>[Le Grand Continent] Après avoir de nouveau menacé le Canada de tarifs douaniers, l’administration américaine se préparerait à imposer de nouveaux droits de douane sur plusieurs dizaines de pays. L’article Malgré l’imposition de tarifs sur la majeure partie du monde, les États-Unis ont perdu 75 000 emplois manufacturiers depuis l’investiture de Trump est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">46119835c887d3aa97870f6e60bc85c62f0a2741</guid>
+      <pubDate>Tue, 21 Jul 2026 18:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La guerre des détroits s’étend : les Houthis annoncent bloquer les ports saoudiens de la mer Rouge</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/21/la-guerre-des-detroits-setend-les-houthis-annoncent-bloquer-les-ports-saoudiens-de-la-mer-rouge/</link>
+      <description>[Le Grand Continent] Le détroit de Bab el-Mandeb représente désormais 7&amp;#160;% des approvisionnements mondiaux en pétrole. L’article La guerre des détroits s’étend&amp;#160;: les Houthis annoncent bloquer les ports saoudiens de la mer Rouge est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">530efbf704e4d397417a8d2a2df878bffbd9b3d1</guid>
+      <pubDate>Tue, 21 Jul 2026 12:11:00 +0000</pubDate>
+    </item>
     <item>
       <title>Plus d’un adulte sur cinq est touché par le handicap dans sa famille</title>
       <link>https://theconversation.com/plus-dun-adulte-sur-cinq-est-touche-par-le-handicap-dans-sa-famille-286870</link>
@@ -1566,46 +1606,6 @@
       <category>The Conversation FR - Histoire</category>
       <guid isPermaLink="false">d7abefb68fe3a4bebf74e0399d1a4f1aa5bad847</guid>
       <pubDate>Sun, 28 Jun 2026 08:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chercheuse, mère et précaire : une équation impossible</title>
-      <link>https://theconversation.com/chercheuse-mere-et-precaire-une-equation-impossible-285418</link>
-      <description>[The Conversation FR - Éducation] Accéder à un poste de titulaire dans l’enseignement supérieur et la recherche, c’est un parcours d’obstacles. Pour les femmes qui deviennent mères, la route se complique d’autant plus.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">23a84ea0932105172999a78aeb5ca1ea8f4c0792</guid>
-      <pubDate>Sat, 27 Jun 2026 14:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Derrière la mignonnerie du panda, une diplomatie d’influence chinoise de l’émotion en ligne</title>
-      <link>https://theconversation.com/derriere-la-mignonnerie-du-panda-une-diplomatie-dinfluence-chinoise-de-lemotion-en-ligne-285620</link>
-      <description>[The Conversation FR - International] L’exploitation tous azimuts de l’image sympathique du panda vise à transformer la réputation, souvent négative, de la République populaire de Chine.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">8f6ded466db80dfd3e349fbd6b372044c5660c51</guid>
-      <pubDate>Sun, 28 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Au-delà du technoprophète : Albert Robida et la guerre comme milieu</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/28/au-dela-du-technoprophete-albert-robida-et-la-guerre-comme-milieu/</link>
-      <description>[Le Grand Continent] Pourquoi un auteur oublié éclaire mieux nos conflits que bien des prophètes technologiques contemporains. L’article Au-delà du technoprophète&amp;#160;: Albert Robida et la guerre comme milieu est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">6a385ea0b21ad4aa468122afae7d5e47d5b8c933</guid>
-      <pubDate>Sun, 28 Jun 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’IA de frontière est devenue une crise géopolitique</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/28/lacces-a-lia-de-frontiere-est-devenu-un-privilege-strategique/</link>
-      <description>[Le Grand Continent] Un nouveau régime de diffusion de l'IA de frontière est en train de s'installer. Victor Storchan détaille le scénario américain et chinois, ainsi que les trajectoires possibles de l'Europe. L’article L&amp;rsquo;IA de frontière est devenue une crise géopolitique est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">2d11c0c7d412820170e11c92ba13ae9d99c58476</guid>
-      <pubDate>Sun, 28 Jun 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Cap-Vert déjoue les pronostics et se qualifie pour les seizièmes de finale</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/27/le-cap-vert-dejoue-les-pronostics-et-se-qualifie-pour-les-seiziemes-de-finale/</link>
-      <description>[Le Grand Continent] Qualifié pour la première fois de son histoire pour la phase à élimination directe, le Cap-Vert offre la plus belle réponse aux critiques concernant l'élargissement du tournoi. L’article Le Cap-Vert déjoue les pronostics et se qualifie pour les seizièmes de finale est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">6797f7edb642a3fc0ff3d24215837017930da57b</guid>
-      <pubDate>Sat, 27 Jun 2026 17:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
