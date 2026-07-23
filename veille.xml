@@ -6,7 +6,71 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 22 Jul 2026 11:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 11:06:00 +0000</lastBuildDate>
+    <item>
+      <title>Bien avant Ormuz, Athènes a fait du contrôle d’un détroit près de Troie la clé de sa fortune</title>
+      <link>https://theconversation.com/bien-avant-ormuz-athenes-a-fait-du-controle-dun-detroit-pres-de-troie-la-cle-de-sa-fortune-287981</link>
+      <description>[The Conversation FR - Histoire] Dans «&amp;nbsp;L’Odyssée&amp;nbsp;-&amp;nbsp;», Christopher Nolan fait de la guerre de Troie un conflit pour le contrôle d’une route maritime. Si cette interprétation s’éloigne d’Homère, elle éclaire pourtant le rôle des Dardanelles.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">9a24f366d3b56c7c7033f3743b499a662d38e62b</guid>
+      <pubDate>Wed, 22 Jul 2026 14:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Faut-il limiter le temps d’écran des enfants ? Les pédiatres américains revoient leur position</title>
+      <link>https://theconversation.com/faut-il-limiter-le-temps-decran-des-enfants-les-pediatres-americains-revoient-leur-position-287983</link>
+      <description>[The Conversation FR - Éducation] À l’heure où la France choisit de limiter l’accès des adolescents aux réseaux sociaux, un changement de doctrine s’opère chez les pédiatres américains.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">126cdf2e9955a5a31d85befa103253e2139c5335</guid>
+      <pubDate>Wed, 22 Jul 2026 14:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Écouter Phnom Penh : ce que les cultures urbaines disent du Cambodge contemporain</title>
+      <link>https://theconversation.com/ecouter-phnom-penh-ce-que-les-cultures-urbaines-disent-du-cambodge-contemporain-286369</link>
+      <description>[The Conversation FR - International] Dans les rues de Phnom Penh, le rap et le skateboard deviennent de nouveaux marqueurs sociaux.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">a49a197507d3c1bc586de565e61127330477503c</guid>
+      <pubDate>Wed, 22 Jul 2026 14:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Chine, il y a trois fois plus d’offres d’emploi que d’ingénieurs en algorithmes d’IA</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/23/en-chine-il-y-a-trois-fois-plus-doffres-demploi-que-dingenieurs-en-algorithmes-dia/</link>
+      <description>[Le Grand Continent] Le pays pourrait connaître un déficit de 4 millions de travailleurs spécialisés dans le secteur de l’IA d’ici 2030. L’article En Chine, il y a trois fois plus d&amp;rsquo;offres d&amp;#8217;emploi que d&amp;rsquo;ingénieurs en algorithmes d&amp;rsquo;IA est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">724dd3fd57ddf9638f87bc0a5f2ccacb53efb92a</guid>
+      <pubDate>Thu, 23 Jul 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le premier pas de l’extrême droite, c’est de normaliser des mots extrêmes</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/23/le-premier-pas-de-lextreme-droite-cest-de-normaliser-des-mots-extremes/</link>
+      <description>[Le Grand Continent] Pour naviguer dans la politique de nos années Vingt, nous publions à partir de lundi un ambitieux Vocabulaire de l'extrême droite. Son directeur scientifique s'explique. L’article Le premier pas de l&amp;rsquo;extrême droite, c&amp;rsquo;est de normaliser des mots extrêmes est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">7126f04356aa896a556a71083974a48b9f067f4c</guid>
+      <pubDate>Thu, 23 Jul 2026 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En signant un accord sur le nucléaire civil avec l’Arabie saoudite, Trump ouvre-t-il la voie à une prolifération nucléaire au Moyen-Orient ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/22/en-signant-un-accord-sur-le-nucleaire-civil-avec-larabie-saoudite-trump-ouvre-t-il-la-voie-a-une-proliferation-nucleaire-au-moyen-orient/</link>
+      <description>[Le Grand Continent] La Maison-Blanche pourrait signer dès aujourd’hui, mercredi 22, un accord de 30 ans autorisant des entreprises américaines à développer un programme nucléaire civil en Arabie saoudite. L’article En signant un accord sur le nucléaire civil avec l&amp;rsquo;Arabie saoudite, Trump ouvre-t-il la voie à une prolifération nucléaire au Moyen-Orient&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">a1b75487c477edeab87aa3e97c93b87f06a9a1bf</guid>
+      <pubDate>Wed, 22 Jul 2026 14:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’IA est-elle en train de cannibaliser l’économie mondiale ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/22/lia-est-elle-en-train-de-cannibaliser-leconomie-mondiale/</link>
+      <description>[Le Grand Continent] L'explosion de l’intelligence artificielle et les risques d’une transition hors norme. L’article L&amp;rsquo;IA est-elle en train de cannibaliser l’économie mondiale&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b9ca4712a7992b977e7d72e8167f213b32c97d99</guid>
+      <pubDate>Wed, 22 Jul 2026 13:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qui est Mykhaïlo Drapatiy, le nouveau commandant en chef des armées ukrainiennes ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/22/qui-est-mykhailo-drapatiy-le-nouveau-commandant-en-chef-des-armees-ukrainiennes/</link>
+      <description>[Le Grand Continent] Drapatiy est le 3e commandant en chef des armées ukrainiennes depuis 2022. L’article Qui est Mykhaïlo Drapatiy, le nouveau commandant en chef des armées ukrainiennes&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">ffffeaa85c5e3f19a9d7689c8a65ef91c1ac749c</guid>
+      <pubDate>Wed, 22 Jul 2026 11:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>Le « SAVE America Act » : réforme de bon sens ou manœuvre partisane ?</title>
       <link>https://theconversation.com/le-save-america-act-reforme-de-bon-sens-ou-manoeuvre-partisane-287881</link>
@@ -1542,70 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">519f7e030468abdf6aeaab3eadf18e0da265eb40</guid>
       <pubDate>Mon, 29 Jun 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Japon et le Maroc sont deux équipes à ne pas sous-estimer</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/29/le-japon-et-le-maroc-sont-deux-equipes-a-ne-pas-sous-estimer/</link>
-      <description>[Le Grand Continent] Les deux sélections, considérées comme perdantes par la quasi-totalité des pronostics, pourraient créer la surprise lors de leurs matchs respectifs contre le Brésil et les Pays-Bas. L’article Le Japon et le Maroc sont deux équipes à ne pas sous-estimer est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">70e2e904bb67af967ca6f0196a4797ed9415df45</guid>
-      <pubDate>Mon, 29 Jun 2026 11:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La vague de chaleur la plus intense jamais mesurée en Pologne ne provoque aucun débat politique</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/29/la-vague-de-chaleur-la-plus-intense-jamais-mesuree-en-pologne-ne-provoque-aucun-debat-politique/</link>
-      <description>[Le Grand Continent] L’une des démocraties les plus polarisées d’Europe a-t-elle trouvé un sujet qui ne divise pas&amp;#160;? L’article La vague de chaleur la plus intense jamais mesurée en Pologne ne provoque aucun débat politique est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">486af288fced9459909c0ce57b8876a4e96cf87a</guid>
-      <pubDate>Mon, 29 Jun 2026 08:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La sécurité écologique est la nouvelle frontière de la géopolitique</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/29/la-securite-ecologique-est-la-nouvelle-frontiere-de-la-geopolitique/</link>
-      <description>[Le Grand Continent] Aux fondements de toute autonomie stratégique se trouvent l'énergie, l'eau, les minéraux critiques — et la capacité à les régénérer. L’article La sécurité écologique est la nouvelle frontière de la géopolitique est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">374c7411a6b5c8241044473f22daebaafd479c74</guid>
-      <pubDate>Mon, 29 Jun 2026 05:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Projet 2026 » : les nouvelles méthodes de la désinformation russe</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/29/projet-2026-les-nouvelles-methodes-de-la-desinformation-russe/</link>
-      <description>[Le Grand Continent] Selon une fuite révélée par Bloomberg, le Kremlin se donne de nouvelles ambitions et modalités d'action dans la guerre informationnelle&amp;#160;: s'infiltrer dans les moteurs de recherche et les grands modèles de langage afin d'inonder Internet de contenus reprenant les matériaux ou les argumentaires de la Russie. L’article «&amp;#160;Projet 2026&amp;#160;»&amp;#160;: les nouvelles méthodes de la désinformation russe est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">21ef409527f420129baedc3c7b9fe35ac0e3f9f6</guid>
-      <pubDate>Mon, 29 Jun 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Étienne Davignon (1932-2026), un grand Européen à l’ombre des fantômes du Congo belge</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/28/etienne-davignon-1932-2026-un-grand-europeen-a-lombre-des-fantomes-du-congo-belge/</link>
-      <description>[Le Grand Continent] Le bourgmestre de Charleroi retrace l'itinéraire extraordinaire d'un géant de la diplomatie européenne, disparu il y a un mois. L’article Étienne Davignon (1932-2026), un grand Européen à l’ombre des fantômes du Congo belge est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">d4d6faac49345329bb9c4627f678e1ede055188b</guid>
-      <pubDate>Sun, 28 Jun 2026 15:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Avec le Canada contre l’Afrique du Sud, les éliminations directes commencent. L’Argentine de Messi a-t-elle le parcours le plus favorable ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/28/avec-le-canada-contre-lafrique-du-sud-les-eliminations-directes-commencent-largentine-de-messi-a-t-elle-le-parcours-le-plus-favorable/</link>
-      <description>[Le Grand Continent] Il ne reste plus que 32 matchs jusqu’à la fin du tournoi. L’article Avec le Canada contre l’Afrique du Sud, les éliminations directes commencent. L&amp;rsquo;Argentine de Messi a-t-elle le parcours le plus favorable&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">dfd77de6637ba9ac83da1fbbefc095b6af032c31</guid>
-      <pubDate>Sun, 28 Jun 2026 15:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robin des Bois était bien plus violent que la légende ne le raconte</title>
-      <link>https://theconversation.com/robin-des-bois-etait-bien-plus-violent-que-la-legende-ne-le-raconte-286330</link>
-      <description>[The Conversation FR - Histoire] Robin des Bois est devenu le hors-la-loi le plus célèbre de l'histoire. Pourtant, les récits médiévaux décrivent un personnage bien plus violent que celui de la légende, tandis que d'autres bandits, aujourd'hui oubliés, ont inspiré nombre de ses aventures.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">c02e46e25c7d6bb9c97c5a935ded37772500612e</guid>
-      <pubDate>Sun, 28 Jun 2026 08:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment une dent de chèvre éclaire enfin les secrets de l'élevage dans la Grèce antique</title>
-      <link>https://theconversation.com/comment-une-dent-de-chevre-eclaire-enfin-les-secrets-de-lelevage-dans-la-grece-antique-286329</link>
-      <description>[The Conversation FR - Histoire] Les grands banquets de la Grèce antique étaient-ils alimentés par des troupeaux nomades ou par les fermes locales ? L'analyse isotopique apporte une réponse à un débat vieux d'un siècle.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">d7abefb68fe3a4bebf74e0399d1a4f1aa5bad847</guid>
-      <pubDate>Sun, 28 Jun 2026 08:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
