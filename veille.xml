@@ -6,7 +6,71 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 23 Jul 2026 11:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Arêtes de poisson, quarantaine et vaccination : les armes des Aborigènes contre la variole</title>
+      <link>https://theconversation.com/aretes-de-poisson-quarantaine-et-vaccination-les-armes-des-aborigenes-contre-la-variole-287598</link>
+      <description>[The Conversation FR - Histoire] Longtemps, les historiens ont surtout étudié les origines de l’épidémie de variole qui a ravagé le sud-est de l’Australie au début des années 1830. De nouvelles recherches montrent que les peuples aborigènes ne furent pas seulement des victimes…</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">001ae6f7b7c22a95252bc460f17200777937665f</guid>
+      <pubDate>Fri, 24 Jul 2026 09:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le Royaume-Uni face au scandale des adoptions forcées de l’après-guerre</title>
+      <link>https://theconversation.com/le-royaume-uni-face-au-scandale-des-adoptions-forcees-de-lapres-guerre-287201</link>
+      <description>[The Conversation FR - Histoire] Dans une société où la honte était profondément ancrée dans les traditions religieuses, jusqu’à un demi-million d’enfants ont été confiés à l’adoption au Royaume-Uni et en Irlande sans le consentement de leur mère.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">c0cabf39a02719c0ccd310e2369fab634a9caadd</guid>
+      <pubDate>Fri, 24 Jul 2026 09:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Australie, 85 % des enfants utilisent encore les réseaux sociaux malgré leur interdiction : est-ce déjà un échec ?</title>
+      <link>https://theconversation.com/en-australie-85-des-enfants-utilisent-encore-les-reseaux-sociaux-malgre-leur-interdiction-est-ce-deja-un-echec-288152</link>
+      <description>[The Conversation FR - Éducation] Interdire les réseaux sociaux aux moins de 15 ans est-il efficace&amp;nbsp;? Alors qu’une loi vient d’être votée en ce sens en France, l’Australie dispose déjà de six mois de recul sur la question.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">64a0f997291db1ac65c3319c55cc172afd0ed164</guid>
+      <pubDate>Thu, 23 Jul 2026 14:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coupe du Monde 2026 : le football a-t-il gagné ?</title>
+      <link>https://theconversation.com/coupe-du-monde-2026-le-football-a-t-il-gagne-288223</link>
+      <description>[The Conversation FR - International] Le football au sens large n’est pas sorti vainqueur d’une compétition démesurée, marquée par la personnalité de Donald Trump et l’inféodation à celui-ci de Gianni Infantino.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">854a32402585e3886b79c4ca64443a59a28b86c7</guid>
+      <pubDate>Fri, 24 Jul 2026 08:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ce que la crise politique en Ukraine dit de l’avenir de la défense européenne</title>
+      <link>https://theconversation.com/ce-que-la-crise-politique-en-ukraine-dit-de-lavenir-de-la-defense-europeenne-288007</link>
+      <description>[The Conversation FR - International] Le limogeage de Mykhaïlo Fedorov révèle un enjeu dépassant l’Ukraine : adapter les institutions au rythme de la guerre technologique.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">a19af7d026c6d634a2ff2687a3ec3d115603df12</guid>
+      <pubDate>Thu, 23 Jul 2026 14:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les États-Unis s’apprêteraient à mener des opérations militaires au Mali</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/24/les-etats-unis-sappreteraient-a-mener-des-operations-militaires-au-mali/</link>
+      <description>[Le Grand Continent] Il s’agirait du 8e pays visé par une intervention armée américaine depuis le retour au pouvoir de Donald Trump, il y a 18 mois. L’article Les États-Unis s’apprêteraient à mener des opérations militaires au Mali est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">fda534e16c760401b6135a658efa4df9fbb45135</guid>
+      <pubDate>Fri, 24 Jul 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deux fois plus d’hectares ont brûlé en Europe depuis le 1er janvier par rapport à la moyenne des 20 dernières années</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/23/deux-fois-plus-dhectares-ont-brule-en-europe-depuis-le-1er-janvier-par-rapport-a-la-moyenne-des-20-dernieres-annees/</link>
+      <description>[Le Grand Continent] Au mercredi 22 juillet, 275 000 hectares ont brûlé en Europe depuis le début de l’année, dont plus de la moitié en Espagne et en France. L’article Deux fois plus d&amp;rsquo;hectares ont brûlé en Europe depuis le 1er janvier par rapport à la moyenne des 20 dernières années est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c4e8b050c8bb57566cdce0e2f84257f784f0ed4e</guid>
+      <pubDate>Thu, 23 Jul 2026 16:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le Pakistan veut mettre à profit sa proximité avec Trump pour obtenir une facilité de 10 milliards de dollars</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/23/le-pakistan-veut-mettre-a-profit-sa-proximite-avec-trump-pour-obtenir-une-facilite-de-10-milliards-de-dollars/</link>
+      <description>[Le Grand Continent] En raison de crises et de conflits successifs, les réserves de change du pays ne permettent plus de couvrir que trois mois d'importations. L’article Le Pakistan veut mettre à profit sa proximité avec Trump pour obtenir une facilité de 10 milliards de dollars est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">673dc3bab0f180fb9361c069dca6dc584b8872a2</guid>
+      <pubDate>Thu, 23 Jul 2026 11:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bien avant Ormuz, Athènes a fait du contrôle d’un détroit près de Troie la clé de sa fortune</title>
       <link>https://theconversation.com/bien-avant-ormuz-athenes-a-fait-du-controle-dun-detroit-pres-de-troie-la-cle-de-sa-fortune-287981</link>
@@ -1542,70 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">2a52159e07fecedd817ad9e80151474d3826c625</guid>
       <pubDate>Tue, 30 Jun 2026 16:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les négociations avec les États-Unis sont en train de diviser le régime iranien</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/30/les-negociations-avec-les-etats-unis-sont-en-train-de-diviser-le-regime-iranien/</link>
-      <description>[Le Grand Continent] L’Assemblée des experts a publié une déclaration rare et critique à l'égard des négociations menées avec Washington. L’article Les négociations avec les États-Unis sont en train de diviser le régime iranien est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">8cb7afc6883c748c83ac24026369f18208a7d235</guid>
-      <pubDate>Tue, 30 Jun 2026 13:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Préparer l’agrégation interne d’histoire-géographie avec l’opération Coup de pouce!</title>
-      <link>https://www.aphg.fr/preparer-l-agregation-interne-d-histoire-geographie-avec-l-operation-coup-de/</link>
-      <description>[APHG] En 2022-2023, Joëlle Alazard a initié l&amp;#8217;opération « Coup pouce Agrégation interne » de l&amp;#8217;Association des Professeurs d&amp;#8217;Histoire et de Géographie pour venir en aide aux candidats adhérents à l&amp;#8217;association. Pour faire vivre l&amp;#8217;association, les actions « coup de pouce » sont réservées aux adhérents 2026-2027 (adhésion + abonnement à la revue). Pour ce faire, il vous suffit de cliquer [&amp;#8230;] L’article Préparer l&amp;rsquo;agrégation interne d&amp;rsquo;histoire-géographie ave</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">217298f42b350a958b7017008f066954919942bf</guid>
-      <pubDate>Tue, 30 Jun 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Petits-enfants d’immigrés : du diplôme à l’emploi, le modèle républicain tient-il ses promesses ?</title>
-      <link>https://theconversation.com/petits-enfants-dimmigres-du-diplome-a-lemploi-le-modele-republicain-tient-il-ses-promesses-284677</link>
-      <description>[The Conversation FR - Éducation] Si, dans les familles immigrées, l’ascension scolaire est réelle, la génération des petits-enfants se heurte sur le terrain de l’emploi à des inégalités persistantes.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">76daf8654f2435fa3b729c8b1a758624c15e69b1</guid>
-      <pubDate>Mon, 29 Jun 2026 13:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sahel : pourquoi les massacres de civils par les forces officielles sont en recul</title>
-      <link>https://theconversation.com/sahel-pourquoi-les-massacres-de-civils-par-les-forces-officielles-sont-en-recul-285449</link>
-      <description>[The Conversation FR - International] Au Sahel, les exactions des armées et des milices nourrissent les rébellions djihadistes. La baisse apparente de ces massacres doit être appréhendée avec une grande circonspection.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">6a262bfc996a4db17a897206f2c66c5ab5990e0f</guid>
-      <pubDate>Mon, 29 Jun 2026 14:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le mensonge qui unit Lula et Bolsonaro</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/30/le-mensonge-qui-unit-lula-et-bolsonaro/</link>
-      <description>[Le Grand Continent] L’extrême droite bolsonariste et le Parti des travailleurs tentent de dissimuler une réalité géoéconomique de plus en plus contraignante&amp;#160;: l'étreinte avec la Chine de Xi Jinping. L’article Le mensonge qui unit Lula et Bolsonaro est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">f3f1dbfb3b7d40bd0d9b4427a62da4922047bd6f</guid>
-      <pubDate>Tue, 30 Jun 2026 05:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les manifestations anti-migrants en Afrique du Sud pourraient provoquer le pire épisode de violences depuis 2021</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/30/les-manifestations-anti-migrants-en-afrique-du-sud-pourraient-provoquer-le-pire-episode-de-violences-depuis-2021/</link>
-      <description>[Le Grand Continent] Des manifestants anti-immigration ont fixé un ultimatum&amp;#160;: tous les migrants en situation irrégulière doivent quitter le pays d'ici 30 juin. L’article Les manifestations anti-migrants en Afrique du Sud pourraient provoquer le pire épisode de violences depuis 2021 est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">e54ed8ef188c9c3605fc67dee20c97a9ec206444</guid>
-      <pubDate>Tue, 30 Jun 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pax Silica : l’Europe s’aligne-t-elle sur Washington dans la guerre technologique avec Pékin ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/29/pax-silica-leurope-saligne-t-elle-sur-washington-dans-la-guerre-technologique-avec-pekin/</link>
-      <description>[Le Grand Continent] L’initiative américaine compte désormais 24 pays, dont cinq États membres de l’Union ainsi que la Commission européenne. L’article Pax Silica&amp;#160;: l&amp;rsquo;Europe s&amp;rsquo;aligne-t-elle sur Washington dans la guerre technologique avec Pékin&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">908b47addfa8e2361b6c25646ead38a290670370</guid>
-      <pubDate>Mon, 29 Jun 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Europe marche comme un somnambule vers le nouveau choc chinois</title>
-      <link>https://legrandcontinent.eu/fr/2026/06/29/leurope-marche-comme-un-somnambule-vers-le-nouveau-choc-chinois/</link>
-      <description>[Le Grand Continent] Les conséquences de la stratégie du parti sur le modèle industriel européen sont tout simplement trop massives pour continuer à faire semblant. L’article L’Europe marche comme un somnambule vers le nouveau choc chinois est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">519f7e030468abdf6aeaab3eadf18e0da265eb40</guid>
-      <pubDate>Mon, 29 Jun 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
