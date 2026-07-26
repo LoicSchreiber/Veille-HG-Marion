@@ -6,7 +6,39 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 25 Jul 2026 10:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 10:42:00 +0000</lastBuildDate>
+    <item>
+      <title>Le totalitarisme numérique est-il inéluctable ?</title>
+      <link>https://theconversation.com/le-totalitarisme-numerique-est-il-ineluctable-287104</link>
+      <description>[The Conversation FR - International] L’essor de l’IA et des Big Tech favorise une surveillance accrue. Sans garde-fous démocratiques, le numérique peut mener au technofascisme et au totalitarisme.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">e91c79fedbfb947d9d1f51dc8fceb2a7d7bb45c3</guid>
+      <pubDate>Sun, 26 Jul 2026 07:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pour saisir l’ampleur du développement de la recherche pharmaceutique en Chine, il faut regarder le prix des singes</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/26/pour-saisir-lampleur-du-developpement-de-la-recherche-pharmaceutique-en-chine-il-faut-regarder-le-prix-des-singes/</link>
+      <description>[Le Grand Continent] Une femelle macaque crabier adulte s'échange à près de 26 000 euros en Chine, soit 7,5 fois plus qu'en 2019, avant la pandémie de Covid-19. L’article Pour saisir l&amp;rsquo;ampleur du développement de la recherche pharmaceutique en Chine, il faut regarder le prix des singes est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">95fb15c3f8b9e7e0e69a3f6919fad38de744dcbb</guid>
+      <pubDate>Sun, 26 Jul 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tout ce que vous avez toujours voulu savoir sur l’Encyclique Magnifica humanitas</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/26/tout-ce-que-vous-avez-toujours-voulu-savoir-sur-lencyclique-magnifica-humanitas/</link>
+      <description>[Le Grand Continent] Nous publions l’une des études les plus fouillées, critiques et ambitieuses de la première encyclique sur l’IA. L’article Tout ce que vous avez toujours voulu savoir sur l’Encyclique Magnifica humanitas est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">abd39ae07d4542217dba908a08854b3540a6a18d</guid>
+      <pubDate>Sun, 26 Jul 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>À Berlin, un remaniement ministériel chaotique en plein été</title>
+      <link>https://legrandcontinent.eu/fr/2026/07/25/a-berlin-un-remaniement-ministeriel-chaotique-en-plein-ete/</link>
+      <description>[Le Grand Continent] En plein cœur de l'été, le gouvernement allemand a procédé à un remaniement difficile, à la veille de trois élections régionales clefs. L’article À Berlin, un remaniement ministériel chaotique en plein été est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">cf88e57180987cb631610147326aa547a510146c</guid>
+      <pubDate>Sat, 25 Jul 2026 16:44:00 +0000</pubDate>
+    </item>
     <item>
       <title>Alcool, tabac, cannabis : les jeunes se sont-ils vraiment détournés des drogues ?</title>
       <link>https://theconversation.com/alcool-tabac-cannabis-les-jeunes-se-sont-ils-vraiment-detournes-des-drogues-286189</link>
@@ -1574,38 +1606,6 @@
       <category>The Conversation FR - Histoire</category>
       <guid isPermaLink="false">236457a6ef18912d30a87e280e358f68fc4670f2</guid>
       <pubDate>Wed, 01 Jul 2026 10:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Juneteenth Independence Day » : le long combat des Afro-Américains pour l’accès à l’éducation après l’abolition de l’esclavage</title>
-      <link>https://theconversation.com/juneteenth-independence-day-le-long-combat-des-afro-americains-pour-lacces-a-leducation-apres-labolition-de-lesclavage-285961</link>
-      <description>[The Conversation FR - Histoire] Contraction des mots «&amp;nbsp;June&amp;nbsp;» (juin) et «&amp;nbsp;nineteenth&amp;nbsp;» (dix-neuvième), le Juneteenth, qui marque l’émancipation des esclaves, est devenu un jour férié en 2021 aux États-Unis.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">9b78cbfd965c8c76ac879af112db790f83950cc5</guid>
-      <pubDate>Wed, 01 Jul 2026 10:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Fayette a aidé les Américains à renverser le cours de la guerre d’indépendance – et à forger un sentiment d’identité nationale</title>
-      <link>https://theconversation.com/la-fayette-a-aide-les-americains-a-renverser-le-cours-de-la-guerre-dindependance-et-a-forger-un-sentiment-didentite-nationale-285953</link>
-      <description>[The Conversation FR - Histoire] Accueilli comme un héros de retour au pays, le marquis de La&amp;nbsp;Fayette effectua une grande tournée aux États-Unis en 1824-1825, juste avant le 50ᵉ&amp;nbsp;anniversaire de l’indépendance.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">59499dd82fdbe842a0ae76ffaae382c9cea0ef55</guid>
-      <pubDate>Wed, 01 Jul 2026 10:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Savoir nager est essentiel, mais ne suffit pas à prévenir les noyades</title>
-      <link>https://theconversation.com/savoir-nager-est-essentiel-mais-ne-suffit-pas-a-prevenir-les-noyades-286377</link>
-      <description>[The Conversation FR - Éducation] Le regain de baignades pendant la canicule s’est accompagné d’une hausse marquée des noyades. Comment intégrer à l’apprentissage de la natation les réflexes de prévention nécessaires à tous les âges&amp;nbsp;?</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">f975b890b2f43927541f344a7d22d0d9f8831f0e</guid>
-      <pubDate>Tue, 30 Jun 2026 14:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Viêt Nam a franchi le cap des 100 millions d’habitants. Et demain ?</title>
-      <link>https://theconversation.com/le-viet-nam-a-franchi-le-cap-des-100-millions-dhabitants-et-demain-286280</link>
-      <description>[The Conversation FR - International] La hausse de la population devrait ralentir dans les prochaines décennies, et une baisse pourrait survenir dans la seconde moitié du siècle.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">929b8c58964ba6110d2f776096d8ad8194883f0c</guid>
-      <pubDate>Tue, 30 Jun 2026 14:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
