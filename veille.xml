@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 02 Aug 2026 10:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 12:18:00 +0000</lastBuildDate>
+    <item>
+      <title>Que signifient les chevelures bouclées des Égyptiennes d’hier et d’aujourd’hui ?</title>
+      <link>https://theconversation.com/que-signifient-les-chevelures-bouclees-des-egyptiennes-dhier-et-daujourdhui-285868</link>
+      <description>[The Conversation FR - Histoire] Déjà dans l’Égypte ancienne, les chevelures bouclées revêtaient une symbolique forte.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">7295f5632bb25be584cfde4ae9437fc8610e310a</guid>
+      <pubDate>Sun, 02 Aug 2026 13:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Construire des cabanes : un jeu d’enfants qui interroge nos liens avec la nature</title>
+      <link>https://theconversation.com/construire-des-cabanes-un-jeu-denfants-qui-interroge-nos-liens-avec-la-nature-286727</link>
+      <description>[The Conversation FR - Éducation] Que nous disent les cabanes des imaginaires de l’enfance ? Et comment permettent-elles aux plus jeunes de se sentir petit à petit dans la nature comme chez eux ?</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">3b715efd976f49ced82a9c8fcfb7a333d8a1057b</guid>
+      <pubDate>Sun, 02 Aug 2026 13:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Économie russe : la crise des carburants s’approfondit et les exportations chutent</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/03/economie-russe-la-crise-des-carburants-sapprofondit-et-les-exportations-chutent/</link>
+      <description>[Le Grand Continent] Parmi les premiers exportateurs mondiaux de produits pétroliers avant l'invasion de l'Ukraine, la Russie doit désormais acheter son essence à l'Inde et au Kazakhstan. L’article Économie russe&amp;#160;: la crise des carburants s’approfondit et les exportations chutent est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">dd87de3dfab06d1ffa80cf701cc9e765b0918ce5</guid>
+      <pubDate>Mon, 03 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’administration Trump est en train de faire plier l’Université américaine</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/03/ladministration-trump-est-en-train-de-faire-plier-luniversite-americaine/</link>
+      <description>[Le Grand Continent] Selon l’ancien directeur de la Yale Law School, un règlement passé inaperçu en Europe donne à la Maison-Blanche un levier sur la science américaine. L’article L&amp;rsquo;administration Trump est en train de faire plier l’Université américaine est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">8ab4b49e16c22fb7d47e4f5511848235000ba1c1</guid>
+      <pubDate>Mon, 03 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La crise de Ceuta est-elle la première ruée algorithmique de l’histoire ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/02/la-crise-de-ceuta-est-elle-la-premiere-ruee-algorithmique-de-lhistoire/</link>
+      <description>[Le Grand Continent] Tout ce que l'on sait du rôle des réseaux sociaux dans le pic migratoire historique du 30 juillet qui est maintenant presque entièrement résorbé. L’article La crise de Ceuta est-elle la première ruée algorithmique de l’histoire&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b76b9651cb13400e00ba8c1101504985bbe05e60</guid>
+      <pubDate>Sun, 02 Aug 2026 14:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La plus grande victoire de la mafia est d’avoir cessé de ressembler à la mafia</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/02/la-plus-grande-victoire-de-la-mafia-est-davoir-cesse-de-ressembler-a-la-mafia/</link>
+      <description>[Le Grand Continent] Les révélations du grand écrivain italien, condamné à vivre sous escorte. L’article La plus grande victoire de la mafia est d&amp;rsquo;avoir cessé de ressembler à la mafia est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">3cc7fa6ca7ccb4904533f25af65166d8f1263031</guid>
+      <pubDate>Sun, 02 Aug 2026 14:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>Inde : la crise de la classe moyenne nourrit la colère étudiante</title>
       <link>https://theconversation.com/inde-la-crise-de-la-classe-moyenne-nourrit-la-colere-etudiante-288761</link>
@@ -1558,54 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">f15072393d8f6526c5856e7509016ed847c72d61</guid>
       <pubDate>Wed, 08 Jul 2026 09:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Près d’une majorité d’Européens s’opposent à des coupes dans les dépenses publiques pour investir dans la défense</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/08/pres-dune-majorite-deuropeens-sopposent-a-des-coupes-dans-les-depenses-publiques-pour-investir-dans-la-defense/</link>
-      <description>[Le Grand Continent] Depuis 2015, les dépenses militaires de l'Otan ont augmenté de 28&amp;#160;% en volume, avec un objectif d'atteindre 5&amp;#160;% du PIB d'ici 2035, un calendrier que le sommet d'Ankara pourrait encore accélérer. Dans un contexte budgétaire fragile, ce financement pourrait s'imposer comme un sujet clef du débat&amp;#160;: selon une récente enquête, près d'une majorité d'Européens s'opposent à des coupes dans les dépenses publiques pour investir dans la défense. L’article Près d’une majorité d&amp;rsquo;Européen</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">da716af274f97df645b95595d41e5df509dbf200</guid>
-      <pubDate>Wed, 08 Jul 2026 05:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En amont du sommet de l’OTAN à Ankara, Trump menace à nouveau le Groenland</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/07/en-amont-du-sommet-de-lotan-a-ankara-trump-menace-a-nouveau-le-groenland/</link>
-      <description>[Le Grand Continent] Trump a réitéré, aujourd’hui, 7 juillet, aux côtés d'Erdoğan, qu’«&amp;#160;il faut que le Groenland soit contrôlé par les États-Unis, et non par le Danemark&amp;#160;». L’article En amont du sommet de l’OTAN à Ankara, Trump menace à nouveau le Groenland est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">aaaf63f0368b42155803c0abd9e1c4fac51e6805</guid>
-      <pubDate>Tue, 07 Jul 2026 17:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment Erdoğan a inventé le néo-royalisme</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/07/commet-erdogan-a-invente-le-neo-royalisme/</link>
-      <description>[Le Grand Continent] Depuis deux décennies, le président turc travaille systématiquement à l’avènement d’un nouveau régime politique. L’article Comment Erdoğan a inventé le néo-royalisme est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">8f1c8af27eae768396898bd3b237e7c68f013929</guid>
-      <pubDate>Tue, 07 Jul 2026 15:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cristiano Ronaldo fait ses adieux à la dernière Coupe du monde de sa carrière</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/07/cristiano-ronaldo-fait-ses-adieux-a-la-derniere-coupe-du-monde-de-sa-carriere/</link>
-      <description>[Le Grand Continent] L’Espagne a éliminé le Portugal hier, 6 juin, dans un match marqué par la prudence. La Roja a toutefois une nouvelle fois prouvé qu’elle savait s’imposer, que ce soit en jouant de manière spectaculaire ou en gérant les moments difficiles, ce qui en fait une candidate sérieuse à la victoire finale. L’article Cristiano Ronaldo fait ses adieux à la dernière Coupe du monde de sa carrière est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">3ad2eea5289dec0446fecd0d7fcd46427f11f37e</guid>
-      <pubDate>Tue, 07 Jul 2026 13:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qu’est-ce que « l’affichage parental d’images de mineurs » ?</title>
-      <link>https://theconversation.com/quest-ce-que-laffichage-parental-dimages-de-mineurs-286722</link>
-      <description>[The Conversation FR - Éducation] Publier une photo de famille sur les réseaux sociaux, est-ce partager un souvenir ou exposer son enfant&amp;nbsp;? L’expression «&amp;nbsp;affichage parental d’images de mineurs&amp;nbsp;» invite à se poser la question.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">7b8b17b7b02a5db26b24310e1d7828e3e6924611</guid>
-      <pubDate>Mon, 06 Jul 2026 13:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pourquoi l’Iran ne parviendra pas à instaurer un péage dans le détroit d’Ormuz</title>
-      <link>https://theconversation.com/pourquoi-liran-ne-parviendra-pas-a-instaurer-un-peage-dans-le-detroit-dormuz-286573</link>
-      <description>[The Conversation FR - International] L’instauration par l’Iran d’un péage permanent sur le détroit d’Ormuz ne serait ni légale ni réalisable.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">d414e8fc4add13bae0ee4592a6c544df16ea521d</guid>
-      <pubDate>Mon, 06 Jul 2026 13:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
