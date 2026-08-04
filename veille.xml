@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 03 Aug 2026 12:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 11:20:00 +0000</lastBuildDate>
+    <item>
+      <title>Route 66 : cent ans d’un mythe qui ne raconte pas toute l’histoire</title>
+      <link>https://theconversation.com/route-66-cent-ans-dun-mythe-qui-ne-raconte-pas-toute-lhistoire-287643</link>
+      <description>[The Conversation FR - Histoire] Symbole du rêve américain, de l’aventure et de la liberté, la Route 66 n’a pourtant jamais offert la même expérience à tous. Son histoire raconte aussi l’exclusion des voyageurs noirs et le déclin des petites villes qu’elle faisait vivre.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">650dde6251af9cae9b46aa801bba3539b579e82e</guid>
+      <pubDate>Mon, 03 Aug 2026 14:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aux États-Unis, les universités peinent à enrayer le recul de la lecture</title>
+      <link>https://theconversation.com/aux-etats-unis-les-universites-peinent-a-enrayer-le-recul-de-la-lecture-288421</link>
+      <description>[The Conversation FR - Éducation] Aux États-Unis, les enseignants du supérieur voient leurs étudiants lire de moins en moins. Face à ce recul, certains réduisent leurs exigences.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">67ccdb7f233d05e1b92f98677ee6d59010218181</guid>
+      <pubDate>Mon, 03 Aug 2026 14:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>« Ils sont parmi nous » : la nouvelle plateforme de la Maison-Blanche et la déshumanisation des sans-papiers</title>
+      <link>https://theconversation.com/ils-sont-parmi-nous-la-nouvelle-plateforme-de-la-maison-blanche-et-la-deshumanisation-des-sans-papiers-288434</link>
+      <description>[The Conversation FR - International] La page «&amp;nbsp;Aliens.gov&amp;nbsp;», hébergée sur le site de la Maison-Blanche, joue sur le double sens en anglais du mot «&amp;nbsp;alien&amp;nbsp;» (étranger/extraterrestre) afin de déshumaniser les immigrés clandestins.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">43de26efabf74b3d8a55d986e3ccce926005a1f2</guid>
+      <pubDate>Mon, 03 Aug 2026 14:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La monnaie est redevenue une arme, il faut armer l’euro</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/04/la-monnaie-est-redevenue-une-arme-il-faut-armer-leuro/</link>
+      <description>[Le Grand Continent] Notre souveraineté dépend désormais de la capacité à faire de la monnaie commune un instrument de puissance géopolitique. L’article La monnaie est redevenue une arme, il faut armer l’euro est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">97160497125f3bd336d1ef4332ecfa37d4d8ae19</guid>
+      <pubDate>Tue, 04 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Combien de soldats russes combattent vraiment en Ukraine ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/04/combien-de-soldats-russes-combattent-vraiment-en-ukraine/</link>
+      <description>[Le Grand Continent] La lecture méticuleuse du budget de la Russie permet d’y voir plus clair dans le brouillard de guerre du Kremlin. L’article Combien de soldats russes combattent vraiment en Ukraine&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">d0fbbadb824e8f5b0ab2a816e2e9f4686eed9676</guid>
+      <pubDate>Tue, 04 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La doctrine Bessent fait du dollar la monnaie de la vassalisation heureuse</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/03/la-doctrine-bessent-fait-du-dollar-la-monnaie-de-la-vassalisation-heureuse/</link>
+      <description>[Le Grand Continent] En intervenant sur le yen après le peso, l'administration Trump inaugure une protection monétaire réservée à ses alliés les plus alignés, désormais intégrés à un système asymétrique de tribut. L’article La doctrine Bessent fait du dollar la monnaie de la vassalisation heureuse est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">27fe8fab7acfa235b253beb5dc8d91846505af52</guid>
+      <pubDate>Mon, 03 Aug 2026 15:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>Que signifient les chevelures bouclées des Égyptiennes d’hier et d’aujourd’hui ?</title>
       <link>https://theconversation.com/que-signifient-les-chevelures-bouclees-des-egyptiennes-dhier-et-daujourdhui-285868</link>
@@ -1558,54 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">678430f7677d7df7a94fc970424e03832709373d</guid>
       <pubDate>Wed, 08 Jul 2026 15:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pékin s’apprête à durcir l’accès étranger à ses modèles d’IA de pointe</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/08/pekin-sapprete-a-durcir-lacces-etranger-a-ses-modeles-dia-de-pointe/</link>
-      <description>[Le Grand Continent] Le renforcement du contrôle chinois sur les flux technologiques liés à l’IA s’inscrit dans un contexte de symétrisation avec les États-Unis. L’article Pékin s’apprête à durcir l’accès étranger à ses modèles d’IA de pointe est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">a6e1e27ecae9b6675e0ac38929b17c6743803b8d</guid>
-      <pubDate>Wed, 08 Jul 2026 14:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coup de pouce Agrégation interne – Méthodologie de la dissertation de géographie</title>
-      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-methodologie-de-la-dissertation-de-geographie/</link>
-      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2026-2027 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance proposée par Zoé Lambert et consacrée à la méthodologie de la dissertation de géographie. Le podcast est proposé [&amp;#8230;] L’article Coup de pouce Agrégation interne – Méthodologie de la dissertation de géographie est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">930e6b546cb263bb2607f8ddfe500f2b56651110</guid>
-      <pubDate>Tue, 07 Jul 2026 18:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coup de pouce Agrégation interne – Préparer le concours avec méthode</title>
-      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-preparer-le-concours-avec-methode-2/</link>
-      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2026-2027 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance proposée par Marie Laulan, Nathalie Maquoi et Sandrine Romy la méthodologie et l&amp;#8217;organisation générales du concours. Le podcast [&amp;#8230;] L’article Coup de pouce Agrégation interne – Préparer le concours avec méthode est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">e18342601c81964e230271ca183c707e639a28bb</guid>
-      <pubDate>Tue, 07 Jul 2026 18:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Retour sur le Covid-19 : d’une crise globale à des réponses nationales, les enseignements de la France, du Brésil et du Portugal</title>
-      <link>https://theconversation.com/retour-sur-le-covid-19-dune-crise-globale-a-des-reponses-nationales-les-enseignements-de-la-france-du-bresil-et-du-portugal-286204</link>
-      <description>[The Conversation FR - International] Une analyse de la France, du Portugal et du Brésil montre comment l’organisation des soins et la gouvernance de chaque pays ont influencé la réponse nationale face au Covid-19.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">5b8787c00b713500f39a8ee4e23446c8ff0fbf13</guid>
-      <pubDate>Tue, 07 Jul 2026 13:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Des drones à quelques milliers de dollars contre des bombardiers à 100 millions : les grandes puissances sont-elles encore à l’abri ?</title>
-      <link>https://theconversation.com/des-drones-a-quelques-milliers-de-dollars-contre-des-bombardiers-a-100-millions-les-grandes-puissances-sont-elles-encore-a-labri-286311</link>
-      <description>[The Conversation FR - International] Les drones bon marché font des équipements coûteux des grandes puissances des cibles privilégiées.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">2369cc7630ea4a544f9dbbc43f776bd3eb2fa137</guid>
-      <pubDate>Tue, 07 Jul 2026 13:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En continuant ses frappes contre l’Iran, les États-Unis marquent-ils un nouveau pivot vers le Moyen-Orient ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/08/en-continuant-ses-frappes-contre-liran-les-etats-unis-marquent-ils-un-nouveau-pivot-vers-le-moyen-orient/</link>
-      <description>[Le Grand Continent] En poursuivant la guerre contre l’Iran, les États-Unis pourraient mettre une limite matérielle à leurs possibilités d’intervention sur d’autres théâtres d'opérations, y compris dans l’Indo-Pacifique. L’article En continuant ses frappes contre l’Iran, les États-Unis marquent-ils un nouveau pivot vers le Moyen-Orient&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">f15072393d8f6526c5856e7509016ed847c72d61</guid>
-      <pubDate>Wed, 08 Jul 2026 09:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
