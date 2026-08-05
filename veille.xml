@@ -6,7 +6,71 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 04 Aug 2026 11:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 11:16:00 +0000</lastBuildDate>
+    <item>
+      <title>Le pouvoir politique face aux incendies : depuis la Rome de Néron, un exercice de mise en scène ?</title>
+      <link>https://theconversation.com/le-pouvoir-politique-face-aux-incendies-depuis-la-rome-de-neron-un-exercice-de-mise-en-scene-288896</link>
+      <description>[The Conversation FR - Histoire] Comment les textes antiques peuvent-ils nous aider à remettre en perspective les rouages de la communication politique en situation de crise&amp;nbsp;?</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">66b4e8bd5635192aa08fc90ce5d69fab68543a79</guid>
+      <pubDate>Tue, 04 Aug 2026 14:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’administration Trump veut priver les citoyens d’un puissant levier pour protéger l’environnement</title>
+      <link>https://theconversation.com/ladministration-trump-veut-priver-les-citoyens-dun-puissant-levier-pour-proteger-lenvironnement-289055</link>
+      <description>[The Conversation FR - International] Depuis des décennies, des citoyens et des associations utilisent les tribunaux pour contraindre les entreprises et l’État fédéral à respecter les lois environnementales. L’administration Trump cherche désormais à restreindre ce pouvoir.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">f93ff6ee04c6066c7df80ea6cdc1a4ff48467958</guid>
+      <pubDate>Tue, 04 Aug 2026 14:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La défaite de la Seleção peut-elle coûter une élection présidentielle au Brésil ?</title>
+      <link>https://theconversation.com/la-defaite-de-la-selecao-peut-elle-couter-une-election-presidentielle-au-bresil-288655</link>
+      <description>[The Conversation FR - International] Le Brésil a l’image d’un pays fou de football, si bien qu’on peut se demander s’il y a un rapport entre les résultats de son équipe nationale et la perception qu’a la population du pouvoir en place.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">e8dc48a05c00abad5203616a0a84311b1a2b022d</guid>
+      <pubDate>Tue, 04 Aug 2026 14:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump peut encore gagner les élections de mi-mandat</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/05/trump-peut-encore-gagner-les-elections-de-mi-mandat/</link>
+      <description>[Le Grand Continent] Les sondages erronés et les divisions démocrates pourraient offrir une victoire inattendue en novembre au parti républicain. L’article Trump peut encore gagner les élections de mi-mandat est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">a93237f817f5c783b99c1f6e9a65bdc3970893af</guid>
+      <pubDate>Wed, 05 Aug 2026 09:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Avec V4-Flash, DeepSeek mise sur l’IA à faible coût plutôt que sur la course à la puissance</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/05/avec-v4-flash-deepseek-mise-sur-lia-a-faible-cout-plutot-que-sur-la-course-a-la-puissance/</link>
+      <description>[Le Grand Continent] Fin juillet, le Chinois DeepSeek, leader de l'IA à bas coût, a publié la nouvelle version de son modèle «&amp;#160;Flash&amp;#160;»&amp;#160;: cent fois moins cher que Claude Fable 5, le modèle le plus avancé d'Anthropic, gratuit et librement réutilisable, il est déjà en tête des usages sur la plateforme OpenRouter. L’article Avec V4-Flash, DeepSeek mise sur l&amp;rsquo;IA à faible coût plutôt que sur la course à la puissance est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">6e2441d357ac0de31443ab65efd0a03323921ac8</guid>
+      <pubDate>Wed, 05 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi le Maroc n’a pas pu orchestrer la crise de Ceuta</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/05/pourquoi-le-maroc-na-pas-pu-orchestrer-la-crise-de-ceuta/</link>
+      <description>[Le Grand Continent] Attribuer la crise à Rabat revient à méconnaître la dynamique sociale marocaine et la singularité de l’exclave. L’article Pourquoi le Maroc n’a pas pu orchestrer la crise de Ceuta est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">873865b8374d66b9706b6c390c8ed090ed2edf79</guid>
+      <pubDate>Wed, 05 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les réseaux sociaux ont-ils organisé la ruée vers Ceuta ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/04/les-reseaux-sociaux-ont-ils-organise-la-ruee-vers-ceuta/</link>
+      <description>[Le Grand Continent] Une enquête OSINT reconstitue le passage de 50 000 migrants dans l’exclave espagnole. L’article Les réseaux sociaux ont-ils organisé la ruée vers Ceuta&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">7bba4861ae92ca6bc06dd4ba7b729d09943118cf</guid>
+      <pubDate>Tue, 04 Aug 2026 17:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Après la crise de Ceuta l’Europe doit apprendre à sécuriser ses frontières numériques</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/04/apres-la-crise-de-ceuta-leurope-doit-apprendre-a-securiser-ses-frontieres-numeriques/</link>
+      <description>[Le Grand Continent] L’ancien commissaire européen indique les pistes étonnamment négligées à ce stade par la présidente Ursula von der Leyen. L’article Après la crise de Ceuta l&amp;rsquo;Europe doit apprendre à sécuriser ses frontières numériques est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">46bf4ebcbc6265f460343bfa1801c82534733b86</guid>
+      <pubDate>Tue, 04 Aug 2026 14:32:00 +0000</pubDate>
+    </item>
     <item>
       <title>Route 66 : cent ans d’un mythe qui ne raconte pas toute l’histoire</title>
       <link>https://theconversation.com/route-66-cent-ans-dun-mythe-qui-ne-raconte-pas-toute-lhistoire-287643</link>
@@ -1542,70 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">6c4770c943c9f7d2668e06d67a11a041fb88528f</guid>
       <pubDate>Fri, 10 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dans les rues de la capitale de la Corée du Nord il y a de plus en plus de voitures</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/09/pourquoi-les-voitures-se-multiplient-dans-les-rues-de-pyongyang/</link>
-      <description>[Le Grand Continent] La hausse du nombre de véhicules en circulation dans la capitale nord-coréenne reflète les efforts de Kim Jong-Un visant à stimuler la consommation. L’article Dans les rues de la capitale de la Corée du Nord il y a de plus en plus de voitures est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">e7e8ff7bd0a6d0c601b2f64e87b5b40e0c3046c5</guid>
-      <pubDate>Thu, 09 Jul 2026 16:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peut-on apprendre la géographie française grâce aux jeux « Pokémon » ?</title>
-      <link>https://theconversation.com/peut-on-apprendre-la-geographie-francaise-grace-aux-jeux-pokemon-286912</link>
-      <description>[The Conversation FR - Éducation] Les jeux «&amp;nbsp;Pokémon&amp;nbsp;» mobilisent en toile de fond la géographie, l’histoire et la culture des lieux dont ils sont inspirés, avec un savant dosage de clichés et de réalisme.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">48aabb13487eaa9609079991d1bebe561718fd04</guid>
-      <pubDate>Wed, 08 Jul 2026 13:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En supprimant le garant et le dépôt de garantie, le Brésil facilite la location des logements. Qui en profite vraiment ?</title>
-      <link>https://theconversation.com/en-supprimant-le-garant-et-le-depot-de-garantie-le-bresil-facilite-la-location-des-logements-qui-en-profite-vraiment-281809</link>
-      <description>[The Conversation FR - International] Au Brésil, la plateforme Quintoandar se charge du recouvrement judiciaire auprès des propriétaires en cas d’impayés des locataires. Une garantie locative privée qui arrange tout le monde.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">62fb28a5f258125202ba74b44b2870bdbc48e39b</guid>
-      <pubDate>Wed, 08 Jul 2026 13:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’équipe marocaine que la France va affronter ce soir sera un adversaire plus redoutable qu’en 2022</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/09/lequipe-marocaine-que-la-france-va-affronter-ce-soir-sera-un-adversaire-plus-redoutable-que-en-2022/</link>
-      <description>[Le Grand Continent] Le Maroc s’est considérablement amélioré depuis la Coupe du monde au Qatar. L’article L’équipe marocaine que la France va affronter ce soir sera un adversaire plus redoutable qu’en 2022 est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">ac960017d404f9162ce5cdaaa3a1d2387c9dc744</guid>
-      <pubDate>Thu, 09 Jul 2026 11:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Économie russe : plus de 80 % des capacités de raffinage du pays ont été prises pour cible par l’Ukraine cette année</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/09/economie-russe-plus-de-80-des-capacites-de-raffinage-du-pays-ont-ete-prises-pour-cible-par-lukraine-cette-annee/</link>
-      <description>[Le Grand Continent] Depuis le 1er janvier, 16 raffineries de pétrole russes représentant une capacité de raffinage de 161 millions de tonnes par an ont été ciblées à plusieurs reprises par des drones ukrainiens. L’article Économie russe&amp;#160;: plus de 80&amp;#160;% des capacités de raffinage du pays ont été prises pour cible par l’Ukraine cette année est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">da3610f30ab66b8bf3097c0b3a68c9486343a65c</guid>
-      <pubDate>Thu, 09 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le nouveau choc chinois oblige l’Europe à se réinventer plus qu’à se protéger</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/09/le-nouveau-choc-chinois-oblige-leurope-a-se-reinventer-plus-qua-se-proteger/</link>
-      <description>[Le Grand Continent] Le maximalisme industriel de Pékin est en train de faire changer le modèle européen. L’article Le nouveau choc chinois oblige l&amp;rsquo;Europe à se réinventer plus qu&amp;rsquo;à se protéger est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">07a6985cca05c076cdfb699f5d161b4f38062e48</guid>
-      <pubDate>Thu, 09 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Coupe du monde est-elle sous l’influence de Trump ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/08/la-coupe-du-monde-est-elle-sous-linfluence-de-trump/</link>
-      <description>[Le Grand Continent] L'opportunisme politique de Gianni Infantino est bien connu, mais sa proximité avec Trump a atteint des proportions troublantes. L’article La Coupe du monde est-elle sous l&amp;rsquo;influence de Trump&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">2c6af92d379820467db7ab245c2f939f67236372</guid>
-      <pubDate>Wed, 08 Jul 2026 15:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Opération Prométhée : la France peut gagner la course à l’IA. Quel en serait le prix ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/08/operation-promethee-la-france-peut-gagner-la-course-a-lia-quel-en-serait-le-prix/</link>
-      <description>[Le Grand Continent] Une pièce de doctrine à l'attention du prochain président de la République et de ses électeurs. L’article Opération Prométhée&amp;#160;: la France peut gagner la course à l&amp;rsquo;IA. Quel en serait le prix&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">678430f7677d7df7a94fc970424e03832709373d</guid>
-      <pubDate>Wed, 08 Jul 2026 15:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
