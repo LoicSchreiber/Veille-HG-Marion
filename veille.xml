@@ -6,7 +6,31 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 09 Aug 2026 09:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:12:00 +0000</lastBuildDate>
+    <item>
+      <title>La France et l’Europe deviendront-elles inassurables ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/10/la-france-et-leurope-deviendront-elles-inassurables/</link>
+      <description>[Le Grand Continent] Les événements climatiques extrêmes, désormais récurrents et dont l'impact est croissant d'année en année, posent une question cruciale aux banques et aux assurances. L’article La France et l’Europe deviendront-elles inassurables&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">bd93b3bda061d93dfd8a6795772a31bf547d370d</guid>
+      <pubDate>Mon, 10 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Et si la vraie révolution technologique n’était pas l’IA ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/10/la-vraie-revolution-technologique/</link>
+      <description>[Le Grand Continent] La course aux modèles pourrait masquer une transformation plus décisive de l’économie mondiale&amp;#160;: l’énergie verte. L’article Et si la vraie révolution technologique n’était pas l’IA&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">83328065c838bff414999585e4fa1d0b937234f7</guid>
+      <pubDate>Mon, 10 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’État profond</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/09/letat-profond/</link>
+      <description>[Le Grand Continent] Comment la notion turque de derin devlet est devenue l'arme virale de nos années Vingt&amp;#160;? L’article L’État profond est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2c5193bbe816028c5aca226ab319a24b32526e6f</guid>
+      <pubDate>Sun, 09 Aug 2026 17:46:00 +0000</pubDate>
+    </item>
     <item>
       <title>Comment les éclipses ont ouvert la cour impériale chinoise aux sciences européennes</title>
       <link>https://theconversation.com/comment-les-eclipses-ont-ouvert-la-cour-imperiale-chinoise-aux-sciences-europeennes-289241</link>
@@ -1582,30 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">f0b61defe3c037b9faff0124d6c77dbc711fd207</guid>
       <pubDate>Sun, 12 Jul 2026 13:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peut-on cartographier l'Odyssée ? Comment géographes antiques et chercheurs d'aujourd'hui ont retracé le voyage d'Ulysse</title>
-      <link>https://theconversation.com/peut-on-cartographier-lodyssee-comment-geographes-antiques-et-chercheurs-daujourdhui-ont-retrace-le-voyage-dulysse-287354</link>
-      <description>[The Conversation FR - Histoire] Et si l’Odyssée était aussi un atlas ? Pendant des siècles, des érudits ont tenté d'identifier les escales d'Ulysse sur les rivages de la Méditerranée, brouillant sans cesse la frontière entre histoire, géographie et mythologie.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">cf0d3fdb738cf339a780d50e8fa8580a02e93c55</guid>
-      <pubDate>Sun, 12 Jul 2026 09:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marianne : pourquoi la République a-t-elle choisi une femme désincarnée comme symbole d’unité nationale ?</title>
-      <link>https://theconversation.com/marianne-pourquoi-la-republique-a-t-elle-choisi-une-femme-desincarnee-comme-symbole-dunite-nationale-281777</link>
-      <description>[The Conversation FR - Histoire] Allégorie convoquée par tous les camps politiques, Marianne est insaisissable dès qu’il s’agit de lui donner une incarnation. Mais que représente-t-elle vraiment&amp;nbsp;?</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">8ac896fe7bed533475bccfece12f47f3fd460ab6</guid>
-      <pubDate>Sun, 12 Jul 2026 08:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quand la Légion d’honneur fait monter les cours de Bourse : les décorations d’État, signaux de proximité politique ?</title>
-      <link>https://theconversation.com/quand-la-legion-dhonneur-fait-monter-les-cours-de-bourse-les-decorations-detat-signaux-de-proximite-politique-286866</link>
-      <description>[The Conversation FR - Éducation] Les distinctions comme la Légion d’honneur ne sont-elles que des «&amp;nbsp;hochets avec lesquels on mène les hommes&amp;nbsp;», selon le mot de Napoléon&amp;nbsp;? Non, répond une recherche autour de leur impact économique.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">5c4b1bf010d9a0fe1e34001dcfae6ef8d2ef906f</guid>
-      <pubDate>Sun, 12 Jul 2026 08:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
