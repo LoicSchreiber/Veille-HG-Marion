@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 12 Aug 2026 09:58:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Pourquoi la nouvelle « Petite Maison dans la prairie » est déjà une série politique</title>
+      <link>https://theconversation.com/pourquoi-la-nouvelle-petite-maison-dans-la-prairie-est-deja-une-serie-politique-287645</link>
+      <description>[The Conversation FR - Histoire] Depuis près d’un siècle, «&amp;nbsp;la Petite Maison dans la prairie&amp;nbsp;» façonne l’imaginaire de la conquête de l’Ouest. La version de Netflix ravive les débats sur le racisme, le récit national et la mémoire de la colonisation aux États-Unis.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">f873d1a58190b9ffed570973a61b2d780e6a2b49</guid>
+      <pubDate>Wed, 12 Aug 2026 10:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Charles de Gaulle, héros de la France libre : une représentation qui a évolué dans la mémoire nationale ?</title>
+      <link>https://theconversation.com/charles-de-gaulle-heros-de-la-france-libre-une-representation-qui-a-evolue-dans-la-memoire-nationale-287031</link>
+      <description>[The Conversation FR - Histoire] Lorsque la France commémore entre juin et août les débarquements de 1944, ainsi que la libération progressive du territoire national, la figure du général de Gaulle n’est jamais loin.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">710b7ef5ad790f104735b25e4a342f28ae45c4dd</guid>
+      <pubDate>Wed, 12 Aug 2026 10:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi nous n’avons pas encore bien compris l’AI Act</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/13/pourquoi-nous-navons-pas-encore-bien-compris-lai-act/</link>
+      <description>[Le Grand Continent] Et pourquoi l’obligation de marquage n’est vraiment pas le sujet. L’article Pourquoi nous n’avons pas encore bien compris l’AI Act est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">a5ce31f3b20a0b8c708870e983efcc3043f66695</guid>
+      <pubDate>Thu, 13 Aug 2026 07:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Ukraine et en Russie, la multiplication des attaques aériennes alourdit le bilan civil</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/13/en-ukraine-et-en-russie-la-multiplication-des-attaques-aeriennes-alourdit-le-bilan-civil/</link>
+      <description>[Le Grand Continent] Malgré une ligne de front gelée, le nombre de victimes civiles continue d’augmenter. L’article En Ukraine et en Russie, la multiplication des attaques aériennes alourdit le bilan civil est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">7a61a999d88ce2f67c8969be2a260f1de009a607</guid>
+      <pubDate>Thu, 13 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le Japon comme méthode</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/12/le-japon-comme-methode/</link>
+      <description>[Le Grand Continent] À Kyoto, le professeur de littératures comparées du Collège de France a découvert une nouvelle manière de lire le grand livre du monde. L’article Le Japon comme méthode est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">1585346a3fd462cbfef9751a72fd485af7a0c142</guid>
+      <pubDate>Wed, 12 Aug 2026 15:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Russie a représenté 100 % des importations de GNL de la Belgique en juillet</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/12/la-russie-a-represente-100-des-importations-de-gnl-de-la-belgique-en-juillet/</link>
+      <description>[Le Grand Continent] Les volumes d’importations européennes de GNL russe ont augmenté de 16&amp;#160;% au premier semestre par rapport à 2025. L’article La Russie a représenté 100&amp;#160;% des importations de GNL de la Belgique en juillet est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">8e433259825bd8b7f1802a82a6c01a57cf93a200</guid>
+      <pubDate>Wed, 12 Aug 2026 11:58:00 +0000</pubDate>
+    </item>
     <item>
       <title>Durant la Renaissance, le retour des papes à Rome créa une ère de construction de palais sans précédent pour la « Ville éternelle »</title>
       <link>https://theconversation.com/durant-la-renaissance-le-retour-des-papes-a-rome-crea-une-ere-de-construction-de-palais-sans-precedent-pour-la-ville-eternelle-268262</link>
@@ -1558,54 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">186b5c7f50a12335b1b12eedb2fead2a70d2a551</guid>
       <pubDate>Wed, 15 Jul 2026 17:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les frappes ukrainiennes de drones pourraient rendre l’Arctique russe invivable</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/15/les-frappes-ukrainiennes-de-drones-pourraient-rendre-larctique-russe-invivable/</link>
-      <description>[Le Grand Continent] Le territoire potentiellement concerné serait largement supérieur au territoire ukrainien occupé depuis 2014. L’article Les frappes ukrainiennes de drones pourraient rendre l’Arctique russe invivable est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">2f81ecd6b7d0cbf83864f57604741732c697dd91</guid>
-      <pubDate>Wed, 15 Jul 2026 12:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Non, « L’Odyssée » de Christopher Nolan ne trahit pas l'oeuvre d’Homère</title>
-      <link>https://theconversation.com/non-lodyssee-de-christopher-nolan-ne-trahit-pas-loeuvre-dhomere-287225</link>
-      <description>[The Conversation FR - Histoire] Le film de Christopher Nolan, loin de trahir l’épopée homérique, est fidèle à l’esprit d’un texte qui a toujours été interprété et capté par d’autres auteurs.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">c8c4ea8557c7d90a3426fe0a7caf4d7f75f4b994</guid>
-      <pubDate>Wed, 15 Jul 2026 09:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment Londres, Paris et New York faisaient face aux canicules avant la climatisation</title>
-      <link>https://theconversation.com/comment-londres-paris-et-new-york-faisaient-face-aux-canicules-avant-la-climatisation-287599</link>
-      <description>[The Conversation FR - Histoire] Bien avant que le changement climatique ne place les canicules au cœur des politiques publiques, les habitants de Londres, Paris et New York avaient déjà appris à composer avec la chaleur.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">1d8bbcb836d0890e8b9b785082cb02e976f308a1</guid>
-      <pubDate>Wed, 15 Jul 2026 07:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Regards croisés sur l’histoire des Kalmouks, peuple mongol de Russie</title>
-      <link>https://theconversation.com/regards-croises-sur-lhistoire-des-kalmouks-peuple-mongol-de-russie-285398</link>
-      <description>[The Conversation FR - Histoire] L’étude de trois textes des XVIIIᵉ et XIXᵉ siècles permet de mieux comprendre l’histoire des Kalmouks, présents en Russie depuis près de 400 ans.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">a0fb473cc20b6baa5b6a901faebf4370ab5ba48b</guid>
-      <pubDate>Wed, 15 Jul 2026 06:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Odyssée : voyage d’un mythe au cinéma</title>
-      <link>https://theconversation.com/lodyssee-voyage-dun-mythe-au-cinema-285778</link>
-      <description>[The Conversation FR - Histoire] Si l’adaptation de Christopher Nolan est très attendue, l’épopée grecque a déjà inspiré de nombreux cinéastes depuis les années 1970.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">5b76023606ea1c03396943c9e88550930882704f</guid>
-      <pubDate>Tue, 14 Jul 2026 16:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vous écoutez de la musique pour vous concentrer sur votre travail ? Ce n’est pas toujours la bonne stratégie</title>
-      <link>https://theconversation.com/vous-ecoutez-de-la-musique-pour-vous-concentrer-sur-votre-travail-ce-nest-pas-toujours-la-bonne-strategie-286709</link>
-      <description>[The Conversation FR - Éducation] L’idée que la musique classique pourrait aider à mémoriser et traiter de nouvelles informations a longtemps circulé. Qu’en penser ? Cela ne dépend-il pas en fait d’un ensemble de circonstances plus large ?</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">55ce7fb07230dcc69d721f5a2eb68011404b0028</guid>
-      <pubDate>Tue, 14 Jul 2026 16:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
