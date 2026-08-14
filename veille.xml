@@ -6,7 +6,47 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 13 Aug 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:56:00 +0000</lastBuildDate>
+    <item>
+      <title>L’histoire méconnue de la Vierge Marie, sainte patronne des États-Unis</title>
+      <link>https://theconversation.com/lhistoire-meconnue-de-la-vierge-marie-sainte-patronne-des-etats-unis-284472</link>
+      <description>[The Conversation FR - Histoire] Pourquoi la Vierge Marie est-elle la patronne des États-Unis&amp;nbsp;? Cette tradition, née au XIXᵉ&amp;nbsp;siècle, révèle comment les catholiques américains ont cherché à concilier leur foi, leur patriotisme et leur place dans une société longtemps méfiante à leur égard.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">86f7e533c50858e288e6846c9d9cf6c20ee46361</guid>
+      <pubDate>Thu, 13 Aug 2026 12:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grand Remplacement</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/14/grand-remplacement/</link>
+      <description>[Le Grand Continent] De la prose de Renaud Camus aux organigrammes de l’État trumpiste, une fantasmagorie démographique est devenue en quinze ans une politique publique. L’article Grand Remplacement est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">42d196b7a53d736c5ccc2f4d0ec54c9305760594</guid>
+      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comment Taïwan se prépare à une invasion chinoise</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/14/comment-taiwan-se-prepare-a-une-invasion-chinoise/</link>
+      <description>[Le Grand Continent] Décapitation du pouvoir, blocus naval, brouillage des communications et guerre urbaine figurent parmi les scénarios auxquels Taipei se prépare. L’article Comment Taïwan se prépare à une invasion chinoise est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">658634c6fa0d15db2956f9afb357466d59d90e46</guid>
+      <pubDate>Fri, 14 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Où faut-il aller pour aimer l’Allemagne ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/13/ou-faut-il-aller-pour-aimer-lallemagne/</link>
+      <description>[Le Grand Continent] La philosophe et helléniste raconte son attachement à une nation condamnée à se méfier d’elle-même. L’article Où faut-il aller pour aimer l’Allemagne&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">72140203119719be64df04bc1ca30009ea93a4b3</guid>
+      <pubDate>Thu, 13 Aug 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’administration Trump a-t-elle recours à des corsaires au large de l’Amérique latine ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/13/administration-trump-a-t-elle-recours-a-des-corsaires-au-large-de-lamerique-latine/</link>
+      <description>[Le Grand Continent] L’administration américaine pourrait avoir autorisé l’émission de lettres de marque afin de permettre à des mercenaires de détruire des embarcations. L’article L’administration Trump a-t-elle recours à des corsaires au large de l’Amérique latine&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">d7f3c9525188c1caf480744704427d455deb8f4a</guid>
+      <pubDate>Thu, 13 Aug 2026 12:34:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pourquoi la nouvelle « Petite Maison dans la prairie » est déjà une série politique</title>
       <link>https://theconversation.com/pourquoi-la-nouvelle-petite-maison-dans-la-prairie-est-deja-une-serie-politique-287645</link>
@@ -1566,46 +1606,6 @@
       <category>The Conversation FR - International</category>
       <guid isPermaLink="false">575c913fd12876407464b156f9d7f99859e59f31</guid>
       <pubDate>Wed, 15 Jul 2026 14:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Depuis le traumatisme de la crise grecque, les agences de notation souveraine influencent-elles encore les marchés financiers ?</title>
-      <link>https://theconversation.com/depuis-le-traumatisme-de-la-crise-grecque-les-agences-de-notation-souveraine-influencent-elles-encore-les-marches-financiers-277888</link>
-      <description>[The Conversation FR - International] Souvent critiquées mais toujours incontournables, les agences de notation souveraine influencent moins par l’information qu’elles détiennent que par le jugement qu’elles produisent.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">165e85b21a1585d49b81b6f67feea78f3d39f62a</guid>
-      <pubDate>Wed, 15 Jul 2026 14:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Depuis 2022 et le début de la guerre en Ukraine, l’électrification de l’Union n’a que très peu évolué</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/16/depuis-2022-et-le-debut-de-la-guerre-en-ukraine-lelectrification-de-lunion-na-que-tres-peu-evolue/</link>
-      <description>[Le Grand Continent] Le taux d’électrification de l’Union s’élève à seulement 23&amp;#160;%, soit un chiffre similaire à celui des pays autosuffisants en hydrocarbures. L’article Depuis 2022 et le début de la guerre en Ukraine, l’électrification de l’Union n’a que très peu évolué est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">5555611e22dc901e9ab5b34535c43093c558d8a6</guid>
-      <pubDate>Thu, 16 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Pentagone s’en prend aux puissances moyennes</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/16/le-pentagone-sen-prend-aux-puissances-moyennes/</link>
-      <description>[Le Grand Continent] Ce que révèle un texte largement commenté d’Elbridge Colby sur l'avenir de l'ordre de sécurité américain. L’article Le Pentagone s’en prend aux puissances moyennes est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">d940c68e07a5b8e3829dc27c348e34f8d41306bb</guid>
-      <pubDate>Thu, 16 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comprendre l’échec de la grande armée de Mbappé</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/15/comprendre-lechec-de-la-grande-armee-de-mbappe/</link>
-      <description>[Le Grand Continent] L’un des meilleurs tacticiens italiens analyse la campagne des Bleus, un manuel stratégique pour se remettre ou se relancer. L’article Comprendre l&amp;rsquo;échec de la grande armée de Mbappé est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">b089755799472431a5cd5883021e72eb00866d63</guid>
-      <pubDate>Wed, 15 Jul 2026 17:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Pour les Malouines, pour Diego et pour la dernière de Leo » : pourquoi le match Argentine-Angleterre s’annonce historique</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/15/pour-les-malouines-pour-diego-et-pour-la-derniere-de-leo-pourquoi-le-match-argentine-angleterre-sannonce-historique/</link>
-      <description>[Le Grand Continent] Angleterre-Argentine est l'un des chocs les plus explosifs qu'une Coupe du monde puisse offrir. L’article «&amp;#160;Pour les Malouines, pour Diego et pour la dernière de Leo&amp;#160;»&amp;#160;: pourquoi le match Argentine-Angleterre s’annonce historique est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">186b5c7f50a12335b1b12eedb2fead2a70d2a551</guid>
-      <pubDate>Wed, 15 Jul 2026 17:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
