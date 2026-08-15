@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 14 Aug 2026 09:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 09:21:00 +0000</lastBuildDate>
+    <item>
+      <title>Lanceurs d’alerte en exil : pourquoi les business schools ont une responsabilité à assumer</title>
+      <link>https://theconversation.com/lanceurs-dalerte-en-exil-pourquoi-les-business-schools-ont-une-responsabilite-a-assumer-284740</link>
+      <description>[The Conversation FR - Éducation] Et si les business schools recrutaient des lanceurs d’alerte pour exposer les comportements non autorisés des entreprises. Un savoir pratique qui aurait sa place dans les cursus des futurs managers.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">004e66dc5a3b2a5b1cc283e6d6cb454f464ab723</guid>
+      <pubDate>Sat, 15 Aug 2026 05:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>À la tête de l’ONU, l’heure d’une femme a-t-elle enfin sonné ?</title>
+      <link>https://theconversation.com/a-la-tete-de-lonu-lheure-dune-femme-a-t-elle-enfin-sonne-288666</link>
+      <description>[The Conversation FR - International] ONU cherche patron… ou patronne. Cette fois, une femme latino-américaine pourrait prendre la tête de l’institution. Réponse en décembre.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">a6f29a09cd20329463a8b875021cac64358a9f56</guid>
+      <pubDate>Fri, 14 Aug 2026 11:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Combien de temps l’économie iranienne pourra-t-elle tenir ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/15/combien-de-temps-leconomie-iranienne-pourra-t-elle-tenir/</link>
+      <description>[Le Grand Continent] Le blocus maritime imposé par Washington coûterait près de 380 millions d’euros par jour à Téhéran. L’article Combien de temps l&amp;rsquo;économie iranienne pourra-t-elle tenir&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">16e7933e1dc1a8e45ade1b88ac0ee2dd65e1fa14</guid>
+      <pubDate>Sat, 15 Aug 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heidegger aux îles Caïmans</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/15/heidegger-aux-iles-caimans/</link>
+      <description>[Le Grand Continent] Pour comprendre la géopolitique de l’offshore, il faut penser un espace qui se dérobe. L’article Heidegger aux îles Caïmans est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2970b2958bc66d63cfd536e296b5ef1ffb9d025b</guid>
+      <pubDate>Sat, 15 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’administration Trump a soumis les membres de l’OTAN à un test de loyauté idéologique</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/14/ladministration-trump-a-soumis-les-membres-de-lotan-a-un-test-de-loyaute-ideologique/</link>
+      <description>[Le Grand Continent] La Maison-Blanche vise à conditionner sa protection militaire à des preuves explicites de vassalisation. L’article L’administration Trump a soumis les membres de l’OTAN à un test de loyauté idéologique est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">6342e8198728264b89de2d1e0300c0d950508997</guid>
+      <pubDate>Fri, 14 Aug 2026 13:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poutine ouvre-t-il un front dans le Pacifique ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/14/poutine-ouvre-t-il-un-front-dans-le-pacifique/</link>
+      <description>[Le Grand Continent] La nouvelle agressivité du Kremlin contre le Japon ressemble moins à un pivot asiatique qu’à une diversion russe. L’article Poutine ouvre-t-il un front dans le Pacifique&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">d0601b89ddc636bf57cf5f0ca04fb196a0cea9d2</guid>
+      <pubDate>Fri, 14 Aug 2026 13:44:00 +0000</pubDate>
+    </item>
     <item>
       <title>L’histoire méconnue de la Vierge Marie, sainte patronne des États-Unis</title>
       <link>https://theconversation.com/lhistoire-meconnue-de-la-vierge-marie-sainte-patronne-des-etats-unis-284472</link>
@@ -1558,54 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">d6e9ac5a16189f6c5ea026adf9cd0952905347c5</guid>
       <pubDate>Fri, 17 Jul 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Offensive MAGA contre l’Europe : les États-Unis lancent un programme de financement d’organisations alignées</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/17/offensive-maga-contre-leurope-les-etats-unis-lancent-un-programme-de-financement-dorganisations-alignees/</link>
-      <description>[Le Grand Continent] Il s’agit de la première fois depuis 2025 que l’administration Trump cherche à faire porter son agenda idéologique en Europe via un soutien financier direct. L’article Offensive MAGA contre l’Europe&amp;#160;: les États-Unis lancent un programme de financement d’organisations alignées est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">78c3a157fa30c76814b8354a9c5fa54984b70c0c</guid>
-      <pubDate>Fri, 17 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pourquoi la guerre des Malouines resurgit à la Coupe du monde ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/16/pourquoi-la-guerre-des-malouines-resurgit-dans-le-football-argentin/</link>
-      <description>[Le Grand Continent] L’équipe d’Argentine pourrait être sanctionnée par la FIFA pour avoir fêté sa victoire contre l’Angleterre en brandissant une banderole portant l'inscription&amp;#160;: «&amp;#160;Les Malouines sont argentines&amp;#160;». L’article Pourquoi la guerre des Malouines resurgit à la Coupe du monde&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">3c234ad2d38b631af9cfe1491264e664fb443493</guid>
-      <pubDate>Thu, 16 Jul 2026 15:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Économie russe : 14 % des pétroliers de la flotte fantôme russe auraient été frappés par des drones ukrainiens en 10 jours</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/16/economie-russe-14-des-petroliers-de-la-flotte-fantome-russe-auraient-ete-frappes-par-des-drones-ukrainiens-en-10-jours/</link>
-      <description>[Le Grand Continent] Kiev affirme avoir frappé 136 navires appartenant à la flotte fantôme russe en mer Noire et d’Azov au cours des 10 derniers jours, dont 97 pétroliers. L’article Économie russe&amp;#160;: 14&amp;#160;% des pétroliers de la flotte fantôme russe auraient été frappés par des drones ukrainiens en 10 jours est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">c54534aad3a1e0a2b1f96b9a0a1dea55af00faa3</guid>
-      <pubDate>Thu, 16 Jul 2026 12:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>À quoi ressemblaient les premiers congés payés, en 1936, pour les ouvriers bretons ?</title>
-      <link>https://theconversation.com/a-quoi-ressemblaient-les-premiers-conges-payes-en-1936-pour-les-ouvriers-bretons-285127</link>
-      <description>[The Conversation FR - Histoire] Dans l’imaginaire collectif, les premiers congés payés ont le visage des vacanciers tout sourire dans le train, sur les plages ou en tandem. Mais pour les ouvriers bretons, l’été 1936 n’eut pas grand-chose à voir avec ces clichés.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">a2cba24b057a4a98e2ae589cc49d99792a62f59d</guid>
-      <pubDate>Wed, 15 Jul 2026 14:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Faire les saisons en camion : « devenir adulte » autrement ?</title>
-      <link>https://theconversation.com/faire-les-saisons-en-camion-devenir-adulte-autrement-285491</link>
-      <description>[The Conversation FR - Éducation] Que signifie grandir quand on choisit de ne pas se fixer ? Aussi particulière l’expérience des jeunes saisonniers nomades soit-elle, elle éclaire le passage à l’âge adulte dans un monde incertain.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">dc3bc7f6afbfde3ce905300cbe0aca16b14e47e4</guid>
-      <pubDate>Wed, 15 Jul 2026 14:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Canada à l’Eurovision : le choix de la langue, une question politique cruciale</title>
-      <link>https://theconversation.com/le-canada-a-leurovision-le-choix-de-la-langue-une-question-politique-cruciale-286815</link>
-      <description>[The Conversation FR - International] Le Canada participera à l’Eurovision en 2027, mais sera-ce en anglais, en français, dans les deux langues ou encore en langue autochtone&amp;nbsp;?</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">575c913fd12876407464b156f9d7f99859e59f31</guid>
-      <pubDate>Wed, 15 Jul 2026 14:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
