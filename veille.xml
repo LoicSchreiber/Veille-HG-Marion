@@ -6,7 +6,31 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 16 Aug 2026 09:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:36:00 +0000</lastBuildDate>
+    <item>
+      <title>26 livres à lire en septembre 2026</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/17/26-livres-a-lire-en-septembre-2026/</link>
+      <description>[Le Grand Continent] 26 essais et ouvrages de non-fiction choisis parmi les parutions de toute l’Europe. L’article 26 livres à lire en septembre 2026 est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b09be01e08c622db0ad837900fc1ae6c7f773397</guid>
+      <pubDate>Mon, 17 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump a ordonné de réduire drastiquement l’exercice militaire conjoint annuel avec la Corée du Sud</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/17/donald-trump-a-ordonne-de-reduire-drastiquement-lexercice-militaire-conjoint-annuel-avec-la-coree-du-sud/</link>
+      <description>[Le Grand Continent] Cette annonce intervient alors que les États-Unis ne disposent plus de porte-avions dans le Pacifique. L’article Donald Trump a ordonné de réduire drastiquement l’exercice militaire conjoint annuel avec la Corée du Sud est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">d667686e3e008e9ebf9e4c52aafb410b61b246fc</guid>
+      <pubDate>Mon, 17 Aug 2026 06:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’exorcisme du pouvoir</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/16/exorcisme-du-pouvoir/</link>
+      <description>[Le Grand Continent] Si tout le monde est d’accord avec Léon XIV, pourquoi Trump gagne-t-il les élections&amp;#160;? L’article L&amp;rsquo;exorcisme du pouvoir est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">bf1dce08b70fa7bd1ed0fdfdb2d873ce0d39ecf4</guid>
+      <pubDate>Sun, 16 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trump peut-il faire basculer la campagne au Brésil ?</title>
       <link>https://legrandcontinent.eu/fr/2026/08/16/trump-peut-il-faire-basculer-la-campagne-au-bresil/</link>
@@ -1582,30 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">b772312b4f0e88485837e0325fcc2c7518fc3a83</guid>
       <pubDate>Fri, 17 Jul 2026 13:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La doctrine AI+ : le plan de Xi Jinping pour ruiner la Silicon Valley</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/17/la-doctrine-ai-le-plan-de-xi-jinping-pour-ruiner-la-silicon-valley/</link>
-      <description>[Le Grand Continent] Traduction commentée du discours du président chinois à la Conférence mondiale sur l'IA de Shanghai. L’article La doctrine AI+&amp;#160;: le plan de Xi Jinping pour ruiner la Silicon Valley est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">1a666cdaa5a17157b44d88f3bcf6d5a7076c4087</guid>
-      <pubDate>Fri, 17 Jul 2026 11:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En Ukraine, le limogeage du ministre de la Défense Fedorov pourrait avoir des conséquences sur la trajectoire de la guerre</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/17/en-ukraine-le-limogeage-du-ministre-de-la-defense-fedorov-pourrait-avoir-des-consequences-sur-la-trajectoire-de-la-guerre/</link>
-      <description>[Le Grand Continent] Le limogeage de Mykhaïlo Fedorov a provoqué la crise politique la plus importante en Ukraine depuis le remplacement de l’ancien commandant en chef de l’armée, Valery Zaloujny, par Oleksandr Syrsky en 2024. L’article En Ukraine, le limogeage du ministre de la Défense Fedorov pourrait avoir des conséquences sur la trajectoire de la guerre est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">08993a41e24a5e2e4a024608ac92d4c01e4921d5</guid>
-      <pubDate>Fri, 17 Jul 2026 11:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Botticelli : une nouvelle étude relance le mystère de la mort de son célèbre modèle</title>
-      <link>https://theconversation.com/botticelli-une-nouvelle-etude-relance-le-mystere-de-la-mort-de-son-celebre-modele-287697</link>
-      <description>[The Conversation FR - Histoire] Simonetta Vespucci, souvent considérée comme la muse de Botticelli, est morte à seulement 23 ans. Une équipe d’endocrinologues avance aujourd’hui qu’elle n’aurait pas succombé à la tuberculose…</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">dc490d8effd2a752630f4786f6b22523d3b8bbde</guid>
-      <pubDate>Fri, 17 Jul 2026 08:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
