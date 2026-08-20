@@ -4,9 +4,73 @@
     <title>Veille — Histoire, Géographie, Éducation</title>
     <link>https://loicschreiber.github.io/veille</link>
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
-    <description>Flux agrégé de 6 sources de veille.</description>
+    <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 19 Aug 2026 09:29:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:29:00 +0000</lastBuildDate>
+    <item>
+      <title>Patrimoine : faut-il faire contribuer ceux qui exploitent son image ?</title>
+      <link>https://theconversation.com/patrimoine-faut-il-faire-contribuer-ceux-qui-exploitent-son-image-286911</link>
+      <description>[The Conversation FR - Histoire] Dans un contexte de baisse des financements publics, les utilisateurs commerciaux du patrimoine peuvent-ils en devenir les contributeurs&amp;nbsp;?</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">4f3965ed2dbb5707d2fd1576ae07ff3bce6e1edb</guid>
+      <pubDate>Wed, 19 Aug 2026 13:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un oligarque russe à l’honneur dans « The Economist » : quand les médias prêtent leur crédibilité aux acteurs des conflits</title>
+      <link>https://theconversation.com/un-oligarque-russe-a-lhonneur-dans-the-economist-quand-les-medias-pretent-leur-credibilite-aux-acteurs-des-conflits-288365</link>
+      <description>[The Conversation FR - International] En donnant une large tribune à l’oligarque russe sanctionné Andreï&amp;nbsp;Melnitchenko, «&amp;nbsp;The Economist&amp;nbsp;» interroge la responsabilité des médias face à la guerre en Ukraine.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">42080aa71f095c675a272ae41a179d8bb47fd9f8</guid>
+      <pubDate>Wed, 19 Aug 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>États-Unis : le Parti démocrate a-t-il pris un virage progressiste ?</title>
+      <link>https://theconversation.com/etats-unis-le-parti-democrate-a-t-il-pris-un-virage-progressiste-289512</link>
+      <description>[The Conversation FR - International] Dans le Michigan, la victoire surprise d’Abdul&amp;nbsp;El Sayed aux primaires du Parti démocrate renforce un peu plus l’ancrage de la tendance progressiste au sein du parti.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">ec8cf92ce14d8a96a54c294f6ed557a1c4727c57</guid>
+      <pubDate>Wed, 19 Aug 2026 13:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Économie russe : deux tiers de la population estime que les moments les plus difficiles pour le pays sont encore à venir</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/20/economie-russe-deux-tiers-de-la-population-estime-que-les-moments-les-plus-difficiles-pour-le-pays-sont-encore-a-venir/</link>
+      <description>[Le Grand Continent] La hausse du pessimisme quant à la situation du pays coïncide avec l’intensification des frappes ukrainiennes. L’article Économie russe&amp;#160;: deux tiers de la population estime que les moments les plus difficiles pour le pays sont encore à venir est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">85bd3d44665c21e777459da7e56b179a3364c493</guid>
+      <pubDate>Thu, 20 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le monde est-il vraiment redevenu impérial ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/20/le-monde-est-il-vraiment-redevenu-imperial/</link>
+      <description>[Le Grand Continent] Deux siècles d’histoire mondiale pour comprendre le désir et le déni d’empire. L’article Le monde est-il vraiment redevenu impérial&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">5630609cc9d5a6320e03a0d3e93a0bb13c501c83</guid>
+      <pubDate>Thu, 20 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi Israël a-t-il interdit les ventes d’armes au Qatar ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/19/pourquoi-israel-a-t-il-interdit-les-ventes-darmes-au-qatar/</link>
+      <description>[Le Grand Continent] Les relations entre Israël et le Qatar, accusé de soutenir le Hamas, sont devenues un sujet central à l'approche des élections législatives d'octobre. L’article Pourquoi Israël a-t-il interdit les ventes d’armes au Qatar&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">539ae17a62db50e86881c5e11a07a457492fc0e5</guid>
+      <pubDate>Wed, 19 Aug 2026 17:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’humanité pourrait déjà être passée sous le seuil de renouvellement des générations</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/19/lhumanite-pourrait-etre-passee-sous-le-seuil-de-renouvellement-des-generations/</link>
+      <description>[Le Grand Continent] L'ampleur de l'effondrement démographique en cours dépasse les prévisions des démographes de ces dernières décennies. L’article L’humanité pourrait déjà être passée sous le seuil de renouvellement des générations est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">12d32ebf28c297352ecdd2c95f4880a5eabb95c0</guid>
+      <pubDate>Wed, 19 Aug 2026 14:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dans un appel aux Ukrainiens, Fedorov défie Zelensky (texte intégral)</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/19/dans-un-appel-aux-ukrainiens-fedorov-defie-zelensky-texte-integral/</link>
+      <description>[Le Grand Continent] L’ancien ministre de la Défense vient-il de provoquer la plus grave crise politique depuis le limogeage de Zaloujny&amp;#160;? L’article Dans un appel aux Ukrainiens, Fedorov défie Zelensky (texte intégral) est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">9f2d4ee09427d03a3c1268cad779092a26f944ba</guid>
+      <pubDate>Wed, 19 Aug 2026 13:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>Russie : les étudiants étrangers au cœur d’une nouvelle stratégie internationale</title>
       <link>https://theconversation.com/russie-les-etudiants-etrangers-au-coeur-dune-nouvelle-strategie-internationale-289510</link>
@@ -1542,70 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">a5793d379b611bb645e7ceb632568de81dad8bf3</guid>
       <pubDate>Sat, 18 Jul 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Économie russe : l’indice de la bourse de Moscou a chuté de 27 % depuis le début de l’année</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/18/economie-russe-lindice-de-la-bourse-de-moscou-a-chute-de-27-depuis-le-debut-de-lannee/</link>
-      <description>[Le Grand Continent] La dégradation de la situation économique russe inquiète jusque dans les cercles les plus proches de Vladimir Poutine. L’article Économie russe&amp;#160;: l’indice de la bourse de Moscou a chuté de 27&amp;#160;% depuis le début de l’année est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">65fe858bd3a514e246ef8e5f0bd7e312ceb53a0f</guid>
-      <pubDate>Sat, 18 Jul 2026 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Géographie au CAPES d'histoire-géographie à bac+3 : bibliographie indicative</title>
-      <link>https://geoconfluences.ens-lyon.fr/programmes/concours/capes-hg-bibliographie-indicative-geo</link>
-      <description>[OpenEdition - Géoconfluences] Des pistes bibliographiques pour préparer le CAPES bac+3.</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">90f4c25395a5f28fa50faaa29b72432dcea7ebed</guid>
-      <pubDate>Thu, 16 Jul 2026 16:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parutions papier en géographie, printemps 2026</title>
-      <link>https://geoconfluences.ens-lyon.fr/actualites/veille/parutions/parutions-papier-en-geographie-printemps-2026</link>
-      <description>[OpenEdition - Géoconfluences] Parmi les thèmes abordés dans les livres en français parus ce printemps : Amérique, États-Unis, Hérault, Sfax, feu, catastrophe, destruction du patrimoine, photo de paysage, géographie sensible, quantitative, économique, géopolitique, transitions, projets alimentaires territoriaux, matériaux, mers et océans, Antoine Bailly, Camille Vallaux...</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">13eb21535e0a8e78a65db67ccf7638c034acbaea</guid>
-      <pubDate>Thu, 16 Jul 2026 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frontières : ressources sur Géoconfluences</title>
-      <link>https://geoconfluences.ens-lyon.fr/programmes/concours/anciens-prog-concours/frontieres-ressources-sur-geoconfluences</link>
-      <description>[OpenEdition - Géoconfluences] Les ressources de Géoconfluences sur le thème des frontières.</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">43cc1054b526a7d220cbe797698c78c1935322b2</guid>
-      <pubDate>Wed, 15 Jul 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Image à la une. Tomates et mondialisation en Martinique</title>
-      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/a-la-une/image-a-la-une/image-a-la-une-tomates-et-mondialisation-en-martinique</link>
-      <description>[OpenEdition - Géoconfluences] La photographie d’un rayon de fruits et légumes en Martinique illustre tout autant le coût de la vie très élevé dans les DROM que plusieurs aspects de la mondialisation : une mondialisation économique qui, grâce à des transports internationaux bon marché, broie une économie locale de petite taille, une mondialisation culturelle (de l’alimentation et des goûts) illustrée par la préférence pour certains types de produits, voire une mondialisation des techniques de production.</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">4b34334a430e91b604a804defa9917b286e3b141</guid>
-      <pubDate>Wed, 15 Jul 2026 06:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lettre d'information n° 224</title>
-      <link>https://geoconfluences.ens-lyon.fr/a-propos/lettres-dinformation/lettre-information-224</link>
-      <description>[OpenEdition - Géoconfluences]</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">d1d01e432a13fa5371e043d8ee60f100d7e21ab3</guid>
-      <pubDate>Wed, 15 Jul 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Après la victoire de Péter Magyar en Hongrie, une transition libérale très scrutée</title>
-      <link>https://geoconfluences.ens-lyon.fr/actualites/eclairage/apres-la-victoire-de-peter-magyar-en-hongrie-une-transition-liberale-tres-scrutee</link>
-      <description>[OpenEdition - Géoconfluences] Au terme d’un scrutin particulièrement suivi dans le monde entier, le dirigeant hongrois souverainiste et anti-européen, Viktor Orbán, a été largement battu par son opposant Péter Magyar. Cette victoire met fin à seize ans d’un gouvernement illibéral, marqué par un ralentissement économique, un rapprochement avec la Russie et de nombreuses affaires de corruption. Le système Orbán pourrait cependant survivre à une élection qui bouleverse déjà les équilibres européens.</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">d5510e6dd380b0e0b3bc75b8a880d1f3ba4e3f49</guid>
-      <pubDate>Fri, 10 Jul 2026 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Géohistoire d’une catégorie spatiale située : l’outre-mer</title>
-      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-thematiques/epistemo/articles/geohistoire-d-une-categorie-spatiale-situee-l-outre-mer</link>
-      <description>[OpenEdition - Géoconfluences] L'outre-mer a d'abord désigné en français les régions situées au-delà de la Méditerranée, correspondant à ce qu'on appellerait aujourd'hui le Proche-Orient. Le mot a ensuite servi à nommer l'ensemble des terres situées au-delà des océans, et plus particulièrement les possessions françaises. C'est alors qu'il a pris une connotation coloniale. L'expression a survécu à la décolonisation et à la départementalisation, incarnée par les DOM-TOM puis les DROM, mais la connotation demeure et pose questio</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">e28f4ed1d62e1afe712d7e3a734a0a046d08f502</guid>
-      <pubDate>Fri, 10 Jul 2026 11:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
