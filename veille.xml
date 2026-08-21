@@ -6,7 +6,71 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 20 Aug 2026 09:29:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:32:00 +0000</lastBuildDate>
+    <item>
+      <title>Vin, huile, profits : le véritable rôle des intendantes dans les fermes romaines</title>
+      <link>https://theconversation.com/vin-huile-profits-le-veritable-role-des-intendantes-dans-les-fermes-romaines-287595</link>
+      <description>[The Conversation FR - Histoire] Qui produisait le vin de la Rome antique&amp;nbsp;? Les sources suggèrent que les «&amp;nbsp;vilicae&amp;nbsp;», les intendantes des domaines, étaient bien plus que des gestionnaires du foyer&amp;nbsp;: elles supervisaient les vendanges, la vinification, les rituels religieux et la transformation des récoltes.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">544a608e2c96de43d781ee9e21dda70f3db16c46</guid>
+      <pubDate>Thu, 20 Aug 2026 13:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Loi sur l’interdiction des réseaux sociaux aux moins de 15 ans : où mène la censure du Conseil constitutionnel ?</title>
+      <link>https://theconversation.com/loi-sur-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-ou-mene-la-censure-du-conseil-constitutionnel-290011</link>
+      <description>[The Conversation FR - Éducation] La loi, qui sera réécrite en septembre, devrait s’attacher à neutraliser les fonctionnalités toxiques plutôt que d’interdire l’ensemble des réseaux aux enfants et aux adolescents.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">7f69c36a40acea96b8c3b71461678e7f7ae75d35</guid>
+      <pubDate>Thu, 20 Aug 2026 13:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enquête de l’OSCE : dans les territoires ukrainiens occupés, la Russie endoctrine et militarise les enfants</title>
+      <link>https://theconversation.com/enquete-de-losce-dans-les-territoires-ukrainiens-occupes-la-russie-endoctrine-et-militarise-les-enfants-288958</link>
+      <description>[The Conversation FR - International] Même si le droit international interdit l’endoctrinement et la militarisation des enfants dans les territoires occupés, la Russie se livre ouvertement à ces pratiques en Ukraine.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">16275bd9fa2a8b6108f33a9593c77763ef4b8578</guid>
+      <pubDate>Thu, 20 Aug 2026 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pékin est en train de construire sa plus grande île artificielle de la mer de Chine du Sud</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/21/pekin-est-en-train-de-construire-sa-plus-grande-ile-artificielle-de-la-mer-de-chine-du-sud/</link>
+      <description>[Le Grand Continent] Des images satellites montrent que les travaux en cours sur le récif d'Antelope pourraient considérablement renforcer la présence militaire chinoise dans la région. L’article Pékin est en train de construire sa plus grande île artificielle de la mer de Chine du Sud est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c2b7b3d52a551e91ccda02fa1884b15ebab01a91</guid>
+      <pubDate>Fri, 21 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pouvons-nous encore marquer les machines ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/21/pouvons-nous-marquer-les-machines/</link>
+      <description>[Le Grand Continent] Une conversation fleuve avec le mathématicien qui a inventé le watermarking des LLM. L’article Pouvons-nous encore marquer les machines&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b57fe02dc554d48ab6227c8a23692bf425d17ba2</guid>
+      <pubDate>Fri, 21 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Idéologie du genre</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/20/ideologie-du-genre/</link>
+      <description>[Le Grand Continent] Du Vatican à la Maison-Blanche, comment une guerre culturelle mondiale cherche à devenir une nouvelle croisade. L’article Idéologie du genre est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c95b494e1b83f72b5e1c0653a0f00a54a57942af</guid>
+      <pubDate>Thu, 20 Aug 2026 17:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La robotique est-elle en train de vivre son « moment GPT-3 » ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/20/la-robotique-est-elle-en-train-de-vivre-son-moment-gpt-3/</link>
+      <description>[Le Grand Continent] En seulement huit mois, la start-up américaine Generalist AI a entraîné un modèle robotique capable de reproduire des tâches après une simple démonstration humaine. L’article La robotique est-elle en train de vivre son «&amp;#160;moment GPT-3&amp;#160;»&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">350fba07a06f451a93fcb821a76c979dbc5e7cdd</guid>
+      <pubDate>Thu, 20 Aug 2026 15:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’intelligence artificielle va-t-elle guérir le cancer ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/20/lia-va-t-elle-guerir-le-cancer/</link>
+      <description>[Le Grand Continent] Merck et Moderna ont franchi hier une étape importante dans le traitement du mélanome. L'analyse précise de cette découverte révèle le véritable rôle de l'IA dans la révolution médicale en cours. L’article L’intelligence artificielle va-t-elle guérir le cancer&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">a090dc9ce44ee2fdc3ca1d45d8af2f7e64821885</guid>
+      <pubDate>Thu, 20 Aug 2026 11:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patrimoine : faut-il faire contribuer ceux qui exploitent son image ?</title>
       <link>https://theconversation.com/patrimoine-faut-il-faire-contribuer-ceux-qui-exploitent-son-image-286911</link>
@@ -1542,70 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">52b6dbd0542fd815d9350920714c2bf787d511a2</guid>
       <pubDate>Mon, 20 Jul 2026 03:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Derrière la finale Argentine-Espagne, un affrontement entre l’un des plus proches alliés et un pays ciblé par Donald Trump</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/19/derriere-la-finale-argentine-espagne-un-affrontement-entre-lun-des-plus-proches-allies-et-un-pays-cible-par-donald-trump/</link>
-      <description>[Le Grand Continent] Ce soir, Trump se trouvera dans les tribunes du MetLife Stadium aux côtés du Premier ministre espagnol Sánchez, son principal adversaire au sein de l’OTAN. L’article Derrière la finale Argentine-Espagne, un affrontement entre l’un des plus proches alliés et un pays ciblé par Donald Trump est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">cd58969b6c0055a5cc44d34540fd9e55859d5d7a</guid>
-      <pubDate>Sun, 19 Jul 2026 11:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ce que l’IA apprend (et n’apprend pas) aux enfants</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/19/ia-enseignement-devillers/</link>
-      <description>[Le Grand Continent] L'école peut fermer en juillet, la transmission, elle, ne s'arrête jamais — et les géants de la tech l'ont parfaitement compris. L’article Ce que l’IA apprend (et n’apprend pas) aux enfants est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">7873a8f96c0942b67bb0e78ba4d7678e302c0382</guid>
-      <pubDate>Sun, 19 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taylor au pays des Soviets : quand Lénine s'inspirait de l'organisation scientifique du travail</title>
-      <link>https://theconversation.com/taylor-au-pays-des-soviets-quand-lenine-sinspirait-de-lorganisation-scientifique-du-travail-278683</link>
-      <description>[The Conversation FR - Histoire] Contrairement à une idée reçue, le taylorisme et le management n’ont pas seulement concerné les capitalistes. L’URSS a également repris ces principes pour rationaliser le travail.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">2ce7601a38e0381aec243864956782b7dc038c34</guid>
-      <pubDate>Sun, 19 Jul 2026 09:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Santé des étudiants : plus d’un sur deux entre à l’université avec une fragilité physique ou mentale</title>
-      <link>https://theconversation.com/sante-des-etudiants-plus-dun-sur-deux-entre-a-luniversite-avec-une-fragilite-physique-ou-mentale-286054</link>
-      <description>[The Conversation FR - Éducation] Plus d’un étudiant sur deux arrive à l’université avec une vulnérabilité physique ou mentale : la meilleure solution pourrait être l’activité physique individualisée.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">f770a035f351c6f933090cc056160b24b83589e1</guid>
-      <pubDate>Sun, 19 Jul 2026 09:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quand l’État vacille, qui gouverne encore ?</title>
-      <link>https://theconversation.com/quand-letat-vacille-qui-gouverne-encore-286368</link>
-      <description>[The Conversation FR - International] Quand l’État s’effondre, l’action publique ne disparaît pas toujours. À Haïti comme ailleurs, d’autres acteurs prennent le relais, redéfinissant la frontière entre gouvernance-légitimité-pouvoir.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">3a86ee32d535f275171a1880b7eef7bcf96023ee</guid>
-      <pubDate>Sun, 19 Jul 2026 09:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les bananes pourraient-elles disparaître ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/19/les-bananes-pourraient-elles-disparaitre/</link>
-      <description>[Le Grand Continent] En raison des maladies et du réchauffement climatique, les bananes Cavendish, les plus consommées au monde, pourraient connaître le même sort que la Gros Michel. L’article Les bananes pourraient-elles disparaître&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">e3e649077951b4536cb6b525e4d1bcf3b881f3e9</guid>
-      <pubDate>Sun, 19 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ce que l’IA apprend (et n’apprend pas) aux enfants</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/19/ia-enseignement/</link>
-      <description>[Le Grand Continent] L'école peut fermer en juillet, la transmission, elle, ne s'arrête jamais — et les géants de la tech l'ont parfaitement compris. L’article Ce que l’IA apprend (et n’apprend pas) aux enfants est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">09c4fdd163fc62785400e04e0423abeb365c44fa</guid>
-      <pubDate>Sun, 19 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>France-Angleterre : la petite finale de la Coupe du monde verra s’affronter deux grandes équipes déçues</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/18/france-angleterre-la-petite-finale-de-la-coupe-du-monde-verra-saffronter-deux-grandes-equipes-decues/</link>
-      <description>[Le Grand Continent] France et Angleterre n'ont plus grand-chose à se dire dans cette finale pour la troisième place. L’article France-Angleterre&amp;#160;: la petite finale de la Coupe du monde verra s’affronter deux grandes équipes déçues est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">a5793d379b611bb645e7ceb632568de81dad8bf3</guid>
-      <pubDate>Sat, 18 Jul 2026 12:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
