@@ -6,7 +6,63 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:22:00 +0000</lastBuildDate>
+    <item>
+      <title>Réalité virtuelle, expositions, théâtre… comment la technologie perpétue la légende du « Titanic »</title>
+      <link>https://theconversation.com/realite-virtuelle-expositions-theatre-comment-la-technologie-perpetue-la-legende-du-titanic-287646</link>
+      <description>[The Conversation FR - Histoire] Plus d’un siècle après le naufrage du «&amp;nbsp;Titanic&amp;nbsp;», qui fit près de 1&amp;nbsp;500&amp;nbsp;victimes, le 15&amp;nbsp;avril 1912, la catastrophe reste un puissant objet culturel. Les technologies immersives lui offrent désormais une nouvelle vie, entre mémoire, spectacle et émotion.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">5db0d05778bb262452f6c4e6df7a1c0a6cab1820</guid>
+      <pubDate>Fri, 21 Aug 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sécheresses, incendies et famines… Comment une période de réchauffement a redessiné le Moyen Âge</title>
+      <link>https://theconversation.com/secheresses-incendies-et-famines-comment-une-periode-de-rechauffement-a-redessine-le-moyen-age-288300</link>
+      <description>[The Conversation FR - Histoire] Entre le Xᵉ et le XIIIᵉ&amp;nbsp;siècles, une grande partie du monde a connu un climat plus chaud qu’à l’accoutumée. Cette «&amp;nbsp;anomalie climatique médiévale&amp;nbsp;» a favorisé l’essor de l’agriculture dans certaines régions et provoqué famines et crises ailleurs.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">b986f528c55b3e2cb2fbad134cda84fc43a404c6</guid>
+      <pubDate>Fri, 21 Aug 2026 10:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine : des élections pendant la guerre renforceraient-elles vraiment la démocratie ?</title>
+      <link>https://theconversation.com/ukraine-des-elections-pendant-la-guerre-renforceraient-elles-vraiment-la-democratie-290179</link>
+      <description>[The Conversation FR - International] Des millions de déplacés internes et de réfugiés, une partie du territoire sous occupation russe et des frappes quotidiennes&amp;nbsp;: malgré ce contexte, des responsables ukrainiens relancent le débat sur la tenue d’élections.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">2ee559d44531c6c69646f2a4084cd72d15d2dbb7</guid>
+      <pubDate>Fri, 21 Aug 2026 10:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Léon XIV à Saint-Marin : la diplomatie des micro-États, une stratégie vaticane ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/22/leon-xiv-a-saint-marin-la-diplomatie-des-micro-etats-une-strategie-vaticane/</link>
+      <description>[Le Grand Continent] Au temps du retour des Empires, la stratégie du Saint-Siège offre une alternative à l’affirmation seule de la puissance brute. L’article Léon XIV à Saint-Marin&amp;#160;: la diplomatie des micro-États, une stratégie vaticane&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">18b3c65ba78b9097939abc848c188d905689875c</guid>
+      <pubDate>Sat, 22 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Illibéralisme</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/21/illiberalisme/</link>
+      <description>[Le Grand Continent] Des conservateurs de l’après-guerre aux néoréactionnaires de la Silicon Valley, une généalogie de la contre-révolution. L’article Illibéralisme est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">53e4e82f2d0e99dcf4a3ca05b1dcd35f3b4d72fc</guid>
+      <pubDate>Fri, 21 Aug 2026 18:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La politique migratoire européenne de Meloni se retourne contre elle</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/21/la-politique-migratoire-europeenne-de-meloni-se-retourne-contre-elle/</link>
+      <description>[Le Grand Continent] Au moins six pays européens s’apprêtent à renvoyer des demandeurs d’asile vers l’Italie. L’article La politique migratoire européenne de Meloni se retourne contre elle est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c8e215df330734ca2c487e3f18048c9a4abc12d9</guid>
+      <pubDate>Fri, 21 Aug 2026 16:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quels pays européens pourraient être pris pour cible par l’Iran ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/21/quels-pays-europeens-pourraient-etre-pris-pour-cible-par-liran/</link>
+      <description>[Le Grand Continent] L’arsenal de drones iraniens constitue une menace pour les bases utilisées par l’armée américaine en Europe. L’article Quels pays européens pourraient être pris pour cible par l’Iran&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">00ca6b1c06f67be04a493c6773311bf312b249a1</guid>
+      <pubDate>Fri, 21 Aug 2026 12:13:00 +0000</pubDate>
+    </item>
     <item>
       <title>Vin, huile, profits : le véritable rôle des intendantes dans les fermes romaines</title>
       <link>https://theconversation.com/vin-huile-profits-le-veritable-role-des-intendantes-dans-les-fermes-romaines-287595</link>
@@ -1550,62 +1606,6 @@
       <category>The Conversation FR - International</category>
       <guid isPermaLink="false">f63ce42e596d7bac1fa77ecbecb5b490568560b1</guid>
       <pubDate>Mon, 20 Jul 2026 15:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le gazoduc Nigeria-Maroc pourrait renforcer la position du Rabat – aux dépens de l’Algérie</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/21/le-gazoduc-nigeria-maroc-pourrait-renforcer-la-position-du-rabat-aux-depens-de-lalgerie/</link>
-      <description>[Le Grand Continent] Estimé à 23 milliards d’euros et traversant 13 pays africains, le projet, approuvé le 19 juillet, fait toutefois face à plusieurs obstacles. L’article Le gazoduc Nigeria-Maroc pourrait renforcer la position du Rabat – aux dépens de l’Algérie est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">0888372ab52a350312dd8534206e36c3518a57cc</guid>
-      <pubDate>Tue, 21 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qu’est-ce que le manchesterisme ? Comprendre la doctrine Andy Burnham</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/21/quest-ce-que-le-manchesterisme-la-doctrine-andy-burnham/</link>
-      <description>[Le Grand Continent] Fin du néolibéralisme, socialisme «&amp;#160;business-friendly&amp;#160;»… L'ancien maire du Grand Manchester promet de décentraliser le pouvoir, mais est-ce vraiment possible&amp;#160;? L’article Qu’est-ce que le manchesterisme&amp;#160;? Comprendre la doctrine Andy Burnham est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">74d632f9a66a5b699830131680c9e50e2710b4f9</guid>
-      <pubDate>Tue, 21 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Un soldat russe vit en moyenne 20 à 30 minutes sur le front ukrainien</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/20/un-soldat-russe-vit-en-moyenne-20-a-30-minutes-sur-le-front-ukrainien/</link>
-      <description>[Le Grand Continent] La difficulté à recruter des volontaires pour combattre en Ukraine pourrait conduire le Kremlin à procéder à une nouvelle mobilisation, après les élections de septembre. L’article Un soldat russe vit en moyenne 20 à 30 minutes sur le front ukrainien est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">735f3cc26e517e16d528a67eb6f951cfa835ba63</guid>
-      <pubDate>Mon, 20 Jul 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ingérence de Trump, slopification, changement climatique : quel bilan tirer de ce Mondial ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/20/ingerence-de-trump-slopification-changement-climatique-quel-bilan-tirer-de-ce-mondial/</link>
-      <description>[Le Grand Continent] La plus grande Coupe du monde de l’histoire a été marquée par le sacre de l'équipe d’Espagne – mais pas seulement. L’article Ingérence de Trump, slopification, changement climatique&amp;#160;: quel bilan tirer de ce Mondial&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">5ab76eb5668a925a8137cdceac0cf91a16bfaf39</guid>
-      <pubDate>Mon, 20 Jul 2026 12:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine : un remaniement qui révèle les fractures au sein du premier cercle de Volodymyr Zelensky</title>
-      <link>https://theconversation.com/ukraine-un-remaniement-qui-revele-les-fractures-au-sein-du-premier-cercle-de-volodymyr-zelensky-287851</link>
-      <description>[The Conversation FR - International] Le remplacement du jeune ministre de la défense Mykhaïlo Fedorov, grand ordonnateur de la guerre des drones ukrainienne, reflète des conflits internes et suscite le mécontentement de la population.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">75f1548d4330b55c61ca264fccc5c181b46448d1</guid>
-      <pubDate>Sun, 19 Jul 2026 17:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les États-Unis se préparent-ils à une nouvelle escalade en Iran ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/20/les-etats-unis-se-preparent-ils-a-une-nouvelle-escalade-en-iran/</link>
-      <description>[Le Grand Continent] Des dizaines d’avions supplémentaires sont déployés depuis les bases de l’armée américaine en Europe vers le Moyen-Orient. L’article Les États-Unis se préparent-ils à une nouvelle escalade en Iran&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">ca0957b2182e21903399a24e7857355514653afb</guid>
-      <pubDate>Mon, 20 Jul 2026 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Chine a sauvé la junte birmane, et après ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/20/la-chine-a-sauve-la-junte-birmane-et-apres/</link>
-      <description>[Le Grand Continent] La Chine a établi un protectorat recalcitrant au Myanmar. Les généraux, ni capables, ni inféodés, rendent ce pari de plus en plus intenable. L’article La Chine a sauvé la junte birmane, et après&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">52b6dbd0542fd815d9350920714c2bf787d511a2</guid>
-      <pubDate>Mon, 20 Jul 2026 03:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
