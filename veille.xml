@@ -6,7 +6,23 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:23:00 +0000</lastBuildDate>
+    <item>
+      <title>Les réserves européennes de gaz sont plus faibles qu’en 2022</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/23/les-reserves-europeennes-de-gaz-sont-plus-faibles-quen-2022/</link>
+      <description>[Le Grand Continent] À l’échelle de l’Union, le stockage de gaz se situe à 62&amp;#160;% au 21 août. Si le risque n’est pas tant celui d’une pénurie, les États européens pourraient voir les prix grimper durant les mois d’hiver, notamment si le conflit au Moyen-Orient se prolonge. L’article Les réserves européennes de gaz sont plus faibles qu’en 2022 est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">dceff2986d95c35901cb988ef5f7ce7f8b656a59</guid>
+      <pubDate>Sun, 23 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le projet d’État de Donald Trump</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/23/le-projet-detat-de-donald-trump/</link>
+      <description>[Le Grand Continent] La guerre contre la bureaucratie cache une transformation radicale du pouvoir américain. L’article Le projet d’État de Donald Trump est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">864fc628e930272e77d5fe7aed0bd96291dcb46c</guid>
+      <pubDate>Sun, 23 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Réalité virtuelle, expositions, théâtre… comment la technologie perpétue la légende du « Titanic »</title>
       <link>https://theconversation.com/realite-virtuelle-expositions-theatre-comment-la-technologie-perpetue-la-legende-du-titanic-287646</link>
@@ -1590,22 +1606,6 @@
       <category>The Conversation FR - Éducation</category>
       <guid isPermaLink="false">f65255c1df63e7c3ea6cbc854a2cd3b118902be0</guid>
       <pubDate>Mon, 20 Jul 2026 15:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Billes, cartes Pokémon… Pourquoi les enfants aiment faire du troc</title>
-      <link>https://theconversation.com/billes-cartes-pokemon-pourquoi-les-enfants-aiment-faire-du-troc-287039</link>
-      <description>[The Conversation FR - Éducation] Dans les groupes d’enfants, dans les cours de récréation, on s’échange des billes, des cartes à collectionner ou des goûters. C’est une façon de nouer des liens et d’apprendre la valeur des choses.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">b82125c111f9917c95e769f845a3c09f5b85c3b2</guid>
-      <pubDate>Mon, 20 Jul 2026 15:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les ONG à bout de souffle : comment réinventer un nouveau modèle d’organisation ?</title>
-      <link>https://theconversation.com/les-ong-a-bout-de-souffle-comment-reinventer-un-nouveau-modele-dorganisation-287356</link>
-      <description>[The Conversation FR - International] Les coupes dans les aides publiques fragilisent les ONG. Pour rester efficaces malgré des moyens en baisse, elles doivent mieux coordonner leurs actions et innover.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">f63ce42e596d7bac1fa77ecbecb5b490568560b1</guid>
-      <pubDate>Mon, 20 Jul 2026 15:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
