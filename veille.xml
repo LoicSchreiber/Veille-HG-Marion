@@ -6,7 +6,63 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:31:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:36:00 +0000</lastBuildDate>
+    <item>
+      <title>COP17 en Mongolie : la diplomatie de la terre à l’épreuve de la crise du multilatéralisme environnemental</title>
+      <link>https://theconversation.com/cop17-en-mongolie-la-diplomatie-de-la-terre-a-lepreuve-de-la-crise-du-multilateralisme-environnemental-290199</link>
+      <description>[The Conversation FR - International] Sur fond de canicules et d’incendies, la COP sur la désertification se réunit pour lutter contre la dégradation des terres, qui accentue les pressions sur les écosystèmes et sur les populations.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">e8d6c1a0818f1a6851329d4f5db00345c4badac8</guid>
+      <pubDate>Tue, 25 Aug 2026 14:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protéger les enfants en mobilité au Mali : l’angle mort des dispositifs actuels</title>
+      <link>https://theconversation.com/proteger-les-enfants-en-mobilite-au-mali-langle-mort-des-dispositifs-actuels-289937</link>
+      <description>[The Conversation FR - International] Au Mali, des réseaux communautaires protègent les enfants confiés en ville, mais les failles des placements et des dispositifs publics accroissent leur vulnérabilité.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">177bc7cfc8b1f6f0dbff8aaf1fa285786f1c561d</guid>
+      <pubDate>Tue, 25 Aug 2026 14:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le pouvoir de ceux qui critiquent le pouvoir</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/26/le-pouvoir-de-ceux-qui-critiquent-le-pouvoir/</link>
+      <description>[Le Grand Continent] La critique devait nous libérer des dogmes et des arguments d’autorité. Elle a fini par créer une élite qui peine à reconnaître sa propre responsabilité. L’article Le pouvoir de ceux qui critiquent le pouvoir est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">ebf218b484d62a6837fe74b60bfaba0db43f19d1</guid>
+      <pubDate>Wed, 26 Aug 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Près de la moitié de l’approvisionnement mondial en pétrole provient de pays engagés dans un conflit</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/26/pres-de-la-moitie-de-lapprovisionnement-mondial-en-petrole-provient-de-pays-engages-dans-un-conflit/</link>
+      <description>[Le Grand Continent] Les États-Unis sont les principaux bénéficiaires des perturbations qui impactent les approvisionnements énergétiques mondiaux. L’article Près de la moitié de l’approvisionnement mondial en pétrole provient de pays engagés dans un conflit est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">6ebcf68c7062d1432bc2bf3f5d41c1daf582b7b7</guid>
+      <pubDate>Wed, 26 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Économie russe : le Kremlin tire profit des frappes de drones ukrainiens pour accélérer sa saisie d’actifs</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/25/economie-russe-le-kremlin-tire-profit-des-frappes-de-drones-ukrainiens-pour-accelerer-sa-saisie-dactifs/</link>
+      <description>[Le Grand Continent] Le succès de la campagne ukrainienne pourrait produire un effet inattendu&amp;#160;: permettre au Kremlin de renflouer ses caisses. L’article Économie russe&amp;#160;: le Kremlin tire profit des frappes de drones ukrainiens pour accélérer sa saisie d’actifs est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c22eafdd58563ea03655d225aa4c15c3cc239ab1</guid>
+      <pubDate>Tue, 25 Aug 2026 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Palantir veut recruter Mykhaïlo Fedorov, l’homme fort de la tech ukrainienne</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/25/palantir-veut-recruter-mykhailo-fedorov-lhomme-fort-de-la-tech-ukrainienne/</link>
+      <description>[Le Grand Continent] Le ministre de la Défense limogé par Zelensky est de plus en plus proche du géant fondé par Peter Thiel. L’article Palantir veut recruter Mykhaïlo Fedorov, l’homme fort de la tech ukrainienne est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">fb18482078ad9ac3eb85b227daf6314460dea390</guid>
+      <pubDate>Tue, 25 Aug 2026 14:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi le Parti communiste chinois organise des jeux des robots de Pékin ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/25/pourquoi-le-parti-communiste-chinois-organise-des-jeux-des-robots-de-pekin/</link>
+      <description>[Le Grand Continent] Le Colisée robotique des 2026 World Humanoid Robot Games décodé cliché par cliché. L’article Pourquoi le Parti communiste chinois organise des jeux des robots de Pékin&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c037e0e413bc572f31fc93e9eb751a706f14b78b</guid>
+      <pubDate>Tue, 25 Aug 2026 12:08:00 +0000</pubDate>
+    </item>
     <item>
       <title>Comment est fabriqué un billet de banque ? Dans les coulisses de la Banque de France depuis Napoléon Bonaparte</title>
       <link>https://theconversation.com/comment-est-fabrique-un-billet-de-banque-dans-les-coulisses-de-la-banque-de-france-depuis-napoleon-bonaparte-285174</link>
@@ -1550,62 +1606,6 @@
       <category>The Conversation FR - Éducation</category>
       <guid isPermaLink="false">64a0f997291db1ac65c3319c55cc172afd0ed164</guid>
       <pubDate>Thu, 23 Jul 2026 14:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coupe du Monde 2026 : le football a-t-il gagné ?</title>
-      <link>https://theconversation.com/coupe-du-monde-2026-le-football-a-t-il-gagne-288223</link>
-      <description>[The Conversation FR - International] Le football au sens large n’est pas sorti vainqueur d’une compétition démesurée, marquée par la personnalité de Donald Trump et l’inféodation à celui-ci de Gianni Infantino.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">854a32402585e3886b79c4ca64443a59a28b86c7</guid>
-      <pubDate>Fri, 24 Jul 2026 08:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ce que la crise politique en Ukraine dit de l’avenir de la défense européenne</title>
-      <link>https://theconversation.com/ce-que-la-crise-politique-en-ukraine-dit-de-lavenir-de-la-defense-europeenne-288007</link>
-      <description>[The Conversation FR - International] Le limogeage de Mykhaïlo Fedorov révèle un enjeu dépassant l’Ukraine : adapter les institutions au rythme de la guerre technologique.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">a19af7d026c6d634a2ff2687a3ec3d115603df12</guid>
-      <pubDate>Thu, 23 Jul 2026 14:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les États-Unis s’apprêteraient à mener des opérations militaires au Mali</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/24/les-etats-unis-sappreteraient-a-mener-des-operations-militaires-au-mali/</link>
-      <description>[Le Grand Continent] Il s’agirait du 8e pays visé par une intervention armée américaine depuis le retour au pouvoir de Donald Trump, il y a 18 mois. L’article Les États-Unis s’apprêteraient à mener des opérations militaires au Mali est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">fda534e16c760401b6135a658efa4df9fbb45135</guid>
-      <pubDate>Fri, 24 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deux fois plus d’hectares ont brûlé en Europe depuis le 1er janvier par rapport à la moyenne des 20 dernières années</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/23/deux-fois-plus-dhectares-ont-brule-en-europe-depuis-le-1er-janvier-par-rapport-a-la-moyenne-des-20-dernieres-annees/</link>
-      <description>[Le Grand Continent] Au mercredi 22 juillet, 275 000 hectares ont brûlé en Europe depuis le début de l’année, dont plus de la moitié en Espagne et en France. L’article Deux fois plus d&amp;rsquo;hectares ont brûlé en Europe depuis le 1er janvier par rapport à la moyenne des 20 dernières années est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">c4e8b050c8bb57566cdce0e2f84257f784f0ed4e</guid>
-      <pubDate>Thu, 23 Jul 2026 16:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Pakistan veut mettre à profit sa proximité avec Trump pour obtenir une facilité de 10 milliards de dollars</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/23/le-pakistan-veut-mettre-a-profit-sa-proximite-avec-trump-pour-obtenir-une-facilite-de-10-milliards-de-dollars/</link>
-      <description>[Le Grand Continent] En raison de crises et de conflits successifs, les réserves de change du pays ne permettent plus de couvrir que trois mois d'importations. L’article Le Pakistan veut mettre à profit sa proximité avec Trump pour obtenir une facilité de 10 milliards de dollars est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">673dc3bab0f180fb9361c069dca6dc584b8872a2</guid>
-      <pubDate>Thu, 23 Jul 2026 11:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bien avant Ormuz, Athènes a fait du contrôle d’un détroit près de Troie la clé de sa fortune</title>
-      <link>https://theconversation.com/bien-avant-ormuz-athenes-a-fait-du-controle-dun-detroit-pres-de-troie-la-cle-de-sa-fortune-287981</link>
-      <description>[The Conversation FR - Histoire] Dans «&amp;nbsp;L’Odyssée&amp;nbsp;-&amp;nbsp;», Christopher Nolan fait de la guerre de Troie un conflit pour le contrôle d’une route maritime. Si cette interprétation s’éloigne d’Homère, elle éclaire pourtant le rôle des Dardanelles.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">9a24f366d3b56c7c7033f3743b499a662d38e62b</guid>
-      <pubDate>Wed, 22 Jul 2026 14:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Faut-il limiter le temps d’écran des enfants ? Les pédiatres américains revoient leur position</title>
-      <link>https://theconversation.com/faut-il-limiter-le-temps-decran-des-enfants-les-pediatres-americains-revoient-leur-position-287983</link>
-      <description>[The Conversation FR - Éducation] À l’heure où la France choisit de limiter l’accès des adolescents aux réseaux sociaux, un changement de doctrine s’opère chez les pédiatres américains.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">126cdf2e9955a5a31d85befa103253e2139c5335</guid>
-      <pubDate>Wed, 22 Jul 2026 14:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
