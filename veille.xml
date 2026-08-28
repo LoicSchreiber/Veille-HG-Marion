@@ -6,7 +6,63 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 19:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:39:00 +0000</lastBuildDate>
+    <item>
+      <title>Téléphone au lycée : comment transformer une interdiction en éducation ?</title>
+      <link>https://theconversation.com/telephone-au-lycee-comment-transformer-une-interdiction-en-education-290377</link>
+      <description>[The Conversation FR - Éducation] À partir du 1er septembre, les téléphones portables seront interdits au lycée. Mais une interdiction ne peut suffire à une véritable éducation numérique.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">ea18db2dd25fc3271690b53c6097c6a9c30038ac</guid>
+      <pubDate>Fri, 28 Aug 2026 10:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qu’est-ce qu’un « bon » prof à l’ère de l’IA ?</title>
+      <link>https://theconversation.com/quest-ce-quun-bon-prof-a-lere-de-lia-288129</link>
+      <description>[The Conversation FR - Éducation] L’identité des enseignants s’est longtemps construite sur la maîtrise de disciplines. Mais être expert d’un domaine ne suffit pas à bien «&amp;nbsp;faire apprendre&amp;nbsp;» les élèves, et l’IA change la donne.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">451f91411b6267fc2a837b44dca42436e29f565e</guid>
+      <pubDate>Fri, 28 Aug 2026 10:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Que pensent vraiment les Israéliens et les Palestiniens ?</title>
+      <link>https://theconversation.com/que-pensent-vraiment-les-israeliens-et-les-palestiniens-290490</link>
+      <description>[The Conversation FR - International] Un examen attentif de plusieurs sondages récents conduits auprès des Palestiniens comme des Israéliens donne un aperçu des craintes et des espoirs des deux populations.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">d94901e7074c4bc405181b5c9867d05079495502</guid>
+      <pubDate>Fri, 28 Aug 2026 10:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quelles sont les leçons de la guerre en Ukraine pour l’Armée populaire de libération ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/28/quelles-sont-les-lecons-de-la-guerre-en-ukraine-pour-larmee-populaire-de-liberation/</link>
+      <description>[Le Grand Continent] Pour l’armée chinoise, la guerre en Ukraine n’est qu’une «&amp;#160;phase transitoire&amp;#160;» de la guerre moderne, avant l’utilisation à grande échelle de l’intelligence artificielle et des essaims de drones. L’article Quelles sont les leçons de la guerre en Ukraine pour l’Armée populaire de libération&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">dedb02962acfb300fbfcc9f8ea2ac85025dfae09</guid>
+      <pubDate>Fri, 28 Aug 2026 16:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’oligarque qui a déclaré la guerre aux oligarques</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/28/loligarque-qui-declare-la-guerre-aux-oligarques/</link>
+      <description>[Le Grand Continent] En Indonésie, Prabowo Subianto installe une nouvelle forme de capitalisme d’État clanique. L’article L’oligarque qui a déclaré la guerre aux oligarques est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">66e950403e8688dbbd27db3232f6aa60adc15a37</guid>
+      <pubDate>Fri, 28 Aug 2026 15:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les États-Unis gagnent plus souvent lorsque les guerres sont courtes</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/28/les-etats-unis-gagnent-plus-souvent-lorsque-les-guerres-sont-courtes/</link>
+      <description>[Le Grand Continent] Les États-Unis ont remporté 50&amp;#160;% des guerres de plus de six mois depuis 1945, et 89&amp;#160;% des guerres de moins de six mois. L’article Les États-Unis gagnent plus souvent lorsque les guerres sont courtes est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">5083e82e6ec2a3686ef6fec290921fab74822357</guid>
+      <pubDate>Fri, 28 Aug 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Base idéologique du général Vannacci (texte intégral)</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/28/la-base-ideologique-du-general-vannacci-texte-integral/</link>
+      <description>[Le Grand Continent] Nous avons traduit et annoté le programme de Futuro Nazionale, la force d’extrême droite qui fait trembler Meloni. L’article La Base idéologique du général Vannacci (texte intégral) est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">7b1324afa348d00c640ea2fed77253e187629257</guid>
+      <pubDate>Fri, 28 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pourquoi Napoléon III a fait de l’archéologie une affaire d’État</title>
       <link>https://theconversation.com/pourquoi-napoleon-iii-a-fait-de-larcheologie-une-affaire-detat-286579</link>
@@ -1550,62 +1606,6 @@
       <category>The Conversation FR - Histoire</category>
       <guid isPermaLink="false">f2c54b47ce9f5e741a5fcd7d8faf54e3e83419fe</guid>
       <pubDate>Fri, 10 Jul 2026 10:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peu importe ce que les enfants lisent, tant qu’ils lisent ? Dépasser les préjugés sur les « bonnes » et « mauvaises lectures »</title>
-      <link>https://theconversation.com/peu-importe-ce-que-les-enfants-lisent-tant-quils-lisent-depasser-les-prejuges-sur-les-bonnes-et-mauvaises-lectures-287799</link>
-      <description>[The Conversation FR - Éducation] Pour donner aux enfants le goût de la lecture, ne faut-il d’abord en finir avec les catégories figées de « bonnes » et « mauvaises lectures » pour partir des centres d’intérêts de chacun ?</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">5a046eb097142e4bc21cf24fa9f29515de481b37</guid>
-      <pubDate>Mon, 27 Jul 2026 13:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indonésie et Asie du Sud-Est : la France a une carte à jouer</title>
-      <link>https://theconversation.com/indonesie-et-asie-du-sud-est-la-france-a-une-carte-a-jouer-287087</link>
-      <description>[The Conversation FR - International] Ni Washington, ni Pékin : les États d’Asie du Sud-Est, à commencer par l’Indonésie, cherchent à faire entendre leur voix. Une occasion à saisir pour la France et l’Europe.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">24487f8aaa3689365b8df6b5d8b0ecfe4e5584f4</guid>
-      <pubDate>Mon, 27 Jul 2026 13:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La politique erratique de Trump constitue un frein à la réindustrialisation des États-Unis</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/28/la-politique-erratique-de-trump-constitue-un-frein-a-la-reindustrialisation-des-etats-unis/</link>
-      <description>[Le Grand Continent] Plus de 500 000 emplois étaient à pourvoir dans le secteur manufacturier en mai aux États-Unis, soit plus qu’avant la pandémie de coronavirus. L’article La politique erratique de Trump constitue un frein à la réindustrialisation des États-Unis est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">8339afc93a1281128187aa1a6bbd6d1e982e2783</guid>
-      <pubDate>Tue, 28 Jul 2026 10:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anti-nation</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/28/anti-nation/</link>
-      <description>[Le Grand Continent] De Maurras à Trump, la construction d’un ennemi intérieur est souvent la clef discursive de la conquête de l’espace national. L’article Anti-nation est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">4b58bc41a60cf60ac56cd47d9989d1882816ca80</guid>
-      <pubDate>Tue, 28 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La guerre en Ukraine est-elle en train de se connecter avec la guerre en Iran ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/28/la-guerre-en-ukraine-est-elle-en-train-de-se-connecter-avec-la-guerre-en-iran/</link>
-      <description>[Le Grand Continent] Le régime iranien qui fabrique des drones utilisés par la Russie pour ses frappes en Ukraine accuse Kiev d’avoir attaqué un navire iranien en mer Caspienne et menace de représailles. L’article La guerre en Ukraine est-elle en train de se connecter avec la guerre en Iran&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">471d34f798a3819116993b2218b5efaad1b8d6d8</guid>
-      <pubDate>Tue, 28 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La surface brûlée en France depuis le 1er janvier représente près de la moitié du Luxembourg</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/27/la-surface-brulee-en-france-depuis-le-1er-janvier-represente-pres-de-la-moitie-du-luxembourg/</link>
-      <description>[Le Grand Continent] Dans le sud-ouest, 46 000 hectares ont brûlé en seulement cinq jours. L’article La surface brûlée en France depuis le 1er janvier représente près de la moitié du Luxembourg est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">a01923669fab503908f8b9786b5afe84629cabcf</guid>
-      <pubDate>Mon, 27 Jul 2026 16:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peut-on s’inspirer du Japon pour repenser la durabilité de la filière textile en France ?</title>
-      <link>https://theconversation.com/peut-on-sinspirer-du-japon-pour-repenser-la-durabilite-de-la-filiere-textile-en-france-281779</link>
-      <description>[The Conversation FR - Histoire] Longtemps, le Japon a été le pays du textile reconditionné. Analyse d’un modèle économique peu connu pour éclairer les voies d’une mutation possible du secteur textile.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">9884b1ca2741a74fec3b9a5d960d077c62bcb64b</guid>
-      <pubDate>Mon, 27 Jul 2026 10:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
