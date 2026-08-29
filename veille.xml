@@ -6,7 +6,31 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 20:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:08:00 +0000</lastBuildDate>
+    <item>
+      <title>Économie russe : la fortune des milliardaires a bondi de 20 % l’an dernier</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/29/economie-russe-la-fortune-des-milliardaires-a-bondi-de-20-lan-dernier/</link>
+      <description>[Le Grand Continent] Le ratio entre la fortune des milliardaires russes et le PIB du pays atteint 27&amp;#160;%, soit plus que l’Inde et les États-Unis. L’article Économie russe&amp;#160;: la fortune des milliardaires a bondi de 20&amp;#160;% l’an dernier est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">debf56bbb7953a4f18da7e1987ac780ab476aa3d</guid>
+      <pubDate>Sat, 29 Aug 2026 12:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Islande vote sur l’accession à l’Union européenne</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/29/lislande-vote-sur-laccession-a-lunion-europeenne/</link>
+      <description>[Le Grand Continent] Aujourd’hui, 29 août, les Islandais votent lors d'un référendum sur la réouverture des négociations d’adhésion du pays à l’Union. L’article L’Islande vote sur l’accession à l’Union européenne est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2260422b1bd9dbcbe1c31fc3f5a43b2aabfc012d</guid>
+      <pubDate>Sat, 29 Aug 2026 05:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi la Chine doit être autoritaire</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/29/pourquoi-la-chine-doit-etre-autoritaire/</link>
+      <description>[Le Grand Continent] L’un des articles les plus importants pour comprendre la Chine de Xi Jinping, pour la première fois en français. L’article Pourquoi la Chine doit être autoritaire est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">f988ed18a48e6551bbd531839ab6ab7699264c30</guid>
+      <pubDate>Sat, 29 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Téléphone au lycée : comment transformer une interdiction en éducation ?</title>
       <link>https://theconversation.com/telephone-au-lycee-comment-transformer-une-interdiction-en-education-290377</link>
@@ -1582,30 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">eab56b021b5bb0a0a3c145248c3f095c49b089c0</guid>
       <pubDate>Tue, 28 Jul 2026 14:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anti-nation</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/28/l-anti-nation/</link>
-      <description>[Le Grand Continent] De Maurras à Trump, la construction d’un ennemi intérieur est souvent la clef discursive de la conquête de l’espace national. L’article Anti-nation est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">a26190cc1a6e6a694ec01b29f8d99f31e22c4cfc</guid>
-      <pubDate>Tue, 28 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ulysse aux mille ruses était-il aussi un athlète ?</title>
-      <link>https://theconversation.com/ulysse-aux-mille-ruses-etait-il-aussi-un-athlete-288213</link>
-      <description>[The Conversation FR - Histoire] Ulysse aux mille ruses était aussi un sportif accompli, même si l’on rencontre dans l’épopée homérique une multitude de héros et d’héroïnes encore plus athlétiques.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">1b20079131129d86b321bd01bb140e4bcb142044</guid>
-      <pubDate>Mon, 27 Jul 2026 13:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les Vikings étaient bien plus que des pillards barbus : pourquoi les musées scandinaves entretiennent-ils encore cette image ?</title>
-      <link>https://theconversation.com/les-vikings-etaient-bien-plus-que-des-pillards-barbus-pourquoi-les-musees-scandinaves-entretiennent-ils-encore-cette-image-287196</link>
-      <description>[The Conversation FR - Histoire] Les musées nationaux de Scandinavie ne racontent pas seulement le passé&amp;nbsp;: ils contribuent aussi à façonner l’identité contemporaine. Quitte à entretenir certains mythes sur les Vikings, toujours très présents dans l’imaginaire collectif.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">f2c54b47ce9f5e741a5fcd7d8faf54e3e83419fe</guid>
-      <pubDate>Fri, 10 Jul 2026 10:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
