@@ -6,7 +6,95 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:39:00 +0000</lastBuildDate>
+    <item>
+      <title>Comment l’école maternelle s’est mise à évaluer les enfants : retour sur un siècle de transformations</title>
+      <link>https://theconversation.com/comment-lecole-maternelle-sest-mise-a-evaluer-les-enfants-retour-sur-un-siecle-de-transformations-285793</link>
+      <description>[The Conversation FR - Éducation] En cette rentrée 2026-2027, un nouveau programme scolaire entre en vigueur en maternelle, et c’est la huitième&amp;nbsp;fois depuis&amp;nbsp;1977. Pourquoi une telle inflation de textes officiels&amp;nbsp;?</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">e7a1faaf67b22ea5b8eaea8409995494c243cfb2</guid>
+      <pubDate>Mon, 31 Aug 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Réseaux sociaux : quand l’État contraint les jeunes plutôt que les plateformes</title>
+      <link>https://theconversation.com/reseaux-sociaux-quand-letat-contraint-les-jeunes-plutot-que-les-plateformes-290383</link>
+      <description>[The Conversation FR - Éducation] Sous l’impulsion d’Emmanuel Macron, l’État a multiplié les mesures contraignantes pour les jeunes utilisateurs de réseaux, tout en épargnant largement les plateformes.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">e3a59c387ae084808fe0c2048fc5f040e036d0d3</guid>
+      <pubDate>Sun, 30 Aug 2026 17:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les « comptes Trump » : les angles morts d’une vaste opération de marketing politique</title>
+      <link>https://theconversation.com/les-comptes-trump-les-angles-morts-dune-vaste-operation-de-marketing-politique-290456</link>
+      <description>[The Conversation FR - International] Les «&amp;nbsp;comptes Trump&amp;nbsp;» promettent d’aider les jeunes mineurs, citoyens des États-Unis, à se constituer un patrimoine. Mais le dispositif pourrait surtout profiter aux familles aisées.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">68d9718843d074be3b8d430ebb0e0d54d1d8e9e0</guid>
+      <pubDate>Mon, 31 Aug 2026 14:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ceuta : ce qui se joue derrière le récit de la « crise migratoire »</title>
+      <link>https://theconversation.com/ceuta-ce-qui-se-joue-derriere-le-recit-de-la-crise-migratoire-290080</link>
+      <description>[The Conversation FR - International] Fin juillet, des dizaines de milliers de migrants ont pénétré à Ceuta. L’hypothèse d’un complot du gouvernement marocain a circulé, mais les sciences sociales décrivent plutôt un faisceau de mécanismes complexes.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">055aa2721b961ccaa73e5694abf5bee754a4d562</guid>
+      <pubDate>Fri, 28 Aug 2026 10:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quelles sont les leçons du piratage de Hugging Face par les agents d’OpenAI ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/31/quelles-sont-les-lecons-du-piratage-de-hugging-face-par-les-agents-dopenai/</link>
+      <description>[Le Grand Continent] Sans supervision, 700 agents d’OpenAI se sont ligués pour mener une opération de piratage sans précédent. L’article Quelles sont les leçons du piratage de Hugging Face par les agents d&amp;rsquo;OpenAI&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">4ca463726f86407da652668fa7150163757af5b6</guid>
+      <pubDate>Mon, 31 Aug 2026 16:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marine Le Pen peut-elle encore perdre l’élection présidentielle ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/31/marine-le-pen-peut-elle-encore-perdre-lelection-presidentielle/</link>
+      <description>[Le Grand Continent] Cinq mécanismes peuvent empêcher le Rassemblement national de gagner en 2027. L’article Marine Le Pen peut-elle encore perdre l’élection présidentielle&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">e65f03f715fd4d591b1e651483d189241e2284a0</guid>
+      <pubDate>Mon, 31 Aug 2026 14:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mgr Gallagher à Moscou : les permanences de la nouvelle Ostpolitik du Saint-Siège au service de la paix</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/31/leon-xiv-envoie-ministre-des-affaires-etrangeres-a-moscou-les-permanences-de-la-nouvelle-ostpolitik-du-saint-siege-au-service-de-la-paix/</link>
+      <description>[Le Grand Continent] L’archevêque Paul Richard Gallagher est arrivé à Moscou au même moment où Washington y dépêchait le directeur de la CIA. L’article Mgr Gallagher à Moscou&amp;#160;: les permanences de la nouvelle Ostpolitik du Saint-Siège au service de la paix est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">06e2375756c1d6f12f17ccb3d18fbe2ff9b76c7f</guid>
+      <pubDate>Mon, 31 Aug 2026 05:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coup de pouce Agrégation interne – Méthodologie de la dissertation en histoire</title>
+      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-methodologie-de-la-dissertation-en-histoire-2/</link>
+      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2026-2027 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance proposée par Joëlle Alazard et consacrée à la méthodologie de la dissertation en histoire. Le podcast est proposé [&amp;#8230;] L’article Coup de pouce Agrégation interne – Méthodologie de la dissertation en histoire est apparu en premier sur APHG .</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">1b8ad7f223732997479d9ef4248cbb85b2a3f476</guid>
+      <pubDate>Fri, 28 Aug 2026 14:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coup de pouce Agrégation interne – Méthodologie de l’épreuve 3</title>
+      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-methodologie-de-lepreuve-3/</link>
+      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2026-2027 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance proposée par Olivier Erudel et Camille Lambin et consacrée à la méthodologie de l&amp;#8217;épreuve 3 des écrits. Le [&amp;#8230;] L’article Coup de pouce Agrégation interne – Méthodologie de l&amp;rsquo;épreuve 3 est apparu en premier sur APHG .</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">adb3902e2fe151808d2c693b7902ee3e3a3f4526</guid>
+      <pubDate>Thu, 27 Aug 2026 14:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Camille Morata – Aux sombres héros de la guerre: vie, mort et mémoires des footballeurs dans le premier conflit mondial</title>
+      <link>https://www.aphg.fr/camille-morata-aux-sombres-heros-de-la-guerre-vie-mort-et-memoires-des-footballeurs-dans-le-premier-conflit-mondial/</link>
+      <description>[APHG] Ce café &amp;#8211; modèle hybride entre la visioconférence en public et l&amp;#8217;entretien &amp;#8211; est à retrouver en accès réservé aux adhérents et en version audio pour protéger le droit à l&amp;#8217;image des participants. &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1222374881?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243; frameborder= »0&amp;#8243;</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">1b3e4a85b122986691c0af12d6442c340dd4f4a5</guid>
+      <pubDate>Fri, 26 Jun 2026 14:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Julien Beaufils – Le foot en RDA: politique, société, culture.</title>
+      <link>https://www.aphg.fr/julien-beaufils-le-foot-en-rda-politique-societe-culture/</link>
+      <description>[APHG] Ce café &amp;#8211; modèle hybride entre la visioconférence en public et l&amp;#8217;entretien &amp;#8211; est à retrouver en accès réservé aux adhérents et en version audio pour protéger le droit à l&amp;#8217;image des participants. &amp;#160; &amp;#60;div style= »padding:56.25% 0 0 0;position:relative; »&amp;#62;&amp;#60;iframe src= »https://player.vimeo.com/video/1222374882?title=0&amp;#38;amp;byline=0&amp;#38;amp;portrait=0&amp;#38;amp;badge=0&amp;#38;amp;autopause=0&amp;#38;amp;player_id=0&amp;#38;amp;app_id=58479&amp;#8243; frameborder= »0&amp;#8243;</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">1c5a8cea2e25b39900833e9a3fe364d2b7fb6ecf</guid>
+      <pubDate>Thu, 25 Jun 2026 14:29:00 +0000</pubDate>
+    </item>
     <item>
       <title>[Simulations exclusives] Saxe-Anhalt : l’AfD gouvernerait dans plus de 6 scénarios sur 10 en cas d’abstention du BSW</title>
       <link>https://legrandcontinent.eu/fr/2026/08/30/simulations-exclusives-saxe-anhalt-lafd-gouvernerait-dans-plus-de-6-scenarios-sur-10-en-cas-dabstention-du-bsw/</link>
@@ -1518,94 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">219a81fc75be50ea9fbcedf96a5ed3a41931881c</guid>
       <pubDate>Thu, 30 Jul 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qui décide vraiment à Téhéran aujourd’hui ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/29/qui-decide-vraiment-a-teheran-aujourdhui/</link>
-      <description>[Le Grand Continent] Trois factions se disputent le contrôle du régime iranien. Une cartographie à chaud. L’article Qui décide vraiment à Téhéran aujourd&amp;rsquo;hui&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">383abbaa692243bb163f624e2b7b5aad2b0cfc7d</guid>
-      <pubDate>Wed, 29 Jul 2026 14:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’AfD a une chance sur deux de gouverner seule pour la première fois en Allemagne [Simulation exclusive]</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/29/simulations-exclusives-lafd-a-une-chance-sur-deux-de-gouverner-saxe-anhalt/</link>
-      <description>[Le Grand Continent] L'extrême droite a une chance sur deux de gouverner seule la Saxe-Anhalt après le scrutin du 6 septembre. L’article L&amp;rsquo;AfD a une chance sur deux de gouverner seule pour la première fois en Allemagne [Simulation exclusive] est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">b76dedf1763863053875e9933765c68e35aa0d5c</guid>
-      <pubDate>Wed, 29 Jul 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Calendrier 2026-2027 des réunions institutionnelles de l’APHG</title>
-      <link>https://www.aphg.fr/calendrier-2026-2027-des-reunions-institutionnelles-de-laphg/</link>
-      <description>[APHG] Automne 2026 Samedi 12 septembre 2026 : Bureau national (10h-12h, en présentiel) Conseil de gestion (14h-16h30, en présentiel) Samedi 26 septembre 2026 : journée d’étude coorganisée par l’APHG Paris et le CNFG – Université de Paris-Cité : « Géographie du Pacifique, de l’environnement et de la santé : nouveaux regards, nouvelles problématiques ». Du vendredi 2 au dimanche 4 [&amp;#8230;] L’article Calendrier 2026-2027 des réunions institutionnelles de l&amp;rsquo;APHG est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">4f531cc779cd6dca059f638e77f60e44abd5a26c</guid>
-      <pubDate>Wed, 29 Jul 2026 12:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Une icône méconnue du marronnage : Selomoh del Castilho et le capitaine Broos</title>
-      <link>https://theconversation.com/une-icone-meconnue-du-marronnage-selomoh-del-castilho-et-le-capitaine-broos-287419</link>
-      <description>[The Conversation FR - Histoire] Au Suriname, Selomoh del Castilho a immortalisé le capitaine Broos, figure du marronnage au XIXᵉ siècle, dans un portrait devenu emblématique.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">e89778e80bb60d2dbe9bc8a7a3905a60626865c3</guid>
-      <pubDate>Wed, 29 Jul 2026 09:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forces de l’ordre et recours aux armes : comment la Révolution française a posé les termes du débat</title>
-      <link>https://theconversation.com/forces-de-lordre-et-recours-aux-armes-comment-la-revolution-francaise-a-pose-les-termes-du-debat-287837</link>
-      <description>[The Conversation FR - Histoire] En créant la gendarmerie nationale le 16 février 1791, les révolutionnaires proposent une conception nouvelle de la force publique armée qui structure encore le droit aujourd’hui.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">0eba6302fd0cacb6918108ffcd6d969b30d54b4d</guid>
-      <pubDate>Wed, 29 Jul 2026 09:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Des empereurs romains à Donald Trump : quand les dirigeants politiques se montrent dans les enceintes sportives</title>
-      <link>https://theconversation.com/des-empereurs-romains-a-donald-trump-quand-les-dirigeants-politiques-se-montrent-dans-les-enceintes-sportives-288123</link>
-      <description>[The Conversation FR - Histoire] Au MetLife Stadium pendant la finale de la Coupe du Monde, Donald Trump s’est-il comporté d’une façon semblable à celle des empereurs romains au Cirque Maximus&amp;nbsp;?</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">0ec9bbf6f672f544da75f51133d27f2b62963da3</guid>
-      <pubDate>Wed, 29 Jul 2026 09:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Être rejeté par les autres fait mal : aider enfants et ados à rebondir quand ils sont mis de côté</title>
-      <link>https://theconversation.com/etre-rejete-par-les-autres-fait-mal-aider-enfants-et-ados-a-rebondir-quand-ils-sont-mis-de-cote-288361</link>
-      <description>[The Conversation FR - Éducation] En tant que parent, il peut être douloureux de voir son enfant souffrir d’être mis à l’écart par les autres. Mais il existe des moyens de les aider.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">d99814cd9ed7f96b69daf462cc41370411bc8c58</guid>
-      <pubDate>Tue, 28 Jul 2026 14:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment X est devenu l’un des théâtres de la guerre en Ukraine</title>
-      <link>https://theconversation.com/comment-x-est-devenu-lun-des-theatres-de-la-guerre-en-ukraine-287462</link>
-      <description>[The Conversation FR - International] Depuis le début de la guerre en Ukraine, X est devenu un champ de bataille informationnel où diplomatie, OSINT, propagande et journalisme se croisent en temps réel.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">f02fc48709ca884300f25519a911aac655def9cc</guid>
-      <pubDate>Tue, 28 Jul 2026 14:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’AfD a une chance sur deux de gouverner seule pour la première fois en Allemagne [Simulation exclusive]</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/29/simulations-exclusives-lafd-a-une-chance-sur-deux-de-gouverner-la-saxe-anhalt/</link>
-      <description>[Le Grand Continent] L'extrême droite a une chance sur deux de gouverner seule la Saxe-Anhalt après le scrutin du 6 septembre. L’article L&amp;rsquo;AfD a une chance sur deux de gouverner seule pour la première fois en Allemagne [Simulation exclusive] est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">bd36cd9b2c23bc60b15a2b265a0a93b5cfaa573f</guid>
-      <pubDate>Wed, 29 Jul 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Pour survivre, nous devons nous coordonner pour ralentir la course IA »</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/29/pour-survivre-nous-devons-nous-coordonner-pour-ralentir-la-course/</link>
-      <description>[Le Grand Continent] Plus de mille ingénieurs demandent à Washington de réguler la frontière de l'IA avant qu’il ne soit trop tard. L’article «&amp;#160;Pour survivre, nous devons nous coordonner pour ralentir la course IA&amp;#160;» est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">e5ce45c0c2a77de378b7e3f2f905a18d318ce82f</guid>
-      <pubDate>Wed, 29 Jul 2026 06:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Ukraine pourrait-elle amener Moscou à accepter un cessez-le-feu aérien ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/29/lukraine-pourrait-elle-amener-moscou-a-accepter-un-cessez-le-feu-aerien/</link>
-      <description>[Le Grand Continent] Entre juin 2025 et juin 2026, l’armée ukrainienne aurait frappé plus de 350 000 cibles russes à l’aide de drones. L’article L’Ukraine pourrait-elle amener Moscou à accepter un cessez-le-feu aérien&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">8b8a841029e8a041aa2737c80c9c01fb381a082b</guid>
-      <pubDate>Wed, 29 Jul 2026 05:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
