@@ -6,7 +6,39 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 31 Aug 2026 16:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:53:00 +0000</lastBuildDate>
+    <item>
+      <title>Le régime iranien craint un nouveau mouvement de protestation</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/01/le-regime-iranien-craint-un-nouveau-mouvement-de-protestation-1/</link>
+      <description>[Le Grand Continent] La stratégie de pression économique américaine va-t-elle faire plier Téhéran&amp;#160;? L’article Le régime iranien craint un nouveau mouvement de protestation est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">e40255cda39ba73f2cfe3dcf2a7cc123b32e6f6c</guid>
+      <pubDate>Tue, 01 Sep 2026 13:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les universités européennes attirent de plus en plus d’étudiants internationaux</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/01/les-universites-europeennes-attirent-de-plus-en-plus-detudiants-internationaux/</link>
+      <description>[Le Grand Continent] Face au durcissement des politiques migratoires et à des frais de scolarité élevés au Royaume-Uni et aux États-Unis, les inscriptions sont en hausse dans les universités européennes. L’article Les universités européennes attirent de plus en plus d’étudiants internationaux est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b5970392f1898716ba1003e51beeeebaea48a27e</guid>
+      <pubDate>Tue, 01 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le vrai prédateur</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/01/le-vrai-predateur/</link>
+      <description>[Le Grand Continent] Comment Mark Zuckerberg a utilisé les neurosciences pour transformer les vulnérabilités du cerveau des enfants en modèle économique. L’article Le vrai prédateur est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c3a8071e296f5d2adf7ef79fd0ef96d2c3f60246</guid>
+      <pubDate>Tue, 01 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En amont des midterms, le cercle rapproché de Trump se réduit</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/31/en-amont-des-midterms-le-cercle-rapproche-de-trump-se-reduit/</link>
+      <description>[Le Grand Continent] Plus d'un responsable confirmé par le Sénat sur neuf a quitté l'administration Trump depuis janvier 2025, soit deux fois plus que lors de son premier mandat. L’article En amont des midterms, le cercle rapproché de Trump se réduit est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c67946ff26b4e2014dbde506a5292a699ef06148</guid>
+      <pubDate>Mon, 31 Aug 2026 17:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Comment l’école maternelle s’est mise à évaluer les enfants : retour sur un siècle de transformations</title>
       <link>https://theconversation.com/comment-lecole-maternelle-sest-mise-a-evaluer-les-enfants-retour-sur-un-siecle-de-transformations-285793</link>
@@ -1574,38 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">5bd20c695cd2326dc1e3b5fdd2b1c4e15653f18e</guid>
       <pubDate>Thu, 30 Jul 2026 15:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Europe doublera son réseau de bornes de recharge d’ici à 2030</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/30/le-nombre-de-bornes-de-recharge-de-voitures-electriques-devrait-presque-doubler-en-europe-dici-2030/</link>
-      <description>[Le Grand Continent] Pour comprendre pourquoi, il faut se tourner vers la Chine. L’article L&amp;rsquo;Europe doublera son réseau de bornes de recharge d&amp;rsquo;ici à 2030 est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">8e844e0235a6c2b82ddebc24f535d490442f2c0f</guid>
-      <pubDate>Thu, 30 Jul 2026 12:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Ukraine peut-elle gagner la guerre ?</title>
-      <link>https://theconversation.com/lukraine-peut-elle-gagner-la-guerre-288358</link>
-      <description>[The Conversation FR - International] Les frappes ukrainiennes sur le territoire russe représentent un changement d’approche porteur d’effets bénéfiques à Kiev, mais ne suffiront pas, à elles seules, à assurer une victoire militaire.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">4d6059edef020112697eade5af66611aa1864673</guid>
-      <pubDate>Wed, 29 Jul 2026 14:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ce que l’évasion de deux modèles d’OpenAI révèle de l’état de la cybersécurité</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/30/ce-que-levasion-de-modeles-dopenai-revele-de-letat-de-la-cybersecurite/</link>
-      <description>[Le Grand Continent] Les modèles de frontière ont franchi un seuil offensif. Les capacités de cyberdéfense vont-elles suivre&amp;#160;? L’article Ce que l&amp;rsquo;évasion de deux modèles d&amp;rsquo;OpenAI révèle de l&amp;rsquo;état de la cybersécurité est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">6c7f957150ac83623c4c079ce504f8fab25d481f</guid>
-      <pubDate>Thu, 30 Jul 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crise de la masculinité</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/30/crise-masculinite/</link>
-      <description>[Le Grand Continent] De la Rome antique à la manosphère, le récit d’une virilité menacée – aujourd’hui au cœur de la mobilisation de l’extrême droite – resurgit quand la position sociale des femmes change. L’article Crise de la masculinité est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">219a81fc75be50ea9fbcedf96a5ed3a41931881c</guid>
-      <pubDate>Thu, 30 Jul 2026 04:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
