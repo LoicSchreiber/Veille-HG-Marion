@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 13:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:13:00 +0000</lastBuildDate>
+    <item>
+      <title>Le Maghreb, un territoire à géométrie variable</title>
+      <link>https://theconversation.com/le-maghreb-un-territoire-a-geometrie-variable-290265</link>
+      <description>[The Conversation FR - International] Que recouvre la notion de Maghreb&amp;nbsp;? Selon qui la définit, l’époque ou le point de vue, la réponse varie.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">4459b278cf212024782316651db893b4e98d2fc6</guid>
+      <pubDate>Wed, 02 Sep 2026 14:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Union est toujours à la recherche d’une politique extérieure</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/03/lunion-est-toujours-a-la-recherche-dune-politique-exterieure/</link>
+      <description>[Le Grand Continent] Un groupe de pays plaide pour réformer le processus décisionnel de la politique étrangère du bloc. L’article L’Union est toujours à la recherche d’une politique extérieure est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">dbcc83a6464a6f109bc392d5b3cb4b91d3d89782</guid>
+      <pubDate>Thu, 03 Sep 2026 09:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cet îlot est-il français ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/03/cet-ilot-est-il-francais/</link>
+      <description>[Le Grand Continent] Dans le Pacifique sud, le différend autour de Matthew et Hunter pourrait remettre en cause la stratégie indo-pacifique française. L’article Cet îlot est-il français&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">088c6f151ef7f3f3ce98d7b91bc8b23a98ee7ecf</guid>
+      <pubDate>Thu, 03 Sep 2026 05:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IA : la Corée du Sud veut transformer le boom des semi-conducteurs en cycle vertueux de croissance</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/03/ia-la-coree-du-sud-veut-transformer-le-boom-des-semi-conducteurs-en-cycle-vertueux-de-croissance/</link>
+      <description>[Le Grand Continent] Séoul veut doubler l’an prochain son budget consacré aux puces, à l'IA et aux centres de données. L’article IA&amp;#160;: la Corée du Sud veut transformer le boom des semi-conducteurs en cycle vertueux de croissance est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">8cf67e30a12dc35501205fe3fe010c92f2559d13</guid>
+      <pubDate>Thu, 03 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le chaînon manquant : les réseaux sociaux au cœur de « l’attaque » contre Ceuta</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/02/le-chainon-manquant-les-reseaux-sociaux-au-coeur-de-lattaque-contre-ceuta/</link>
+      <description>[Le Grand Continent] La plus grave crise migratoire de l'histoire récente de l'Espagne s'est coordonnée sur Facebook et WhatsApp, toutes deux propriétés de Mark Zuckerberg. L’article Le chaînon manquant&amp;#160;: les réseaux sociaux au cœur de «&amp;#160;l’attaque&amp;#160;» contre Ceuta est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">fed3739fc989dabfc40a8171ffb3d3cb4a7c69dd</guid>
+      <pubDate>Wed, 02 Sep 2026 17:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les particules élémentaires de la puissance européenne</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/02/les-particules-elementaires-de-la-puissance-europeenne/</link>
+      <description>[Le Grand Continent] Après l’énergie et les minerais, l’Europe doit se réveiller face aux risques d’une autre dépendance structurelle&amp;#160;: les molécules critiques. L’article Les particules élémentaires de la puissance européenne est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">723230ea4897dba2d97e481ff13a635622105a2f</guid>
+      <pubDate>Wed, 02 Sep 2026 15:09:00 +0000</pubDate>
+    </item>
     <item>
       <title>Une rentrée sans toit : comment la crise du logement étudiant fragilise l’entrée dans l’âge adulte</title>
       <link>https://theconversation.com/une-rentree-sans-toit-comment-la-crise-du-logement-etudiant-fragilise-lentree-dans-lage-adulte-289101</link>
@@ -1558,54 +1606,6 @@
       <category>The Conversation FR - International</category>
       <guid isPermaLink="false">66efd2b9524f0083e89286517d071bd20aef224a</guid>
       <pubDate>Sat, 01 Aug 2026 08:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pourquoi Ceuta est au cœur d’une crise migratoire permanente</title>
-      <link>https://theconversation.com/pourquoi-ceuta-est-au-coeur-dune-crise-migratoire-permanente-288888</link>
-      <description>[The Conversation FR - International] La crise migratoire à Ceuta révèle comment la géopolitique, la dépendance de l’Europe à l’égard du Maroc et les limites des capacités institutionnelles transforment la frontière en un défi pour la démocratie et les droits humains.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">d381ab5e9a47c51005fab354ad5e17d6b2ffc262</guid>
-      <pubDate>Sat, 01 Aug 2026 07:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’armée russe a avancé de 1 km² par jour en moyenne en juillet</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/01/larmee-russe-a-avance-de-1-km%c2%b2-par-jour-en-moyenne-en-juillet/</link>
-      <description>[Le Grand Continent] Cette année, l'offensive russe de printemps-été ne devrait donner lieu à aucune victoire majeure pour Moscou. L’article L’armée russe a avancé de 1 km² par jour en moyenne en juillet est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">bcd169ddd2153d936859a673f303f665bf42bf80</guid>
-      <pubDate>Sat, 01 Aug 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le corps illibéral de l’idéologie vécue</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/01/clavicular-looksmaxxing-corps-illiberal-lideologie-vecue/</link>
-      <description>[Le Grand Continent] Le courant looksmaxxing de l'influencer Clavicular révèle le secret de l'accélération réactionnaire&amp;#160;: une idéologie qui se vit avant de se penser. L’article Le corps illibéral de l’idéologie vécue est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">5eb99c6ba6e63df599fb733b6c0bdd9f4f8095bf</guid>
-      <pubDate>Sat, 01 Aug 2026 04:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pourquoi Ceuta n’est pas une crise migratoire pour l’Europe</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/31/pourquoi-ceuta-nest-pas-une-crise-migratoire-pour-leurope/</link>
-      <description>[Le Grand Continent] Pour l’auteur de De l'immigration en France (Grasset, 2026), les images spectaculaires qui ont envahi nos écrans ne confirment aucunement le récit de la submersion. L’article Pourquoi Ceuta n’est pas une crise migratoire pour l’Europe est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">300486bac6e93e29c93934cce84a6233dcd8e4f6</guid>
-      <pubDate>Fri, 31 Jul 2026 16:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Sahel pourrait être au seuil d’une nouvelle ère humide</title>
-      <link>https://legrandcontinent.eu/fr/2026/07/31/le-sahel-pourrait-etre-au-seuil-dune-nouvelle-ere-humide/</link>
-      <description>[Le Grand Continent] Le changement climatique, la plantation d'arbres et l'adoption de nouvelles habitudes de consommation d'eau pourraient mettre fin à des décennies de sécheresse. L’article Le Sahel pourrait être au seuil d’une nouvelle ère humide est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">903a01d9e892576438d3b6ab28bc79b3b55bd3f9</guid>
-      <pubDate>Fri, 31 Jul 2026 16:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les tout premiers influenceurs au monde étaient français et sont nés après la Révolution</title>
-      <link>https://theconversation.com/les-tout-premiers-influenceurs-au-monde-etaient-francais-et-sont-nes-apres-la-revolution-287797</link>
-      <description>[The Conversation FR - Histoire] Comment s’habiller, recevoir, décorer son intérieur ou choisir un restaurant : après 1789, ces questions deviennent essentielles pour une société en pleine recomposition. C’est dans ce contexte qu’apparaissent les tout premiers influenceurs de l’histoire.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">1c4f8b78c73c0b5a302ca2a9f7c7a7e0331b7d00</guid>
-      <pubDate>Fri, 31 Jul 2026 08:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
