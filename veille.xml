@@ -6,7 +6,31 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 04 Sep 2026 13:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:19:00 +0000</lastBuildDate>
+    <item>
+      <title>Les pays européens retirent leur or des États-Unis</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/05/les-pays-europeens-retirent-leur-or-des-etats-unis/</link>
+      <description>[Le Grand Continent] Trump pourrait-il inventer un prétexte pour saisir l'or détenu à New York&amp;#160;? L’article Les pays européens retirent leur or des États-Unis est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">1f0455997015e08cbdefcb85ea025f3cf32bc698</guid>
+      <pubDate>Sat, 05 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le scandale qui fait imploser Reform UK : comment Nigel Farage finance sa campagne avec des fonds étrangers</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/04/le-scandale-qui-fait-imploser-reform-uk-comment-nigel-farage-finance-sa-campagne-avec-des-fonds-etrangers/</link>
+      <description>[Le Grand Continent] Les révélations portant sur les pratiques de Reform UK ont conduit à la démission de deux des conseillers les plus proches de Nigel Farage. L’article Le scandale qui fait imploser Reform UK&amp;#160;: comment Nigel Farage finance sa campagne avec des fonds étrangers est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">5f3fe9f15e48a94649b38c8a0b3282bcc8f9faa9</guid>
+      <pubDate>Fri, 04 Sep 2026 16:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bernie Sanders : « Nous devons mettre l’IA en pause. IMMÉDIATEMENT »</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/04/bernie-sanders-nous-devons-mettre-lia-en-pause-immediatement/</link>
+      <description>[Le Grand Continent] «&amp;#160;L'avenir de l'humanité ne peut pas être laissé entre les mains d'une poignée d'oligarques de géants de la tech.&amp;#160;» L’article Bernie Sanders&amp;#160;: «&amp;#160;Nous devons mettre l’IA en pause. IMMÉDIATEMENT&amp;#160;» est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">7103eb172e78bd7a08c3732eb05c359e500332be</guid>
+      <pubDate>Fri, 04 Sep 2026 15:36:00 +0000</pubDate>
+    </item>
     <item>
       <title>Avant d’être ennemis, ils étaient amis… La bromance méconnue de Guillaume le Conquérant et Harold</title>
       <link>https://theconversation.com/avant-detre-ennemis-ils-etaient-amis-la-bromance-meconnue-de-guillaume-le-conquerant-et-harold-291174</link>
@@ -1582,30 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">d0fbbadb824e8f5b0ab2a816e2e9f4686eed9676</guid>
       <pubDate>Tue, 04 Aug 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La doctrine Bessent fait du dollar la monnaie de la vassalisation heureuse</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/03/la-doctrine-bessent-fait-du-dollar-la-monnaie-de-la-vassalisation-heureuse/</link>
-      <description>[Le Grand Continent] En intervenant sur le yen après le peso, l'administration Trump inaugure une protection monétaire réservée à ses alliés les plus alignés, désormais intégrés à un système asymétrique de tribut. L’article La doctrine Bessent fait du dollar la monnaie de la vassalisation heureuse est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">27fe8fab7acfa235b253beb5dc8d91846505af52</guid>
-      <pubDate>Mon, 03 Aug 2026 15:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Que signifient les chevelures bouclées des Égyptiennes d’hier et d’aujourd’hui ?</title>
-      <link>https://theconversation.com/que-signifient-les-chevelures-bouclees-des-egyptiennes-dhier-et-daujourdhui-285868</link>
-      <description>[The Conversation FR - Histoire] Déjà dans l’Égypte ancienne, les chevelures bouclées revêtaient une symbolique forte.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">7295f5632bb25be584cfde4ae9437fc8610e310a</guid>
-      <pubDate>Sun, 02 Aug 2026 13:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Construire des cabanes : un jeu d’enfants qui interroge nos liens avec la nature</title>
-      <link>https://theconversation.com/construire-des-cabanes-un-jeu-denfants-qui-interroge-nos-liens-avec-la-nature-286727</link>
-      <description>[The Conversation FR - Éducation] Que nous disent les cabanes des imaginaires de l’enfance ? Et comment permettent-elles aux plus jeunes de se sentir petit à petit dans la nature comme chez eux ?</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">3b715efd976f49ced82a9c8fcfb7a333d8a1057b</guid>
-      <pubDate>Sun, 02 Aug 2026 13:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
