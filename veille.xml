@@ -6,7 +6,87 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 12:34:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 14:44:00 +0000</lastBuildDate>
+    <item>
+      <title>Fournitures scolaires : petite mythologie de la liste, de l’Antiquité à Roland Barthes</title>
+      <link>https://theconversation.com/fournitures-scolaires-petite-mythologie-de-la-liste-de-lantiquite-a-roland-barthes-291191</link>
+      <description>[The Conversation FR - Histoire] Avec ses allures d’inventaire, la liste de fournitures scolaires masque le rapport de pouvoir qu’elle pose et les questions économiques qu’elle soulève.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">1401e55f1340c3b35c4b649bcd80123243242dc9</guid>
+      <pubDate>Mon, 07 Sep 2026 13:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pour les écoles, la mère reste le parent à contacter en priorité : une charge mentale qui renforce les inégalités ?</title>
+      <link>https://theconversation.com/pour-les-ecoles-la-mere-reste-le-parent-a-contacter-en-priorite-une-charge-mentale-qui-renforce-les-inegalites-289081</link>
+      <description>[The Conversation FR - Éducation] Lorsque les deux parents semblent également disponibles, les établissements scolaires ont 40&amp;nbsp;% plus de chances de contacter la mère plutôt que le père de l’élève, selon une étude réalisée aux États-Unis.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">15d3fa79067a540344630df35d2e7f1c79ce4413</guid>
+      <pubDate>Sun, 06 Sep 2026 17:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le dessin peut-il révéler qu’un enfant est victime d’abus sexuels ? Ce que disent vraiment les recherches</title>
+      <link>https://theconversation.com/le-dessin-peut-il-reveler-quun-enfant-est-victime-dabus-sexuels-ce-que-disent-vraiment-les-recherches-290640</link>
+      <description>[The Conversation FR - Éducation] Les enfants parlent difficilement, mais dessinent avec plaisir. Lorsque les mots leur manquent, le dessin pourrait-il parler à leur place&amp;nbsp;? Les recherches scientifiques les plus solides révèlent que ce n’est pas le cas.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">72abe09941b93251e47e82c46227885ab15f96ad</guid>
+      <pubDate>Sun, 06 Sep 2026 17:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incendies en Algérie : l’exceptionnelle résilience du peuple comme ressource politique du pouvoir</title>
+      <link>https://theconversation.com/incendies-en-algerie-lexceptionnelle-resilience-du-peuple-comme-ressource-politique-du-pouvoir-291087</link>
+      <description>[The Conversation FR - International] En Algérie, les incendies révèlent les failles de l’État, mais aussi une solidarité citoyenne que le pouvoir célèbre tout en cherchant à la récupérer.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">6ff9eab7af9eb36c8bd0e88724eab0d29c47606f</guid>
+      <pubDate>Mon, 07 Sep 2026 13:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La stratégie de Meta face à la justice américaine : éviter une défaite légale et reprendre le contrôle</title>
+      <link>https://theconversation.com/la-strategie-de-meta-face-a-la-justice-americaine-eviter-une-defaite-legale-et-reprendre-le-controle-290868</link>
+      <description>[The Conversation FR - International] L’accord entre Meta et la justice états-unienne met en évidence la capacité des entreprises du numérique à peser sur les efforts visant à réguler leurs activités.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">3ddfe0fc4df652cdc9dcaca4cca9d2eba077d9c2</guid>
+      <pubDate>Sun, 06 Sep 2026 17:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La victoire de l’AfD révèle la fracture au sein des droites entre conservateurs et révolutionnaires</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/07/la-victoire-de-lafd-revele-la-fracture-au-sein-des-droites-entre-conservateurs-et-revolutionnaires/</link>
+      <description>[Le Grand Continent] De Vox à la Ligue, les réactions au succès historique de l’extrême droite en Saxe-Anhalt illustrent les divergences entre formations qui veulent prendre le pouvoir pour transformer le système de l’intérieur et celles qui assument une rupture beaucoup plus radicale. L’article La victoire de l’AfD révèle la fracture au sein des droites entre conservateurs et révolutionnaires est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">13ba5bf09be6379d1738adf9a70f5144e97ff4c1</guid>
+      <pubDate>Mon, 07 Sep 2026 11:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comment l’AfD est devenu un parti de masse en Allemagne</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/07/comment-lafd-est-devenu-un-parti-de-masse-en-allemagne/</link>
+      <description>[Le Grand Continent] 10 cartes et graphiques pour comprendre la victoire de l’extrême droite en Saxe-Anhalt. L’article Comment l’AfD est devenu un parti de masse en Allemagne est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">72ab4365fe115c604db1a8d36b3bd04ecf936673</guid>
+      <pubDate>Mon, 07 Sep 2026 11:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Saxe-Anhalt « l’AfD a écrit l’histoire »</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/07/en-saxe-anhalt-afd-ecrit-histoire-ulrich-siegmund/</link>
+      <description>[Le Grand Continent] Le discours d'une victoire inédite de l’extrême droite en Allemagne L’article En Saxe-Anhalt «&amp;#160;l&amp;rsquo;AfD a écrit l’histoire&amp;#160;» est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b2a62a8c341c5e91ca088876e30c1e7dd7a7b0e7</guid>
+      <pubDate>Sun, 06 Sep 2026 22:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le dépouillement des élections régionales en Saxe-Anhalt en direct</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/06/le-depouillement-des-elections-regionales-en-saxe-anhalt-en-direct/</link>
+      <description>[Le Grand Continent] L’AfD obtiendrait-elle une majorité absolue&amp;#160;? L’article Le dépouillement des élections régionales en Saxe-Anhalt en direct est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">52ad71f946ea27c2a302e0aa6edc3e83595b6058</guid>
+      <pubDate>Sun, 06 Sep 2026 18:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’AfD obtient le meilleur résultat de l’extrême droite en Allemagne depuis la Seconde Guerre mondiale</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/06/afd-obtient-le-meilleur-resultat-de-lextreme-droite-en-allemagne-depuis-la-seconde-guerre-mondiale-saxe-anhalt/</link>
+      <description>[Le Grand Continent] Selon les premières projections, sans majorité absolue, l’AfD pourrait potentiellement gouverner le Saxe-Anhalt. L’article L’AfD obtient le meilleur résultat de l’extrême droite en Allemagne depuis la Seconde Guerre mondiale est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">deef823446343be26a4097afce3b81905aeb6632</guid>
+      <pubDate>Sun, 06 Sep 2026 16:16:00 +0000</pubDate>
+    </item>
     <item>
       <title>L’AfD l’emportera-t-elle en Saxe-Anhalt ?</title>
       <link>https://legrandcontinent.eu/fr/2026/09/06/lafd-lemportera-t-elle-en-saxe-anhalt/</link>
@@ -1526,86 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">a4c08ae821f9c368326d600cb691ea5142f7427a</guid>
       <pubDate>Wed, 05 Aug 2026 15:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le pouvoir politique face aux incendies : depuis la Rome de Néron, un exercice de mise en scène ?</title>
-      <link>https://theconversation.com/le-pouvoir-politique-face-aux-incendies-depuis-la-rome-de-neron-un-exercice-de-mise-en-scene-288896</link>
-      <description>[The Conversation FR - Histoire] Comment les textes antiques peuvent-ils nous aider à remettre en perspective les rouages de la communication politique en situation de crise&amp;nbsp;?</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">66b4e8bd5635192aa08fc90ce5d69fab68543a79</guid>
-      <pubDate>Tue, 04 Aug 2026 14:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’administration Trump veut priver les citoyens d’un puissant levier pour protéger l’environnement</title>
-      <link>https://theconversation.com/ladministration-trump-veut-priver-les-citoyens-dun-puissant-levier-pour-proteger-lenvironnement-289055</link>
-      <description>[The Conversation FR - International] Depuis des décennies, des citoyens et des associations utilisent les tribunaux pour contraindre les entreprises et l’État fédéral à respecter les lois environnementales. L’administration Trump cherche désormais à restreindre ce pouvoir.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">f93ff6ee04c6066c7df80ea6cdc1a4ff48467958</guid>
-      <pubDate>Tue, 04 Aug 2026 14:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La défaite de la Seleção peut-elle coûter une élection présidentielle au Brésil ?</title>
-      <link>https://theconversation.com/la-defaite-de-la-selecao-peut-elle-couter-une-election-presidentielle-au-bresil-288655</link>
-      <description>[The Conversation FR - International] Le Brésil a l’image d’un pays fou de football, si bien qu’on peut se demander s’il y a un rapport entre les résultats de son équipe nationale et la perception qu’a la population du pouvoir en place.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">e8dc48a05c00abad5203616a0a84311b1a2b022d</guid>
-      <pubDate>Tue, 04 Aug 2026 14:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump peut encore gagner les élections de mi-mandat</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/05/trump-peut-encore-gagner-les-elections-de-mi-mandat/</link>
-      <description>[Le Grand Continent] Les sondages erronés et les divisions démocrates pourraient offrir une victoire inattendue en novembre au parti républicain. L’article Trump peut encore gagner les élections de mi-mandat est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">a93237f817f5c783b99c1f6e9a65bdc3970893af</guid>
-      <pubDate>Wed, 05 Aug 2026 09:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Avec V4-Flash, DeepSeek mise sur l’IA à faible coût plutôt que sur la course à la puissance</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/05/avec-v4-flash-deepseek-mise-sur-lia-a-faible-cout-plutot-que-sur-la-course-a-la-puissance/</link>
-      <description>[Le Grand Continent] Fin juillet, le Chinois DeepSeek, leader de l'IA à bas coût, a publié la nouvelle version de son modèle «&amp;#160;Flash&amp;#160;»&amp;#160;: cent fois moins cher que Claude Fable 5, le modèle le plus avancé d'Anthropic, gratuit et librement réutilisable, il est déjà en tête des usages sur la plateforme OpenRouter. L’article Avec V4-Flash, DeepSeek mise sur l&amp;rsquo;IA à faible coût plutôt que sur la course à la puissance est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">6e2441d357ac0de31443ab65efd0a03323921ac8</guid>
-      <pubDate>Wed, 05 Aug 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pourquoi le Maroc n’a pas pu orchestrer la crise de Ceuta</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/05/pourquoi-le-maroc-na-pas-pu-orchestrer-la-crise-de-ceuta/</link>
-      <description>[Le Grand Continent] Attribuer la crise à Rabat revient à méconnaître la dynamique sociale marocaine et la singularité de l’exclave. L’article Pourquoi le Maroc n’a pas pu orchestrer la crise de Ceuta est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">873865b8374d66b9706b6c390c8ed090ed2edf79</guid>
-      <pubDate>Wed, 05 Aug 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les réseaux sociaux ont-ils organisé la ruée vers Ceuta ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/04/les-reseaux-sociaux-ont-ils-organise-la-ruee-vers-ceuta/</link>
-      <description>[Le Grand Continent] Une enquête OSINT reconstitue le passage de 50 000 migrants dans l’exclave espagnole. L’article Les réseaux sociaux ont-ils organisé la ruée vers Ceuta&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">7bba4861ae92ca6bc06dd4ba7b729d09943118cf</guid>
-      <pubDate>Tue, 04 Aug 2026 17:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Après la crise de Ceuta l’Europe doit apprendre à sécuriser ses frontières numériques</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/04/apres-la-crise-de-ceuta-leurope-doit-apprendre-a-securiser-ses-frontieres-numeriques/</link>
-      <description>[Le Grand Continent] L’ancien commissaire européen indique les pistes étonnamment négligées à ce stade par la présidente Ursula von der Leyen. L’article Après la crise de Ceuta l&amp;rsquo;Europe doit apprendre à sécuriser ses frontières numériques est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">46bf4ebcbc6265f460343bfa1801c82534733b86</guid>
-      <pubDate>Tue, 04 Aug 2026 14:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Route 66 : cent ans d’un mythe qui ne raconte pas toute l’histoire</title>
-      <link>https://theconversation.com/route-66-cent-ans-dun-mythe-qui-ne-raconte-pas-toute-lhistoire-287643</link>
-      <description>[The Conversation FR - Histoire] Symbole du rêve américain, de l’aventure et de la liberté, la Route 66 n’a pourtant jamais offert la même expérience à tous. Son histoire raconte aussi l’exclusion des voyageurs noirs et le déclin des petites villes qu’elle faisait vivre.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">650dde6251af9cae9b46aa801bba3539b579e82e</guid>
-      <pubDate>Mon, 03 Aug 2026 14:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aux États-Unis, les universités peinent à enrayer le recul de la lecture</title>
-      <link>https://theconversation.com/aux-etats-unis-les-universites-peinent-a-enrayer-le-recul-de-la-lecture-288421</link>
-      <description>[The Conversation FR - Éducation] Aux États-Unis, les enseignants du supérieur voient leurs étudiants lire de moins en moins. Face à ce recul, certains réduisent leurs exigences.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">67ccdb7f233d05e1b92f98677ee6d59010218181</guid>
-      <pubDate>Mon, 03 Aug 2026 14:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
