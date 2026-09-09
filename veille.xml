@@ -6,7 +6,135 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 13:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:20:00 +0000</lastBuildDate>
+    <item>
+      <title>Les survivants de la peste nous ont laissé des graffitis, de rares archives… et une leçon pour l’après-Covid</title>
+      <link>https://theconversation.com/les-survivants-de-la-peste-nous-ont-laisse-des-graffitis-de-rares-archives-et-une-lecon-pour-lapres-covid-287596</link>
+      <description>[The Conversation FR - Histoire] Pourquoi la Peste noire est-elle presque absente de nombreux témoignages médiévaux malgré son impact colossal&amp;nbsp;? L’histoire de sa mémoire offre de précieuses leçons pour la commémoration de la pandémie de Covid-19.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">2614f080e296105bfa68ab00555419b07801536b</guid>
+      <pubDate>Wed, 09 Sep 2026 11:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi la France a interdit l’absinthe : l’histoire d’un bouc émissaire qualifié de « poison national »</title>
+      <link>https://theconversation.com/pourquoi-la-france-a-interdit-labsinthe-lhistoire-dun-bouc-emissaire-qualifie-de-poison-national-287211</link>
+      <description>[The Conversation FR - Histoire] Désigner un coupable face à un problème complexe est un réflexe ancien. L’histoire de l’interdiction de l’absinthe en France montre comment ce mécanisme fonctionne.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">97d0e896b4da7a94dec14c63bfc3d91df191a2d9</guid>
+      <pubDate>Wed, 09 Sep 2026 10:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi ne parle-t-on pas davantage de la guerre civile dans les classes espagnoles ?</title>
+      <link>https://theconversation.com/pourquoi-ne-parle-t-on-pas-davantage-de-la-guerre-civile-dans-les-classes-espagnoles-287980</link>
+      <description>[The Conversation FR - Histoire] Quatre-vingt-dix&amp;nbsp;ans après le début de la guerre civile, son enseignement reste limité dans les écoles espagnoles. Et le manque de temps n’explique pas tout…</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">6317316a65b17493d86391ae7dadaf2630c5f86b</guid>
+      <pubDate>Wed, 09 Sep 2026 10:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Derrière la tapisserie de Bayeux, les brodeuses effacées de l’Histoire</title>
+      <link>https://theconversation.com/derriere-la-tapisserie-de-bayeux-les-brodeuses-effacees-de-lhistoire-286875</link>
+      <description>[The Conversation FR - Histoire] La tapisserie de Bayeux est souvent présentée comme un monument de l’histoire des rois et des conquérants. Pourtant, derrière cette fresque médiévale se cache le travail minutieux de femmes dont les noms ont été effacés de la mémoire.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">346de165763265bb100fd69da45bc8f85b6343d0</guid>
+      <pubDate>Wed, 09 Sep 2026 10:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’intolérance au lactose est en réalité la norme chez l’humain, mais le racisme, le gouvernement des États-Unis et les intérêts commerciaux en ont fait un trouble</title>
+      <link>https://theconversation.com/lintolerance-au-lactose-est-en-realite-la-norme-chez-lhumain-mais-le-racisme-le-gouvernement-des-etats-unis-et-les-interets-commerciaux-en-ont-fait-un-trouble-290654</link>
+      <description>[The Conversation FR - Histoire] La majorité de la population mondiale est intolérante au lactose. Mais la propagande états-unienne et les préjugés scientifiques ont fait du lait et des produits laitiers des aliments de base à l’échelle globale.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">c96fe1c24f608326a0e41e236371b218f18eed92</guid>
+      <pubDate>Tue, 08 Sep 2026 14:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PISA 2025 et classements scolaires : nous posons-nous les bonnes questions ?</title>
+      <link>https://theconversation.com/pisa-2025-et-classements-scolaires-nous-posons-nous-les-bonnes-questions-291492</link>
+      <description>[The Conversation FR - Éducation] Nos systèmes éducatifs parviennent-ils à transformer les capacités individuelles en possibilités collectives&amp;nbsp;? Loin de réduire l’éducation à quelques chiffres, c’est ce que les classements doivent chercher à mesurer.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">74a7046a754ec2ea319ea84bfc6f1f587a79e110</guid>
+      <pubDate>Wed, 09 Sep 2026 09:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les agences privées de garde d’enfants : entre promesses aux parents et réalité du marché</title>
+      <link>https://theconversation.com/les-agences-privees-de-garde-denfants-entre-promesses-aux-parents-et-realite-du-marche-290801</link>
+      <description>[The Conversation FR - Éducation] Face à la pénurie de modes de garde, de nombreuses agences privées proposent leurs services aux familles. Les conditions d’emploi qu’elles proposent interrogent les lacunes du service public.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">eb74991149d1a438cbf4fdfc97675190cc688f64</guid>
+      <pubDate>Tue, 08 Sep 2026 14:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vingt-cinq ans après le 11-Septembre : l’unité des États-Unis à l’épreuve des fractures</title>
+      <link>https://theconversation.com/vingt-cinq-ans-apres-le-11-septembre-lunite-des-etats-unis-a-lepreuve-des-fractures-290865</link>
+      <description>[The Conversation FR - International] Vingt-cinq&amp;nbsp;ans après le 11-Septembre, la préparation de la commémoration aux États-Unis révèle les fractures persistantes autour de l’islam, de l’identité et de la mémoire nationales.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">1d45c7f4fbe339adc1778dc44d6bae74a0d86d66</guid>
+      <pubDate>Wed, 09 Sep 2026 10:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Allemagne : les multiples effets du triomphe de l’AfD en Saxe-Anhalt</title>
+      <link>https://theconversation.com/allemagne-les-multiples-effets-du-triomphe-de-lafd-en-saxe-anhalt-291470</link>
+      <description>[The Conversation FR - International] Le parti d’extrême droite AfD est arrivé largement en tête en Saxe-Anhalt, échouant de peu à décrocher la majorité absolue.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">bcbe872519d8089393a5420ba3cb1e8f0ee28dba</guid>
+      <pubDate>Tue, 08 Sep 2026 14:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Europe n’a représenté que 0,3 % des satellites mis en orbite en 2025</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/09/leurope-na-represente-que-03-des-satellites-mis-en-orbite-en-2025/</link>
+      <description>[Le Grand Continent] L’accès à l’économie spatiale, s’il se diversifie, est de plus en plus concentré aux États-Unis. L’article L&amp;rsquo;Europe n&amp;rsquo;a représenté que 0,3&amp;#160;% des satellites mis en orbite en 2025 est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">93f091cca96f59fb6a3e6a23ed1fa1dcbfa206fb</guid>
+      <pubDate>Wed, 09 Sep 2026 12:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>« Ils jouent avec nos vies » : l’appel d’un ingénieur de l’IA pour ralentir le développement des modèles</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/09/ils-jouent-avec-nos-vies-lappel-dun-ingenieur-de-lia-pour-ralentir-le-developpement-des-modeles/</link>
+      <description>[Le Grand Continent] Selon l’un des principaux ingénieurs d’Anthropic, la probabilité que l’IA anéantisse l’humanité dans les prochaines années «&amp;#160;est supérieure à 10&amp;#160;%&amp;#160;». L’article «&amp;#160;Ils jouent avec nos vies&amp;#160;»&amp;#160;: l’appel d’un ingénieur de l’IA pour ralentir le développement des modèles est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">7c6451fc1733bf375ab7dc407db0c5e7de125670</guid>
+      <pubDate>Wed, 09 Sep 2026 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La guerre contre Trump sur les murs de Téhéran</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/09/la-guerre-contre-trump-sur-les-murs-de-teheran/</link>
+      <description>[Le Grand Continent] Pour tenir la capitale, le régime des ayatollah a intensifié sa propagande L’article La guerre contre Trump sur les murs de Téhéran est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">825688359da8dcf44a2e6138743841fda56e5a72</guid>
+      <pubDate>Wed, 09 Sep 2026 07:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Des « robots de laboratoire » aux « combattants » : comment l’APL se prépare au déploiement d’humanoïdes armés</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/09/des-robots-de-laboratoire-aux-combattants-comment-lapl-se-prepare-au-deploiement-dhumanoides-armes/</link>
+      <description>[Le Grand Continent] Depuis 2024, l’Armée populaire de libération multiplie les réflexions et initiatives pour mettre au point les premiers robots humanoïdes à usage militaire. L’article Des «&amp;#160;robots de laboratoire&amp;#160;» aux «&amp;#160;combattants&amp;#160;»&amp;#160;: comment l’APL se prépare au déploiement d’humanoïdes armés est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">093c7106fa6ddc5b1e7c18439dd82d566e5ba85c</guid>
+      <pubDate>Wed, 09 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Israël, l’étau se referme-t-il autour de Netanyahou ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/08/en-israel-letau-se-referme-t-il-autour-de-netanyahou/</link>
+      <description>[Le Grand Continent] Le Premier ministre israélien fait face à des révélations pointant son inaction en amont de l'attaque du Hamas du 7 octobre 2023. L’article En Israël, l’étau se referme-t-il autour de Netanyahou&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">1c10e4f248b48dc45acf44fed859cbe1a37a0df6</guid>
+      <pubDate>Tue, 08 Sep 2026 16:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doctrine du nouvel homme fort du Vietnam</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/08/la-doctrine-du-nouvel-homme-fort-du-vietnam/</link>
+      <description>[Le Grand Continent] À Hanoi, Tô Lâm est en train de produire un nouveau mélange entre capitalisme et communisme L’article Doctrine du nouvel homme fort du Vietnam est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">92c24cc6507141c14ccaffdc2f53d385c1b61ba8</guid>
+      <pubDate>Tue, 08 Sep 2026 13:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Convaincu du soutien de Trump, Milei veut réactiver le dossier des Malouines à l’approche des élections</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/08/convaincu-du-soutien-de-trump-milei-veut-reactiver-le-dossier-des-malouines-a-lapproche-des-elections/</link>
+      <description>[Le Grand Continent] Le président américain a déclaré fin août que la position de Washington vis-à-vis de l’archipel était en cours de réexamen. L’article Convaincu du soutien de Trump, Milei veut réactiver le dossier des Malouines à l&amp;rsquo;approche des élections est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">f6c82a1224017020ebc7129e4c51be0254072b7b</guid>
+      <pubDate>Tue, 08 Sep 2026 13:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>Une intelligence surnaturelle est arrivée sur terre</title>
       <link>https://legrandcontinent.eu/fr/2026/09/08/une-intelligence-surnaturelle-est-arrivee-sur-terre/</link>
@@ -1478,134 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">a9be36a044ed60e91480d6b9aa8444a513e59567</guid>
       <pubDate>Mon, 10 Aug 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La France et l’Europe deviendront-elles inassurables ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/10/la-france-et-leurope-deviendront-elles-inassurables/</link>
-      <description>[Le Grand Continent] Les événements climatiques extrêmes, désormais récurrents et dont l'impact est croissant d'année en année, posent une question cruciale aux banques et aux assurances. L’article La France et l’Europe deviendront-elles inassurables&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">bd93b3bda061d93dfd8a6795772a31bf547d370d</guid>
-      <pubDate>Mon, 10 Aug 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Et si la vraie révolution technologique n’était pas l’IA ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/10/la-vraie-revolution-technologique/</link>
-      <description>[Le Grand Continent] La course aux modèles pourrait masquer une transformation plus décisive de l’économie mondiale&amp;#160;: l’énergie verte. L’article Et si la vraie révolution technologique n’était pas l’IA&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">83328065c838bff414999585e4fa1d0b937234f7</guid>
-      <pubDate>Mon, 10 Aug 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’État profond</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/09/letat-profond/</link>
-      <description>[Le Grand Continent] Comment la notion turque de derin devlet est devenue l'arme virale de nos années Vingt&amp;#160;? L’article L’État profond est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">2c5193bbe816028c5aca226ab319a24b32526e6f</guid>
-      <pubDate>Sun, 09 Aug 2026 17:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment les éclipses ont ouvert la cour impériale chinoise aux sciences européennes</title>
-      <link>https://theconversation.com/comment-les-eclipses-ont-ouvert-la-cour-imperiale-chinoise-aux-sciences-europeennes-289241</link>
-      <description>[The Conversation FR - Histoire] Pendant des siècles, les astronomes impériaux chinois ont tenté de prédire les éclipses, dont dépendait la légitimité de l’empereur. L’arrivée des jésuites et de leurs méthodes mathématiques européennes allait révolutionner cette science.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">fa946787b70d952260421743731801932d9f57d8</guid>
-      <pubDate>Sat, 08 Aug 2026 06:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Maroc, futur leader continental africain des data centers et de l’IA</title>
-      <link>https://theconversation.com/le-maroc-futur-leader-continental-africain-des-data-centers-et-de-lia-288658</link>
-      <description>[The Conversation FR - International] À travers une série de projets de data centers, le Maroc cherche à prendre une longueur d’avance sur ses voisins dans le secteur du numérique.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">09a6531663f0399259d7952fcb865eadfcfbb326</guid>
-      <pubDate>Sun, 09 Aug 2026 07:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Royaume-Uni, le Japon et l’Italie peuvent-ils réussir leur avion de combat de sixième génération là où la France et ses partenaires ont échoué ?</title>
-      <link>https://theconversation.com/le-royaume-uni-le-japon-et-litalie-peuvent-ils-reussir-leur-avion-de-combat-de-sixieme-generation-la-ou-la-france-et-ses-partenaires-ont-echoue-289056</link>
-      <description>[The Conversation FR - International] Après l’échec du programme franco-germano-espagnol, le Royaume-Uni, l’Italie et le Japon accélèrent le développement du Tempest. Gouvernance, technologies, coûts : les clés d’un projet qui veut faire décoller le chasseur du futur.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">2afd242801a7ccda92903e6a8c527d9f7b03f407</guid>
-      <pubDate>Fri, 07 Aug 2026 09:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vers un monde à +2 °C ? Les 30 données de l’été du basculement écologique</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/09/vers-un-monde-a-2-c-les-30-donnees-de-lete-du-basculement-ecologique/</link>
-      <description>[Le Grand Continent] Des records absolus de température sur terre et en mer, des forêts en feu, des fleuves à sec, une surmortalité importante, et un seuil de + 2 °C qui pourrait être franchi pour la première fois dès le début de l'année 2027. L’article Vers un monde à +2 °C&amp;#160;? Les 30 données de l’été du basculement écologique est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">5ea9c7d09b51edd96703f7fcbc6e462cdd776570</guid>
-      <pubDate>Sun, 09 Aug 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tucker Carlson : « Il est temps de sauver l’Amérique » (discours intégral)</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/09/tucker-carlson-il-est-temps-de-sauver-lamerique-discours-integral/</link>
-      <description>[Le Grand Continent] L’ancienne star de Fox News veut donner une doctrine à l’après-Trump L’article Tucker Carlson&amp;#160;: «&amp;#160;Il est temps de sauver l’Amérique&amp;#160;» (discours intégral) est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">284282455945fb57b951d47804ae332b01be9c43</guid>
-      <pubDate>Sun, 09 Aug 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Une entreprise pétrolière proche de Trump se prépare à forer le Groenland sans autorisation</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/08/groenland-energy-trump/</link>
-      <description>[Le Grand Continent] Un fait accompli inédit place de nouveau Nuuk face aux menaces d’annexion territoriale de Washington. L’article Une entreprise pétrolière proche de Trump se prépare à forer le Groenland sans autorisation est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">96e8f92ee78c03fe45377938047c1446a69a44a5</guid>
-      <pubDate>Sat, 08 Aug 2026 16:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Faut-il avoir peur des virus conçus par l’IA ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/08/des-genomes-entiers-de-virus-crees-par-lia-danger-ou-opportunite/</link>
-      <description>[Le Grand Continent] Cette percée scientifique pourrait transformer la lutte contre l’antibiorésistance, en ouvrant une nouvelle frontière pour la biosécurité. L’article Faut-il avoir peur des virus conçus par l’IA&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">662928570fc6a72e6c324f2a35d6cbfb7165a655</guid>
-      <pubDate>Sat, 08 Aug 2026 13:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Économie russe : les drones ukrainiens font flamber l’exportation de brut</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/08/economie-russe-les-drones-ukrainiens-font-flamber-lexportation-de-brut/</link>
-      <description>[Le Grand Continent] Un paradoxe qui cache une mauvaise nouvelle pour le régime de Vladimir Poutine. L’article Économie russe&amp;#160;: les drones ukrainiens font flamber l’exportation de brut est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">76f4c27dd06b323b5d745e526de13b2338e848e6</guid>
-      <pubDate>Sat, 08 Aug 2026 05:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Varsovie sous Varsovie</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/08/varsovie-sous-varsovie/</link>
-      <description>[Le Grand Continent] L’historienne de la littérature et directrice d’études à l’EHESS piste les traces d’un monde qui rayonne et qui saigne. L’article Varsovie sous Varsovie est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">72f61acd43899e831e00d07127c83f73b628a054</guid>
-      <pubDate>Sat, 08 Aug 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La guerre contre les houthistes du Yémen peut-elle détourner Riyad du Soudan ?</title>
-      <link>https://theconversation.com/la-guerre-contre-les-houthistes-du-yemen-peut-elle-detourner-riyad-du-soudan-288862</link>
-      <description>[The Conversation FR - International] Une reprise de la guerre contre les houthistes du Yémen pourrait contraindre Riyad à réduire son soutien aux Forces armées soudanaises&amp;nbsp;: les priorités extérieures font l’objet de rééquilibrages constants.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">ecc67f9096e790a908f87c5b9d2fd1cd18232118</guid>
-      <pubDate>Thu, 06 Aug 2026 13:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Russie prépare-t-elle une opération sous faux drapeau sur le territoire de l’OTAN ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/07/la-russie-prepare-t-elle-une-operation-sous-faux-drapeau-sur-le-territoire-de-lotan/</link>
-      <description>[Le Grand Continent] Selon le ministre lituanien de la Défense, Robertas Kaunas, Moscou pourrait viser des infrastructures critiques des pays baltes avec des drones ukrainiens. Si rien n'indique que la Russie ait pris la décision de passer à l'acte, cette déclaration s'inscrit dans une série d'autres prises de parole de dirigeants du flanc est de l'OTAN qui mettent en garde contre la possibilité d'une attaque russe. L’article La Russie prépare-t-elle une opération sous faux drapeau sur le territoire de l&amp;rsquo;OTAN&amp;</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">d0dbceeff82b5c1ccd07aeb7cbd22e045de99172</guid>
-      <pubDate>Fri, 07 Aug 2026 05:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La nouvelle thalassocratie chinoise</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/07/la-nouvelle-thalassocratie-chinoise/</link>
-      <description>[Le Grand Continent] Comment Xi Jinping fait de la «&amp;#160;Méditerranée asiatique&amp;#160;» le cœur de son projet impérial. L’article La nouvelle thalassocratie chinoise est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">92a9c3ee11975cc8e7913cfca628c4ec281abd49</guid>
-      <pubDate>Fri, 07 Aug 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Que contient l’accord que l’Iran et l’Oman seraient en train de finaliser pour le transit dans le détroit d’Ormuz ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/06/que-contient-laccord-que-liran-et-loman-seraient-en-train-de-finaliser-pour-le-transit-dans-le-detroit-dormuz/</link>
-      <description>[Le Grand Continent] Selon le vice-ministre iranien des Affaires étrangères, l’accord avec Mascate ne garantirait toutefois pas la reprise du trafic. L’article Que contient l&amp;rsquo;accord que l&amp;rsquo;Iran et l&amp;rsquo;Oman seraient en train de finaliser pour le transit dans le détroit d&amp;rsquo;Ormuz&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">3364c9463970c05d99dade4939a161afbc5230f6</guid>
-      <pubDate>Thu, 06 Aug 2026 15:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
