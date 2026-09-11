@@ -6,7 +6,87 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:12:00 +0000</lastBuildDate>
+    <item>
+      <title>Après un incendie, les bâtiments historiques peuvent encore être sauvés, à condition d’agir vite</title>
+      <link>https://theconversation.com/apres-un-incendie-les-batiments-historiques-peuvent-encore-etre-sauves-a-condition-dagir-vite-291793</link>
+      <description>[The Conversation FR - Histoire] Après un incendie, les bâtiments historiques en pierre ou en brique peuvent souvent être sauvés. Mais pour éviter leur démolition, il faut évaluer rapidement les dégâts et consolider les murs.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">db04925cd1cbaa084b4e554c6dc05075408c94f1</guid>
+      <pubDate>Fri, 11 Sep 2026 09:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PISA 2025 : l’IA est-elle responsable de la baisse des résultats ?</title>
+      <link>https://theconversation.com/pisa-2025-lia-est-elle-responsable-de-la-baisse-des-resultats-291580</link>
+      <description>[The Conversation FR - Éducation] Peut-on vraiment accuser l’IA d’une baisse de niveau alors que, parmi les systèmes éducatifs les plus performants selon PISA, les outils numériques tiennent une place très différente ?</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">5eec70afb2d3a0f4a9618f199d2c3d6cc6fc1380</guid>
+      <pubDate>Thu, 10 Sep 2026 14:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dans l’est de l’Angola, la guerre a bouleversé des siècles de gestion du feu</title>
+      <link>https://theconversation.com/dans-lest-de-langola-la-guerre-a-bouleverse-des-siecles-de-gestion-du-feu-291791</link>
+      <description>[The Conversation FR - International] La guerre civile en Angola a profondément modifié l’usage du feu dans les communautés rurales. Une étude montre que les surfaces brûlées ont diminué pendant le conflit, avant de fortement augmenter avec le retour de la paix.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">cd5aed3e25b4bf0a8a3911f711248b8b78b1b225</guid>
+      <pubDate>Fri, 11 Sep 2026 10:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Élections législatives en Suède : un vote sur la normalisation de l’extrême droite ?</title>
+      <link>https://theconversation.com/elections-legislatives-en-suede-un-vote-sur-la-normalisation-de-lextreme-droite-291067</link>
+      <description>[The Conversation FR - International] L’extrême droite soutient le gouvernement en place depuis quatre&amp;nbsp;ans, qui a mis en œuvre une bonne partie de son programme. Le scrutin du 13&amp;nbsp;septembre dira si la population suédoise soutient ce cap.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">c4c6cb843eab44cef1590cea22ba386086498504</guid>
+      <pubDate>Thu, 10 Sep 2026 14:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’AfD affirme vouloir mettre le réarmement allemand au service de « campagnes offensives de remigration ».</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/11/lafd-affirme-vouloir-mettre-le-rearmement-allemand-au-service-de-campagnes-offensives-de-remigration/</link>
+      <description>[Le Grand Continent] Pourquoi, malgré le scandale suscité, ce n’est pas vraiment un dérapage L’article L’AfD affirme vouloir mettre le réarmement allemand au service de «&amp;#160;campagnes offensives de remigration&amp;#160;». est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2496ed8a0dc3b7d5ce94fddbc464e5b4113a5538</guid>
+      <pubDate>Fri, 11 Sep 2026 12:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le siècle du djihad</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/11/le-siecle-du-djihad/</link>
+      <description>[Le Grand Continent] Vingt-cinq ans après le 11-Septembre, le djihadisme n’a jamais été aussi étendu L’article Le siècle du djihad est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c52874efd9fde107f2c891f84189d44499863c71</guid>
+      <pubDate>Fri, 11 Sep 2026 05:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les guerres post-2001 ont coûté 8 000 milliards de dollars aux États-Unis</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/11/les-guerres-post-2001-ont-coute-8-000-milliards-de-dollars-aux-etats-unis/</link>
+      <description>[Le Grand Continent] Le coût des guerres contre le terrorisme avait à l'époque été largement sous-estimé L’article Les guerres post-2001 ont coûté 8 000 milliards de dollars aux États-Unis est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">966d408ad4814c84f89aadea80144d690014ecaa</guid>
+      <pubDate>Fri, 11 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La promesse de Trump de verser 5 000 dollars aux Américains en cas de victoire républicaine aux élections est sans précédent</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/10/la-promesse-de-trump-de-verser-5-000-dollars-aux-americains-en-cas-de-victoire-republicaine-aux-elections-est-sans-precedent/</link>
+      <description>[Le Grand Continent] Le «&amp;#160;dividende&amp;#160;» promis par Trump coûterait environ 1 225 milliards de dollars L’article La promesse de Trump de verser 5 000 dollars aux Américains en cas de victoire républicaine aux élections est sans précédent est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">4210bff4ab3eda89379331b57713d07b4e99f63f</guid>
+      <pubDate>Thu, 10 Sep 2026 17:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump va-t-il de nouveau frapper les installations nucléaires iraniennes ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/10/trump-va-t-il-de-nouveau-frapper-le-nucleaire-iranien/</link>
+      <description>[Le Grand Continent] Pour la première fois en 20 ans, l’AIEA a voté hier le renvoi de l’Iran devant le Conseil de sécurité de l’ONU. L’article Trump va-t-il de nouveau frapper les installations nucléaires iraniennes&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">bd38215eb615829f94608acd6d0a04fe5230017a</guid>
+      <pubDate>Thu, 10 Sep 2026 10:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PRIX SAMUEL PATY SESSION 2026-2027 : « Information et opinion(s) dans notre démocratie aujourd’hui » – COMMENT S’INSCRIRE ?</title>
+      <link>https://www.aphg.fr/prix-samuel-paty-session-2026-2027-information-et-opinions-dans-notre-democratie-aujourdhui-comment-sinscrire/</link>
+      <description>[APHG] PRIX SAMUEL PATY SESSION 2027 Comment inscrire vos élèves ? Le 9 septembre 2026 Initié par l’Association des Professeurs d’Histoire et de Géographie (APHG), porté par des professeurs, le Prix Samuel Paty souhaite rendre hommage à notre collègue assassiné le 16 octobre 2020. Centré sur les principes et valeurs démocratiques, au cœur de la construction intellectuelle et citoyenne [&amp;#8230;] L’article PRIX SAMUEL PATY SESSION 2026-2027 : « Information et opinion(s) dans notre démocratie aujourd&amp;rsqu</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">593df8899dd641863386d13c17978fdb039e0411</guid>
+      <pubDate>Thu, 10 Sep 2026 17:52:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ces hommes pionniers du féminisme, de Condorcet à Léon Blum</title>
       <link>https://theconversation.com/ces-hommes-pionniers-du-feminisme-de-condorcet-a-leon-blum-288547</link>
@@ -1526,86 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">1585346a3fd462cbfef9751a72fd485af7a0c142</guid>
       <pubDate>Wed, 12 Aug 2026 15:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Russie a représenté 100 % des importations de GNL de la Belgique en juillet</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/12/la-russie-a-represente-100-des-importations-de-gnl-de-la-belgique-en-juillet/</link>
-      <description>[Le Grand Continent] Les volumes d’importations européennes de GNL russe ont augmenté de 16&amp;#160;% au premier semestre par rapport à 2025. L’article La Russie a représenté 100&amp;#160;% des importations de GNL de la Belgique en juillet est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">8e433259825bd8b7f1802a82a6c01a57cf93a200</guid>
-      <pubDate>Wed, 12 Aug 2026 11:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Durant la Renaissance, le retour des papes à Rome créa une ère de construction de palais sans précédent pour la « Ville éternelle »</title>
-      <link>https://theconversation.com/durant-la-renaissance-le-retour-des-papes-a-rome-crea-une-ere-de-construction-de-palais-sans-precedent-pour-la-ville-eternelle-268262</link>
-      <description>[The Conversation FR - Histoire] Près de 31&amp;nbsp;% des palais de Rome furent construits entre 1378 et 1599, après un siècle de stagnation économique. Comment expliquer un tel phénomène urbanistique&amp;nbsp;?</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">ac545baadb52426ebc250b948e54ca56e4a760a5</guid>
-      <pubDate>Tue, 11 Aug 2026 14:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’administration Trump veut sanctionner ceux qui jugent : un aveu de la force du droit international</title>
-      <link>https://theconversation.com/ladministration-trump-veut-sanctionner-ceux-qui-jugent-un-aveu-de-la-force-du-droit-international-288756</link>
-      <description>[The Conversation FR - International] La volonté de Washington de «&amp;nbsp;démanteler&amp;nbsp;» la Cour pénale internationale masque aussi la crainte du pouvoir des mots du droit dans le temps.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">828c4cbed115904f02abeb91ffd7f2458551b537</guid>
-      <pubDate>Tue, 11 Aug 2026 14:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pour un changement de régime à la FIFA</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/12/pour-un-changement-de-regime-a-la-fifa/</link>
-      <description>[Le Grand Continent] Trump et Infantino veulent s’accaparer le sport le plus populaire au monde. L’Union peut encore les en empêcher. L’article Pour un changement de régime à la FIFA est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">cfe25a120f32669a4ffc159732d5586bf4e73ab5</guid>
-      <pubDate>Wed, 12 Aug 2026 05:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Où en Europe a-t-on le plus de chance d’observer une éclipse solaire totale au cours de sa vie ? [Carte exclusive]</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/12/ou-en-europe-a-t-on-le-plus-de-chance-dobserver-une-eclipse-solaire-totale-au-cours-de-sa-vie-carte-exclusive/</link>
-      <description>[Le Grand Continent] Selon des données de la NASA analysées par la revue, la probabilité de vivre une éclipse totale de son vivant varie entre 0 et 61&amp;#160;%. L’article Où en Europe a-t-on le plus de chance d’observer une éclipse solaire totale au cours de sa vie&amp;#160;? [Carte exclusive] est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">c760ebcf27b23cb693c40348b68e7fc065d0b7b1</guid>
-      <pubDate>Wed, 12 Aug 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En un an et demi, Trump a créé 17 fois moins d’emplois que Joe Biden</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/11/en-un-an-et-demi-trump-a-cree-17-fois-moins-demplois-que-joe-biden/</link>
-      <description>[Le Grand Continent] En avril et en mai, l’inflation a augmenté plus vite que les salaires pour la première fois depuis mai 2023. L’article En un an et demi, Trump a créé 17 fois moins d’emplois que Joe Biden est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">635eee2d9f9890f463f6b5deeed1f0a9904dbe38</guid>
-      <pubDate>Tue, 11 Aug 2026 16:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Globalisme</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/11/globalisme/</link>
-      <description>[Le Grand Continent] De l’Amérique isolationniste à Donald Trump, itinéraire du mot-valise devenu la clef de voûte des récits antimondialistes des extrêmes droites. L’article Globalisme est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">c67d925d18706d13cd278c70d9653cdc438fcf36</guid>
-      <pubDate>Tue, 11 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’île de Ré, côté marais</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/11/lile-de-re-cote-marais/</link>
-      <description>[Le Grand Continent] Un portrait personnel d'un Ré plus intime. L’article L’île de Ré, côté marais est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">7c48a5b70b6add24f56f0b21fb458174b4d817d5</guid>
-      <pubDate>Tue, 11 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pour reconnaître les textes écrits par l’IA, Claude laissera une trace invisible</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/11/pour-reconnaitre-les-textes-ecrits-par-lia-claude-laissera-une-trace-invisible/</link>
-      <description>[Le Grand Continent] La première application concrète de l’AI Act pourrait transformer radicalement les usages des LLM et avoir des effets géopolitiques profonds. L’article Pour reconnaître les textes écrits par l’IA, Claude laissera une trace invisible est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">9f88d2d3bb1fddc154ac5e4e587029f61e9be0d0</guid>
-      <pubDate>Tue, 11 Aug 2026 11:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Que signifiaient les éclipses dans la Rome antique ?</title>
-      <link>https://theconversation.com/que-signifiaient-les-eclipses-dans-la-rome-antique-289411</link>
-      <description>[The Conversation FR - Histoire] Les Romains savaient déjà expliquer les éclipses, mais ils y voyaient des signes divins et les considéraient comme des présages. Science, religion et politique cohabitaient alors sous un même ciel.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">4728b4e01d178bae411ee9351b45339fcb7bf148</guid>
-      <pubDate>Mon, 10 Aug 2026 13:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
