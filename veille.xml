@@ -6,7 +6,63 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:08:00 +0000</lastBuildDate>
+    <item>
+      <title>Pourquoi l’ONU soutient-elle une nouvelle carte du monde plus fidèle à la taille de l’Afrique ?</title>
+      <link>https://theconversation.com/pourquoi-lonu-soutient-elle-une-nouvelle-carte-du-monde-plus-fidele-a-la-taille-de-lafrique-291935</link>
+      <description>[The Conversation FR - International] L’ONU soutient désormais la projection Equal Earth, une carte du monde qui représente plus fidèlement la taille des continents, notamment celle de l’Afrique, longtemps réduite par la projection de Mercator.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">b216371bb505de7c2b34466f2d5a537aeac15041</guid>
+      <pubDate>Tue, 15 Sep 2026 08:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Derrière la victoire de l’AfD, le rejet des éoliennes ?</title>
+      <link>https://theconversation.com/derriere-la-victoire-de-lafd-le-rejet-des-eoliennes-291806</link>
+      <description>[The Conversation FR - International] En Allemagne, l’AfD a placé la lutte contre les éoliennes au cœur de sa stratégie électorale. Une victoire en Saxe-Anhalt pourrait-elle lui permettre de freiner la transition énergétique&amp;nbsp;?</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">a9b60f30822ae1a17fb973cba96442f425b62b69</guid>
+      <pubDate>Fri, 11 Sep 2026 13:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les États-Unis affirment disposer de capacités militaires en orbite</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/15/les-etats-unis-affirment-disposer-de-capacites-militaires-en-orbite/</link>
+      <description>[Le Grand Continent] Washington refuse toutefois de préciser leur nature L’article Les États-Unis affirment disposer de capacités militaires en orbite est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">5063135eb6aece9fb819078558dbc2b08591b0ef</guid>
+      <pubDate>Tue, 15 Sep 2026 11:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le prix de l’indépendance à l’âge de l’IA</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/15/le-prix-de-lindependance-a-lage-de-lia/</link>
+      <description>[Le Grand Continent] Selon les calculs du plan Prométhée, financer un laboratoire de frontière en France reste possible L’article Le prix de l’indépendance à l’âge de l’IA est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c50fe68dc9dc7d07fb7a9f69bc0400089f955e2b</guid>
+      <pubDate>Tue, 15 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Économie russe : les personnes fuyant le pays font exploser les prix des logements à Erevan</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/15/economie-russe-les-personnes-fuyant-le-pays-font-exploser-les-prix-des-logements-a-erevan/</link>
+      <description>[Le Grand Continent] Le Kremlin tente de dissiper toutes les rumeurs de mobilisation L’article Économie russe&amp;#160;: les personnes fuyant le pays font exploser les prix des logements à Erevan est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">31c89db3f23b74f90ec701ffac5419c9329cf293</guid>
+      <pubDate>Tue, 15 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qui est l’oligarque russe qui a financé la fête de mariage de Donald Trump Jr. ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/14/qui-est-loligarque-russe-qui-a-finance-la-fete-de-mariage-de-donald-trump-jr/</link>
+      <description>[Le Grand Continent] Portrait d’Umar Kremlev, proche de Poutine, admirateur de Staline et ami du fils du président américain L’article Qui est l’oligarque russe qui a financé la fête de mariage de Donald Trump Jr.&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">904b926ea96a10d1ab7de4d23de9911ba263b873</guid>
+      <pubDate>Mon, 14 Sep 2026 18:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La carte du monde selon les BRICS : ce que révèle la Déclaration de New Delhi</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/14/la-carte-du-monde-selon-les-brics-ce-que-revele-la-declaration-de-new-delhi/</link>
+      <description>[Le Grand Continent] L’Europe n’est mentionnée à aucune reprise dans le document L’article La carte du monde selon les BRICS&amp;#160;: ce que révèle la Déclaration de New Delhi est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">120fc2fac46875ca7bea3986c88cf4ca437ecaed</guid>
+      <pubDate>Mon, 14 Sep 2026 16:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>Apprendre à lire : ce que les données de 9 000 enseignants et 130 000 élèves révèlent des méthodes et de leur efficacité</title>
       <link>https://theconversation.com/apprendre-a-lire-ce-que-les-donnees-de-9-000-enseignants-et-130-000-eleves-revelent-des-methodes-et-de-leur-efficacite-291310</link>
@@ -1550,62 +1606,6 @@
       <category>The Conversation FR - Éducation</category>
       <guid isPermaLink="false">d3c11905d23d5e9a8a3b89accc828e1932b3b902</guid>
       <pubDate>Tue, 18 Aug 2026 08:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Russie construit des rampes de lancement de drones à portée des pays de l’OTAN</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/18/la-russie-construit-des-rampes-de-lancement-de-drones-a-portee-des-pays-de-lotan-2/</link>
-      <description>[Le Grand Continent] Les territoires de 11 pays membres de l’OTAN seraient à portée de ces nouveaux sites. L’article La Russie construit des rampes de lancement de drones à portée des pays de l’OTAN est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">63fe39186cee7ad71cf91209b9f83c211873bc25</guid>
-      <pubDate>Tue, 18 Aug 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump menace de frapper Oman, le 10e pays ciblé depuis son retour au pouvoir</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/17/trump-menace-de-frapper-oman-le-10e-pays-cible-depuis-son-retour-au-pouvoir/</link>
-      <description>[Le Grand Continent] S’exprimant sur le blocage du détroit d’Ormuz, le président américain a menacé ce lundi 17 août «&amp;#160;d’écraser Oman sous les bombes&amp;#160;» si le pays «&amp;#160;se mettait en travers&amp;#160;» d’un accord. L’article Trump menace de frapper Oman, le 10e pays ciblé depuis son retour au pouvoir est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">4a748446f5499a6063b890d82ce24dd5b3002dcd</guid>
-      <pubDate>Mon, 17 Aug 2026 15:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment l’Ukraine a discrètement repris le contrôle de plus de 700 km² de son territoire</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/17/comment-lukraine-a-discretement-repris-le-controle-de-plus-de-700-km%c2%b2-de-son-territoire/</link>
-      <description>[Le Grand Continent] Au cours d’une opération largement entourée de secret, l’armée ukrainienne a réalisé en six mois son avancée la plus importante depuis l’été 2023. L’article Comment l’Ukraine a discrètement repris le contrôle de plus de 700 km² de son territoire est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">d06a876e38428791862090681b06f23f05a3a708</guid>
-      <pubDate>Mon, 17 Aug 2026 12:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump a ordonné de réduire drastiquement l’exercice militaire conjoint annuel avec la Corée du Sud</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/17/donald-trump-ordonne-de-reduire-drastiquement-lexercice-militaire-conjoint-annuel-avec-la-coree-du-sud/</link>
-      <description>[Le Grand Continent] Cette annonce intervient alors que les États-Unis ne disposent plus de porte-avions dans le Pacifique. L’article Donald Trump a ordonné de réduire drastiquement l’exercice militaire conjoint annuel avec la Corée du Sud est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">19c459068fabdddc255ce3e9ec63ad85b6f7e111</guid>
-      <pubDate>Mon, 17 Aug 2026 06:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>26 livres à lire en septembre 2026</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/17/26-livres-a-lire-en-septembre-2026/</link>
-      <description>[Le Grand Continent] 26 essais et ouvrages de non-fiction choisis parmi les parutions de toute l’Europe. L’article 26 livres à lire en septembre 2026 est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">b09be01e08c622db0ad837900fc1ae6c7f773397</guid>
-      <pubDate>Mon, 17 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump a ordonné de réduire drastiquement l’exercice militaire conjoint annuel avec la Corée du Sud</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/17/donald-trump-a-ordonne-de-reduire-drastiquement-lexercice-militaire-conjoint-annuel-avec-la-coree-du-sud/</link>
-      <description>[Le Grand Continent] Cette annonce intervient alors que les États-Unis ne disposent plus de porte-avions dans le Pacifique. L’article Donald Trump a ordonné de réduire drastiquement l’exercice militaire conjoint annuel avec la Corée du Sud est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">d667686e3e008e9ebf9e4c52aafb410b61b246fc</guid>
-      <pubDate>Mon, 17 Aug 2026 06:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’exorcisme du pouvoir</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/16/exorcisme-du-pouvoir/</link>
-      <description>[Le Grand Continent] Si tout le monde est d’accord avec Léon XIV, pourquoi Trump gagne-t-il les élections&amp;#160;? L’article L&amp;rsquo;exorcisme du pouvoir est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">bf1dce08b70fa7bd1ed0fdfdb2d873ce0d39ecf4</guid>
-      <pubDate>Sun, 16 Aug 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
