@@ -6,7 +6,63 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:20:00 +0000</lastBuildDate>
+    <item>
+      <title>Nigel Farage : la fin de l’état de grâce ?</title>
+      <link>https://theconversation.com/nigel-farage-la-fin-de-letat-de-grace-291887</link>
+      <description>[The Conversation FR - International] Confronté à plusieurs affaires embarrassantes et à un nouveau premier ministre qui séduit les classes populaires, Nigel&amp;nbsp;Farage ne caracole plus en tête des sondages.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">d1c34d4cf468493fb8c87ecf82525e45950f7768</guid>
+      <pubDate>Thu, 17 Sep 2026 15:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Au sein de l’opposition russe, la bataille des idées</title>
+      <link>https://theconversation.com/au-sein-de-lopposition-russe-la-bataille-des-idees-290460</link>
+      <description>[The Conversation FR - International] Composée de nombreuses personnalités actives et désireuses de peser sur l’avenir de leur pays, l’opposition russe est traversée par des débats de fond sur de nombreux sujets clés.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">bb8daa170d8b386fbab4f2ce7ca77712eed2850b</guid>
+      <pubDate>Thu, 17 Sep 2026 15:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qui est Oemis Romagoza Durruthy, le professeur de danse cubain recruté par Moscou pour mener des opérations de sabotage en Europe</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/18/qui-est-oemis-romagoza-durruthy-le-professeur-de-danse-cubain-recrute-par-moscou-pour-mener-des-operations-de-sabotage-en-europe/</link>
+      <description>[Le Grand Continent] Au moins une douzaine de personnes ont été cooptées par Romagoza depuis 2024 L’article Qui est Oemis Romagoza Durruthy, le professeur de danse cubain recruté par Moscou pour mener des opérations de sabotage en Europe est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">63e4d997fe61f3db8677575a33a96e0fad8fdb8c</guid>
+      <pubDate>Fri, 18 Sep 2026 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi la Chine mise sur l’open source dans la course à l’IA</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/18/pourquoi-la-chine-mise-sur-lopen-source-dans-la-course-a-lia/</link>
+      <description>[Le Grand Continent] Et comment Pékin pourrait s’en servir pour étendre son influence au sein du Sud global L’article Pourquoi la Chine mise sur l’open source dans la course à l’IA est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">9d550d2184872fa7368b33d9c477e2c60a7a493b</guid>
+      <pubDate>Fri, 18 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le test des trois Chinois (fois treize)</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/18/test-des-trois-chinois-fois-treize/</link>
+      <description>[Le Grand Continent] Pour la rentrée, nous avons demandé à treize sinologues et China watchers de passer le fameux test lancé par la revue L’article Le test des trois Chinois (fois treize) est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">401674bf357f0c832e35ed8117a33d0fa3eaf8b4</guid>
+      <pubDate>Fri, 18 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La guerre en Iran devrait faire baisser les émissions de CO₂ liées à l’énergie</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/17/la-guerre-en-iran-devrait-faire-baisser-les-emissions-de-co%e2%82%82-liees-a-lenergie/</link>
+      <description>[Le Grand Continent] ll s’agirait du premier recul depuis la pandémie de Covid-19 L’article La guerre en Iran devrait faire baisser les émissions de CO₂ liées à l’énergie est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">8ecc36f101dcda3cdba71a0507d51261858850a6</guid>
+      <pubDate>Thu, 17 Sep 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Que peut l’Arabie saoudite face aux Houthis ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/17/que-peut-larabie-saoudite-face-aux-houthis/</link>
+      <description>[Le Grand Continent] L’organisation islamiste s’est emparée en seulement quelques jours du détroit de Bab el-Mandeb L’article Que peut l’Arabie saoudite face aux Houthis&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2e097546f18e093965a51841a8375d03746b8bc9</guid>
+      <pubDate>Thu, 17 Sep 2026 16:19:00 +0000</pubDate>
+    </item>
     <item>
       <title>Brève histoire de l’opéra dans les Balkans et en Turquie</title>
       <link>https://theconversation.com/breve-histoire-de-lopera-dans-les-balkans-et-en-turquie-290883</link>
@@ -1550,62 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">18b3c65ba78b9097939abc848c188d905689875c</guid>
       <pubDate>Sat, 22 Aug 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Illibéralisme</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/21/illiberalisme/</link>
-      <description>[Le Grand Continent] Des conservateurs de l’après-guerre aux néoréactionnaires de la Silicon Valley, une généalogie de la contre-révolution. L’article Illibéralisme est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">53e4e82f2d0e99dcf4a3ca05b1dcd35f3b4d72fc</guid>
-      <pubDate>Fri, 21 Aug 2026 18:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La politique migratoire européenne de Meloni se retourne contre elle</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/21/la-politique-migratoire-europeenne-de-meloni-se-retourne-contre-elle/</link>
-      <description>[Le Grand Continent] Au moins six pays européens s’apprêtent à renvoyer des demandeurs d’asile vers l’Italie. L’article La politique migratoire européenne de Meloni se retourne contre elle est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">c8e215df330734ca2c487e3f18048c9a4abc12d9</guid>
-      <pubDate>Fri, 21 Aug 2026 16:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quels pays européens pourraient être pris pour cible par l’Iran ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/21/quels-pays-europeens-pourraient-etre-pris-pour-cible-par-liran/</link>
-      <description>[Le Grand Continent] L’arsenal de drones iraniens constitue une menace pour les bases utilisées par l’armée américaine en Europe. L’article Quels pays européens pourraient être pris pour cible par l’Iran&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">00ca6b1c06f67be04a493c6773311bf312b249a1</guid>
-      <pubDate>Fri, 21 Aug 2026 12:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vin, huile, profits : le véritable rôle des intendantes dans les fermes romaines</title>
-      <link>https://theconversation.com/vin-huile-profits-le-veritable-role-des-intendantes-dans-les-fermes-romaines-287595</link>
-      <description>[The Conversation FR - Histoire] Qui produisait le vin de la Rome antique&amp;nbsp;? Les sources suggèrent que les «&amp;nbsp;vilicae&amp;nbsp;», les intendantes des domaines, étaient bien plus que des gestionnaires du foyer&amp;nbsp;: elles supervisaient les vendanges, la vinification, les rituels religieux et la transformation des récoltes.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">544a608e2c96de43d781ee9e21dda70f3db16c46</guid>
-      <pubDate>Thu, 20 Aug 2026 13:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Loi sur l’interdiction des réseaux sociaux aux moins de 15 ans : où mène la censure du Conseil constitutionnel ?</title>
-      <link>https://theconversation.com/loi-sur-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-ou-mene-la-censure-du-conseil-constitutionnel-290011</link>
-      <description>[The Conversation FR - Éducation] La loi, qui sera réécrite en septembre, devrait s’attacher à neutraliser les fonctionnalités toxiques plutôt que d’interdire l’ensemble des réseaux aux enfants et aux adolescents.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">7f69c36a40acea96b8c3b71461678e7f7ae75d35</guid>
-      <pubDate>Thu, 20 Aug 2026 13:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enquête de l’OSCE : dans les territoires ukrainiens occupés, la Russie endoctrine et militarise les enfants</title>
-      <link>https://theconversation.com/enquete-de-losce-dans-les-territoires-ukrainiens-occupes-la-russie-endoctrine-et-militarise-les-enfants-288958</link>
-      <description>[The Conversation FR - International] Même si le droit international interdit l’endoctrinement et la militarisation des enfants dans les territoires occupés, la Russie se livre ouvertement à ces pratiques en Ukraine.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">16275bd9fa2a8b6108f33a9593c77763ef4b8578</guid>
-      <pubDate>Thu, 20 Aug 2026 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pékin est en train de construire sa plus grande île artificielle de la mer de Chine du Sud</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/21/pekin-est-en-train-de-construire-sa-plus-grande-ile-artificielle-de-la-mer-de-chine-du-sud/</link>
-      <description>[Le Grand Continent] Des images satellites montrent que les travaux en cours sur le récif d'Antelope pourraient considérablement renforcer la présence militaire chinoise dans la région. L’article Pékin est en train de construire sa plus grande île artificielle de la mer de Chine du Sud est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">c2b7b3d52a551e91ccda02fa1884b15ebab01a91</guid>
-      <pubDate>Fri, 21 Aug 2026 04:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
