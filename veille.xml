@@ -6,7 +6,63 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:51:00 +0000</lastBuildDate>
+    <item>
+      <title>Quand les archéologues révèlent les habitudes alimentaires d’autrefois</title>
+      <link>https://theconversation.com/quand-les-archeologues-revelent-les-habitudes-alimentaires-dautrefois-290893</link>
+      <description>[The Conversation FR - Histoire] Le laboratoire ARC-Nucléart travaille sur la conservation d’œuvres et d’objets archéologiques en matériaux organiques, permettant de comprendre ce qu'on mangeait jadis, et comment on cuisinait.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">28327e1f41322497b0ebb5abdb979be7dc6595cc</guid>
+      <pubDate>Tue, 22 Sep 2026 12:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yémen, péninsule Arabique, mer Rouge : les houthistes à l’assaut de la région</title>
+      <link>https://theconversation.com/yemen-peninsule-arabique-mer-rouge-les-houthistes-a-lassaut-de-la-region-292538</link>
+      <description>[The Conversation FR - International] Dans le viseur des houthistes&amp;nbsp;: le gouvernement yéménite internationalement reconnu, mais aussi la famille Al-Saoud qui dirige l’Arabie saoudite et contrôle les Lieux saints de l’islam.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">99c9905bbaedf34ff449a47413a23633600aea1a</guid>
+      <pubDate>Tue, 22 Sep 2026 13:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La bibliothèque assiégée : Comment l’administration Trump fait des rayonnages un champ de bataille culturelle</title>
+      <link>https://theconversation.com/la-bibliotheque-assiegee-comment-ladministration-trump-fait-des-rayonnages-un-champ-de-bataille-culturelle-291719</link>
+      <description>[The Conversation FR - International] Aux États-Unis, la censure des livres s’étend aux bibliothèques publiques et devient un enjeu politique, menaçant aussi celles et ceux qui les font vivre.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">ec39d48bd41ec647e679065e762a09edd72df900</guid>
+      <pubDate>Mon, 21 Sep 2026 15:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le S&amp;P 500 performe moins bien sous Trump que sous Obama</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/22/le-sp-500-performe-moins-bien-sous-trump-que-sous-obama/</link>
+      <description>[Le Grand Continent] 20 mois depuis le retour de Trump, l’indice a gagné 28&amp;#160;% – contre 32&amp;#160;% sous Obama L’article Le S&amp;amp;P 500 performe moins bien sous Trump que sous Obama est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">4ef975e009073268d9f17d1ef61192384b485ae5</guid>
+      <pubDate>Tue, 22 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Europe doit apprendre à dire non à la Chine</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/22/leurope-doit-apprendre-a-dire-non-a-la-chine/</link>
+      <description>[Le Grand Continent] La puissance industrielle de Pékin menace nos fondements économiques. Pour y répondre, l’Union peut transformer son marché en instrument de puissance. L’article L’Europe doit apprendre à dire non à la Chine est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">754b96c547ee57d94bb563f475c0326922731657</guid>
+      <pubDate>Tue, 22 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La grande peur de Xi face à l’IA</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/21/la-grande-peur-du-parti-face-a-lia/</link>
+      <description>[Le Grand Continent] En Chine la course à l’IA est indissociable d’un impératif&amp;#160;: préserver le contrôle du Parti L’article La grande peur de Xi face à l’IA est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b1a1a0ec249c94b43a98cd5073d9aa2ffec956ea</guid>
+      <pubDate>Mon, 21 Sep 2026 16:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Russie impose un couvre-feu à sa frontière avec l’Estonie</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/21/la-russie-impose-un-couvre-feu-a-sa-frontiere-avec-lestonie/</link>
+      <description>[Le Grand Continent] Les gardes-frontières estoniens n’ont pas été informés en amont L’article La Russie impose un couvre-feu à sa frontière avec l’Estonie est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">fda3169a6529cfa7743eec698aee128d4e57afce</guid>
+      <pubDate>Mon, 21 Sep 2026 16:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>Filles ou garçons : le prestige des études n’influence pas leurs choix d’orientation de la même manière</title>
       <link>https://theconversation.com/filles-ou-garcons-le-prestige-des-etudes-ninfluence-pas-leurs-choix-dorientation-de-la-meme-maniere-275697</link>
@@ -1550,62 +1606,6 @@
       <category>The Conversation FR - Histoire</category>
       <guid isPermaLink="false">7fb79a80490702c157e71197edd8a94fe03e1e9b</guid>
       <pubDate>Wed, 26 Aug 2026 13:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dioclétien, l’empereur romain qui abandonna le pouvoir pour cultiver des choux</title>
-      <link>https://theconversation.com/diocletien-lempereur-romain-qui-abandonna-le-pouvoir-pour-cultiver-des-choux-287709</link>
-      <description>[The Conversation FR - Histoire] Pourquoi un empereur au sommet de sa puissance abandonnerait-il volontairement le trône&amp;nbsp;? Entre maladie, réformes politiques et lassitude face aux complots, l’abdication de Dioclétien continue d’intriguer les historiens.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">f818fd2ac15fbd143585cdb2f6e1b56abb050b94</guid>
-      <pubDate>Wed, 26 Aug 2026 12:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Corsets, crinolines et maquillage au plomb… Quand la mode mettait la vie des femmes en péril</title>
-      <link>https://theconversation.com/corsets-crinolines-et-maquillage-au-plomb-quand-la-mode-mettait-la-vie-des-femmes-en-peril-288942</link>
-      <description>[The Conversation FR - Histoire] Bien avant les débats sur les gaines sculptantes ou les talons hauts, la mode exposait déjà ses adeptes à des poisons, des radiations ou des incendies. Une histoire de l’élégance à des périodes où celle-ci pouvait se payer au prix fort.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">37b62a8ef74a5a3ea734db04984efb1f82ba4836</guid>
-      <pubDate>Wed, 26 Aug 2026 10:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Des cartes de scènes d’homicide dans trois villes anglaises bousculent nos idées reçues sur la violence au Moyen Âge</title>
-      <link>https://theconversation.com/des-cartes-de-scenes-dhomicide-dans-trois-villes-anglaises-bousculent-nos-idees-recues-sur-la-violence-au-moyen-age-287093</link>
-      <description>[The Conversation FR - Histoire] Où risquait-on le plus de mourir dans une ville médiévale&amp;nbsp;? En reconstituant 355 scènes d’homicides survenus entre 1296 et 1398, des historiens montrent que la violence suivait les flux de population, de commerce et de pouvoir.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">84a29343f2d9a8241fd762efe85de0229ff2bdf6</guid>
-      <pubDate>Wed, 26 Aug 2026 10:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les archives orales, des sources comme les autres ? Comment les témoignages nourrissent le travail des historiens</title>
-      <link>https://theconversation.com/les-archives-orales-des-sources-comme-les-autres-comment-les-temoignages-nourrissent-le-travail-des-historiens-287747</link>
-      <description>[The Conversation FR - Histoire] Si les piliers de l’histoire orale ont été posés dès 1921 par Marc&amp;nbsp;Bloch, les sources orales ont mis près d’un siècle à être admises comme telles en histoire. Pourquoi tant de précautions&amp;nbsp;?</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">d6d5f11aff4c498a3333473687c7707178dae2c1</guid>
-      <pubDate>Wed, 26 Aug 2026 10:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quand la polarisation internationale s’invite dans la présidentielle brésilienne</title>
-      <link>https://theconversation.com/quand-la-polarisation-internationale-sinvite-dans-la-presidentielle-bresilienne-289957</link>
-      <description>[The Conversation FR - International] À l’approche de la présidentielle brésilienne, le duel Lula&amp;nbsp;–&amp;nbsp;Flávio&amp;nbsp;Bolsonaro est marqué par une forte implication de leurs appuis respectifs au niveau international.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">8b7f35a82852dbccd6a5cbc4d497e757bfccbb58</guid>
-      <pubDate>Thu, 27 Aug 2026 13:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ce que le cas Natalie Harp révèle du système Trump</title>
-      <link>https://theconversation.com/ce-que-le-cas-natalie-harp-revele-du-systeme-trump-290073</link>
-      <description>[The Conversation FR - International] Une assistante de rang subalterne filtre-t-elle réellement les informations parvenant jusqu’au chef de l’État&amp;nbsp;?</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">825d1f71fa0e8135265d294119afdf3928a8125b</guid>
-      <pubDate>Wed, 26 Aug 2026 13:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pour lancer des milliers de fusées par an, SpaceX va occuper près de 0,5 % de la Louisiane</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/27/pour-lancer-des-milliers-de-fusees-par-an-spacex-va-occuper-pres-de-05-de-la-louisiane/</link>
-      <description>[Le Grand Continent] Le projet a été comparé par le gouverneur de l’État, un allié de Trump, à la vente de la Louisiane de 1803. L’article Pour lancer des milliers de fusées par an, SpaceX va occuper près de 0,5&amp;#160;% de la Louisiane est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">59b19e43d20f911d547060f3f0cb3e5e45ffbace</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
