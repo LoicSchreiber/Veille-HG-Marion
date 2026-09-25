@@ -6,7 +6,135 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 14:23:00 +0000</lastBuildDate>
+    <item>
+      <title>Que révèlent la devise et les armoiries du pape Léon XIV ?</title>
+      <link>https://theconversation.com/que-revelent-la-devise-et-les-armoiries-du-pape-leon-xiv-292795</link>
+      <description>[The Conversation FR - Histoire] En choisissant les symboles de saint Augustin, le nouveau pape affirme son attachement à l’unité et à l’humilité, deux thèmes que l’art de la Renaissance a souvent associés au fondateur de son ordre.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">d512f74ec4db82daffd536342c7fe274bf58526a</guid>
+      <pubDate>Fri, 25 Sep 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ce que « Le Semeur », tableau lumineux de Van Gogh, révèle du message de Léon XIV</title>
+      <link>https://theconversation.com/ce-que-le-semeur-tableau-lumineux-de-van-gogh-revele-du-message-de-leon-xiv-292794</link>
+      <description>[The Conversation FR - Histoire] Lors de sa première audience générale, le pape Léon XIV avait évoqué « Le Semeur au soleil couchant » de Van Gogh comme un symbole d’espérance. Ce tableau, inspiré d’une parabole biblique, éclaire aussi l’importance qu’il accorde à la dignité du travail.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">0bfadccd33997e76cbf6b6c025cf575c34db2e87</guid>
+      <pubDate>Fri, 25 Sep 2026 06:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Développons les capacités créatives des universités</title>
+      <link>https://theconversation.com/developpons-les-capacites-creatives-des-universites-287236</link>
+      <description>[The Conversation FR - Éducation] Contrairement à une idée reçue, la créativité n’est pas une compétence spontanée. Elle s’épanouit d’autant mieux dans certains contextes. Les universités françaises en profitent-elles&amp;nbsp;?</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">96d8a0dbf789217df5ddcf17251f66642ace4c11</guid>
+      <pubDate>Thu, 24 Sep 2026 14:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Au Brésil, l’affaire Banco Master fait trembler le monde politique et éclabousse la campagne présidentielle</title>
+      <link>https://theconversation.com/au-bresil-laffaire-banco-master-fait-trembler-le-monde-politique-et-eclabousse-la-campagne-presidentielle-292846</link>
+      <description>[The Conversation FR - International] Le scandale Banco Master secoue le Brésil à quelques semaines de l’élection présidentielle. Cette vaste affaire de fraude bancaire révèle un réseau d’influence qui touche la classe politique et la Cour suprême.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">4f055ee1146ef91ea1c22b62ca27eeb160e3503f</guid>
+      <pubDate>Fri, 25 Sep 2026 09:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Différend France-Vanuatu sur les îles Matthew et Hunter : l’option de la cogestion</title>
+      <link>https://theconversation.com/differend-france-vanuatu-sur-les-iles-matthew-et-hunter-loption-de-la-cogestion-291790</link>
+      <description>[The Conversation FR - International] La France et le Vanuatu s’opposent sur deux îlots inhabités. La cogestion pourrait permettre de préserver leurs revendications tout en gérant ensemble le territoire.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">2611beba383591178192a62d61ddbf7030a0a2b2</guid>
+      <pubDate>Thu, 24 Sep 2026 14:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Washington refuse qu’Anthropic et OpenAI soumettent leurs derniers modèles à une évaluation indépendante</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/25/washington-refuse-quanthropic-et-openai-soumettent-leurs-derniers-modeles-a-une-evaluation-independante/</link>
+      <description>[Le Grand Continent] Le gouvernement américain serait le premier à avoir accès aux nouveaux modèles de frontière L’article Washington refuse qu’Anthropic et OpenAI soumettent leurs derniers modèles à une évaluation indépendante est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">ea17b1c82a4324a27a2a148e0a07ac2432928f10</guid>
+      <pubDate>Fri, 25 Sep 2026 14:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le précédent et le sens de la visite apostolique historique de Léon XIV en France</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/25/le-precedent-le-sens-de-la-visite-apostolique-historique-de-leon-xiv-en-france/</link>
+      <description>[Le Grand Continent] Que suivre lors des quatres jours du pape en France L’article Le précédent et le sens de la visite apostolique historique de Léon XIV en France est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b4499e19524210f6abebf20f242906c1dd8c8fe5</guid>
+      <pubDate>Fri, 25 Sep 2026 08:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Chine et les États-Unis peuvent-ils s’accorder sur la sécurité de l’IA ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/25/la-chine-et-les-etats-unis-peuvent-ils-saccorder-sur-la-securite-de-lia/</link>
+      <description>[Le Grand Continent] Pourquoi le retard de Pékin ne garantit pas une absence d’incidents L’article La Chine et les États-Unis peuvent-ils s’accorder sur la sécurité de l’IA&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">ccf5b53b2eb507a8add5470c1b3bad9555ff1282</guid>
+      <pubDate>Fri, 25 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Que révèle la « découverte » par Anthropic d’une nouvelle enzyme ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/24/que-revele-la-decouverte-par-anthropic-dune-nouvelle-enzyme/</link>
+      <description>[Le Grand Continent] L’annonce d’Amodei brouille la frontière entre science et communication L’article Que révèle la «&amp;#160;découverte&amp;#160;» par Anthropic d’une nouvelle enzyme&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">f7687d73f9f473e04accfc1d32343d8ea74ed0d0</guid>
+      <pubDate>Thu, 24 Sep 2026 17:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le Pakistan multiplie les raids aériens en Afghanistan</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/24/le-pakistan-multiplie-les-raids-aeriens-en-afghanistan/</link>
+      <description>[Le Grand Continent] Le Pakistan dit avoir visé 10 sites utilisés pour le lancement de drones L’article Le Pakistan multiplie les raids aériens en Afghanistan est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">507163ebb534f33b69bcc1e6de9135f47ca64839</guid>
+      <pubDate>Thu, 24 Sep 2026 14:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En amont des midterms, des candidats républicains se distancient de Trump</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/24/en-amont-des-midterms-des-candidats-republicains-se-distancient-de-trump/</link>
+      <description>[Le Grand Continent] L’impopularité de Trump est perçue comme un risque L’article En amont des midterms, des candidats républicains se distancient de Trump est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">8d094b0982cd9d9a146d1002db26daf44780c726</guid>
+      <pubDate>Thu, 24 Sep 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Iran, Khamenei est-il en train de gagner la guerre ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/24/en-iran-khamenei-est-en-train-de-gagner-la-guerre/</link>
+      <description>[Le Grand Continent] Trump et Netanyahou voulaient renverser le régime, ils pourraient avoir consacré la doctrine du guide assassiné L’article En Iran, Khamenei est-il en train de gagner la guerre&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">0d96f0ed9414d6624026c73957456b90c79c6386</guid>
+      <pubDate>Thu, 24 Sep 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Europe doit retrouver l’Afrique</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/23/leurope-doit-retrouver-lafrique/</link>
+      <description>[Le Grand Continent] Selon le nouveau directeur du Collège de Bruges, un nouveau partenariat est devenu nécessaire L’article L&amp;rsquo;Europe doit retrouver l&amp;rsquo;Afrique est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">0bd845e5d6325a4c3ddad177929b7cbad0d3a989</guid>
+      <pubDate>Wed, 23 Sep 2026 17:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La reprise des combats au Tigré menace d’embraser la région</title>
+      <link>https://legrandcontinent.eu/fr/2026/09/23/la-reprise-des-combats-au-tigre-menace-dembraser-la-region/</link>
+      <description>[Le Grand Continent] Le TPLF aurait pris le contrôle de plusieurs aéroports du Tigré L’article La reprise des combats au Tigré menace d’embraser la région est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2a8aac4dc9452f05c216668e5cd14b5a2270d978</guid>
+      <pubDate>Wed, 23 Sep 2026 15:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Communiqué – Cérémonies du 11 novembre dans les établissements scolaires : la vigilance de l’APHG</title>
+      <link>https://www.aphg.fr/communique-ceremonies-du-11-novembre-dans-les-etablissements-scolaires-la-vigilance-de-laphg/</link>
+      <description>[APHG] L&amp;#8217;APHG mesure le poids symbolique que représente, pour les professeurs d&amp;#8217;histoire-géographie déjà très sollicités ces dernières années, l&amp;#8217;organisation d&amp;#8217;une commémoration obligatoire. Dans un temps saturé de minutes de silence et d&amp;#8217;hommages, une mise en œuvre plus progressive et plus concertée aurait été préférable. L&amp;#8217;APHG note aussi avec une certaine ironie qu&amp;#8217;on exige des jeunes une [&amp;#8230;] L’article Communiqué &amp;#8211; Cérémonies du 11 novembre dans</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">47ecb9ff05322ac4359c5ff8f39ca4f87a3115c2</guid>
+      <pubDate>Thu, 24 Sep 2026 19:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>« Sur le chemin de la mémoire » de V. Igounet – ressource pédagogique</title>
+      <link>https://www.aphg.fr/sur-le-chemin-de-la-memoire-de-v-igounet-ressource-pedagogique/</link>
+      <description>[APHG] « Empruntant aux codes du roman autobiographique, du journal intime et du roman historique, Sur le chemin de la mémoire est un récit touchant, instructif et captivant qui, de surcroît, offre aux enseignants des perspectives pédagogiques intéressantes. En effet la lecture de ce roman, cursive ou par extraits, peut parfaitement s’inscrire dans la mise en œuvre [&amp;#8230;] L’article « Sur le chemin de la mémoire » de V. Igounet &amp;#8211; ressource pédagogique est apparu en premier sur APHG .</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">c370695e69b50da818c698c9656f48a8be8d7033</guid>
+      <pubDate>Wed, 23 Sep 2026 14:47:00 +0000</pubDate>
+    </item>
     <item>
       <title>Comment soignait-on la gueule de bois autrefois ? Du chou aux poumons de chèvre</title>
       <link>https://theconversation.com/comment-soignait-on-la-gueule-de-bois-autrefois-du-chou-aux-poumons-de-chevre-292010</link>
@@ -1478,134 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">a05e24b773c8bbe3b03735336a3db9c0cf9be3a5</guid>
       <pubDate>Wed, 02 Sep 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La coalition Trump se défait dans les sondages</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/02/la-coalition-trump-se-defait-dans-les-sondages/</link>
-      <description>[Le Grand Continent] Les grandes tendances politiques aux Etats-Unis à deux mois des midterms . L’article La coalition Trump se défait dans les sondages est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">dc8fcb9e559e31ebfffaf98958e722feb06e73d1</guid>
-      <pubDate>Wed, 02 Sep 2026 04:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nous avons basculé dans le dernier tiers des années 2020</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/01/nous-avons-bascule-dans-le-dernier-tiers-des-annees-2020/</link>
-      <description>[Le Grand Continent] L’humanité est plus proche de la fin de la décennie que du 1er mai 2023. L’article Nous avons basculé dans le dernier tiers des années 2020 est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">fb4cfadeed1929c5e79d602da468603e96c27e3e</guid>
-      <pubDate>Tue, 01 Sep 2026 17:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Au Venezuela, Trump ouvre l’ère de la recolonisation américaine</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/01/au-venezuela-trump-ouvre-lere-de-recolonisation-americaine/</link>
-      <description>[Le Grand Continent] Analyses et projections de l’accord pétrolier présenté par la Maison-Blanche. L’article Au Venezuela, Trump ouvre l’ère de la recolonisation américaine est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">0b98f795d3dd51ca73c552684525afdb520f9bca</guid>
-      <pubDate>Tue, 01 Sep 2026 17:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La progression russe en Ukraine est au plus bas depuis près de trois ans</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/01/la-progression-russe-en-ukraine-est-au-plus-bas-depuis-pres-de-trois-ans/</link>
-      <description>[Le Grand Continent] L’absence de succès majeurs pourrait conduire Poutine à une nouvelle escalade. L’article La progression russe en Ukraine est au plus bas depuis près de trois ans est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">4bffd4984a65ecaf4db9235449e1defcbdd34a50</guid>
-      <pubDate>Tue, 01 Sep 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le régime iranien craint un nouveau mouvement de protestation</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/01/le-regime-iranien-craint-un-nouveau-mouvement-de-protestation-1/</link>
-      <description>[Le Grand Continent] La stratégie de pression économique américaine va-t-elle faire plier Téhéran&amp;#160;? L’article Le régime iranien craint un nouveau mouvement de protestation est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">e40255cda39ba73f2cfe3dcf2a7cc123b32e6f6c</guid>
-      <pubDate>Tue, 01 Sep 2026 13:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les universités européennes attirent de plus en plus d’étudiants internationaux</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/01/les-universites-europeennes-attirent-de-plus-en-plus-detudiants-internationaux/</link>
-      <description>[Le Grand Continent] Face au durcissement des politiques migratoires et à des frais de scolarité élevés au Royaume-Uni et aux États-Unis, les inscriptions sont en hausse dans les universités européennes. L’article Les universités européennes attirent de plus en plus d’étudiants internationaux est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">b5970392f1898716ba1003e51beeeebaea48a27e</guid>
-      <pubDate>Tue, 01 Sep 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le vrai prédateur</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/01/le-vrai-predateur/</link>
-      <description>[Le Grand Continent] Comment Mark Zuckerberg a utilisé les neurosciences pour transformer les vulnérabilités du cerveau des enfants en modèle économique. L’article Le vrai prédateur est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">c3a8071e296f5d2adf7ef79fd0ef96d2c3f60246</guid>
-      <pubDate>Tue, 01 Sep 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En amont des midterms, le cercle rapproché de Trump se réduit</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/31/en-amont-des-midterms-le-cercle-rapproche-de-trump-se-reduit/</link>
-      <description>[Le Grand Continent] Plus d'un responsable confirmé par le Sénat sur neuf a quitté l'administration Trump depuis janvier 2025, soit deux fois plus que lors de son premier mandat. L’article En amont des midterms, le cercle rapproché de Trump se réduit est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">c67946ff26b4e2014dbde506a5292a699ef06148</guid>
-      <pubDate>Mon, 31 Aug 2026 17:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment l’école maternelle s’est mise à évaluer les enfants : retour sur un siècle de transformations</title>
-      <link>https://theconversation.com/comment-lecole-maternelle-sest-mise-a-evaluer-les-enfants-retour-sur-un-siecle-de-transformations-285793</link>
-      <description>[The Conversation FR - Éducation] En cette rentrée 2026-2027, un nouveau programme scolaire entre en vigueur en maternelle, et c’est la huitième&amp;nbsp;fois depuis&amp;nbsp;1977. Pourquoi une telle inflation de textes officiels&amp;nbsp;?</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">e7a1faaf67b22ea5b8eaea8409995494c243cfb2</guid>
-      <pubDate>Mon, 31 Aug 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Réseaux sociaux : quand l’État contraint les jeunes plutôt que les plateformes</title>
-      <link>https://theconversation.com/reseaux-sociaux-quand-letat-contraint-les-jeunes-plutot-que-les-plateformes-290383</link>
-      <description>[The Conversation FR - Éducation] Sous l’impulsion d’Emmanuel Macron, l’État a multiplié les mesures contraignantes pour les jeunes utilisateurs de réseaux, tout en épargnant largement les plateformes.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">e3a59c387ae084808fe0c2048fc5f040e036d0d3</guid>
-      <pubDate>Sun, 30 Aug 2026 17:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les « comptes Trump » : les angles morts d’une vaste opération de marketing politique</title>
-      <link>https://theconversation.com/les-comptes-trump-les-angles-morts-dune-vaste-operation-de-marketing-politique-290456</link>
-      <description>[The Conversation FR - International] Les «&amp;nbsp;comptes Trump&amp;nbsp;» promettent d’aider les jeunes mineurs, citoyens des États-Unis, à se constituer un patrimoine. Mais le dispositif pourrait surtout profiter aux familles aisées.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">68d9718843d074be3b8d430ebb0e0d54d1d8e9e0</guid>
-      <pubDate>Mon, 31 Aug 2026 14:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ceuta : ce qui se joue derrière le récit de la « crise migratoire »</title>
-      <link>https://theconversation.com/ceuta-ce-qui-se-joue-derriere-le-recit-de-la-crise-migratoire-290080</link>
-      <description>[The Conversation FR - International] Fin juillet, des dizaines de milliers de migrants ont pénétré à Ceuta. L’hypothèse d’un complot du gouvernement marocain a circulé, mais les sciences sociales décrivent plutôt un faisceau de mécanismes complexes.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">055aa2721b961ccaa73e5694abf5bee754a4d562</guid>
-      <pubDate>Fri, 28 Aug 2026 10:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quelles sont les leçons du piratage de Hugging Face par les agents d’OpenAI ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/31/quelles-sont-les-lecons-du-piratage-de-hugging-face-par-les-agents-dopenai/</link>
-      <description>[Le Grand Continent] Sans supervision, 700 agents d’OpenAI se sont ligués pour mener une opération de piratage sans précédent. L’article Quelles sont les leçons du piratage de Hugging Face par les agents d&amp;rsquo;OpenAI&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">4ca463726f86407da652668fa7150163757af5b6</guid>
-      <pubDate>Mon, 31 Aug 2026 16:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marine Le Pen peut-elle encore perdre l’élection présidentielle ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/31/marine-le-pen-peut-elle-encore-perdre-lelection-presidentielle/</link>
-      <description>[Le Grand Continent] Cinq mécanismes peuvent empêcher le Rassemblement national de gagner en 2027. L’article Marine Le Pen peut-elle encore perdre l’élection présidentielle&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">e65f03f715fd4d591b1e651483d189241e2284a0</guid>
-      <pubDate>Mon, 31 Aug 2026 14:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mgr Gallagher à Moscou : les permanences de la nouvelle Ostpolitik du Saint-Siège au service de la paix</title>
-      <link>https://legrandcontinent.eu/fr/2026/08/31/leon-xiv-envoie-ministre-des-affaires-etrangeres-a-moscou-les-permanences-de-la-nouvelle-ostpolitik-du-saint-siege-au-service-de-la-paix/</link>
-      <description>[Le Grand Continent] L’archevêque Paul Richard Gallagher est arrivé à Moscou au même moment où Washington y dépêchait le directeur de la CIA. L’article Mgr Gallagher à Moscou&amp;#160;: les permanences de la nouvelle Ostpolitik du Saint-Siège au service de la paix est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">06e2375756c1d6f12f17ccb3d18fbe2ff9b76c7f</guid>
-      <pubDate>Mon, 31 Aug 2026 05:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coup de pouce Agrégation interne – Méthodologie de la dissertation en histoire</title>
-      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-methodologie-de-la-dissertation-en-histoire-2/</link>
-      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2026-2027 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance proposée par Joëlle Alazard et consacrée à la méthodologie de la dissertation en histoire. Le podcast est proposé [&amp;#8230;] L’article Coup de pouce Agrégation interne – Méthodologie de la dissertation en histoire est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">1b8ad7f223732997479d9ef4248cbb85b2a3f476</guid>
-      <pubDate>Fri, 28 Aug 2026 14:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
