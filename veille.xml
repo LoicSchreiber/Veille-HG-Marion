@@ -6,7 +6,31 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 02 Oct 2026 15:19:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 14:07:00 +0000</lastBuildDate>
+    <item>
+      <title>Apprendre à bien manger : comment penser l’éducation à l’alimentation ?</title>
+      <link>https://theconversation.com/apprendre-a-bien-manger-comment-penser-leducation-a-lalimentation-288550</link>
+      <description>[The Conversation FR - Éducation] Si l’on parle de plus en plus d’éducation à l’alimentation, au singulier, apprendre à s’alimenter ne repose pas sur une seule recette.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">21bf0190cfa3849221cf148f90579ee05e63a154</guid>
+      <pubDate>Sat, 03 Oct 2026 08:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les démocrates se dirigent-ils vers une victoire écrasante aux élections de mi-mandat ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/03/les-democrates-se-dirigent-ils-vers-une-victoire-ecrasante-aux-elections-de-mi-mandat/</link>
+      <description>[Le Grand Continent] À un mois du scrutin du 3 novembre, les sondages sont presque unanimes et Donald Trump semble faire l’objet d’un rejet historique L’article Les démocrates se dirigent-ils vers une victoire écrasante aux élections de mi-mandat&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b91577b752b18793615ed72c45f3a3127582af65</guid>
+      <pubDate>Sat, 03 Oct 2026 14:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Économie russe : sous pression budgétaire, les régions réduisent les indemnités versées aux familles des soldats morts en Ukraine</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/03/economie-russe-sous-pression-budgetaire-les-regions-reduisent-les-indemnites-versees-aux-familles-des-soldats-morts-en-ukraine/</link>
+      <description>[Le Grand Continent] À Saratov, le montant passera d’un million de roubles à 100 000 le 1er novembre L’article Économie russe&amp;#160;: sous pression budgétaire, les régions réduisent les indemnités versées aux familles des soldats morts en Ukraine est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">a4f6172f175129f09e10bef09bbfad111dbd582f</guid>
+      <pubDate>Sat, 03 Oct 2026 04:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Un carnet de Mozart retrouvé à la BnF révèle le talent méconnu d’une de ses élèves</title>
       <link>https://theconversation.com/un-carnet-de-mozart-retrouve-a-la-bnf-revele-le-talent-meconnu-dune-de-ses-eleves-292699</link>
@@ -1582,30 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">bd38215eb615829f94608acd6d0a04fe5230017a</guid>
       <pubDate>Thu, 10 Sep 2026 10:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PRIX SAMUEL PATY SESSION 2026-2027 : « Information et opinion(s) dans notre démocratie aujourd’hui » – COMMENT S’INSCRIRE ?</title>
-      <link>https://www.aphg.fr/prix-samuel-paty-session-2026-2027-information-et-opinions-dans-notre-democratie-aujourdhui-comment-sinscrire/</link>
-      <description>[APHG] PRIX SAMUEL PATY SESSION 2027 Comment inscrire vos élèves ? Le 9 septembre 2026 Initié par l’Association des Professeurs d’Histoire et de Géographie (APHG), porté par des professeurs, le Prix Samuel Paty souhaite rendre hommage à notre collègue assassiné le 16 octobre 2020. Centré sur les principes et valeurs démocratiques, au cœur de la construction intellectuelle et citoyenne [&amp;#8230;] L’article PRIX SAMUEL PATY SESSION 2026-2027 : « Information et opinion(s) dans notre démocratie aujourd&amp;rsqu</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">593df8899dd641863386d13c17978fdb039e0411</guid>
-      <pubDate>Thu, 10 Sep 2026 17:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ces hommes pionniers du féminisme, de Condorcet à Léon Blum</title>
-      <link>https://theconversation.com/ces-hommes-pionniers-du-feminisme-de-condorcet-a-leon-blum-288547</link>
-      <description>[The Conversation FR - Histoire] Depuis que des femmes luttent pour leurs droits, des hommes se tiennent à leurs côtés. Qui sont ces hommes qui se sont engagés, en France, de la fin du XVIIIᵉ&amp;nbsp;siècle au XXᵉ&amp;nbsp;siècle, pour l’émancipation des femmes&amp;nbsp;?</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">104818b796c8a0b88d3199f61208e91ae2fc0fa8</guid>
-      <pubDate>Wed, 09 Sep 2026 13:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’interdiction de quitter le territoire : le nouvel outil de la Chine dans la compétition internationale ?</title>
-      <link>https://theconversation.com/linterdiction-de-quitter-le-territoire-le-nouvel-outil-de-la-chine-dans-la-competition-internationale-290461</link>
-      <description>[The Conversation FR - International] La Chine durcit le contrôle des sorties du territoire pour protéger ses intérêts diplomatiques et technologiques, mais aussi pour renforcer l’emprise intérieure du PCC.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">4b0633e9769f97123fc3ad3c6f3e1fe570a4f58e</guid>
-      <pubDate>Wed, 09 Sep 2026 14:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
