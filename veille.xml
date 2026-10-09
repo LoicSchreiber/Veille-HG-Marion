@@ -6,7 +6,87 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:47:00 +0000</lastBuildDate>
+    <item>
+      <title>Pourquoi les universités américaines remettent en question leur examen d’entrée historique</title>
+      <link>https://theconversation.com/pourquoi-les-universites-americaines-remettent-en-question-leur-examen-dentree-historique-294061</link>
+      <description>[The Conversation FR - Éducation] Créé en 1926, le SAT, examen standardisé d’admission dans les universités américaines, fête ses 100 ans. Longtemps incontournable, il est aujourd’hui remis en question en raison des inégalités sociales qu’il reflète.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">c0a40c3e5719e438c132f1ad972747c4f7a613d5</guid>
+      <pubDate>Fri, 09 Oct 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>À quoi pourrait ressembler une journée à l’école en 2035 ?</title>
+      <link>https://theconversation.com/a-quoi-pourrait-ressembler-une-journee-a-lecole-en-2035-294062</link>
+      <description>[The Conversation FR - Éducation] À quoi ressemblera l’école en 2035 ? Intelligence artificielle, réalité virtuelle et projets collaboratifs pourraient bouleverser les méthodes d’apprentissage.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">45b01e1999127c828e2ee8b1182d7c0449054c1b</guid>
+      <pubDate>Fri, 09 Oct 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quel rôle le collège et le lycée jouent-ils dans la santé mentale des élèves ? Une étude australienne lève un coin du voile</title>
+      <link>https://theconversation.com/quel-role-le-college-et-le-lycee-jouent-ils-dans-la-sante-mentale-des-eleves-une-etude-australienne-leve-un-coin-du-voile-294060</link>
+      <description>[The Conversation FR - Éducation] Quel rôle joue l’école dans la santé mentale des adolescents ? Selon une étude australienne menée auprès de plus de 1 500 élèves, le sentiment d’appartenance à la communauté scolaire serait un facteur déterminant de leur bien-être psychologique.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">35b88cbf814cbbb114bf9c7fb51222f1b0c62ccd</guid>
+      <pubDate>Fri, 09 Oct 2026 14:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Nouvelle-Zélande, la réforme de l’éducation risque-t-elle de creuser les écarts entre élèves ?</title>
+      <link>https://theconversation.com/en-nouvelle-zelande-la-reforme-de-leducation-risque-t-elle-de-creuser-les-ecarts-entre-eleves-293961</link>
+      <description>[The Conversation FR - Éducation] En Nouvelle-Zélande, une vaste réforme de l’éducation promet de relever le niveau scolaire. Mais alors que de plus en plus d’élèves quittent les classes ordinaires, elle risque d’accentuer les difficultés des plus vulnérables si leur accompagnement ne suit pas.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">d45d817c6b1b9835009e257e05321fe41935ce51</guid>
+      <pubDate>Fri, 09 Oct 2026 14:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Angleterre fait de l’inclusion une priorité scolaire, mais que signifie-t-elle vraiment ?</title>
+      <link>https://theconversation.com/langleterre-fait-de-linclusion-une-priorite-scolaire-mais-que-signifie-t-elle-vraiment-293959</link>
+      <description>[The Conversation FR - Éducation] Accueillir des élèves en situation de handicap dans une classe ordinaire ne suffit pas. Les recherches montrent que l’inclusion scolaire dépend aussi de leur capacité à participer pleinement à la vie de l’établissement et à s’y sentir à leur place.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">465789de499d53e9a83eb8636b3495da04a91a75</guid>
+      <pubDate>Fri, 09 Oct 2026 14:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navi Pillay, prix Nobel de la paix 2026 : le droit international contre la loi du plus fort</title>
+      <link>https://theconversation.com/navi-pillay-prix-nobel-de-la-paix-2026-le-droit-international-contre-la-loi-du-plus-fort-294072</link>
+      <description>[The Conversation FR - International] Navi Pillay, 85 ans, a derrière elle une vie de juriste nationale (dans l’Afrique du Sud de l’apartheid) et internationale de premier plan. Sa désignation est un choix fort du Comité Nobel, qui suscite déjà éloges et condamnations.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">0a9850fb694f48dc1e0379767d406c01f1ed515e</guid>
+      <pubDate>Fri, 09 Oct 2026 15:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La contribution de l’Europe à la croissance mondiale a été divisée par deux depuis 2022</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/09/la-contribution-de-leurope-a-la-croissance-mondiale-a-ete-divisee-par-deux-depuis-2022/</link>
+      <description>[Le Grand Continent] L’Asie de l’Est et l’Amérique du Nord sont les principaux moteurs de la croissance mondiale L’article La contribution de l’Europe à la croissance mondiale a été divisée par deux depuis 2022 est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">47050647feb047bb4f4b74635d696ce7be50cd94</guid>
+      <pubDate>Fri, 09 Oct 2026 10:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi les élites russes ne se retournent-elles pas contre Poutine ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/09/pourquoi-les-elites-russes-ne-se-retournent-elles-pas-contre-poutine/</link>
+      <description>[Le Grand Continent] Une enquête signée par l’une des analystes les plus subtiles de la Russie contemporaine L’article Pourquoi les élites russes ne se retournent-elles pas contre Poutine&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">ae0a991d9086a338a9fbc80d876ca83cb7c3e61c</guid>
+      <pubDate>Fri, 09 Oct 2026 09:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Méditerranée est une mer de plus en plus tropicale</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/09/la-mediterranee-est-une-mer-de-plus-en-plus-tropicale/</link>
+      <description>[Le Grand Continent] Des orages ont fait pleuvoir l'équivalent de plusieurs mois en l'espace de quelques jours L’article La Méditerranée est une mer de plus en plus tropicale est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">8639772bcaca10cbc5a3021e4e9652f9eb375f7b</guid>
+      <pubDate>Fri, 09 Oct 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Communiqué – Lycées : ne pas faire des enseignants les gestionnaires de l’impuissance publique</title>
+      <link>https://www.aphg.fr/communique-lycees-ne-pas-faire-des-enseignants-les-gestionnaires-de-limpuissance-publique/</link>
+      <description>[APHG] Face au mouvement social lycéen, le gouvernement a décidé la mise en place de temps de « temps de démocratie interne » au sein des établissements. Si la démarche témoigne d’une attention particulière au mouvement, la mise en place de ces temps de débats soulève de nombreuses difficultés. Organiser en quelques heures ou quelques jours [&amp;#8230;] L’article Communiqué &amp;#8211; Lycées : ne pas faire des enseignants les gestionnaires de l&amp;rsquo;impuissance publique est apparu en premier sur APHG .</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">6fc47f943894e122a90b9ef4ccc6ac0ad23905d6</guid>
+      <pubDate>Thu, 08 Oct 2026 18:21:00 +0000</pubDate>
+    </item>
     <item>
       <title>De la grossesse à l’accouchement, les pères s’impliquaient déjà dans la naissance des enfants aux XVIIIᵉ et XIXᵉ siècles</title>
       <link>https://theconversation.com/de-la-grossesse-a-laccouchement-les-peres-simpliquaient-deja-dans-la-naissance-des-enfants-aux-xviii-et-xix-siecles-291741</link>
@@ -1526,86 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">8ecc36f101dcda3cdba71a0507d51261858850a6</guid>
       <pubDate>Thu, 17 Sep 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Que peut l’Arabie saoudite face aux Houthis ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/17/que-peut-larabie-saoudite-face-aux-houthis/</link>
-      <description>[Le Grand Continent] L’organisation islamiste s’est emparée en seulement quelques jours du détroit de Bab el-Mandeb L’article Que peut l’Arabie saoudite face aux Houthis&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">2e097546f18e093965a51841a8375d03746b8bc9</guid>
-      <pubDate>Thu, 17 Sep 2026 16:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brève histoire de l’opéra dans les Balkans et en Turquie</title>
-      <link>https://theconversation.com/breve-histoire-de-lopera-dans-les-balkans-et-en-turquie-290883</link>
-      <description>[The Conversation FR - Histoire] De Vienne à Istanbul, de Zagreb à Belgrade, compositeurs et institutions ont fait de l’art lyrique un instrument de modernisation autant qu’un espace d’affirmation identitaire.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">3d7be48ff30c6cb5e349c90b7e1178183a13b7df</guid>
-      <pubDate>Wed, 16 Sep 2026 15:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment l’écriture en miroir reflète la richesse de l’écriture manuscrite</title>
-      <link>https://theconversation.com/comment-lecriture-en-miroir-reflete-la-richesse-de-lecriture-manuscrite-287819</link>
-      <description>[The Conversation FR - Éducation] Face à la multiplication des claviers, l’écriture manuscrite se raréfie. Les pratiques scolaires nous rappellent la richesse de ses gestes.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">10e8839a7e8f40752c053e7a71406e27b2215097</guid>
-      <pubDate>Wed, 16 Sep 2026 15:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Il y a beaucoup moins de bombes atomiques qu’en 1990. Alors pourquoi le risque nucléaire augmente-t-il ?</title>
-      <link>https://theconversation.com/il-y-a-beaucoup-moins-de-bombes-atomiques-quen-1990-alors-pourquoi-le-risque-nucleaire-augmente-t-il-291060</link>
-      <description>[The Conversation FR - International] Le monde est passé de 70&amp;nbsp;000, au début des années&amp;nbsp;1980, à 12&amp;nbsp;000&amp;nbsp;têtes nucléaires. Il serait erroné de croire que, pour autant, le risque de l’emploi de l’arme atomique se serait réduit, au contraire même.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">1118b91c4d9ae52b1f1a9d43dba8b71f0cf55749</guid>
-      <pubDate>Wed, 16 Sep 2026 15:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eisenkot-Nétanyahou : la bataille pour l’avenir d’Israël</title>
-      <link>https://theconversation.com/eisenkot-netanyahou-la-bataille-pour-lavenir-disrael-291392</link>
-      <description>[The Conversation FR - International] À l’approche des législatives, Eisenkot talonne Nétanyahou. Mais le scrutin se jouera surtout sur les coalitions et sur le modèle d’Israël après le 7-Octobre.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">6b77bcc50120eb3ed7088ca7bed96fa78fd9ef68</guid>
-      <pubDate>Wed, 16 Sep 2026 15:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Après les restrictions du commerce avec les colonies israéliennes, l’accord de libre-échange avec l’UE est-il menacé ?</title>
-      <link>https://theconversation.com/apres-les-restrictions-du-commerce-avec-les-colonies-israeliennes-laccord-de-libre-echange-avec-lue-est-il-menace-291884</link>
-      <description>[The Conversation FR - International] Les États membres de l’UE, qui est la première partenaire commerciale d’Israël, sont toujours divisés sur la remise en cause des avantages du volet de libre-échange de l’accord d’association UE-Israël.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">ef7ac5c9480414c3d2e513915e79600d201cdadf</guid>
-      <pubDate>Wed, 16 Sep 2026 15:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peut-on ignorer les implications sécuritaires de la « starlinkisation » du réseau Internet en Afrique ?</title>
-      <link>https://theconversation.com/peut-on-ignorer-les-implications-securitaires-de-la-starlinkisation-du-reseau-internet-en-afrique-290198</link>
-      <description>[The Conversation FR - International] L’expansion de Starlink en Afrique peut servir aux forces armées locales, mais aussi aux groupes armés illégaux.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">155997392f1f11a4498871eb474c434a71bc3afd</guid>
-      <pubDate>Wed, 16 Sep 2026 15:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le moment des États-Unis d’Europe est venu</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/17/le-moment-des-etats-unis-deurope-est-venu/</link>
-      <description>[Le Grand Continent] Selon le candidat à la présidentielle, nous avons la responsabilité historique d'accélérer la construction européenne L’article Le moment des États-Unis d&amp;rsquo;Europe est venu est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">1418909b0e39ff523fb7c108b5b701abce9375d5</guid>
-      <pubDate>Thu, 17 Sep 2026 14:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark Carney et la nouvelle alliance transatlantique</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/17/mark-carney-et-la-nouvelle-alliance-transatlantique/</link>
-      <description>[Le Grand Continent] Le discours intégral du premier ministre canadien devant le Parlement européen L’article Mark Carney et la nouvelle alliance transatlantique est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">41e1d56840387d1e1365e46f4f07295ffc2ef522</guid>
-      <pubDate>Thu, 17 Sep 2026 12:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pékin inaugure son premier méga-canal depuis 1949</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/17/pekin-inaugure-son-premier-mega-canal-depuis-1949/</link>
-      <description>[Le Grand Continent] Les 134 kilomètres du canal de Pinglu ont été construits en quatre ans L’article Pékin inaugure son premier méga-canal depuis 1949 est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">25006f5263d1ec4f400798b19f107451aa62975e</guid>
-      <pubDate>Thu, 17 Sep 2026 04:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
