@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 11 Oct 2026 15:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:32:00 +0000</lastBuildDate>
+    <item>
+      <title>« Vous pouvez nous prendre le téléphone, mais pas la parole » : le mouvement lycéen et le sentiment de ne pas être écouté</title>
+      <link>https://theconversation.com/vous-pouvez-nous-prendre-le-telephone-mais-pas-la-parole-le-mouvement-lyceen-et-le-sentiment-de-ne-pas-etre-ecoute-294157</link>
+      <description>[The Conversation FR - Éducation] Les lycéens français se plaignent de ne pas être entendus par les institutions. Un sentiment qui s’exprime très fortement dans la mobilisation actuelle et se nourrit des déceptions face à Parcoursup.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">15f352193bedf9c2a046ebdd53527e43ca96ad18</guid>
+      <pubDate>Mon, 12 Oct 2026 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exilés en Géorgie, les artistes russes anti-guerre doivent réinventer leur art et leur engagement</title>
+      <link>https://theconversation.com/exiles-en-georgie-les-artistes-russes-anti-guerre-doivent-reinventer-leur-art-et-leur-engagement-293232</link>
+      <description>[The Conversation FR - International] Les artistes russes exilés en Géorgie y ont trouvé un espace de liberté et de création. Pour autant, leur intégration dans le pays d’accueil a été, au mieux, partielle.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">4fd40e9f98d3d649b563c76b50a844312902524f</guid>
+      <pubDate>Mon, 12 Oct 2026 13:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quelle heure est-il sur la Lune ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/12/quelle-heure-est-il-sur-la-lune/</link>
+      <description>[Le Grand Continent] Près de 70 pays se réunissent à Versailles pour répondre à la question L’article Quelle heure est-il sur la Lune&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">3cd28d22a80e99f5de91d47cd9120737fe325863</guid>
+      <pubDate>Mon, 12 Oct 2026 17:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les frappes ukrainiennes sur des centres de données de Yandex ont-elles affaibli les fermes à trolls russes ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/12/les-frappes-ukrainiennes-sur-des-centres-de-donnees-de-yandex-ont-elles-affaibli-les-fermes-a-trolls-russes/</link>
+      <description>[Le Grand Continent] Les conséquences de ces attaques pourraient être durables L’article Les frappes ukrainiennes sur des centres de données de Yandex ont-elles affaibli les fermes à trolls russes&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">fce5b28cd7ac16562c562075f86d4dde9e732eeb</guid>
+      <pubDate>Mon, 12 Oct 2026 14:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La tentative de Trump de promouvoir la « super intelligence » peine à convaincre</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/12/la-tentative-de-trump-de-promouvoir-la-super-intelligence-peine-a-convaincre/</link>
+      <description>[Le Grand Continent] Seulement 1 dirigeant sur 5 a pleinement adopté le terme de «&amp;#160;super intelligence&amp;#160;» L’article La tentative de Trump de promouvoir la «&amp;#160;super intelligence&amp;#160;» peine à convaincre est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">508d1e3a4175c67a2342fceaaab01ba1698d19fb</guid>
+      <pubDate>Mon, 12 Oct 2026 11:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump et Xi Jinping ne sont pas en train de faire la paix</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/12/xi-et-trump-dans-loeil-du-cyclone/</link>
+      <description>[Le Grand Continent] La réalité géoéconomique derrière les sourires de Washington L’article Trump et Xi Jinping ne sont pas en train de faire la paix est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2c09e7a5da6d2c66fd48b6ce8bd63dd77f64dde7</guid>
+      <pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Près de 2,7 € de retombées économiques pour chaque euro investi : les universités, moteurs de croissance des territoires</title>
       <link>https://theconversation.com/pres-de-2-7-de-retombees-economiques-pour-chaque-euro-investi-les-universites-moteurs-de-croissance-des-territoires-293061</link>
@@ -1558,54 +1606,6 @@
       <category>OpenEdition - Géoconfluences</category>
       <guid isPermaLink="false">4b5f1bba900abaf597a7914206836e0823ade344</guid>
       <pubDate>Mon, 14 Sep 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Abkhazie, de l’État autoproclamé au protectorat russe</title>
-      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-regionaux/la-russie-des-territoires-en-recomposition/articles-scientifiques/abkhazie-de-letat-autoproclame-au-protectorat-russe</link>
-      <description>[OpenEdition - Géoconfluences] Indépendante depuis 1992, reconnue par seulement cinq États membres des Nations Unies, la petite république autoproclamée d’Abkhazie peine à faire valoir son indépendance sur la scène internationale. Malgré une ambition souveraine majoritaire, l’isolement diplomatique de ce petit État de facto du Sud-Caucase le contraint à s’arrimer à son voisin russe.</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">6249d6514549fba4870641aad9e5a3c880397927</guid>
-      <pubDate>Fri, 11 Sep 2026 12:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les cabanes alpines à l’épreuve des transformations du tourisme et du climat</title>
-      <link>https://geoconfluences.ens-lyon.fr/actualites/ageoda/les-cabanes-alpines-a-l2019epreuve-des-transformations-du-tourisme-et-du-climat</link>
-      <description>[OpenEdition - Géoconfluences] Conférence</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">d673b9de374ac851bbe19532519d32c43d8dda73</guid>
-      <pubDate>Tue, 08 Sep 2026 13:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Des Malouines à l'Antarctique : géopolitique et changement d'échelle</title>
-      <link>https://geoconfluences.ens-lyon.fr/actualites/veille/breves/des-malouines-a-lantarctique-geopolitique-et-changement-dechelle</link>
-      <description>[OpenEdition - Géoconfluences] La mobilisation de la démarche géopolitique, qui définit l'« étude des rivalités de pouvoirs sur un territoire » (Yves Lacoste), s'avère efficace pour comprendre tel ou tel conflit. Mais il convient parfois aussi, en changeant d'échelle, d'introduire une démarche géostratégique pour mieux cerner ce qui est en jeu. C’est ce dont témoigne la brutale réaffirmation des revendications argentines par le président Milei contre le Royaume-Uni à propos des îles appelées Malouines en français (Falkland /</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">6c71e4a9ab95d4c0e1e4649cadfbaeb230e30ec7</guid>
-      <pubDate>Tue, 08 Sep 2026 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L'Amérique latine : ressources sur Géoconfluences</title>
-      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-regionaux/amerique-latine/lamerique-latine-ressources-sur-geoconfluences</link>
-      <description>[OpenEdition - Géoconfluences]</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">50e4e8d786bdd235fbdf9a3cfba8df96051fe7f2</guid>
-      <pubDate>Tue, 08 Sep 2026 07:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bienvenue en 2055 dans un monde neutre en carbone</title>
-      <link>https://geoconfluences.ens-lyon.fr/actualites/ageoda/bienvenue-en-2055-dans-un-monde-neutre-en-carbone</link>
-      <description>[OpenEdition - Géoconfluences] Café virtuel</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">a7db8b6eebb46889e3b93d450fde9b4e34eed088</guid>
-      <pubDate>Wed, 02 Sep 2026 09:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Entrez en matière ! Du grain de sable à la ville durable</title>
-      <link>https://geoconfluences.ens-lyon.fr/actualites/ageoda/entrez-en-matiere-du-grain-de-sable-a-la-ville-durable</link>
-      <description>[OpenEdition - Géoconfluences] Expo</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">b0a9a675b89397eda7761eb38c30c04c88c59dad</guid>
-      <pubDate>Wed, 02 Sep 2026 08:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
