@@ -6,7 +6,95 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 12 Oct 2026 18:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:41:00 +0000</lastBuildDate>
+    <item>
+      <title>Au château de Chambord, cinq siècles de plaisirs gastronomiques</title>
+      <link>https://theconversation.com/au-chateau-de-chambord-cinq-siecles-de-plaisirs-gastronomiques-293857</link>
+      <description>[The Conversation FR - Histoire] Pour retracer l’histoire gourmande du château de Chambord, célébrée dans une exposition, l’historien de la gastronomie doit tenter de démêler le vrai du faux et enquêter pour pallier les lacunes des archives.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">73836424aea9bc866e075b4cc7b2d45c677ef58d</guid>
+      <pubDate>Tue, 13 Oct 2026 15:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les secondes intercalaires synchronisent nos horloges avec la rotation de la Terre depuis des décennies, mais elles pourraient disparaître</title>
+      <link>https://theconversation.com/les-secondes-intercalaires-synchronisent-nos-horloges-avec-la-rotation-de-la-terre-depuis-des-decennies-mais-elles-pourraient-disparaitre-294266</link>
+      <description>[The Conversation FR - Histoire] Les secondes intercalaires maintiennent nos horloges en phase avec la rotation de la Terre, mais perturbent les systèmes informatiques. Leur suppression est à l’étude, avec un changement presque imperceptible au quotidien.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">bf96fc0c9bb4cacac19fb1e3230a84ed5092ab8b</guid>
+      <pubDate>Tue, 13 Oct 2026 12:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sciences ou entrepreneuriat ? Comment les témoignages vidéo de professionnels influencent les choix d’orientation des jeunes</title>
+      <link>https://theconversation.com/sciences-ou-entrepreneuriat-comment-les-temoignages-video-de-professionnels-influencent-les-choix-dorientation-des-jeunes-289005</link>
+      <description>[The Conversation FR - Éducation] Les témoignages de professionnels et la rencontre avec des «&amp;nbsp;role models&amp;nbsp;» influencent les choix d’orientation des jeunes, mais pas toujours dans le sens attendu.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">1b2c3e310dac3739f66daecd1da01099b9001df3</guid>
+      <pubDate>Tue, 13 Oct 2026 16:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Santé mondiale : Le multilatéralisme est en crise, mais peut-on vraiment s’en passer ?</title>
+      <link>https://theconversation.com/sante-mondiale-le-multilateralisme-est-en-crise-mais-peut-on-vraiment-sen-passer-294064</link>
+      <description>[The Conversation FR - International] Le multilatéralisme est actuellement en crise. S’il est tentant de le remplacer par des accords de coopération impliquant un nombre de participants plus restreint, cette approche n’est pas toujours la bonne.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">3fd29fa556c707450c54d265ceac7a395a7f44d4</guid>
+      <pubDate>Tue, 13 Oct 2026 16:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Une chasse à l’homme contraire au droit et très lucrative pour Trump et ses amis</title>
+      <link>https://theconversation.com/une-chasse-a-lhomme-contraire-au-droit-et-tres-lucrative-pour-trump-et-ses-amis-294131</link>
+      <description>[The Conversation FR - International] Derrière les opérations musclées et souvent illégales de l’ICE, il y a des entreprises proches de Donald Trump, spécialisées dans la détention et la surveillance, qui obtiennent de juteux contrats.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">326f2893df8ba88922f7754d4df904f378c27bf2</guid>
+      <pubDate>Tue, 13 Oct 2026 16:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe, Chine, États-Unis : trois manières différentes de réguler l’IA</title>
+      <link>https://theconversation.com/europe-chine-etats-unis-trois-manieres-differentes-de-reguler-lia-293160</link>
+      <description>[The Conversation FR - International] En ce qui concerne l’IA, Union européenne, États-Unis et Chine combinent régulation, innovation et politique industrielle. Leurs différences tiennent surtout aux institutions et aux outils mobilisés.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">61fb4c52045e4cf0914397e9d8ca5998fff717e3</guid>
+      <pubDate>Tue, 13 Oct 2026 16:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La langue française à l’ère de l’automatisation intégrale</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/13/la-langue-francaise-a-lere-de-lautomatisation-integrale/</link>
+      <description>[Le Grand Continent] Le français à l’ère de l’automatisation intégrale L’article La langue française à l’ère de l’automatisation intégrale est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">0bce347174e5ceb1475ef193f28edd4ee11501b2</guid>
+      <pubDate>Tue, 13 Oct 2026 17:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Que comprend le plan de paix en quatre points que les États-Unis promeuvent pour l’Ukraine ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/13/que-comprend-le-plan-de-paix-en-quatre-points-que-les-etats-unis-promeuvent-pour-lukraine/</link>
+      <description>[Le Grand Continent] Kiev a qualifié l’initiative de «&amp;#160;coup de pub plutôt réussi&amp;#160;» L’article Que comprend le plan de paix en quatre points que les États-Unis promeuvent pour l’Ukraine&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">ce9f19757634da73ebc26a36a4b7c29ce80b2853</guid>
+      <pubDate>Tue, 13 Oct 2026 15:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’IA fait changer d’échelle les menaces cyber</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/13/lia-fait-changer-dechelle-les-menaces-cyber/</link>
+      <description>[Le Grand Continent] Il faut moins de 30 minutes aux cybercriminels pour se propager au sein d’un réseau compromis L’article L’IA fait changer d’échelle les menaces cyber est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">35c4d4502eda7e2cfabc455372441d56ec71c9ba</guid>
+      <pubDate>Tue, 13 Oct 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Au rythme actuel, la France deviendrait le pays le plus endetté de l’Union au cours des années 2030</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/13/au-rythme-actuel-la-france-deviendrait-le-pays-le-plus-endette-de-lunion-au-cours-des-annees-2030/</link>
+      <description>[Le Grand Continent] Le pays pourrait ainsi dépasser l’Italie d’ici sept ans L’article Au rythme actuel, la France deviendrait le pays le plus endetté de l’Union au cours des années 2030 est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">491f94ca12d54d31853bc1deb4c140d8cce86480</guid>
+      <pubDate>Tue, 13 Oct 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Et si, au fond, dans la tête de Poutine il n’y avait rien ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/13/et-si-au-fond-dans-la-tete-de-poutine-il-ny-avait-rien/</link>
+      <description>[Le Grand Continent] Une enquête sur les mystères qui font tenir le récit du Kremlin L’article Et si, au fond, dans la tête de Poutine il n’y avait rien&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">754b731ebd5018384e0ed9d72412af0b134e45ba</guid>
+      <pubDate>Tue, 13 Oct 2026 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>« Vous pouvez nous prendre le téléphone, mais pas la parole » : le mouvement lycéen et le sentiment de ne pas être écouté</title>
       <link>https://theconversation.com/vous-pouvez-nous-prendre-le-telephone-mais-pas-la-parole-le-mouvement-lyceen-et-le-sentiment-de-ne-pas-etre-ecoute-294157</link>
@@ -1518,94 +1606,6 @@
       <category>The Conversation FR - Éducation</category>
       <guid isPermaLink="false">09f95e8e2338f3e22df9f157e8a1e81ae23ec2d8</guid>
       <pubDate>Sat, 19 Sep 2026 07:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rapprochement Canada-UE : l’Histoire donne-t-elle raison à Mark Carney ?</title>
-      <link>https://theconversation.com/rapprochement-canada-ue-lhistoire-donne-t-elle-raison-a-mark-carney-292339</link>
-      <description>[The Conversation FR - International] Face aux pressions de Donald Trump, Ottawa se tourne vers l’Europe. Une inflexion qui prolonge une vieille tradition canadienne d’autonomie.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">5f130cbda45e684eede21e79053cdd08a33e5fe2</guid>
-      <pubDate>Fri, 18 Sep 2026 16:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Des dollars à l’effigie de Trump ? Une pratique rarissime hors des monarchies</title>
-      <link>https://theconversation.com/des-dollars-a-leffigie-de-trump-une-pratique-rarissime-hors-des-monarchies-292246</link>
-      <description>[The Conversation FR - International] L’administration Trump veut faire figurer le président américain sur des pièces et billets. Une pratique presque exclusivement réservée aux monarchies héréditaires, selon une analyse des monnaies en circulation dans le monde.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">1f65a4b5fbf20780a681ccdc5e149f51fe8cd689</guid>
-      <pubDate>Fri, 18 Sep 2026 16:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remplacer Churchill par des animaux sauvages, est-ce effacer l’histoire ?</title>
-      <link>https://theconversation.com/remplacer-churchill-par-des-animaux-sauvages-est-ce-effacer-lhistoire-292248</link>
-      <description>[The Conversation FR - International] Le projet de retirer Winston Churchill du billet de cinq livres a suscité une vive polémique au Royaume-Uni. Derrière la défense d’une figure historique se joue surtout une bataille autour de la mémoire collective et de l’identité britannique.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">c41dc01147fb276663bb039ff9fddf764cc644b7</guid>
-      <pubDate>Fri, 18 Sep 2026 16:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Près d’un billet de banque sur six dans le monde représente un animal sauvage – et pas toujours celui auquel on s’attendrait</title>
-      <link>https://theconversation.com/pres-dun-billet-de-banque-sur-six-dans-le-monde-represente-un-animal-sauvage-et-pas-toujours-celui-auquel-on-sattendrait-292249</link>
-      <description>[The Conversation FR - International] Des animaux sauvages figurent sur près d’un billet de banque sur six dans le monde. Mettre en avant les espèces menacées pourrait contribuer à mieux les faire connaître et à sensibiliser le public à leur protection.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">0280537a3342d78fc0e68a9dcbb5eeb18510ccd3</guid>
-      <pubDate>Fri, 18 Sep 2026 16:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>À l’Oktoberfest le prix de la chope de bière a été multiplié par deux en 20 ans</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/19/oktoberfest-a-munich-le-prix-de-la-chope-de-biere-a-ete-multiplie-par-deux-en-20-ans/</link>
-      <description>[Le Grand Continent] La Maß de bière devrait être vendue 15,61 euros en moyenne en 2026 L’article À l&amp;rsquo;Oktoberfest le prix de la chope de bière a été multiplié par deux en 20 ans est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">8b486c21a3570b9ba9b054ff3611c0fff828db20</guid>
-      <pubDate>Sat, 19 Sep 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chez Anthropic, 26 % de la R&amp;D est pilotée par l’IA</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/18/chez-anthropic-26-de-la-rd-est-pilotee-par-lia/</link>
-      <description>[Le Grand Continent] Cette part pourrait atteindre environ 80&amp;#160;% à la fin de l’année L’article Chez Anthropic, 26&amp;#160;% de la R&amp;amp;D est pilotée par l’IA est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">0293452a569ef639dcc64ccfe4a9bc36987feddf</guid>
-      <pubDate>Fri, 18 Sep 2026 17:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Demi-journée d’étude : Malraux, la traversée du siècle : de la guerre d’Espagne à la Seconde Guerre mondiale</title>
-      <link>https://www.aphg.fr/demi-journee-detude-malraux-la-traversee-du-siecle-de-la-guerre-despagne-a-la-seconde-guerre-mondiale/</link>
-      <description>[APHG] À l’occasion du cinquantenaire de la disparition d’André Malraux, l’APHG est heureuse de s’associer à l’ONaCVG et au CNC pour vous proposer une journée d’étude consacrée à cette figure majeure du XXᵉ siècle. &amp;#160; Date : Samedi 14 novembre 2026, de 14h à 19h Lieu : Lycée Louis-le-Grand &amp;#8211; 123 rue Saint-Jacques, 75005 Paris. &amp;#160; Au programme [&amp;#8230;] L’article Demi-journée d&amp;rsquo;étude : Malraux, la traversée du siècle : de la guerre d’Espagne à la Seconde Guerre mondiale est apparu en</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">618ada865e42fd5696d4263306c67fbfe26c3f09</guid>
-      <pubDate>Sat, 19 Sep 2026 10:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’immobilier en Chine, entre vulnérabilité et relance</title>
-      <link>https://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-regionaux/la-chine/articles-scientifiques/limmobilier-en-chine-entre-vulnerabilite-et-relance</link>
-      <description>[OpenEdition - Géoconfluences] Les annonces de faillites de géants de l'immobilier en Chine ont provoqué une onde médiatique en Europe sur le thème de la fin du modèle de croissance chinois. En réalité, la crise a été provoquée par le Parti pour éviter un éclatement brutal de la bulle spéculative. La croissance économique se poursuit, malgré une légère rétractation du secteur immobilier. Et localement, les constructions continuent, comme le montrent les exemples de la métropolisation à Shanghai et des chantiers urbains à Xi'a</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">45f6c73578cbbf6b87e257ca153ba8a5328f93d6</guid>
-      <pubDate>Fri, 18 Sep 2026 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parution des rapports du jury, CAPES, CAPLP et agrégation, 2026</title>
-      <link>https://geoconfluences.ens-lyon.fr/actualites/veille/concours-examens-programmes/parution-des-rapports-du-jury-capes-caplp-et-agregation-2026</link>
-      <description>[OpenEdition - Géoconfluences] Le site Devenir enseignant a publié les rapports d'agrégation du CAPES bac+3, du CAPES bac+5 et de l'agrégation de géographie et de l'agrégation interne d'histoire-géographie.</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">445364e840ab4b8d29dd0722300938ee497b62df</guid>
-      <pubDate>Thu, 17 Sep 2026 12:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prix du livre de géographie des lycéens et des étudiants 2027 : les cinq ouvrages sélectionnés</title>
-      <link>https://geoconfluences.ens-lyon.fr/actualites/veille/evenements/prix-du-livre-de-geographie-des-lyceens-et-des-etudiants-2027-les-cinq-ouvrages-selectionnes</link>
-      <description>[OpenEdition - Géoconfluences] Le Prix du livre de géographie des lycéens et des étudiants a annoncé la sélection 2027 :</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">fc247f53cb142cec5074e819a03a9ad076209587</guid>
-      <pubDate>Tue, 15 Sep 2026 12:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lettre d'information n° 225</title>
-      <link>https://geoconfluences.ens-lyon.fr/a-propos/lettres-dinformation/lettre-information-225</link>
-      <description>[OpenEdition - Géoconfluences]</description>
-      <category>OpenEdition - Géoconfluences</category>
-      <guid isPermaLink="false">4b5f1bba900abaf597a7914206836e0823ade344</guid>
-      <pubDate>Mon, 14 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
