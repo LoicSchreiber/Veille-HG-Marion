@@ -6,7 +6,63 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 13 Oct 2026 16:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:18:00 +0000</lastBuildDate>
+    <item>
+      <title>À Vendeuvre-du-Poitou, les féconds étés de Michel Foucault</title>
+      <link>https://theconversation.com/a-vendeuvre-du-poitou-les-feconds-etes-de-michel-foucault-293858</link>
+      <description>[The Conversation FR - Histoire] La propriété familiale du «&amp;nbsp;Piroir&amp;nbsp;», dans le Poitou, fut un refuge important pour Michel&amp;nbsp;Foucault. Il y a travaillé et retravaillé ses textes les plus importants.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">65c69426466dc9d401759b6eaa75b758df35cfdd</guid>
+      <pubDate>Wed, 14 Oct 2026 14:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Santé mentale des adolescents et mobilisations lycéennes, des causes communes ?</title>
+      <link>https://theconversation.com/sante-mentale-des-adolescents-et-mobilisations-lyceennes-des-causes-communes-294221</link>
+      <description>[The Conversation FR - Éducation] À l’heure des mobilisations lycéennes, des données permettent de mettre en regard la dégradation de la santé mentale des jeunes et des conditions de leur scolarité (pression, impact de Parcoursup…).</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">4bcdd3e269aa9edfd9ee8a8901209e7d8ca65d53</guid>
+      <pubDate>Wed, 14 Oct 2026 14:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Face à Donald Trump et Peter Thiel, la contre-offensive des jésuites américains aux côtés de Léon XIV</title>
+      <link>https://theconversation.com/face-a-donald-trump-et-peter-thiel-la-contre-offensive-des-jesuites-americains-aux-cotes-de-leon-xiv-293750</link>
+      <description>[The Conversation FR - International] Les jésuites américains relaient l’encyclique de Léon XIV et combattent l’influence de Peter Thiel, défendant migrants, démocratie et régulation technologique.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">454fd38fd8a786b5a3f62c9576fd268774fc3e1f</guid>
+      <pubDate>Wed, 14 Oct 2026 14:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICE : une chasse à l’homme contraire au droit et très lucrative pour Trump et ses amis</title>
+      <link>https://theconversation.com/ice-une-chasse-a-lhomme-contraire-au-droit-et-tres-lucrative-pour-trump-et-ses-amis-294131</link>
+      <description>[The Conversation FR - International] Derrière les opérations musclées et souvent illégales de l’ICE, il y a des entreprises proches de Donald Trump, spécialisées dans la détention et la surveillance, qui obtiennent de juteux contrats.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">3984d74da619a922c631eaf7ded5440bd0cec653</guid>
+      <pubDate>Tue, 13 Oct 2026 16:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La vassalisation cognitive est une menace existentielle</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/14/la-vassalisation-cognitive-est-menace-existentielle/</link>
+      <description>[Le Grand Continent] En abandonnant l’intelligence artificielle aux géants américains, nous sommes en train de perdre le contrôle de notre cerveau L’article La vassalisation cognitive est une menace existentielle est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">3f781ca8b63663d2d3135311498973776ebae553</guid>
+      <pubDate>Wed, 14 Oct 2026 14:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Ukraine peut-elle encore compter sur Starlink ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/14/lukraine-peut-elle-encore-compter-sur-starlink/</link>
+      <description>[Le Grand Continent] Elon Musk a imposé des limites à l’armée ukrainienne L’article L’Ukraine peut-elle encore compter sur Starlink&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">4aa40b87a982a9ae769461ca31f2aad5f9dc1337</guid>
+      <pubDate>Wed, 14 Oct 2026 10:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le siège houthiste de Taïz menace le gouvernement yéménite</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/14/le-siege-houthiste-de-taiz-menace-le-gouvernement-yemenite/</link>
+      <description>[Le Grand Continent] La chute de la ville pourrait ouvrir la voie à une marche vers Aden L’article Le siège houthiste de Taïz menace le gouvernement yéménite est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">63b04ff630b256931b1883360b366c149c50a037</guid>
+      <pubDate>Wed, 14 Oct 2026 04:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Au château de Chambord, cinq siècles de plaisirs gastronomiques</title>
       <link>https://theconversation.com/au-chateau-de-chambord-cinq-siecles-de-plaisirs-gastronomiques-293857</link>
@@ -1550,62 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">bd5ada345a363f74c4f03142655bc2b9898c9759</guid>
       <pubDate>Sun, 20 Sep 2026 17:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les faucons russes, idéologues du conservatisme modernisateur</title>
-      <link>https://theconversation.com/les-faucons-russes-ideologues-du-conservatisme-modernisateur-290015</link>
-      <description>[The Conversation FR - International] Depuis l'époque soviétique, certains penseurs russes, de plus en plus influents, refusent toute convergence de la Russie avec l’Occident et défendent une modernisation fondée sur la puissance de l’État et des valeurs traditionnelles.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">0bdc973d3a2dca09b56772b3842215e5110b3e3f</guid>
-      <pubDate>Sun, 20 Sep 2026 08:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En Allemagne, un nouveau succès de l’AfD aux élections régionales pourrait faire tomber Merz</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/20/en-allemagne-un-nouveau-succes-de-lafd-aux-elections-regionales-pourrait-faire-tomber-merz/</link>
-      <description>[Le Grand Continent] Deux élections régionales ont lieu aujourd’hui, le 20 septembre, dans les Länder de Berlin et de Mecklembourg-Poméranie-Occidentale L’article En Allemagne, un nouveau succès de l’AfD aux élections régionales pourrait faire tomber Merz est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">fab4fa9bd39ec9fa90a1cba43af17ae2d3fe289f</guid>
-      <pubDate>Sun, 20 Sep 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le plan de la Nouvelle Droite pour conquérir l’Allemagne</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/20/comment-lextreme-droite-conquiert-lallemagne/</link>
-      <description>[Le Grand Continent] Pour comprendre l’explosion de l’AfD, il faut s’intéresser à une guerre culturelle et à son stratège&amp;#160;: Götz Kubitschek. L’article Le plan de la Nouvelle Droite pour conquérir l’Allemagne est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">5dab8f14f381e987333c8075f81619a654df8ec4</guid>
-      <pubDate>Sun, 20 Sep 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Que sait-on de l’accord que Donald Trump a annoncé sur le Groenland ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/19/que-sait-on-de-laccord-que-donald-trump-a-annonce-sur-le-groenland/</link>
-      <description>[Le Grand Continent] Les États-Unis obtiendraient un droit de veto sur les investissements étrangers jugés sensibles et «&amp;#160;toute la liberté pour prendre les mesures qui s'imposent&amp;#160;» en matière de défense. L’article Que sait-on de l’accord que Donald Trump a annoncé sur le Groenland&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">04d740837ac022b00a5bb3d1c94711c4bb0ea64a</guid>
-      <pubDate>Sat, 19 Sep 2026 13:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les mots qui voyagent : du rromani aux pratiques langagières françaises</title>
-      <link>https://theconversation.com/les-mots-qui-voyagent-du-rromani-aux-pratiques-langagieres-francaises-291581</link>
-      <description>[The Conversation FR - Histoire] S’intéresser au rromani en sociolexicologie, c’est observer la manière dont une langue et les populations qui la parlent ont participé et participent à l’histoire linguistique du français.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">4cf0bf98791d111ccea697d9f21293b68f77b0b7</guid>
-      <pubDate>Sat, 19 Sep 2026 07:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jeanne d’Arc, Clemenceau, les frères Lumière, Colette… l’incroyable galerie des refusés pour figurer sur un billet de banque</title>
-      <link>https://theconversation.com/jeanne-darc-clemenceau-les-freres-lumiere-colette-lincroyable-galerie-des-refuses-pour-figurer-sur-un-billet-de-banque-289782</link>
-      <description>[The Conversation FR - Histoire] Au cours de son existence, la Banque de France a envisagé de nombreuses célébrités mais en a écarté un certain nombre. Pour quelles raisons ?</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">e349553d4f63a7fc011830fa3982a49f46eec0d4</guid>
-      <pubDate>Sat, 19 Sep 2026 07:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Repas à un euro : quels autres leviers pour améliorer l’alimentation des étudiants ?</title>
-      <link>https://theconversation.com/repas-a-un-euro-quels-autres-leviers-pour-ameliorer-lalimentation-des-etudiants-284890</link>
-      <description>[The Conversation FR - Éducation] Une expérimentation menée auprès d’étudiants à Lyon montre que l’amélioration durable de l’alimentation passe par des aides financières associées à un accompagnement adapté.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">09f95e8e2338f3e22df9f157e8a1e81ae23ec2d8</guid>
-      <pubDate>Sat, 19 Sep 2026 07:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
