@@ -6,7 +6,71 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 18 Oct 2026 12:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:09:00 +0000</lastBuildDate>
+    <item>
+      <title>L’école à l’ère de l’individualisme compétitif ? Derrière les discours sur l’excellence, l’illusion méritocratique</title>
+      <link>https://theconversation.com/lecole-a-lere-de-lindividualisme-competitif-derriere-les-discours-sur-lexcellence-lillusion-meritocratique-293231</link>
+      <description>[The Conversation FR - Éducation] Si le discours sur le mérite a changé de forme, il continue de valider la reproduction d’inégalités sociales et scolaires soulignées dans les années&amp;nbsp;1970 par les sociologues P.&amp;nbsp;Bourdieu et J.-C.&amp;nbsp;Passeron.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">1ede8b8cd627718b773aeba285c083e7f500f46f</guid>
+      <pubDate>Mon, 19 Oct 2026 14:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>« Bismillah, c’est les ténèbres » : quand une possible infiltration policière devient un mème à succès</title>
+      <link>https://theconversation.com/bismillah-cest-les-tenebres-quand-une-possible-infiltration-policiere-devient-un-meme-a-succes-294652</link>
+      <description>[The Conversation FR - Éducation] Cette formule absurde, provenant d’un message Snapchat, que l’on voit maintenant brandie dans les manifestations lycéennes en dit long sur les stéréotypes qui circulent au sujet de la jeunesse, mais aussi sur la créativité et la résilience des manifestants.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">ae2220d4a10885dd23dc16525b0c737377055a8d</guid>
+      <pubDate>Mon, 19 Oct 2026 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>À Okinawa, deux quotidiens locaux au cœur de la contestation de la présence des bases américaines</title>
+      <link>https://theconversation.com/a-okinawa-deux-quotidiens-locaux-au-coeur-de-la-contestation-de-la-presence-des-bases-americaines-294583</link>
+      <description>[The Conversation FR - International] À Okinawa, deux&amp;nbsp;quotidiens locaux dénoncent les bases américaines, nourrissent les mobilisations et transmettent une mémoire de la guerre différente du récit national japonais.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">5572233a5a1a4eaaed02df1dfef31c312224d12b</guid>
+      <pubDate>Mon, 19 Oct 2026 14:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Andorre, le Vatican, Monaco et Saint-Marin : pourquoi ces micro-États si riches utilisent l’euro</title>
+      <link>https://theconversation.com/landorre-le-vatican-monaco-et-saint-marin-pourquoi-ces-micro-etats-si-riches-utilisent-leuro-291789</link>
+      <description>[The Conversation FR - International] Les quatre micro-États utilisent l’euro et frappent leurs propres pièces nationales, sans être formellement membres de l’Union européenne ni de la zone euro.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">6a005ea87ba4c28356d0c2ff4bb36b198f0bc94d</guid>
+      <pubDate>Mon, 19 Oct 2026 14:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La guerre des centres de données : l’Ukraine frappe le « cœur de fer » de l’Internet russe</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/19/la-guerre-des-centres-de-donnees-lukraine-frappe-le-coeur-de-fer-de-linternet-russe/</link>
+      <description>[Le Grand Continent] Depuis 2014, le Kremlin a patiemment bâti pour les Russes un Internet de repli, censé résister quand tout le reste est coupé. Les frappes contre Yandex montrent les limites de ce modèle L’article La guerre des centres de données&amp;#160;: l’Ukraine frappe le «&amp;#160;cœur de fer&amp;#160;» de l’Internet russe est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">bb84737a97701911c307cc1f8794e70d91f352fc</guid>
+      <pubDate>Mon, 19 Oct 2026 15:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Léon XIV est le dirigeant étranger le plus apprécié des Français</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/19/leon-xiv-est-le-dirigeant-etranger-le-plus-apprecie-des-francais/</link>
+      <description>[Le Grand Continent] Donald Trump est quant à lui le plus rejeté L’article Léon XIV est le dirigeant étranger le plus apprécié des Français est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">619c7162e026d6378a3903d195acbe2605f1414a</guid>
+      <pubDate>Mon, 19 Oct 2026 10:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Au-delà de la France, la crise du coût de la vie embrase l’Europe</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/19/au-dela-de-la-france-la-crise-du-cout-de-la-vie-embrase-leurope/</link>
+      <description>[Le Grand Continent] Depuis samedi, des centaines de milliers de personnes ont manifesté dans cinq pays européens L’article Au-delà de la France, la crise du coût de la vie embrase l’Europe est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">4185bafb119d653ad9244909ea4c095ba6153446</guid>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aux portes de l’Asie du Sud-Est, le pari stratégique du Guangxi</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/18/le-pivot-geopolitique-de-lacceleration-de-xi-se-trouve-au-guangxi/</link>
+      <description>[Le Grand Continent] Pourquoi le Parti mise-t-il des milliards sur cette région oubliée de Chine&amp;#160;? L’article Aux portes de l&amp;rsquo;Asie du Sud-Est, le pari stratégique du Guangxi est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">724b63b87b424f0bd6f241bb213df655eb6f1479</guid>
+      <pubDate>Sun, 18 Oct 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Au Liban, le sexe transactionnel comme stratégie de survie</title>
       <link>https://theconversation.com/au-liban-le-sexe-transactionnel-comme-strategie-de-survie-287215</link>
@@ -1542,70 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">f7687d73f9f473e04accfc1d32343d8ea74ed0d0</guid>
       <pubDate>Thu, 24 Sep 2026 17:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Pakistan multiplie les raids aériens en Afghanistan</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/24/le-pakistan-multiplie-les-raids-aeriens-en-afghanistan/</link>
-      <description>[Le Grand Continent] Le Pakistan dit avoir visé 10 sites utilisés pour le lancement de drones L’article Le Pakistan multiplie les raids aériens en Afghanistan est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">507163ebb534f33b69bcc1e6de9135f47ca64839</guid>
-      <pubDate>Thu, 24 Sep 2026 14:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En amont des midterms, des candidats républicains se distancient de Trump</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/24/en-amont-des-midterms-des-candidats-republicains-se-distancient-de-trump/</link>
-      <description>[Le Grand Continent] L’impopularité de Trump est perçue comme un risque L’article En amont des midterms, des candidats républicains se distancient de Trump est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">8d094b0982cd9d9a146d1002db26daf44780c726</guid>
-      <pubDate>Thu, 24 Sep 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En Iran, Khamenei est-il en train de gagner la guerre ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/24/en-iran-khamenei-est-en-train-de-gagner-la-guerre/</link>
-      <description>[Le Grand Continent] Trump et Netanyahou voulaient renverser le régime, ils pourraient avoir consacré la doctrine du guide assassiné L’article En Iran, Khamenei est-il en train de gagner la guerre&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">0d96f0ed9414d6624026c73957456b90c79c6386</guid>
-      <pubDate>Thu, 24 Sep 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Europe doit retrouver l’Afrique</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/23/leurope-doit-retrouver-lafrique/</link>
-      <description>[Le Grand Continent] Selon le nouveau directeur du Collège de Bruges, un nouveau partenariat est devenu nécessaire L’article L&amp;rsquo;Europe doit retrouver l&amp;rsquo;Afrique est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">0bd845e5d6325a4c3ddad177929b7cbad0d3a989</guid>
-      <pubDate>Wed, 23 Sep 2026 17:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La reprise des combats au Tigré menace d’embraser la région</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/23/la-reprise-des-combats-au-tigre-menace-dembraser-la-region/</link>
-      <description>[Le Grand Continent] Le TPLF aurait pris le contrôle de plusieurs aéroports du Tigré L’article La reprise des combats au Tigré menace d’embraser la région est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">2a8aac4dc9452f05c216668e5cd14b5a2270d978</guid>
-      <pubDate>Wed, 23 Sep 2026 15:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Communiqué – Cérémonies du 11 novembre dans les établissements scolaires : la vigilance de l’APHG</title>
-      <link>https://www.aphg.fr/communique-ceremonies-du-11-novembre-dans-les-etablissements-scolaires-la-vigilance-de-laphg/</link>
-      <description>[APHG] L&amp;#8217;APHG mesure le poids symbolique que représente, pour les professeurs d&amp;#8217;histoire-géographie déjà très sollicités ces dernières années, l&amp;#8217;organisation d&amp;#8217;une commémoration obligatoire. Dans un temps saturé de minutes de silence et d&amp;#8217;hommages, une mise en œuvre plus progressive et plus concertée aurait été préférable. L&amp;#8217;APHG note aussi avec une certaine ironie qu&amp;#8217;on exige des jeunes une [&amp;#8230;] L’article Communiqué &amp;#8211; Cérémonies du 11 novembre dans</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">47ecb9ff05322ac4359c5ff8f39ca4f87a3115c2</guid>
-      <pubDate>Thu, 24 Sep 2026 19:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Sur le chemin de la mémoire » de V. Igounet – ressource pédagogique</title>
-      <link>https://www.aphg.fr/sur-le-chemin-de-la-memoire-de-v-igounet-ressource-pedagogique/</link>
-      <description>[APHG] « Empruntant aux codes du roman autobiographique, du journal intime et du roman historique, Sur le chemin de la mémoire est un récit touchant, instructif et captivant qui, de surcroît, offre aux enseignants des perspectives pédagogiques intéressantes. En effet la lecture de ce roman, cursive ou par extraits, peut parfaitement s’inscrire dans la mise en œuvre [&amp;#8230;] L’article « Sur le chemin de la mémoire » de V. Igounet &amp;#8211; ressource pédagogique est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">c370695e69b50da818c698c9656f48a8be8d7033</guid>
-      <pubDate>Wed, 23 Sep 2026 14:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment soignait-on la gueule de bois autrefois ? Du chou aux poumons de chèvre</title>
-      <link>https://theconversation.com/comment-soignait-on-la-gueule-de-bois-autrefois-du-chou-aux-poumons-de-chevre-292010</link>
-      <description>[The Conversation FR - Histoire] Du chou aux clous de girofle, en passant par les poumons de chèvre&amp;nbsp;: depuis l’Antiquité, les remèdes contre la gueule de bois racontent notre rapport à l’ivresse, au corps et à la culpabilité.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">f3c3f8eef52f34189a1f3c327acd42e20cfe8e67</guid>
-      <pubDate>Wed, 23 Sep 2026 10:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
