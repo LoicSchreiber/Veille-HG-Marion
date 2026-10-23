@@ -6,7 +6,95 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 22 Oct 2026 14:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:01:00 +0000</lastBuildDate>
+    <item>
+      <title>Ratés, faux sondages, marchés prédictifs : la mauvaise passe des sondeurs américains avant les midterms</title>
+      <link>https://theconversation.com/rates-faux-sondages-marches-predictifs-la-mauvaise-passe-des-sondeurs-americains-avant-les-midterms-294959</link>
+      <description>[The Conversation FR - International] Ratés à répétition depuis 2016, faux sondages, concurrence des marchés prédictifs et des réponses simulées par l’IA : les instituts américains abordent les élections de mi-mandat du 3 novembre en terrain miné.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">b250bc7bf928ffff7c8d2345715a71d7a6a0c8cc</guid>
+      <pubDate>Fri, 23 Oct 2026 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les sondages sont des instantanés, pas des prédictions : ce que montre la campagne électorale néo-zélandaise</title>
+      <link>https://theconversation.com/les-sondages-sont-des-instantanes-pas-des-predictions-ce-que-montre-la-campagne-electorale-neo-zelandaise-294960</link>
+      <description>[The Conversation FR - International] En Nouvelle-Zélande, où les législatives ont lieu le 7 novembre 2026, les sondages se multiplient. Mais chacun n’est qu’une photographie floue de l’opinion à un instant passé : il ne permet pas de prédire le résultat du scrutin.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">743272cdc814e41ecd0c88e0765544f000af0ec2</guid>
+      <pubDate>Fri, 23 Oct 2026 10:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi la multiplication des sondages nuit à l’information des électeurs : les leçons du cas australien</title>
+      <link>https://theconversation.com/pourquoi-la-multiplication-des-sondages-nuit-a-linformation-des-electeurs-les-lecons-du-cas-australien-294961</link>
+      <description>[The Conversation FR - International] En Australie, quelque 140 sondages ont été publiés depuis les élections fédérales de 2025, sur fond de poussée de One Nation. Des études montrent que leur couverture façon « journalisme hippique » nourrit le cynisme.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">09b8c3424f07ce866fb799a09150f2ed578064d9</guid>
+      <pubDate>Fri, 23 Oct 2026 08:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La révocation du procureur de la CPI : quand permanence ne rime pas avec prévoyance</title>
+      <link>https://theconversation.com/la-revocation-du-procureur-de-la-cpi-quand-permanence-ne-rime-pas-avec-prevoyance-293894</link>
+      <description>[The Conversation FR - International] L’affaire Karim Khan révèle une faille. Face à l’incomplétude des règles, la CPI a dû préciser les garanties et les modalités de la procédure en cours de route.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">33c36371d6bdd5c994c1b03fe9d529e70d46c476</guid>
+      <pubDate>Thu, 22 Oct 2026 14:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le paradoxe Alain Soral</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/23/le-paradoxe-alain-soral/</link>
+      <description>[Le Grand Continent] Enquête sur le national-conspirationnisme, l’idéologie de l'extrémiste qui dérange l’extrême droite française L’article Le paradoxe Alain Soral est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">73b3fef59634b16f2836fece7cd816e3748c5133</guid>
+      <pubDate>Fri, 23 Oct 2026 13:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Italie, la grève des camionneurs paralyse le Sud du pays</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/23/en-italie-la-greve-des-camionneurs-paralyse-le-sud-du-pays/</link>
+      <description>[Le Grand Continent] Les producteurs de mozzarella ont été contraints de suspendre leur production L’article En Italie, la grève des camionneurs paralyse le Sud du pays est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">7390042229b199d0abda4b1df6a025ed93210b2e</guid>
+      <pubDate>Fri, 23 Oct 2026 13:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Économie russe : Poutine peut-il se permettre de livrer du carburant aux États-Unis ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/23/economie-russe-poutine-peut-il-se-permettre-de-livrer-du-carburant-aux-etats-unis/</link>
+      <description>[Le Grand Continent] Les marges de manœuvre de Moscou sont limitées par la guerre L’article Économie russe&amp;#160;: Poutine peut-il se permettre de livrer du carburant aux États-Unis&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">5fcdea17b20b49adaf35fc06531405dd4ecf8285</guid>
+      <pubDate>Fri, 23 Oct 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Ukraine, le piège du cessez-le-feu trumpiste</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/23/en-ukraine-le-piege-du-cessez-le-feu-trumpiste/</link>
+      <description>[Le Grand Continent] Pourquoi une trêve en Ukraine, sans dissuasion européenne, préparerait la prochaine guerre L’article En Ukraine, le piège du cessez-le-feu trumpiste est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">37b0434a02272f966944cf69421ed6ca7ab81d81</guid>
+      <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les Français cherchent à se procurer des armes d’autodéfense, en amont d’un nouveau week-end de mobilisation</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/22/les-francais-cherchent-a-se-procurer-des-armes-dautodefense-en-amont-dun-nouveau-week-end-de-mobilisation/</link>
+      <description>[Le Grand Continent] Les recherches Google pour «&amp;#160;armurerie&amp;#160;» ou «&amp;#160;batte de baseball&amp;#160;» ont bondi L’article Les Français cherchent à se procurer des armes d’autodéfense, en amont d’un nouveau week-end de mobilisation est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">b0294092fc3b0cfdc1a8ae981ced6b047f4aae34</guid>
+      <pubDate>Thu, 22 Oct 2026 16:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coup de pouce Agrégation interne aux Rendez-vous de l’histoire de Blois 2026 – les supports des interventions</title>
+      <link>https://www.aphg.fr/operation-blois-2026/</link>
+      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2026-2027 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page les supports des interventions qui se sont déroulées lors de l&amp;#8217;après-midi organisée le samedi 10 octobre par l&amp;#8217;APHG. Cette page [&amp;#8230;] L’article Coup de pouce Agrégation interne aux Rendez-vous de l&amp;rsquo;histoire de Blois 2026 &amp;#8211; les supports des in</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">df2ade6f64dda40aa2651c8a28a1a5cb71e3e9a3</guid>
+      <pubDate>Thu, 22 Oct 2026 18:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coup de pouce Agrégation interne – Marie Redon – Le Pacifique dans la nouvelle géopolitique insulaire mondiale</title>
+      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-marie-redon-le-pacifique-dans-la-nouvelle-geopolitique-insulaire-mondiale/</link>
+      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2026-2027 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance de Marie Redon consacrée au thème « le Pacifique dans la nouvelle géopolitique insulaire mondiale ». Le podcast est proposé [&amp;#8230;] L’article Coup de pouce Agrégation interne &amp;#8211; Marie Redon &amp;#8211; Le Pacifique dans la nouvelle géopolitique insulaire m</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">2fbe74aa4792175d861820835d5c62a54381a9f0</guid>
+      <pubDate>Thu, 22 Oct 2026 17:57:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pourquoi nous avons de plus en plus de mal à lire des textes longs – et comment entretenir cette capacité</title>
       <link>https://theconversation.com/pourquoi-nous-avons-de-plus-en-plus-de-mal-a-lire-des-textes-longs-et-comment-entretenir-cette-capacite-293870</link>
@@ -1518,94 +1606,6 @@
       <category>The Conversation FR - International</category>
       <guid isPermaLink="false">9bfe18fc3ccd1c5d3d4afeb8e210a6154544c13d</guid>
       <pubDate>Wed, 30 Sep 2026 13:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En Roumanie, le Premier ministre Siegfried Mureșan n’a pas obtenu la confiance du Parlement</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/30/en-roumanie-le-premier-ministre-siegfried-muresan-na-pas-obtenu-la-confiance-du-parlement/</link>
-      <description>[Le Grand Continent] Le pays se dirige-t-il vers des élections anticipées&amp;#160;? L’article En Roumanie, le Premier ministre Siegfried Mureșan n’a pas obtenu la confiance du Parlement est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">d10a33ab7668bfd6472ed52a2886f4b0a20d2bc7</guid>
-      <pubDate>Wed, 30 Sep 2026 12:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La dette française est en train de décrocher</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/30/la-dette-francaise-est-en-train-de-decrocher/</link>
-      <description>[Le Grand Continent] «&amp;#160;Personne ne semble avoir pris conscience de la zone de danger dans laquelle nous entrons&amp;#160;» L’article La dette française est en train de décrocher est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">c17f7bbe4038b8825982009db307fe2b40d4ee75</guid>
-      <pubDate>Wed, 30 Sep 2026 08:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poutine augmente la taille de l’armée russe pour la quatrième fois en six mois</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/30/poutine-augmente-la-taille-de-larmee-russe-pour-la-quatrieme-fois-en-six-mois/</link>
-      <description>[Le Grand Continent] Les effectifs de l’armée ont augmenté de 50 000 hommes en 2026 L’article Poutine augmente la taille de l’armée russe pour la quatrième fois en six mois est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">905eefd4e3ebf26065672b2587f5320839a1bd55</guid>
-      <pubDate>Wed, 30 Sep 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>25 livres à lire en octobre 2026</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/30/25-livres-a-lire-en-octobre-2026/</link>
-      <description>[Le Grand Continent] De la course à l’IA aux élites de Poutine, de l’arctique à la Chine&amp;#160;: 25 livres que nous lirons de près L’article 25 livres à lire en octobre 2026 est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">3e599ed3955cfb549a0c521ffa0ddcda7fdbe8ce</guid>
-      <pubDate>Wed, 30 Sep 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Chine installe cinq fois plus de robots industriels que l’Europe</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/29/la-chine-installe-cinq-fois-plus-de-robots-industriels-que-leurope/</link>
-      <description>[Le Grand Continent] L’Europe a installé 73 000 robots l’an dernier, et la Chine 354 000 L’article La Chine installe cinq fois plus de robots industriels que l’Europe est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">044a6bfb97487b2498e8032aa4ccac5190c2fa9a</guid>
-      <pubDate>Tue, 29 Sep 2026 17:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le baptême de l’Amérique à Saint-Dié par des humanistes vosgiens, un épisode historique méconnu</title>
-      <link>https://theconversation.com/le-bapteme-de-lamerique-a-saint-die-par-des-humanistes-vosgiens-un-episode-historique-meconnu-292919</link>
-      <description>[The Conversation FR - Histoire] Ce n’est pas un hasard si la ville de Saint-Dié, dans les Vosges, accueille un festival annuel consacré à la géographie depuis&amp;nbsp;1990. Au début du XVIᵉ&amp;nbsp;siècle, elle abritait une communauté d’humanistes qui s’intéressaient particulièrement à cette discipline.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">8e36dd55b66b5e767605eec40aa044d4ff2d8375</guid>
-      <pubDate>Tue, 29 Sep 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Europe vue par Léon XIV</title>
-      <link>https://theconversation.com/leurope-vue-par-leon-xiv-293064</link>
-      <description>[The Conversation FR - International] Léon&amp;nbsp;XIV défend une Europe fondée sur le multilatéralisme et le dépassement des nationalismes, tout en réaffirmant ses racines chrétiennes.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">36111ad4040612bf7c1d754b324d63e58c044157</guid>
-      <pubDate>Tue, 29 Sep 2026 13:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Brésil peut faire basculer le trumpisme en Amérique</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/29/le-bresil-peut-faire-basculer-le-trumpisme-en-amerique/</link>
-      <description>[Le Grand Continent] La bataille pour Brasília décidera jusqu’où peut aller la recolonisation états-unienne du continent L’article Le Brésil peut faire basculer le trumpisme en Amérique est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">481dde3dd8af5218d888743a961ce0e494e1fb81</guid>
-      <pubDate>Tue, 29 Sep 2026 15:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Économie russe : en 2027, la Russie de Poutine dépensera plus que jamais pour la guerre</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/29/economie-russe-la-russie-de-poutine-na-jamais-autant-depense-pour-la-guerre/</link>
-      <description>[Le Grand Continent] Le Kremlin prévoit d’augmenter de 32&amp;#160;% ses dépenses militaires en 2027 L’article Économie russe&amp;#160;: en 2027, la Russie de Poutine dépensera plus que jamais pour la guerre est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">ba15c39709a887e5bbb1460cc445500ba3656c87</guid>
-      <pubDate>Tue, 29 Sep 2026 09:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La contre-révolution culturelle est un échec</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/29/la-contre-revolution-culturelle-est-un-echec/</link>
-      <description>[Le Grand Continent] Pourquoi le projet populiste se confronte à un paradoxe anthropologique insurmontable L’article La contre-révolution culturelle est un échec est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">7ece856b4db058b2c36bbbfaee960542a8a2adb9</guid>
-      <pubDate>Tue, 29 Sep 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pékin s’apprêterait à autoriser ByteDance et Alibaba à acheter des milliards de dollars de puces Nvidia</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/29/pekin-sappreterait-a-autoriser-bytedance-et-alibaba-a-acheter-des-milliards-de-dollars-de-puces-nvidia/</link>
-      <description>[Le Grand Continent] Une telle autorisation traduirait un certain pragmatisme du régime chinois L’article Pékin s&amp;rsquo;apprêterait à autoriser ByteDance et Alibaba à acheter des milliards de dollars de puces Nvidia est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">0cda0b1f5c7110bc3935b8c4c3e02bbd64cdd14d</guid>
-      <pubDate>Tue, 29 Sep 2026 04:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
