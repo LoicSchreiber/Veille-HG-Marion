@@ -6,7 +6,39 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 23 Oct 2026 14:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:03:00 +0000</lastBuildDate>
+    <item>
+      <title>Après une guerre, quelle éducation pour construire la paix ?</title>
+      <link>https://theconversation.com/apres-une-guerre-quelle-education-pour-construire-la-paix-290799</link>
+      <description>[The Conversation FR - Éducation] Après un conflit, reconstruire l’éducation ne consiste pas seulement à rouvrir les écoles. Les programmes, les manuels et leur gouvernance pèsent aussi sur la mémoire collective.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">90c09171d3c2e76f669a52ac392fe156ae20b880</guid>
+      <pubDate>Sat, 24 Oct 2026 08:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Serbie, les étudiants manifestent depuis deux ans. Peuvent-ils faire tomber Vučić dans les urnes ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/24/bojan-vranic-serbie/</link>
+      <description>[Le Grand Continent] Ce dimanche 25 octobre, les élections législatives mettent à l’épreuve quatorze ans de domination politique L’article En Serbie, les étudiants manifestent depuis deux ans. Peuvent-ils faire tomber Vučić dans les urnes&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">7001117ec84f054d9df46f1bb148c666c76a9a80</guid>
+      <pubDate>Sat, 24 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>À une semaine des élections de mi-mandat, Obama s’engage dans la campagne</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/24/a-une-semaine-des-elections-de-mi-mandat-obama-sengage-dans-la-campagne/</link>
+      <description>[Le Grand Continent] L’ancien président démocrate était jusqu’à présent resté en retrait L’article À une semaine des élections de mi-mandat, Obama s’engage dans la campagne est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">f96e7ecdac8bd4162dff1e33087814a8dd49391e</guid>
+      <pubDate>Sat, 24 Oct 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Une start-up de la Silicon Valley vient de lever 200 millions de dollars pour concevoir des chiens de guerre génétiquement modifiés</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/23/un-programme-captain-america-pour-chiens-au-texas-une-start-up-veut-modifier-genetiquement-les-auxiliaires-canins-de-larmee-americaine/</link>
+      <description>[Le Grand Continent] Le «&amp;#160;programme Captain America pour les chiens&amp;#160;» n’est pas une plaisanterie dystopique L’article Une start-up de la Silicon Valley vient de lever 200 millions de dollars pour concevoir des chiens de guerre génétiquement modifiés est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">ea24f3663b58bc03c79898743d2bde0a05cd95bc</guid>
+      <pubDate>Fri, 23 Oct 2026 16:12:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ratés, faux sondages, marchés prédictifs : la mauvaise passe des sondeurs américains avant les midterms</title>
       <link>https://theconversation.com/rates-faux-sondages-marches-predictifs-la-mauvaise-passe-des-sondeurs-americains-avant-les-midterms-294959</link>
@@ -1574,38 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">ebd955a6e64c6a6c21f10c6f04857071fb4f31ef</guid>
       <pubDate>Wed, 30 Sep 2026 17:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La dette et le mur du réel</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/30/la-dette-et-le-mur-du-reel/</link>
-      <description>[Le Grand Continent] La France peut encore choisir entre redressement et austérité L’article La dette et le mur du réel est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">b9c85f89e429fd6e60b10dc4b714aef2a33ca957</guid>
-      <pubDate>Wed, 30 Sep 2026 16:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elizabeth Ire, Virginia Woolf, Debbie Harry : ces figures qui ont marqué l’histoire culturelle sont encore jugées parce qu’elles n’ont pas eu d’enfant</title>
-      <link>https://theconversation.com/elizabeth-ire-virginia-woolf-debbie-harry-ces-figures-qui-ont-marque-lhistoire-culturelle-sont-encore-jugees-parce-quelles-nont-pas-eu-denfant-293126</link>
-      <description>[The Conversation FR - Histoire] Lorsqu’une femme construit autre chose qu’une famille, la société peine à y voir un héritage.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">1a6abe39d2d3798818a1941de25d8f844dffd69c</guid>
-      <pubDate>Wed, 30 Sep 2026 14:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Législatives au Maroc : recomposition politique ou simple changement de couleurs ?</title>
-      <link>https://theconversation.com/legislatives-au-maroc-recomposition-politique-ou-simple-changement-de-couleurs-293118</link>
-      <description>[The Conversation FR - International] Au Maroc, le PAM prend la tête, le PJD revient et l’abstention progresse. Une nouvelle carte politique qui pose une question&amp;nbsp;: recomposition réelle ou simple changement de couleurs&amp;nbsp;?</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">81c103a8c26a78fb22e39b063da76e0de9f8e9e2</guid>
-      <pubDate>Wed, 30 Sep 2026 14:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fromages, terroir et libre-échange : l’Argentine prise entre l’Europe et les États-Unis</title>
-      <link>https://theconversation.com/fromages-terroir-et-libre-echange-largentine-prise-entre-leurope-et-les-etats-unis-291333</link>
-      <description>[The Conversation FR - International] Washington tente de passer des accords bilatéraux avec les États du continent pour faciliter l’exportation de ses produits, faisant fi du respect des appellations d’origine protégée.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">9bfe18fc3ccd1c5d3d4afeb8e210a6154544c13d</guid>
-      <pubDate>Wed, 30 Sep 2026 13:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
