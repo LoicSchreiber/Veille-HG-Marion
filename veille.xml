@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:32:00 +0000</lastBuildDate>
+    <item>
+      <title>Qui peut protéger le royaume saoudien ?</title>
+      <link>https://theconversation.com/qui-peut-proteger-le-royaume-saoudien-294696</link>
+      <description>[The Conversation FR - International] Abandonné par Washington, Riyad, plus que jamais dans la ligne de mire de l’Iran et des houthistes du Yémen, doit se chercher de nouveaux parrains.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">308913f121bd9b6b38b0ab8ffc07177ede5e5c41</guid>
+      <pubDate>Sun, 25 Oct 2026 07:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi l’eau potable manque encore dans l’archipel de Marajó, l’une des régions les plus riches en eau du monde</title>
+      <link>https://theconversation.com/pourquoi-leau-potable-manque-encore-dans-larchipel-de-marajo-lune-des-regions-les-plus-riches-en-eau-du-monde-295018</link>
+      <description>[The Conversation FR - International] Dans l’archipel de Marajó, en Amazonie brésilienne, des milliers de familles restent privées d’eau potable malgré l’abondance de l’eau.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">d9acd2df54f008d2925a64230de59d9257acc44e</guid>
+      <pubDate>Sun, 25 Oct 2026 07:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’autre visage du miracle chinois est dans le Hunan</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/25/le-hunan-lautre-visage-du-miracle-chinois/</link>
+      <description>[Le Grand Continent] Des usines soviétiques aux géants industriels, de Mao à la culture virale, plongée dans une province qui raconte les métamorphoses de la Chine de Xi. L’article L’autre visage du miracle chinois est dans le Hunan est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">4abe4e9b9d98d5660a38108f13ed074079ad752d</guid>
+      <pubDate>Sun, 25 Oct 2026 13:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Au Brésil, la victoire de Flávio Bolsonaro relancerait la déforestation de l’Amazonie</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/25/au-bresil-la-victoire-de-flavio-bolsonaro-relancerait-la-deforestation-de-lamazonie/</link>
+      <description>[Le Grand Continent] En 18 ans, le Brésil a déboisé l’équivalent de la Grèce en Amazonie L’article Au Brésil, la victoire de Flávio Bolsonaro relancerait la déforestation de l’Amazonie est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">64f92875bf7a4e7d344fa5d6df7a72204f2e2732</guid>
+      <pubDate>Sun, 25 Oct 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’incroyable histoire d’Ahmad Khan</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/25/incroyable-histoire-dahmad-khan/</link>
+      <description>[Le Grand Continent] Le périple du fils d’un nabab indien déchu du XVIIIe siècle qui gagne l’Europe pour demander réparation L’article L’incroyable histoire d’Ahmad Khan est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">1b7423b5207bbdbe6c2ed93b8365b9fd69f51871</guid>
+      <pubDate>Sun, 25 Oct 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bukele a lancé une opération militaire spéciale contre les gangs à Haïti</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/24/bukele-a-lance-une-operation-militaire-speciale-contre-les-gangs-a-haiti/</link>
+      <description>[Le Grand Continent] Dans l’ombre de Port-au-Prince une nouvelle force d’intervention intra-américaine est-elle en train de voir le jour&amp;#160;? L’article Bukele a lancé une opération militaire spéciale contre les gangs à Haïti est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">179d0360f73cc3e0d0d6c67bb24b4dea6b2667d7</guid>
+      <pubDate>Sat, 24 Oct 2026 15:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>Après une guerre, quelle éducation pour construire la paix ?</title>
       <link>https://theconversation.com/apres-une-guerre-quelle-education-pour-construire-la-paix-290799</link>
@@ -1558,54 +1606,6 @@
       <category>The Conversation FR - International</category>
       <guid isPermaLink="false">db0fd4d7b7579bfa14db17235fc096250d4e84f5</guid>
       <pubDate>Thu, 01 Oct 2026 13:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tentative de détournement du vol Flydubai quel impact sur les législatives israéliennes ?</title>
-      <link>https://theconversation.com/tentative-de-detournement-du-vol-flydubai-quel-impact-sur-les-legislatives-israeliennes-293366</link>
-      <description>[The Conversation FR - International] Benyamin Nétanyahou tente de renouer avec son image de protecteur d’Israël, écornée par les récentes révélations sur son refus d’entendre les avertissements avant le massacre du 7&amp;nbsp;octobre 2023.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">8c0d7765ca1a9cea648c80285c2292df41a30ea1</guid>
-      <pubDate>Thu, 01 Oct 2026 13:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Élections au Brésil : une campagne terne et numérique qui accroît l’incertitude sur l’issue du scrutin</title>
-      <link>https://theconversation.com/elections-au-bresil-une-campagne-terne-et-numerique-qui-accroit-lincertitude-sur-lissue-du-scrutin-293250</link>
-      <description>[The Conversation FR - International] À quelques jours de l’élection présidentielle au Brésil, Lula devance Flávio Bolsonaro dans les sondages. Mais le nombre élevé d’indécis et une campagne atone entretiennent l’incertitude.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">3e647524234df7f45f7a061c1dd074bf25d1ce42</guid>
-      <pubDate>Thu, 01 Oct 2026 10:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pourquoi Trump refuse de ralentir le développement de l’IA</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/01/pourquoi-trump-refuse-de-ralentir-le-developpement-de-lia/</link>
-      <description>[Le Grand Continent] L’avenir de l’économie américaine est désormais lié à la technologie L’article Pourquoi Trump refuse de ralentir le développement de l’IA est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">3aec2bd20ac5bc450c2d8785fa8581e6da8617b5</guid>
-      <pubDate>Thu, 01 Oct 2026 14:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Chine et les États-Unis exportent leur crise en Europe</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/01/la-chine-et-les-etats-unis-exportent-leur-crise-en-europe/</link>
-      <description>[Le Grand Continent] Comprendre la mécanique invisible de la nouvelle configuration géoéconomique L’article La Chine et les États-Unis exportent leur crise en Europe est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">3293e114e9229092ffe4d9845d0beb250c15fd60</guid>
-      <pubDate>Thu, 01 Oct 2026 14:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La guerre des villes : la doctrine russe pour dévaster l’Ukraine</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/01/la-guerre-des-villes-la-doctrine-russe-pour-devaster-lukraine/</link>
-      <description>[Le Grand Continent] Moscou veut transformer l’Ukraine en un «&amp;#160;actif inutile&amp;#160;» L’article La guerre des villes&amp;#160;: la doctrine russe pour dévaster l’Ukraine est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">1a2c8f41d53ee4ed98d6bd4fd1d4fecc071ca627</guid>
-      <pubDate>Thu, 01 Oct 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>De Le Pen à Macron : que disaient les sondages 200 jours avant les précédentes élections présidentielles ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/09/30/de-le-pen-a-macron-que-disaient-les-sondages-200-jours-avant-les-precedentes-elections-presidentielles/</link>
-      <description>[Le Grand Continent] Depuis 2002, le candidat en tête à ce stade de la campagne a remporté le premier tour quatre fois sur cinq L’article De Le Pen à Macron&amp;#160;: que disaient les sondages 200 jours avant les précédentes élections présidentielles&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">ebd955a6e64c6a6c21f10c6f04857071fb4f31ef</guid>
-      <pubDate>Wed, 30 Sep 2026 17:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
