@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:41:00 +0000</lastBuildDate>
+    <item>
+      <title>Iran : l’État profond des Gardiens de la révolution</title>
+      <link>https://theconversation.com/iran-letat-profond-des-gardiens-de-la-revolution-293363</link>
+      <description>[The Conversation FR - International] Un récent ouvrage très complet permet de mieux comprendre le fonctionnement des Gardiens de la révolution islamique iranienne.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">f7daeae5da16c8bf95704bfa9a39dc598943970a</guid>
+      <pubDate>Wed, 28 Oct 2026 14:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les bourses chinoises ont perdu près de 2 500 milliards de dollars depuis mai</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/28/les-bourses-chinoises-ont-perdu-pres-de-2-500-milliards-de-dollars-depuis-mai/</link>
+      <description>[Le Grand Continent] Pékin a fait appel à son «&amp;#160;équipe nationale&amp;#160;» pour stabiliser les marchés L’article Les bourses chinoises ont perdu près de 2 500 milliards de dollars depuis mai est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">fbd3d9d6645beec32d872b556214d3eb29bc888f</guid>
+      <pubDate>Wed, 28 Oct 2026 14:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’impact de l’IA sur l’emploi se diffuse au-delà du secteur technologique</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/28/limpact-de-lia-sur-lemploi-se-diffuse-au-dela-du-secteur-technologique/</link>
+      <description>[Le Grand Continent] Son adoption va de pair avec une croissance plus faible de l’emploi L’article L’impact de l’IA sur l’emploi se diffuse au-delà du secteur technologique est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2c4f22e144c542ef17eccacc71c67b1f88d9f192</guid>
+      <pubDate>Wed, 28 Oct 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pour sauver la biodiversité, il faut repenser la liberté</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/28/la-cop-biodiversite-sur-lautel-de-la-liberte/</link>
+      <description>[Le Grand Continent] Comprendre l’impasse structurelle de la COP17 L’article Pour sauver la biodiversité, il faut repenser la liberté est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">a645679ff6c6b4f51a658a451a71219b32885707</guid>
+      <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La vérité d’une histoire russe</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/27/la-verite-dune-histoire-russe/</link>
+      <description>[Le Grand Continent] Dans Adieu ma Russie Nicolas Werth perce l’ombre et les mensonges du siècle de son père et du nôtre L’article La vérité d’une histoire russe est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">9b975f0ae15f40f3a01dec290f310fdaac651877</guid>
+      <pubDate>Tue, 27 Oct 2026 16:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compte-rendu : Journée d’étude « Histoire ludique »</title>
+      <link>https://www.aphg.fr/compte-rendu-journee-detude-histoire-ludique/</link>
+      <description>[APHG] Dans le cadre des Rendez-vous de l&amp;#8217;histoire de Blois, l&amp;#8217;APHG a soutenu une journée d&amp;#8217;étude dédiée à l&amp;#8217;histoire ludique sur le thème « Marchands de jeux, jeux de marchands ». Maxime Féréol en a fait un compte-rendu accessible sur le site du Réseau francophone d&amp;#8217;histoire ludique. L’article Compte-rendu : Journée d&amp;rsquo;étude « Histoire ludique » est apparu en premier sur APHG .</description>
+      <category>APHG</category>
+      <guid isPermaLink="false">5c660f636f75037258dfaa8667aa64d32c5c226a</guid>
+      <pubDate>Tue, 27 Oct 2026 15:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pourquoi le narcotrafic résiste si bien à la répression policière ? Ce que l’expérience brésilienne peut enseigner à la France</title>
       <link>https://theconversation.com/pourquoi-le-narcotrafic-resiste-si-bien-a-la-repression-policiere-ce-que-lexperience-bresilienne-peut-enseigner-a-la-france-291853</link>
@@ -1558,54 +1606,6 @@
       <category>APHG</category>
       <guid isPermaLink="false">648ea17b3690762b7289c5b79b79c768e339e9cc</guid>
       <pubDate>Sun, 04 Oct 2026 15:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Non, le stoïcisme n'est pas ce « truc de mecs » revendiqué par les masculinistes</title>
-      <link>https://theconversation.com/non-le-sto-cisme-nest-pas-ce-truc-de-mecs-revendique-par-les-masculinistes-293412</link>
-      <description>[The Conversation FR - Histoire] Marc Aurèle s’était promis d’être un homme de bien, mais qu’entendait-il par là&amp;nbsp;? Les interprétations masculinistes du stoïcisme relèvent du malentendu.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">9b54768c1f680d9433dc2d74a6ceef8e8b7d7ab6</guid>
-      <pubDate>Sun, 04 Oct 2026 07:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>À l’école, les arts peuvent-ils libérer la parole des enfants sur les violences ?</title>
-      <link>https://theconversation.com/a-lecole-les-arts-peuvent-ils-liberer-la-parole-des-enfants-sur-les-violences-291525</link>
-      <description>[The Conversation FR - Éducation] Si les arts génèrent un état émotionnel positif, propice à aborder des sujets graves, peuvent-ils pour autant devenir le support d’une prévention efficace des violences auprès des enfants&amp;nbsp;?</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">c0ac29b9c2d20cb54935ae11c3d67091b91a7022</guid>
-      <pubDate>Sun, 04 Oct 2026 07:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les nouveaux besoins (géopolitiques) de l’entreprise</title>
-      <link>https://theconversation.com/les-nouveaux-besoins-geopolitiques-de-lentreprise-291889</link>
-      <description>[The Conversation FR - International] Les dirigeants des entreprises ne doivent pas devenir des géopoliticiens, mais l’expertise géopolitique doit être intégrée aux décisions économiques.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">293e73990c1b8e399731ee017f29bb28f639b149</guid>
-      <pubDate>Sun, 04 Oct 2026 07:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pour comprendre l’offensive industrielle du Parti il faut se rendre au Sichuan</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/04/pour-comprendre-loffensive-industrielle-du-parti-il-faut-se-rendre-au-sichuan/</link>
-      <description>[Le Grand Continent] De Chengdu aux héritages du «&amp;#160;Troisième front&amp;#160;», portrait à grande échelle d’un épicentre impérial L’article Pour comprendre l’offensive industrielle du Parti il faut se rendre au Sichuan est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">396c6fb47b2857223392660065d9b3542d1da224</guid>
-      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Brésil, dernier rempart contre Trump en Amérique du Sud ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/04/le-bresil-dernier-rempart-contre-trump-en-amerique-du-sud/</link>
-      <description>[Le Grand Continent] La question à suivre lors du scrutin brésilien pourrait être avant tout géopolitique L’article Le Brésil, dernier rempart contre Trump en Amérique du Sud&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">3722f32428304d45ba1cc53c83b109adbd75327a</guid>
-      <pubDate>Sun, 04 Oct 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Entre Lula et Bolsonaro le Brésil est nettement divisé en deux</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/03/lula-et-bolsonaro-le-bresil-est-nettement-divise-en-deux/</link>
-      <description>[Le Grand Continent] Une grande enquête inédite de Cluster 17 révèle une élection présidentielle disputée comme jamais L’article Entre Lula et Bolsonaro le Brésil est nettement divisé en deux est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">9825224d0030b96de2f1e685879b7fd183937c04</guid>
-      <pubDate>Sat, 03 Oct 2026 15:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
