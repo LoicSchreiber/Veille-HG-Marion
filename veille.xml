@@ -6,7 +6,71 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 28 Oct 2026 15:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:48:00 +0000</lastBuildDate>
+    <item>
+      <title>En Israël, Netanyahou désavoué dans les urnes peut encore rester au pouvoir</title>
+      <link>https://theconversation.com/en-israel-netanyahou-desavoue-dans-les-urnes-peut-encore-rester-au-pouvoir-295469</link>
+      <description>[The Conversation FR - International] Les élections législatives du 27 octobre 2026 en Israël ont désavoué la coalition de Benjamin Netanyahou sans dégager de majorité alternative. Le politiste Dov Waxman décrypte les résultats et les obstacles à la formation d’un nouveau gouvernement.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">d1c634fe3bb13c91b237967e380658d1e596c5cb</guid>
+      <pubDate>Thu, 29 Oct 2026 10:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La part des États-Unis dans le commerce canadien est à son plus bas depuis 30 ans</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/29/la-part-des-etats-unis-dans-le-commerce-canadien-est-a-son-plus-bas-depuis-30-ans/</link>
+      <description>[Le Grand Continent] Le commerce du Canada avec la Chine et l’Union a bondi L’article La part des États-Unis dans le commerce canadien est à son plus bas depuis 30 ans est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">ce3fe07a84a9fd50d84a7f86fd9db74bc0793988</guid>
+      <pubDate>Thu, 29 Oct 2026 15:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comment le communisme a fait de la Chine une superpuissance capitaliste</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/29/comment-le-communisme-a-fait-de-la-chine-une-superpuissance-capitaliste/</link>
+      <description>[Le Grand Continent] L’histoire paradoxale de la puissance chinoise à partir de la formation et désintégration de sa classe ouvrière L’article Comment le communisme a fait de la Chine une superpuissance capitaliste est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">313f07bff2fe105bcebdfa35737c67773ce80e53</guid>
+      <pubDate>Thu, 29 Oct 2026 14:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’hubris de Citrini : quand l’IA devient la nouvelle cocaïne des traders</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/29/lhubris-de-citrini-quand-lia-devient-la-nouvelle-cocaine-des-traders/</link>
+      <description>[Le Grand Continent] 50 000 dollars de puissance de calcul suffisent-ils pour créer un antivenin&amp;#160;? L’article L’hubris de Citrini&amp;#160;: quand l’IA devient la nouvelle cocaïne des traders est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">6850e03dc7b12ed9a3d17f8f5e00239eacbddfa7</guid>
+      <pubDate>Thu, 29 Oct 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Faire de l’euro une monnaie géopolitique</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/29/faire-de-leuro-une-monnaie-geopolitique/</link>
+      <description>[Le Grand Continent] La conversion stratégique et la nouvelle doctrine d’un ancien gardien de l’orthodoxie, aujourd'hui candidat à la succession de Lagarde L’article Faire de l&amp;rsquo;euro une monnaie géopolitique est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">eae9c76ab8d528822cea2c504b97399b00eaaf20</guid>
+      <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Obama contre Trump : « Nous devons redresser notre boussole morale »</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/28/obama-contre-trump-nous-devons-redresser-notre-boussole-morale/</link>
+      <description>[Le Grand Continent] Nous traduisons et commentons le discours de Barack Obama à Cleveland dans l’Ohio L’article Obama contre Trump&amp;#160;: «&amp;#160;Nous devons redresser notre boussole morale&amp;#160;» est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">47f3abf530727f178360e0c00d17a3e996b3e690</guid>
+      <pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aucun gagnant clair en Israël : après les élections, vers de longues négociations ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/28/aucun-gagnant-clair-en-israel-apres-les-elections-vers-de-longues-negociations/</link>
+      <description>[Le Grand Continent] Les coalitions de Netanyahou et d'Eisenkot sont au coude-à-coude L’article Aucun gagnant clair en Israël&amp;#160;: après les élections, vers de longues négociations&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">dbfc293a93f90a266f8aabbf1b42751d53002dd4</guid>
+      <pubDate>Wed, 28 Oct 2026 16:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pour réaliser le rapport Draghi, la BCE doit-elle effacer 3 000 milliards de dette ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/28/pour-realiser-le-rapport-draghi-la-bce-doit-elle-effacer-3-000-milliards-de-dette/</link>
+      <description>[Le Grand Continent] Selon l’économiste française, annuler les dettes détenues par les banques centrales serait un levier clef pour financer l’avenir de l’Europe L’article Pour réaliser le rapport Draghi, la BCE doit-elle effacer 3 000 milliards de dette&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">774ff26a099183da5c5581c7ac566d05c58a7c38</guid>
+      <pubDate>Wed, 28 Oct 2026 16:41:00 +0000</pubDate>
+    </item>
     <item>
       <title>Iran : l’État profond des Gardiens de la révolution</title>
       <link>https://theconversation.com/iran-letat-profond-des-gardiens-de-la-revolution-293363</link>
@@ -1542,70 +1606,6 @@
       <category>The Conversation FR - Éducation</category>
       <guid isPermaLink="false">12b670c0ef935fb63b8862cbc781b9298c128cbf</guid>
       <pubDate>Mon, 05 Oct 2026 12:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Au Kenya, choisir son poisson devient un véritable dilemme sanitaire</title>
-      <link>https://theconversation.com/au-kenya-choisir-son-poisson-devient-un-veritable-dilemme-sanitaire-292614</link>
-      <description>[The Conversation FR - International] Compte tenu de la pollution environnementale persistante, s’informer sur les bienfaits et les risques liés à la consommation de poisson est une préoccupation quotidienne pour les consommateurs kenyans. Dans quelle mesure sont-ils influencés par l’étiquetage nutritionnel et les recommandations alimentaires&amp;nbsp;?</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">5f8ca28733490e1429b50efd4e9c46398e060fd3</guid>
-      <pubDate>Mon, 05 Oct 2026 12:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La France et l’Allemagne veulent donner à l’Union le pouvoir de fermer son marché</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/05/la-france-et-lallemagne-veulent-donner-a-lunion-le-pouvoir-de-fermer-son-marche/</link>
-      <description>[Le Grand Continent] Voilà pourquoi ce serait une petite révolution L’article La France et l’Allemagne veulent donner à l’Union le pouvoir de fermer son marché est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">81ad4efb7324625b007e796182a4ad18a34fa922</guid>
-      <pubDate>Mon, 05 Oct 2026 16:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Au sein de l’AfD, on rêve d’annexer les Sudètes, une partie de l’Italie et l’Alsace-Lorraine</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/05/au-sein-de-lafd-on-reve-dannexer-les-sudetes-une-partie-de-litalie-et-l-alsace-lorraine/</link>
-      <description>[Le Grand Continent] Nous cartographions les frontières révisionnistes de la «&amp;#160;Grande Allemagne&amp;#160;» L’article Au sein de l’AfD, on rêve d&amp;rsquo;annexer les Sudètes, une partie de l’Italie et l&amp;rsquo;Alsace-Lorraine est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">325e76611a2f09cb1514e8cdaab8f6ba790c0175</guid>
-      <pubDate>Mon, 05 Oct 2026 15:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Russie fait-elle face à une épidémie de peste ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/05/la-russie-fait-elle-face-a-une-epidemie-de-peste/</link>
-      <description>[Le Grand Continent] Ce que l’on sait sur le décès d’une femme le 2 octobre dans la région d’Irkoutsk L’article La Russie fait-elle face à une épidémie de peste&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">1504681da9b550e5e6440b8027d9b43c1fa86101</guid>
-      <pubDate>Mon, 05 Oct 2026 09:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flávio Bolsonaro : « C’est la fin de Lula »</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/05/flavio-bolsonaro-cest-la-fin-de-lula/</link>
-      <description>[Le Grand Continent] Nous traduisons son discours de la victoire placé entre Milei, Bukele et Trump L’article Flávio Bolsonaro&amp;#160;: «&amp;#160;C’est la fin de Lula&amp;#160;» est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">fcd98a39c4a99734933c715c33cd3512f01fd17f</guid>
-      <pubDate>Mon, 05 Oct 2026 06:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>« La Chine est en train de tuer le commerce mondial ouvert »</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/05/pascal-lamy-la-chine-est-en-train-de-tuer-le-commerce-mondial-ouvert/</link>
-      <description>[Le Grand Continent] Voici comment l’Europe doit réagir L’article «&amp;#160;La Chine est en train de tuer le commerce mondial ouvert&amp;#160;» est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">4e69fa8fbe2a8aba0088349714269a9034676642</guid>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Au Brésil, Flávio Bolsonaro en tête du premier tour</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/04/au-bresil-flavio-bolsonaro-en-tete-du-premier-tour/</link>
-      <description>[Le Grand Continent] La question à suivre lors du scrutin brésilien pourrait être avant tout géopolitique L’article Au Brésil, Flávio Bolsonaro en tête du premier tour est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">6c9c1693bcb69343783022ecb2f2ac8b4b7d8422</guid>
-      <pubDate>Sun, 04 Oct 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Journée d’étude APHG / ECPAD : « Photographier la guerre »</title>
-      <link>https://www.aphg.fr/journee-detude-aphg-ecpad-photographier-la-guerre/</link>
-      <description>[APHG] Journée de formation nationale Samedi 28 novembre 2026, de 9 h à 17 h · Sorbonne (amphi Richelieu le matin, amphi Turgot l&amp;#8217;après-midi) Ce programme a été conçu par l&amp;#8217;ECPAD en accord avec l&amp;#8217;APHG. Nous remercions chaleureusement l&amp;#8217;ECPAD, et tout particulièrement Nadia Wainstain, pour la richesse de cette proposition. De la photographie de guerre dans [&amp;#8230;] L’article Journée d&amp;rsquo;étude APHG / ECPAD : « Photographier la guerre » est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">648ea17b3690762b7289c5b79b79c768e339e9cc</guid>
-      <pubDate>Sun, 04 Oct 2026 15:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
