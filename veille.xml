@@ -6,7 +6,63 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:48:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:30:00 +0000</lastBuildDate>
+    <item>
+      <title>Fascisme : une histoire américaine</title>
+      <link>https://theconversation.com/fascisme-une-histoire-americaine-294393</link>
+      <description>[The Conversation FR - Histoire] Un récent ouvrage revient sur l’histoire de cette mouvance politique aux multiples visages qui, depuis un siècle, a pesé de diverses façons sur les États-Unis.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">dc3c404c1be4605259713c95bda83ef4f0ab877c</guid>
+      <pubDate>Thu, 29 Oct 2026 17:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>« Midterms » aux États-Unis : pourquoi les républicains sont sur la défensive, jusque dans leurs bastions</title>
+      <link>https://theconversation.com/midterms-aux-etats-unis-pourquoi-les-republicains-sont-sur-la-defensive-jusque-dans-leurs-bastions-295383</link>
+      <description>[The Conversation FR - International] Le 3&amp;nbsp;novembre, les Américains votent aux élections de mi-mandat, où le parti du président est presque toujours sanctionné. Les républicains de Trump pourraient perdre la Chambre des représentants&amp;nbsp;; le Sénat s’annonce plus incertain.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">9deda887a33cf6a96adf7dfa07f5dbd94c8d65f9</guid>
+      <pubDate>Thu, 29 Oct 2026 17:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les Nations unies face aux puissances de l’intelligence artificielle</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/30/les-nations-unies-face-aux-puissances-de-lintelligence-artificielle/</link>
+      <description>[Le Grand Continent] Le ministre français des Affaires étrangères revient sur une séquence inédite au Conseil de sécurité L’article Les Nations unies face aux puissances de l’intelligence artificielle est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">879861cf7c39ba24de7a9fd679d61bfd43b38f06</guid>
+      <pubDate>Fri, 30 Oct 2026 15:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trumplation : comment Trump a fait repartir l’inflation américaine</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/30/trumplation-comment-trump-a-fait-repartir-linflation-americaine/</link>
+      <description>[Le Grand Continent] À quatre jours des élections de mi-mandat, le Bureau of Economic Analysis a publié de nouvelles statistiques qui inquiètent la Maison-Blanche L’article Trumplation&amp;#160;: comment Trump a fait repartir l’inflation américaine est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">df3cd9543135790d32d9c6b67dd95a052b9dcc5a</guid>
+      <pubDate>Fri, 30 Oct 2026 14:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les 7 meilleures publicités des midterms (avec deux bonus)</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/30/les-7-meilleures-publicites-des-midterms-avec-deux-bonus/</link>
+      <description>[Le Grand Continent] Les vidéos de la campagne la plus chère de l’histoire qu’il faut avoir vues L’article Les 7 meilleures publicités des midterms (avec deux bonus) est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">d28952248209e541cc34ea42a2e07e690b90a9ed</guid>
+      <pubDate>Fri, 30 Oct 2026 06:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Au Texas, Elon Musk a déversé presque autant d’argent dans la campagne sénatoriale que tout le camp démocrate</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/30/au-texas-elon-musk-a-deverse-presque-autant-dargent-dans-la-campagne-senatoriale-que-tout-le-camp-democrate/</link>
+      <description>[Le Grand Continent] La course au Sénat du Texas est devenue la plus chère de l’histoire L’article Au Texas, Elon Musk a déversé presque autant d’argent dans la campagne sénatoriale que tout le camp démocrate est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">69c2348be0e74f11a8d60cfc5f0efd5f37be4515</guid>
+      <pubDate>Fri, 30 Oct 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En Chine, 55 % des plus grandes fortunes viennent de la tech</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/29/en-chine-55-des-plus-grandes-fortunes-viennent-de-la-tech/</link>
+      <description>[Le Grand Continent] C’est plus de deux fois plus qu’aux États-Unis L’article En Chine, 55&amp;#160;% des plus grandes fortunes viennent de la tech est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c924cac3feca05e0811b29aaa7f083323fa29f75</guid>
+      <pubDate>Thu, 29 Oct 2026 17:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>En Israël, Netanyahou désavoué dans les urnes peut encore rester au pouvoir</title>
       <link>https://theconversation.com/en-israel-netanyahou-desavoue-dans-les-urnes-peut-encore-rester-au-pouvoir-295469</link>
@@ -1550,62 +1606,6 @@
       <category>The Conversation FR - International</category>
       <guid isPermaLink="false">1606d11e90951ee9248785d1edbe76040edea116</guid>
       <pubDate>Tue, 06 Oct 2026 13:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Avec le Chonk, Mistral a-t-il rattrapé son retard dans la course à la frontière de l’IA ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/06/avec-le-chonk-mistral-a-t-il-rattrape-son-retard-dans-la-course-a-la-frontiere-de-lia/</link>
-      <description>[Le Grand Continent] La France se place désormais 3e pour ses modèles d’IA de frontière, derrière les États-Unis et la Chine L’article Avec le Chonk, Mistral a-t-il rattrapé son retard dans la course à la frontière de l’IA&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">dee689839240910ae3a6699fcfdcf4e00f900043</guid>
-      <pubDate>Tue, 06 Oct 2026 15:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vers une résurgence du mouvement des Gilets jaunes ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/06/vers-une-resurgence-du-mouvement-des-gilets-jaunes/</link>
-      <description>[Le Grand Continent] Les appels à l’organisation d’un mouvement national le 17 octobre se multiplient L’article Vers une résurgence du mouvement des Gilets jaunes&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">08a383c6e453f82b26c568f1b20c0bca2f47331b</guid>
-      <pubDate>Tue, 06 Oct 2026 12:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’ère de la guerre politique</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/06/lere-de-la-guerre-politique/</link>
-      <description>[Le Grand Continent] Pour comprendre ce que Poutine et Trump font déjà sur le continent, la notion de «&amp;#160;guerre hybride&amp;#160;» est devenue inadéquate L’article L&amp;rsquo;ère de la guerre politique est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">f3b059d67c4d0f0390cc118e619f4f0999d55437</guid>
-      <pubDate>Tue, 06 Oct 2026 06:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les grands laboratoires pharmaceutiques se tournent vers les biotechs chinoises</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/06/les-grands-laboratoires-pharmaceutiques-se-tournent-vers-les-biotechs-chinoises/</link>
-      <description>[Le Grand Continent] La valeur des accords conclus par des entreprises chinoises avec des partenaires étrangers a plus que doublé en 2025 L’article Les grands laboratoires pharmaceutiques se tournent vers les biotechs chinoises est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">7ec79aa76709c258025550543396dfba03c24101</guid>
-      <pubDate>Tue, 06 Oct 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lycéens et professeurs : les attentes sont les mêmes !</title>
-      <link>https://www.aphg.fr/lyceens-et-professeurs-les-attentes-sont-les-memes/</link>
-      <description>[APHG] Alors qu’un mois à peine s’est écoulé depuis la rentrée scolaire, un mouvement lycéen a pris forme et s’accroît de manière considérable. Il a principalement pris l’aspect de blocages d’établissements et de manifestations. Face à cette situation, le gouvernement, faisant passer au second plan les revendications des lycéens et mettant en avant des actes de [&amp;#8230;] L’article Lycéens et professeurs : les attentes sont les mêmes ! est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">7774864202e35a94e0767c0161020f2a40ec88b2</guid>
-      <pubDate>Tue, 06 Oct 2026 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protection de l’enfance : quels modèles d’alimentation ?</title>
-      <link>https://theconversation.com/protection-de-lenfance-quels-modeles-dalimentation-290798</link>
-      <description>[The Conversation FR - Éducation] Dans les foyers de l’aide sociale à l’enfance, le rapport des jeunes à l’alimentation est très lié à ce qu’ils pensent du lieu d’accueil et de leur mesure de placement.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">94e7d01e4a46ffde0a383b21abb587b8e48a7b2b</guid>
-      <pubDate>Mon, 05 Oct 2026 12:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pourquoi le bonheur des enfants doit être une priorité politique</title>
-      <link>https://theconversation.com/pourquoi-le-bonheur-des-enfants-doit-etre-une-priorite-politique-287108</link>
-      <description>[The Conversation FR - Éducation] Faire en sorte que les enfants soient heureux devrait être l’objectif de toute politique publique. Des indicateurs fiables mesurent le bonheur des enfants, et des pays les utilisent. À quand la France&amp;nbsp;?</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">12b670c0ef935fb63b8862cbc781b9298c128cbf</guid>
-      <pubDate>Mon, 05 Oct 2026 12:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
