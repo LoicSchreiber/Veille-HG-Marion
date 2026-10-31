@@ -6,7 +6,71 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:58:00 +0000</lastBuildDate>
+    <item>
+      <title>De Rome à nos jours, les guerres de la bière ont créé et défait les empires</title>
+      <link>https://theconversation.com/de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-277761</link>
+      <description>[The Conversation FR - Histoire] De l’Empire carolingien à l’Empire britannique, en passant par le Saint-Empire romain germanique, la bière a généré plus de conflits qu’aucun autre alcool au monde.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">a3933c355b872ae0b87672ec249dbc1b8f2a1288</guid>
+      <pubDate>Sat, 31 Oct 2026 07:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comment les Victoriens ont transformé la communication avec les morts en commerce lucratif</title>
+      <link>https://theconversation.com/comment-les-victoriens-ont-transforme-la-communication-avec-les-morts-en-commerce-lucratif-295517</link>
+      <description>[The Conversation FR - Histoire] Dans la Grande-Bretagne du XIXᵉ siècle, les technologies qui transformaient le commerce et les loisirs ont aussi rendu les fantômes visibles, reproductibles et rentables. Une histoire qui éclaire le marché actuel des technologies du deuil.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">401d66ed9fa6bedcf4ae6001dff769f7116e5451</guid>
+      <pubDate>Fri, 30 Oct 2026 16:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>À l’école maternelle, pourquoi la joie de travailler avec les enfants ne suffit pas à tenir</title>
+      <link>https://theconversation.com/a-lecole-maternelle-pourquoi-la-joie-de-travailler-avec-les-enfants-ne-suffit-pas-a-tenir-293060</link>
+      <description>[The Conversation FR - Éducation] Enseignants, Atsem, animateurs&amp;nbsp;: trois&amp;nbsp;enquêtes auprès de 181&amp;nbsp;professionnels de la petite enfance montrent une joie réelle dans l’exercice du métier, tout comme une fatigue liée aux conditions de travail.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">8fbaaaf118a7c2634585c8a2c7e53b8b70a83570</guid>
+      <pubDate>Sat, 31 Oct 2026 07:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quarante jours pour arriver, quarante jours pour partir : comment la culture arménienne accompagne les morts et les naissances</title>
+      <link>https://theconversation.com/quarante-jours-pour-arriver-quarante-jours-pour-partir-comment-la-culture-armenienne-accompagne-les-morts-et-les-naissances-295512</link>
+      <description>[The Conversation FR - International] En Arménie, la naissance comme la mort ouvrent une période de 40 jours, le karasunk. Entre christianisme et croyances populaires, cette tradition protège ceux qui passent d’un état de la vie à un autre.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">67c7be3eb5891dcea0b37e398074ec796999d3ae</guid>
+      <pubDate>Fri, 30 Oct 2026 16:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quels sont les scrutins à suivre lors des élections de mi-mandat ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/31/quels-sont-les-scrutins-a-suivre-lors-des-elections-de-mi-mandat/</link>
+      <description>[Le Grand Continent] Un guide pour se préparer aux élections les plus importantes de cette fin d’année L’article Quels sont les scrutins à suivre lors des élections de mi-mandat&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">f26fe2f1a630b19e5363638f77c3f10a4b4e9d42</guid>
+      <pubDate>Sat, 31 Oct 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>21 livres à lire en novembre 2026</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/31/livres-a-lire-en-novembre-2026/</link>
+      <description>[Le Grand Continent] De Rousseau à Kissinger en passant par Kojève et son «&amp;#160;Empire latin&amp;#160;»&amp;#160;: les parutions à ne pas manquer ce mois-ci L’article 21 livres à lire en novembre 2026 est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">5b8ba73faf75e85970c8c64e46f74336c36fe669</guid>
+      <pubDate>Sat, 31 Oct 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Économie russe : la récolte de pommes de terre pourrait tomber à son plus bas niveau depuis au moins 25 ans</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/30/economie-russe-la-recolte-de-pommes-de-terre-pourrait-tomber-a-son-plus-bas-niveau-depuis-au-moins-25-ans/</link>
+      <description>[Le Grand Continent] Le prix du tubercule a bondi de 29&amp;#160;% en un an L’article Économie russe&amp;#160;: la récolte de pommes de terre pourrait tomber à son plus bas niveau depuis au moins 25 ans est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">0575e179bc60b926e8bdfefdc2d1ddcf3dda32c0</guid>
+      <pubDate>Fri, 30 Oct 2026 17:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trumpflation : comment Trump a fait repartir l’inflation américaine</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/30/trumpflation-comment-trump-a-fait-repartir-linflation-americaine/</link>
+      <description>[Le Grand Continent] À quatre jours des élections de mi-mandat, le Bureau of Economic Analysis a publié de nouvelles statistiques qui inquiètent la Maison-Blanche L’article Trumpflation&amp;#160;: comment Trump a fait repartir l’inflation américaine est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c5caaa1853fc0735e9e6bf6c340c4c940fd55c18</guid>
+      <pubDate>Fri, 30 Oct 2026 14:34:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fascisme : une histoire américaine</title>
       <link>https://theconversation.com/fascisme-une-histoire-americaine-294393</link>
@@ -1542,70 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">87a849d416e04de0265ff5c0473041be29cfe5e3</guid>
       <pubDate>Wed, 07 Oct 2026 10:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump veut vassaliser la presse américaine</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/07/trump-veut-vassaliser-la-presse-americaine/</link>
-      <description>[Le Grand Continent] De Montesquieu à Madison, le coup de force contre la presse marque une rupture historique aux États-Unis L’article Trump veut vassaliser la presse américaine est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">e11097ad6024640ae1c9fca834374c1867a1afe3</guid>
-      <pubDate>Wed, 07 Oct 2026 07:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Iran exerce-t-il toujours un contrôle sur le détroit d’Ormuz ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/07/liran-exerce-t-il-toujours-un-controle-sur-le-detroit-dormuz/</link>
-      <description>[Le Grand Continent] Les flux pétroliers en provenance du Moyen-Orient sont presque revenus à leur niveau d’avant-guerre L’article L’Iran exerce-t-il toujours un contrôle sur le détroit d’Ormuz&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">fb169b571972c7dc88271844f025473b2ec7b68e</guid>
-      <pubDate>Wed, 07 Oct 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quelle géopolitique pour la primaire socialiste ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/06/quelle-geopolitique-pour-la-primaire-socialiste/</link>
-      <description>[Le Grand Continent] Nous avons interrogé les cinq candidats. Voici leurs réponses L’article Quelle géopolitique pour la primaire socialiste&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">df12b3f985722818b5ba281e4492e3fbab718e4e</guid>
-      <pubDate>Tue, 06 Oct 2026 17:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Petite histoire sensorielle de la truffe à l’époque moderne</title>
-      <link>https://theconversation.com/petite-histoire-sensorielle-de-la-truffe-a-lepoque-moderne-291384</link>
-      <description>[The Conversation FR - Histoire] Aux XVIᵉ et XVIIᵉ&amp;nbsp;siècles, la truffe semble connaître un regain d’intérêt, tant chez les naturalistes que chez les spécialistes de l’art culinaire.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">674e41540961d4869a3616d5740c7d4afad63006</guid>
-      <pubDate>Tue, 06 Oct 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’histoire d’Argos, le fidèle chien d’Ulysse, éclaire la place des animaux dans la Grèce antique</title>
-      <link>https://theconversation.com/lhistoire-dargos-le-fidele-chien-dulysse-eclaire-la-place-des-animaux-dans-la-grece-antique-288398</link>
-      <description>[The Conversation FR - Histoire] Dans l’«&amp;nbsp;Odyssée&amp;nbsp;», les retrouvailles entre Ulysse et son chien Argos comptent parmi les scènes les plus émouvantes de toute la littérature antique. Elles révèlent aussi la place essentielle qu’occupaient les animaux dans la vie quotidienne des Grecs.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">718dd0969bd75deb49cf9321f1f07d92fdac9bba</guid>
-      <pubDate>Tue, 06 Oct 2026 07:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le long voyage du riz, de la préhistoire aux rizières du monde entier</title>
-      <link>https://theconversation.com/le-long-voyage-du-riz-de-la-prehistoire-aux-rizieres-du-monde-entier-288943</link>
-      <description>[The Conversation FR - Histoire] D’où vient le riz ? Et comment s’est-il diffusé jusqu’à devenir l’un des piliers de la sécurité alimentaire mondiale ?</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">e0319f723c8975fe1a33a2b307f295a5e13bd8b5</guid>
-      <pubDate>Tue, 06 Oct 2026 07:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brésil : le monde ancien est mort, et le nouveau ne peut pas naître</title>
-      <link>https://theconversation.com/bresil-le-monde-ancien-est-mort-et-le-nouveau-ne-peut-pas-naitre-293717</link>
-      <description>[The Conversation FR - International] Ce projet politique, né au milieu des années&amp;nbsp;1980 sur les décombres de la dictature militaire, a sans doute pris fin ce 4&amp;nbsp;octobre. La question est désormais de savoir ce qui va le remplacer.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">35b57309b959ddfa4fd3216d5b55a8b296bc8421</guid>
-      <pubDate>Tue, 06 Oct 2026 13:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les sociétés militaires privées en Amérique latine : de la fin de la guerre froide à Vectus Global</title>
-      <link>https://theconversation.com/les-societes-militaires-privees-en-amerique-latine-de-la-fin-de-la-guerre-froide-a-vectus-global-291844</link>
-      <description>[The Conversation FR - International] En Amérique latine, les SMP américaines consolident leur présence tandis que la Chine progresse et que la Russie recule, sur fond de rivalité entre puissances.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">1606d11e90951ee9248785d1edbe76040edea116</guid>
-      <pubDate>Tue, 06 Oct 2026 13:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
