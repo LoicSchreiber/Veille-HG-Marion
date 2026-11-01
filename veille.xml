@@ -6,7 +6,63 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 5 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 31 Oct 2026 14:58:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:42:00 +0000</lastBuildDate>
+    <item>
+      <title>Ni Crécy ni Azincourt : Neville’s Cross, la victoire anglaise décisive que l’histoire a oubliée</title>
+      <link>https://theconversation.com/ni-crecy-ni-azincourt-nevilles-cross-la-victoire-anglaise-decisive-que-lhistoire-a-oubliee-294694</link>
+      <description>[The Conversation FR - Histoire] En 1346, près de Durham, l’Angleterre a écrasé l’armée écossaise lancée à l’appel de la France et capturé le roi David II. Une victoire décisive de la guerre de Cent Ans, pourtant oubliée.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">f6f536be8e6fed8d5af9218baabd6116a79f7d68</guid>
+      <pubDate>Sun, 01 Nov 2026 08:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Niveau de français exigé pour les étrangers : une « simple » question de langue ?</title>
+      <link>https://theconversation.com/niveau-de-francais-exige-pour-les-etrangers-une-simple-question-de-langue-291610</link>
+      <description>[The Conversation FR - Éducation] En France, les exigences de maîtrise du français en vue de l’obtention de titres de séjour et de la naturalisation se durcissent. Cette politique interroge les liens entre langue, intégration et inégalités sociales.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">9516db28f4b5e51d7137a7a4378db441ded90684</guid>
+      <pubDate>Sun, 01 Nov 2026 07:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Du Kenya à la France, le masque, signe de ralliement de la génération Z</title>
+      <link>https://theconversation.com/du-kenya-a-la-france-le-masque-signe-de-ralliement-de-la-generation-z-295564</link>
+      <description>[The Conversation FR - Éducation] Rendu obligatoire jusque dans les écoles pendant la pandémie de Covid-19, le masque réapparaît en 2026 dans les blocus lycéens et les manifestations. Contre les gaz lacrymogènes ou pour éviter d’être reconnus, les jeunes retournent un objet que l’État leur avait appris à porter.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">a4a567770e653bc9f9945992fb7a75e6e22d7170</guid>
+      <pubDate>Sat, 31 Oct 2026 16:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pour continuer à grandir, Shanghai doit se démolir elle-même</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/01/shanghai-apres-la-croissance-sans-limites/</link>
+      <description>[Le Grand Continent] Après avoir construit l’équivalent de 53 Manhattan, la capitale économique chinoise arrive au bout de ses réserves foncières. Et maintenant&amp;#160;? L’article Pour continuer à grandir, Shanghai doit se démolir elle-même est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">431989f57d9be141863567725cf6591358df2a54</guid>
+      <pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pour la première fois dans l’histoire un pape a voté</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/01/pour-la-premiere-fois-dans-lhistoire-un-pape-a-vote/</link>
+      <description>[Le Grand Continent] Léon XIV peut-il être un électeur comme les autres&amp;#160;? L’article Pour la première fois dans l’histoire un pape a voté est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">5b47803f75c67dcb07c352dca4b0e64130175bbf</guid>
+      <pubDate>Sun, 01 Nov 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Croissance économique : la France décroche</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/01/croissance-economique-la-france-decroche/</link>
+      <description>[Le Grand Continent] Le PIB français recule au troisième trimestre, signe d’une économie bien plus à la peine que celle de ses voisins L’article Croissance économique&amp;#160;: la France décroche est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c5cf9181cb1074385ab4060d713ff824ac36bd3e</guid>
+      <pubDate>Sun, 01 Nov 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’histoire vertigineuse des combattants ouïghours en Syrie</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/01/lhistoire-vertigineuse-des-combattants-ouighours-en-syrie/</link>
+      <description>[Le Grand Continent] Enquête sur le front moyen-oriental d’un dossier explosif pour le Parti communiste chinois L’article L’histoire vertigineuse des combattants ouïghours en Syrie est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">640d95633664aa36a9e498a58f71cf6fa06ef1fa</guid>
+      <pubDate>Sun, 01 Nov 2026 05:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>De Rome à nos jours, les guerres de la bière ont créé et défait les empires</title>
       <link>https://theconversation.com/de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-277761</link>
@@ -1550,62 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">0a564e0a3300c34a043703be3c79b86ccf0a2a8a</guid>
       <pubDate>Thu, 08 Oct 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Après l’épreuve de la preuve</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/07/apres-lepreuve-de-la-preuve/</link>
-      <description>[Le Grand Continent] De l’affaire Dreyfus à Gaza, enquête sur les pathologies contemporaines du débat public L’article Après l’épreuve de la preuve est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">b48d0866aadc8f96d2f510d75fc7cd04edc7d3ca</guid>
-      <pubDate>Wed, 07 Oct 2026 16:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>De la lettre à Internet : communiquons-nous désormais en temps réel ?</title>
-      <link>https://theconversation.com/de-la-lettre-a-internet-communiquons-nous-desormais-en-temps-reel-293129</link>
-      <description>[The Conversation FR - Histoire] S’il fallait autrefois attendre de longs jours avant de recevoir une missive, notre époque semble avoir aboli les distances et le temps. Mais cette communication si immédiate en apparence n’est qu’une métamorphose de l’attente.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">48afbb6d02834d0c721730a6ef8b0970f11d92f4</guid>
-      <pubDate>Wed, 07 Oct 2026 14:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Des scientifiques avaient prédit la fin du monde pour le vendredi 13 novembre 2026. Faut-il s’inquiéter ?</title>
-      <link>https://theconversation.com/des-scientifiques-avaient-predit-la-fin-du-monde-pour-le-vendredi-13-novembre-2026-faut-il-sinquieter-293842</link>
-      <description>[The Conversation FR - Histoire] En 1960, des chercheurs annonçaient la fin du monde pour le 13 novembre 2026, sous l’effet d’une croissance démographique incontrôlée. Retour sur une prédiction qui mêlait science rigoureuse et art de la mise en scène.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">7668778a582cfd9f029f220f8f0e48fd34990c32</guid>
-      <pubDate>Wed, 07 Oct 2026 10:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manifestations lycéennes, réponse du gouvernement : pourquoi la situation est inédite – et imprévisible</title>
-      <link>https://theconversation.com/manifestations-lyceennes-reponse-du-gouvernement-pourquoi-la-situation-est-inedite-et-imprevisible-293772</link>
-      <description>[The Conversation FR - Éducation] Les revendications des lycéens sur les moyens de l’éducation nationale sont récurrentes, mais le contexte global et la forme du mouvement –&amp;nbsp;né dans les banlieues populaires&amp;nbsp;– sont nouveaux, tout comme la réponse, d’abord policière, du gouvernement.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">cf18264c9d7d5cb3d8cb4ce682d94f4eac4f1608</guid>
-      <pubDate>Wed, 07 Oct 2026 12:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le droit, levier de l’Europe face à Pékin</title>
-      <link>https://theconversation.com/le-droit-levier-de-leurope-face-a-pekin-291888</link>
-      <description>[The Conversation FR - International] Face à la Chine, l’UE transforme son marché en levier juridique&amp;nbsp;: salariés, subventions et travail forcé deviennent les nouveaux terrains de la confrontation.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">1aa8979508a2e039a849f92c33e235cd0f5f3672</guid>
-      <pubDate>Wed, 07 Oct 2026 14:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aux États-Unis, l’IA creuse le déficit commercial</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/07/aux-etats-unis-lia-creuse-le-deficit-commercial/</link>
-      <description>[Le Grand Continent] Trump peut-il concilier IA de pointe et réduction du déficit&amp;#160;? L’article Aux États-Unis, l’IA creuse le déficit commercial est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">6ffacf00cf27dc782844396782db524c9131eaed</guid>
-      <pubDate>Wed, 07 Oct 2026 15:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Économie russe : les recettes tirées des exportations de pétrole brut atteignent leur niveau le plus élevé depuis 2022</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/07/economie-russe-les-recettes-tirees-des-exportations-de-petrole-brut-atteignent-leur-niveau-le-plus-eleve-depuis-2022/</link>
-      <description>[Le Grand Continent] La hausse des exportations de brut n’est toutefois pas nécessairement une bonne nouvelle pour Moscou L’article Économie russe&amp;#160;: les recettes tirées des exportations de pétrole brut atteignent leur niveau le plus élevé depuis 2022 est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">87a849d416e04de0265ff5c0473041be29cfe5e3</guid>
-      <pubDate>Wed, 07 Oct 2026 10:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
