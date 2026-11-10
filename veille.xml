@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 09 Nov 2026 19:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:45:00 +0000</lastBuildDate>
+    <item>
+      <title>11-Novembre : les démocraties savent-elles faire la guerre ? La réponse de l’Athènes antique</title>
+      <link>https://theconversation.com/11-novembre-les-democraties-savent-elles-faire-la-guerre-la-reponse-de-lathenes-antique-296198</link>
+      <description>[The Conversation FR - Histoire] Les démocraties savent-elles faire la guerre&amp;nbsp;? L’Athènes antique, puissance militaire redoutable et démocratie sans équivalent à son époque, répond oui. Mais elle rappelle aussi que la démocratie ne rend pas un peuple pacifique par nature.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">67cf347684fefb177b169b7a9ab462ca28f86538</guid>
+      <pubDate>Tue, 10 Nov 2026 16:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>États-Unis : le retour de la gauche chrétienne ?</title>
+      <link>https://theconversation.com/etats-unis-le-retour-de-la-gauche-chretienne-296169</link>
+      <description>[The Conversation FR - International] Deux élus démocrates revendiquent une lecture de la foi tournée vers la justice sociale et contestent le monopole sur les voix des croyants auquel prétendent les républicains.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">8f99b1d6ddee11cd487d71257853b6a78c5403c5</guid>
+      <pubDate>Tue, 10 Nov 2026 16:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vision nocturne et tactique, IA : les promesses des casques de guerre futuristes</title>
+      <link>https://theconversation.com/vision-nocturne-et-tactique-ia-les-promesses-des-casques-de-guerre-futuristes-288140</link>
+      <description>[The Conversation FR - International] Vision augmentée, données tactiques, intelligence artificielle : les casques militaires deviennent des interfaces de haute technologie. Au risque de surcharger ceux qui les portent ?</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">a965e4b6ef4218806f98e1e4ebb0c1a85871752c</guid>
+      <pubDate>Tue, 10 Nov 2026 16:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Engagement militaire égyptien aux côtés de l’Arabie saoudite : beaucoup de bruit pour rien ?</title>
+      <link>https://theconversation.com/engagement-militaire-egyptien-aux-cotes-de-larabie-saoudite-beaucoup-de-bruit-pour-rien-295703</link>
+      <description>[The Conversation FR - International] L’Égypte soutient Riyad face aux houthistes, mais limite son engagement militaire. Le Caire veut préserver ses alliances sans être entraîné dans la guerre.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">96349f2837b15c16cace3a10033aa917bc1e269e</guid>
+      <pubDate>Tue, 10 Nov 2026 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’excédent commercial de la Chine avec la France a reculé de 10 % sur les neuf premiers mois de l’année</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/10/lexcedent-commercial-de-la-chine-avec-la-france-a-recule-de-10-sur-les-neuf-premiers-mois-de-lannee/</link>
+      <description>[Le Grand Continent] Paris échappe-t-il au deuxième choc chinois&amp;#160;? L’article L’excédent commercial de la Chine avec la France a reculé de 10&amp;#160;% sur les neuf premiers mois de l’année est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">10d8b411dc86e03f71c820114da5d72df39bc4f7</guid>
+      <pubDate>Tue, 10 Nov 2026 16:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En octobre, plus d’une manifestation sur deux en Europe a eu lieu en France</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/10/en-octobre-plus-dune-manifestation-sur-deux-en-europe-a-eu-lieu-en-france/</link>
+      <description>[Le Grand Continent] Le pays a connu près de 2 700 manifestations et émeutes le mois dernier L’article En octobre, plus d’une manifestation sur deux en Europe a eu lieu en France est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">75343c9e2cea1950188e89b4b29fcc3b1c583cd8</guid>
+      <pubDate>Tue, 10 Nov 2026 05:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>« Les Voyages de Gulliver » ont 300 ans, et le roman de Jonathan Swift reste un sommet de satire politique</title>
       <link>https://theconversation.com/les-voyages-de-gulliver-ont-300-ans-et-le-roman-de-jonathan-swift-reste-un-sommet-de-satire-politique-295700</link>
@@ -1558,54 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">406b3da4ccb3cc6e5b94b46128dbf3396772cb08</guid>
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pour comprendre les manifestations en Europe, faut-il regarder le prix du gaz ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/20/pour-comprendre-les-manifestations-en-europe-faut-il-regarder-le-prix-du-gaz/</link>
-      <description>[Le Grand Continent] En France, le prix du MWh de gaz payé par les ménages a presque doublé en cinq ans L’article Pour comprendre les manifestations en Europe, faut-il regarder le prix du gaz&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">152a42ee7d1c928f65bf5d8cf36bbe9cbeedfc4f</guid>
-      <pubDate>Tue, 20 Oct 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le piège italien de la politique française</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/20/le-piege-italien-politique-francaise/</link>
-      <description>[Le Grand Continent] En Italie, tous les populistes ont plié devant le vincolo esterno . Une leçon romaine pour 2027 L’article Le piège italien de la politique française est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">41b8b19554a69da06c7c0c5b2f3ea51842429016</guid>
-      <pubDate>Tue, 20 Oct 2026 04:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quelles villes sont concernées par les couvre-feux ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/19/quelles-villes-et-quels-perimetres-sont-concernes-par-les-couvre-feux/</link>
-      <description>[Le Grand Continent] À 20h ce soir, ces mesures «&amp;#160;partielles&amp;#160;» et «&amp;#160;localisées&amp;#160;» concernent huit communes et villes. L’article Quelles villes sont concernées par les couvre-feux&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">d590b6f58c629dc56602385b5d5d1d4a36d82784</guid>
-      <pubDate>Mon, 19 Oct 2026 18:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartographier les réactions internationales aux violences en France</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/19/cartographier-les-reactions-internationales-aux-violences-en-france/</link>
-      <description>[Le Grand Continent] La majorité des dirigeants pointent la France pour justifier leurs politiques internes L’article Cartographier les réactions internationales aux violences en France est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">006eeb0db430248128a05a0f1697c9bc43d31e5e</guid>
-      <pubDate>Mon, 19 Oct 2026 17:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les élèves ont débattu pour faire vivre la démocratie : retour sur le prix Samuel Paty 2026</title>
-      <link>https://www.aphg.fr/les-eleves-ont-debattu-pour-faire-vivre-la-democratie-retour-sur-le-prix-samuel-paty-2026/</link>
-      <description>[APHG] La cérémonie du prix Samuel Paty 2026 a récompensé les écoles primaires, collèges et lycées pour des travaux extrêmement riches. Elle a marqué comme chaque année un temps fort après les hommages scolaires à Samuel Paty et à Dominique Bernard, professeurs victimes du terrorisme. Les classes présentes, après avoir visité des lieux symboles de la [&amp;#8230;] L’article Les élèves ont débattu pour faire vivre la démocratie : retour sur le prix Samuel Paty 2026 est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">ae8c2ddc6e4b90a8148e4691788f6604bc9a2edc</guid>
-      <pubDate>Tue, 20 Oct 2026 10:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’école à l’ère de l’individualisme compétitif ? Derrière les discours sur l’excellence, l’illusion méritocratique</title>
-      <link>https://theconversation.com/lecole-a-lere-de-lindividualisme-competitif-derriere-les-discours-sur-lexcellence-lillusion-meritocratique-293231</link>
-      <description>[The Conversation FR - Éducation] Si le discours sur le mérite a changé de forme, il continue de valider la reproduction d’inégalités sociales et scolaires soulignées dans les années&amp;nbsp;1970 par les sociologues P.&amp;nbsp;Bourdieu et J.-C.&amp;nbsp;Passeron.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">1ede8b8cd627718b773aeba285c083e7f500f46f</guid>
-      <pubDate>Mon, 19 Oct 2026 14:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
