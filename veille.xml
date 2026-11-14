@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:54:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:30:00 +0000</lastBuildDate>
+    <item>
+      <title>Blocus de l’Iran : pourquoi l’arme qui a fait tomber Mossadegh en 1953 ne suffira sans doute pas aujourd’hui</title>
+      <link>https://theconversation.com/blocus-de-liran-pourquoi-larme-qui-a-fait-tomber-mossadegh-en-1953-ne-suffira-sans-doute-pas-aujourdhui-296571</link>
+      <description>[The Conversation FR - Histoire] Face à l’Iran, en guerre avec les États-Unis depuis février, Donald Trump mise sur un blocus naval. En 1953, deux&amp;nbsp;ans de pression économique britannique avaient chassé le premier ministre Mossadegh, mais Téhéran sait désormais riposter.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">6cc7fd66bd3636e59c5a42d601682624991c42dc</guid>
+      <pubDate>Sat, 14 Nov 2026 08:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Au-delà de Trump : la chute de l’Occident et du monde global ?</title>
+      <link>https://theconversation.com/au-dela-de-trump-la-chute-de-loccident-et-du-monde-global-295893</link>
+      <description>[The Conversation FR - International] La quête de domination et de réussite individuelle fragilise l’Occident&amp;nbsp;: derrière le modèle de puissance se cache un antimodèle qui menace l’équilibre collectif.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">50fb9eeaf5880b884374239636f04207095ecb58</guid>
+      <pubDate>Sat, 14 Nov 2026 08:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les demandes brutales de la Russie sur l’Ukraine</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/14/les-demandes-brutales-de-la-russie-sur-lukraine/</link>
+      <description>[Le Grand Continent] En profitant de la convergence avec Trump, à Abou Dhabi Poutine a exigé la capitulation stratégique de l’Europe L’article Les demandes brutales de la Russie sur l’Ukraine est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">dce14807e564b6c8a2ef9650ea7622cd99ead13c</guid>
+      <pubDate>Sat, 14 Nov 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi il faut prêter attention à la courbe de popularité de Poutine</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/14/pourquoi-il-faut-preter-attention-a-la-courbe-de-popularite-de-poutine/</link>
+      <description>[Le Grand Continent] Par le passé, Poutine a choisi l’escalade pour remonter sa cote L’article Pourquoi il faut prêter attention à la courbe de popularité de Poutine est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">0f22574a78ddc239017a97c880d74be607f94e3f</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La prochaine révolution de l’IA sera biologique</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/14/la-prochaine-revolution-de-lia-sera-biologique/</link>
+      <description>[Le Grand Continent] Si l’IA pourrait guérir le cancer, pourquoi avons-nous surtout peur qu’elle nous tue tous&amp;#160;? L’article La prochaine révolution de l’IA sera biologique est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">dfc2a4df29e5b8741a6071d2dc9c555b620ab0bc</guid>
+      <pubDate>Sat, 14 Nov 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>À Dallas, les nationalistes chrétiens préparent l’après-Trump</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/13/a-dallas-les-nationalistes-chretiens-preparent-lapres-trump/</link>
+      <description>[Le Grand Continent] Une nouvelle vague nationaliste est-elle en train de radicaliser davantage la droite américaine&amp;#160;? L’article À Dallas, les nationalistes chrétiens préparent l’après-Trump est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2c695c5f4c9a781287b4b2639e13c9fc211f21bd</guid>
+      <pubDate>Fri, 13 Nov 2026 18:11:00 +0000</pubDate>
+    </item>
     <item>
       <title>Espagne : la « priorité nationale », une réponse à la crise du logement qui pourrait l’aggraver</title>
       <link>https://theconversation.com/espagne-la-priorite-nationale-une-reponse-a-la-crise-du-logement-qui-pourrait-laggraver-296556</link>
@@ -1558,54 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">9705dea76a8887827f274ef7ed60e44257088896</guid>
       <pubDate>Thu, 22 Oct 2026 13:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La crise française de la dette s’accélère</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/22/la-crise-francaise-de-la-dette-saccelere/</link>
-      <description>[Le Grand Continent] L’écart entre les taux d’emprunt français et allemand est à son plus haut niveau depuis 2011 L’article La crise française de la dette s’accélère est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">7d166d3d234a21f32d07a36626a6c2e6f801fcc9</guid>
-      <pubDate>Thu, 22 Oct 2026 10:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aux États-Unis, l’IA siphonne le capital</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/22/aux-etats-unis-lia-siphonne-le-capital/</link>
-      <description>[Le Grand Continent] Les investissements massifs dans l’IA se font au détriment d’autres secteurs L’article Aux États-Unis, l’IA siphonne le capital est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">0b943cf2320587dcc5a363107e54fa5cb4b178fd</guid>
-      <pubDate>Thu, 22 Oct 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bolsonaro et l’influence évangélique : enquête</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/22/je-ne-peux-pas-vous-demander-de-voter-pour-moi-mais-je-peux-vous-conseiller-ce-que-letude-des-offices-dit-du-vote-religieux-au-bresil/</link>
-      <description>[Le Grand Continent] Les pasteurs sont-ils en train de faire basculer le Brésil&amp;#160;? L’article Bolsonaro et l&amp;rsquo;influence évangélique&amp;#160;: enquête est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">e391b089b61ffb90440467e82712bf152239c6a8</guid>
-      <pubDate>Thu, 22 Oct 2026 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La guerre en Ukraine s’étend à l’espace</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/21/la-guerre-en-ukraine-setend-a-lespace/</link>
-      <description>[Le Grand Continent] En Europe, trois sites liés à Starlink ont été ciblé ces dernières semaines L’article La guerre en Ukraine s’étend à l’espace est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">82b170061891cf7e0e05f0698d3ee8abdcf16845</guid>
-      <pubDate>Wed, 21 Oct 2026 15:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Demi-journée d’étude : À mon tour de voter ! Présidentielle 2027 : comment en parler aux élèves?</title>
-      <link>https://www.aphg.fr/demi-journee-detude-a-mon-tour-de-voter-presidentielle-2027-comment-en-parler-aux-eleves/</link>
-      <description>[APHG] Pensée pour les enseignants de lycées, cette rencontre vise à apporter des clés de lecture et des outils pédagogiques concrets pour aborder les institutions et le vote avec leurs élèves. Autour d&amp;#8217; un état des lieux de l&amp;#8217;opinion démocratique, de regards historiques et d&amp;#8217;échanges pédagogiques, la journée s&amp;#8217;achèvera par une présentation de nos ressources dédiées [&amp;#8230;] L’article Demi-journée d&amp;rsquo;étude : À mon tour de voter ! Présidentielle 2027 : comment en parler aux</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">32b31a32262af042d7fd88bbd55761bcdcd4024c</guid>
-      <pubDate>Thu, 22 Oct 2026 10:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quand les riches Anglais profitaient de la Révolution française pour s’emparer de livres rares</title>
-      <link>https://theconversation.com/quand-les-riches-anglais-profitaient-de-la-revolution-francaise-pour-semparer-de-livres-rares-294195</link>
-      <description>[The Conversation FR - Histoire] Pendant la Révolution française, de riches collectionneurs anglais ont profité du démantèlement des monastères pour acquérir des livres rares, parfois sous la contrainte ou par le vol. Une enquête révèle les origines troubles de leurs collections.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">bd24b7bdd8bc58a9b1a0cab75400927791d9621b</guid>
-      <pubDate>Tue, 20 Oct 2026 13:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
