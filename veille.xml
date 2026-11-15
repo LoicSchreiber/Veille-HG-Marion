@@ -6,7 +6,55 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 14 Nov 2026 15:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 16:01:00 +0000</lastBuildDate>
+    <item>
+      <title>« DostoïevskIA » : la littérature russe au service de la propagande</title>
+      <link>https://theconversation.com/dosto-evskia-la-litterature-russe-au-service-de-la-propagande-296076</link>
+      <description>[The Conversation FR - Histoire] L’écrivain Fiodor Dostoïevski endosse aujourd’hui un rôle inattendu&amp;nbsp;: son avatar IA est devenu expert des questions politiques pour une chaîne de propagande russe.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">cc043f087d36a4129f2b91f71c112f246b5f5038</guid>
+      <pubDate>Sun, 15 Nov 2026 07:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>« Si je te punis, c’est pour ton bien », vraiment ? Contre l’adultisme, penser une éducation mutuelle</title>
+      <link>https://theconversation.com/si-je-te-punis-cest-pour-ton-bien-vraiment-contre-ladultisme-penser-une-education-mutuelle-293002</link>
+      <description>[The Conversation FR - Éducation] Les bonnes intentions éducatives peuvent masquer des rapports de forces. Or, pour être émancipatrice, l’éducation ne peut se fonder sur l’infantilisation.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">76f2a678e7d235214a6be99984ac00a536fee50e</guid>
+      <pubDate>Sun, 15 Nov 2026 07:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le pastoralisme, risque ou solution face au changement climatique ? L’évolution du regard porté par les COP climat</title>
+      <link>https://theconversation.com/le-pastoralisme-risque-ou-solution-face-au-changement-climatique-levolution-du-regard-porte-par-les-cop-climat-296191</link>
+      <description>[The Conversation FR - International] À la fois victime du changement climatique et facteur d’impact ou solution, le pastoralisme échappe aux définitions simplistes.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">28e43839969b1e9805b6933f0d64c69b3c200f75</guid>
+      <pubDate>Sun, 15 Nov 2026 07:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guangdong, aux sources du nouveau choc chinois</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/15/guangdong-aux-sources-du-nouveau-choc-chinois/</link>
+      <description>[Le Grand Continent] Pour saisir ce que la Chine exporte aujourd’hui, il faut regarder ce qu’elle a d’abord réorganisé chez elle. L’article Guangdong, aux sources du nouveau choc chinois est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">6c377e8ecd1b0086627609829063a58a67f0ca1c</guid>
+      <pubDate>Sun, 15 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le soleil noir de la gauche</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/15/le-soleil-noir-de-la-gauche/</link>
+      <description>[Le Grand Continent] Ce que la jeunesse est en train de nous révéler, c’est l’horizon perdu de la démocratie L’article Le soleil noir de la gauche est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">90821fa8e11b4529641bcb09c167be9fd9c750c6</guid>
+      <pubDate>Sun, 15 Nov 2026 08:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>États-Unis : ce que le reflux du vote hispanique signifie pour l’élection de 2028</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/15/etats-unis-ce-que-le-reflux-du-vote-hispanique-signifie-pour-lelection-de-2028/</link>
+      <description>[Le Grand Continent] 70&amp;#160;% des électeurs hispaniques ont voté démocrate contre 29&amp;#160;% pour les républicains, soit un glissement de 30 points par rapport à 2024 L’article États-Unis&amp;#160;: ce que le reflux du vote hispanique signifie pour l’élection de 2028 est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">ff01b139192df0e3880c8b26eb0f0e351a502685</guid>
+      <pubDate>Sun, 15 Nov 2026 05:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Blocus de l’Iran : pourquoi l’arme qui a fait tomber Mossadegh en 1953 ne suffira sans doute pas aujourd’hui</title>
       <link>https://theconversation.com/blocus-de-liran-pourquoi-larme-qui-a-fait-tomber-mossadegh-en-1953-ne-suffira-sans-doute-pas-aujourdhui-296571</link>
@@ -1558,54 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">b0294092fc3b0cfdc1a8ae981ced6b047f4aae34</guid>
       <pubDate>Thu, 22 Oct 2026 16:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coup de pouce Agrégation interne aux Rendez-vous de l’histoire de Blois 2026 – les supports des interventions</title>
-      <link>https://www.aphg.fr/operation-blois-2026/</link>
-      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2026-2027 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page les supports des interventions qui se sont déroulées lors de l&amp;#8217;après-midi organisée le samedi 10 octobre par l&amp;#8217;APHG. Cette page [&amp;#8230;] L’article Coup de pouce Agrégation interne aux Rendez-vous de l&amp;rsquo;histoire de Blois 2026 &amp;#8211; les supports des in</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">df2ade6f64dda40aa2651c8a28a1a5cb71e3e9a3</guid>
-      <pubDate>Thu, 22 Oct 2026 18:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coup de pouce Agrégation interne – Marie Redon – Le Pacifique dans la nouvelle géopolitique insulaire mondiale</title>
-      <link>https://www.aphg.fr/coup-de-pouce-agregation-interne-marie-redon-le-pacifique-dans-la-nouvelle-geopolitique-insulaire-mondiale/</link>
-      <description>[APHG] Opération coup de pouce pour préparer l’Agrégation interne organisée par l’APHG pour ses adhérents de l’année 2026-2027 sous la forme de conférences et de séances de méthodologie des épreuves. Vous pouvez retrouver sur cette page une séance de Marie Redon consacrée au thème « le Pacifique dans la nouvelle géopolitique insulaire mondiale ». Le podcast est proposé [&amp;#8230;] L’article Coup de pouce Agrégation interne &amp;#8211; Marie Redon &amp;#8211; Le Pacifique dans la nouvelle géopolitique insulaire m</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">2fbe74aa4792175d861820835d5c62a54381a9f0</guid>
-      <pubDate>Thu, 22 Oct 2026 17:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pourquoi nous avons de plus en plus de mal à lire des textes longs – et comment entretenir cette capacité</title>
-      <link>https://theconversation.com/pourquoi-nous-avons-de-plus-en-plus-de-mal-a-lire-des-textes-longs-et-comment-entretenir-cette-capacite-293870</link>
-      <description>[The Conversation FR - Éducation] Quelles sont les conditions essentielles à préserver pour que la lecture reste un moyen pour chacun de se construire et de donner forme à son expérience&amp;nbsp;?</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">9e7beb32d5b6845a6c8abee989a2de32bb782746</guid>
-      <pubDate>Thu, 22 Oct 2026 13:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parler de religion quand on est un démocrate dans un État républicain : le pari de James Talarico pour remporter l’élection sénatoriale au Texas</title>
-      <link>https://theconversation.com/parler-de-religion-quand-on-est-un-democrate-dans-un-etat-republicain-le-pari-de-james-talarico-pour-remporter-lelection-senatoriale-au-texas-294618</link>
-      <description>[The Conversation FR - International] Candidat à un poste de sénateur du Texas au Congrès fédéral, James&amp;nbsp;Talarico n’est pas un démocrate ordinaire&amp;nbsp;: il met sans cesse sa foi en avant, ce qui est généralement l’apanage des candidats républicains.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">080a3a277316afb9f2b7e9e4d7469e2d88dcbde7</guid>
-      <pubDate>Thu, 22 Oct 2026 13:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ultimatum de Trump à la Cour pénale internationale : un catalyseur de la souveraineté européenne ?</title>
-      <link>https://theconversation.com/ultimatum-de-trump-a-la-cour-penale-internationale-un-catalyseur-de-la-souverainete-europeenne-294377</link>
-      <description>[The Conversation FR - International] Donald Trump a franchi une étape dans les menaces contre la Cour pénale internationale. L’UE a-t-elle les moyens de riposter&amp;nbsp;? Le peut-elle&amp;nbsp;? L’euro numérique serait-il un outil plus efficace&amp;nbsp;?</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">07ddfbf80c4b737beaaa070ed56d580b18d2d423</guid>
-      <pubDate>Thu, 22 Oct 2026 13:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment des acteurs étrangers ont attisé la colère en ligne autour des manifestations du 17 octobre en France</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/22/comment-des-acteurs-etrangers-ont-attise-la-colere-en-ligne-autour-des-manifestations-du-17-octobre-en-france/</link>
-      <description>[Le Grand Continent] Une étude quantitative révèle l’ampleur de l’amplification étrangère L’article Comment des acteurs étrangers ont attisé la colère en ligne autour des manifestations du 17 octobre en France est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">9705dea76a8887827f274ef7ed60e44257088896</guid>
-      <pubDate>Thu, 22 Oct 2026 13:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
