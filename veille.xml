@@ -6,7 +6,111 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Il y a 2 000 ans, la taille de l’Afrique sur la carte était déjà une affaire de pouvoir</title>
+      <link>https://theconversation.com/il-y-a-2-000-ans-la-taille-de-lafrique-sur-la-carte-etait-deja-une-affaire-de-pouvoir-296660</link>
+      <description>[The Conversation FR - Histoire] Les Nations unies ont voté une résolution en faveur de la carte Equal Earth, plus fidèle que celle de Mercator à la taille de l’Afrique. L’étendue des continents, et ce qu’elle dit de leur poids, divisait déjà les géographes antiques.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">6e12fea079774e2903dba8e7b5f71791ac005e1f</guid>
+      <pubDate>Wed, 18 Nov 2026 10:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>De la Chine antique au scandale Jensen Huang, une petite histoire du « piège amoureux »</title>
+      <link>https://theconversation.com/de-la-chine-antique-au-scandale-jensen-huang-une-petite-histoire-du-piege-amoureux-296692</link>
+      <description>[The Conversation FR - Histoire] L’affaire Jensen Huang invite à se replonger dans une pratique ancienne&amp;nbsp;: celle du «&amp;nbsp;piège amoureux&amp;nbsp;», qui consiste à séduire une personnalité à des fins politiques.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">e9d9089e5a8ea5dfa80c99af161619582bca3021</guid>
+      <pubDate>Wed, 18 Nov 2026 10:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pourquoi la génération Z doit en partie à Napoléon son obsession pour la musculation</title>
+      <link>https://theconversation.com/pourquoi-la-generation-z-doit-en-partie-a-napoleon-son-obsession-pour-la-musculation-295641</link>
+      <description>[The Conversation FR - Histoire] De nombreux jeunes délaissent la course à pied et la natation pour la salle de musculation. Une passion qui plonge ses racines dans deux&amp;nbsp;siècles d’histoire, de la défaite prussienne face à Napoléon aux réseaux sociaux.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">94cce05a585f2f66f4da27bd07acf5ce4d4a310b</guid>
+      <pubDate>Wed, 18 Nov 2026 10:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>En finir avec Parcoursup : derrière l’algorithme, une question de choix politiques</title>
+      <link>https://theconversation.com/en-finir-avec-parcoursup-derriere-lalgorithme-une-question-de-choix-politiques-296307</link>
+      <description>[The Conversation FR - Éducation] Depuis sa création en 2018, Parcoursup s’est techniquement ajusté d’année en année, sans donner satisfaction à ses usagers. Sa disparition programmée peut-elle régler les problèmes d’orientation dans le supérieur&amp;nbsp;?</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">23d0ba1d29f92243dfc1e064017752456fb0b7a1</guid>
+      <pubDate>Wed, 18 Nov 2026 15:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Centre de retour au Rwanda : pourquoi le projet européen inquiète</title>
+      <link>https://theconversation.com/centre-de-retour-au-rwanda-pourquoi-le-projet-europeen-inquiete-296954</link>
+      <description>[The Conversation FR - International] Cinq pays de l’Union européenne veulent envoyer au Rwanda, dès 2027, des migrants déboutés du droit d’asile. La démarche soulève des inquiétudes pour les droits humains.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">ab5951841f5f3f4991e020f615cf48f17c3e6e71</guid>
+      <pubDate>Wed, 18 Nov 2026 16:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mbappé, Mao et l’anaconda : comment Pékin exporte sa censure</title>
+      <link>https://theconversation.com/mbappe-mao-et-lanaconda-comment-pekin-exporte-sa-censure-296740</link>
+      <description>[The Conversation FR - International] Mao Zedong, un dictateur&amp;nbsp;: pour cette formule, Kylian&amp;nbsp;Mbappé vient de faire l’objet d’une attaque en règle que les autorités de Pékin n’ont même pas eu besoin de piloter elles-mêmes…</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">54e1b4dcfc08ef39eb6633829f7322b94e4d9b89</guid>
+      <pubDate>Wed, 18 Nov 2026 15:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poutine menace, Washington inquiète : qui protégera l’Europe ?</title>
+      <link>https://theconversation.com/poutine-menace-washington-inquiete-qui-protegera-leurope-295684</link>
+      <description>[The Conversation FR - International] L’exercice Rummy concrétise le rapprochement nucléaire franco-britannique et pose les bases d’une solidarité stratégique européenne face aux incertitudes américaines.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">425e9678a4be407956df1094fe9f9a2aff6eaa72</guid>
+      <pubDate>Wed, 18 Nov 2026 15:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La croissance de Nvidia ne dépend pas de la Chine</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/18/la-croissance-de-nvidia-ne-depend-pas-de-la-chine/</link>
+      <description>[Le Grand Continent] Pékin ne représentait que 2&amp;#160;% du chiffre d’affaires de l’entreprise lié aux centres de données au dernier trimestre L’article La croissance de Nvidia ne dépend pas de la Chine est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">603a71f6986a06072ffe64d7e349705f55dc8b80</guid>
+      <pubDate>Wed, 18 Nov 2026 17:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>« Cette réunion marque la fin de l’hégémonie américaine »</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/18/cette-reunion-marque-la-fin-de-lhegemonie-americaine/</link>
+      <description>[Le Grand Continent] La visite de Trump à Shenzhen vue de Chine, au-delà du récit officiel L’article «&amp;#160;Cette réunion marque la fin de l&amp;rsquo;hégémonie américaine&amp;#160;» est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c67496424d24ed0c24e097e079c3d9ed2d2c9bea</guid>
+      <pubDate>Wed, 18 Nov 2026 17:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xi, Trump et Poutine ont enfin leur photo de famille</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/18/xi-trump-et-poutine-ont-enfin-leur-photo-de-famille/</link>
+      <description>[Le Grand Continent] La puissance des images du sommet de l’APEC L’article Xi, Trump et Poutine ont enfin leur photo de famille est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">27475c92e8bf7e583157ce06de816e4056470e98</guid>
+      <pubDate>Wed, 18 Nov 2026 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pour échapper aux régulations, Palmer Luckey veut délocaliser des activités stratégiques sur une plateforme en mer</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/18/pour-echapper-aux-regulations-palmer-luckey-veut-delocaliser-des-activites-strategiques-sur-une-plateforme-en-mer/</link>
+      <description>[Le Grand Continent] SLAB sera «&amp;#160;bien plus cool&amp;#160;» qu’un centre de données flottant, selon Luckey L’article Pour échapper aux régulations, Palmer Luckey veut délocaliser des activités stratégiques sur une plateforme en mer est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">d10162e3602a2fdfe912c6fba632c62dc7b35f53</guid>
+      <pubDate>Wed, 18 Nov 2026 13:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>À Shenzhen, la première rencontre de l’histoire entre les dirigeants des États-Unis, de la Chine et de la Russie</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/18/a-shenzhen-la-premiere-rencontre-de-lhistoire-entre-les-dirigeants-des-etats-unis-de-la-chine-et-de-la-russie/</link>
+      <description>[Le Grand Continent] Que faut-il suivre au sommet de l’APEC&amp;#160;? L’article À Shenzhen, la première rencontre de l’histoire entre les dirigeants des États-Unis, de la Chine et de la Russie est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">6f9d41d141e8c3a32e5ebae9ef7b68d58f8fc6d5</guid>
+      <pubDate>Wed, 18 Nov 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La pièce de rechange, angle mort de la modernité</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/18/la-piece-de-rechange-angle-mort-de-la-modernite/</link>
+      <description>[Le Grand Continent] Quand les machines tombent en panne, ce sont des systèmes entiers qui se révèlent L’article La pièce de rechange, angle mort de la modernité est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c34163284be3df0e1ec937cbe8a727b6fce428dd</guid>
+      <pubDate>Wed, 18 Nov 2026 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Quiz - De la Déclaration de Genève à la Convention de 1989, que savez-vous des droits de l’enfant ?</title>
       <link>https://theconversation.com/quiz-de-la-declaration-de-geneve-a-la-convention-de-1989-que-savez-vous-des-droits-de-lenfant-296888</link>
@@ -1502,110 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">8179e89d8bb7184fa5ae8fbaafca07ff5af575a3</guid>
       <pubDate>Tue, 27 Oct 2026 12:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le plan des étudiants serbes qui ont renversé Vučić (texte intégral)</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/27/le-plan-des-etudiants-serbes-qui-ont-renverse-vucic-texte-integral/</link>
-      <description>[Le Grand Continent] Les mystérieux étudiants qui ont pris le pouvoir en Serbie peuvent-ils vraiment réinventer la démocratie&amp;#160;? L’article Le plan des étudiants serbes qui ont renversé Vučić (texte intégral) est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">1af2780c21c0808df62e7e99f50a8f6764509617</guid>
-      <pubDate>Tue, 27 Oct 2026 09:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En Israël, Netanyahou compte sur la guerre pour se maintenir au pouvoir</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/27/en-israel-netanyahou-compte-sur-la-guerre-pour-se-maintenir-au-pouvoir/</link>
-      <description>[Le Grand Continent] En amont des élections, Netanyahou a multiplié les tentatives pour obtenir auprès de Trump une reprise des frappes contre l’Iran L’article En Israël, Netanyahou compte sur la guerre pour se maintenir au pouvoir est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">429f3342903a0a341c34bd9c530fff65f464df71</guid>
-      <pubDate>Tue, 27 Oct 2026 05:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le contrat social français est cassé. Comment le réparer ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/27/le-contrat-social-francais-est-casse-comment-le-reparer/</link>
-      <description>[Le Grand Continent] De Hobbes à Tocqueville, les secrets d’un art politique oublié&amp;#160;: la démocratie L’article Le contrat social français est cassé. Comment le réparer&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">85fab06947556fd190b9a6c0f2cade03178cc169</guid>
-      <pubDate>Tue, 27 Oct 2026 05:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ce sont les Américains qui ont le plus subi les conséquences de la hausse des prix des carburants</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/26/ce-sont-les-americains-qui-ont-le-plus-subi-les-consequences-de-la-hausse-des-prix-des-carburants/</link>
-      <description>[Le Grand Continent] La guerre avec l’Iran a provoqué un surcoût de carburant de 471 dollars par personne aux États-Unis L’article Ce sont les Américains qui ont le plus subi les conséquences de la hausse des prix des carburants est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">fd2fd4812e8ee5455fb474380c50e0ab83f12d7f</guid>
-      <pubDate>Mon, 26 Oct 2026 17:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pour compenser ses pertes en Ukraine, l’armée russe se tourne vers l’Afrique</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/26/pour-compenser-ses-pertes-en-ukraine-larmee-russe-se-tourne-vers-lafrique/</link>
-      <description>[Le Grand Continent] Les recrutements ont été multipliés par 23 au Burundi L’article Pour compenser ses pertes en Ukraine, l’armée russe se tourne vers l’Afrique est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">ee41382bdbbae505d58b38a607d105bb6359ab75</guid>
-      <pubDate>Mon, 26 Oct 2026 16:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Au Brésil, Lula réélu grâce à une mobilisation qui a déjoué les pronostics</title>
-      <link>https://theconversation.com/au-bresil-lula-reelu-grace-a-une-mobilisation-qui-a-dejoue-les-pronostics-295195</link>
-      <description>[The Conversation FR - International] La réélection de Lula à la présidence du Brésil doit beaucoup à une mobilisation sur les réseaux sociaux qui s’est prolongée dans la rue. Mais face à une droite majoritaire au Parlement et dans les États, son nouveau mandat s’annonce difficile.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">63b21e96b4e5c62f74f5648355e4704abf6f857a</guid>
-      <pubDate>Mon, 26 Oct 2026 11:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comment l’Amérique latine réagit à la victoire de Lula</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/26/comment-lamerique-latine-reagit-a-la-victoire-de-lula/</link>
-      <description>[Le Grand Continent] La défaite de Flávio Bolsonaro met en lumière l’isolement de Milei L’article Comment l’Amérique latine réagit à la victoire de Lula est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">0d60dea7a55d2ef37858f4952c8210e55c88b372</guid>
-      <pubDate>Mon, 26 Oct 2026 12:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lula : « Le Brésil n’est l’arrière-cour de personne »</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/26/lula-discours-victoire-bresil/</link>
-      <description>[Le Grand Continent] Réélu à 80 ans, le président du Brésil cible Trump, les Bolsonaro et les géants de la tech. Son discours de victoire intégral. L’article Lula&amp;#160;: «&amp;#160;Le Brésil n’est l’arrière-cour de personne&amp;#160;» est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">d8960cb250a12a78af65e4e74f65b1bf109bd2fa</guid>
-      <pubDate>Mon, 26 Oct 2026 07:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le nouvel ordre énergétique mondial</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/26/le-nouvel-ordre-energetique-mondial/</link>
-      <description>[Le Grand Continent] Selon le directeur de l’Agence internationale de l’énergie, après l’hégémonie du pétrole, «&amp;#160;l’âge de l’électricité est là.&amp;#160;» L’article Le nouvel ordre énergétique mondial est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">afb95e96d13e83e3fc48e9fa000b938a37e6bbbf</guid>
-      <pubDate>Mon, 26 Oct 2026 06:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Législatives serbes. Vučić : « Nous avons perdu les élections »</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/25/legislatives-serbes-vucic-nous-avons-perdu-les-elections/</link>
-      <description>[Le Grand Continent] Avec une participation record depuis la chute de la Yougoslavie, la Liste étudiante a remporté le scrutin L’article Législatives serbes. Vučić&amp;#160;: «&amp;#160;Nous avons perdu les élections&amp;#160;» est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">0a10395b925728465d030c7035f4f9d4b975326d</guid>
-      <pubDate>Sun, 25 Oct 2026 20:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qui peut protéger le royaume saoudien ?</title>
-      <link>https://theconversation.com/qui-peut-proteger-le-royaume-saoudien-294696</link>
-      <description>[The Conversation FR - International] Abandonné par Washington, Riyad, plus que jamais dans la ligne de mire de l’Iran et des houthistes du Yémen, doit se chercher de nouveaux parrains.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">308913f121bd9b6b38b0ab8ffc07177ede5e5c41</guid>
-      <pubDate>Sun, 25 Oct 2026 07:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pourquoi l’eau potable manque encore dans l’archipel de Marajó, l’une des régions les plus riches en eau du monde</title>
-      <link>https://theconversation.com/pourquoi-leau-potable-manque-encore-dans-larchipel-de-marajo-lune-des-regions-les-plus-riches-en-eau-du-monde-295018</link>
-      <description>[The Conversation FR - International] Dans l’archipel de Marajó, en Amazonie brésilienne, des milliers de familles restent privées d’eau potable malgré l’abondance de l’eau.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">d9acd2df54f008d2925a64230de59d9257acc44e</guid>
-      <pubDate>Sun, 25 Oct 2026 07:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’autre visage du miracle chinois est dans le Hunan</title>
-      <link>https://legrandcontinent.eu/fr/2026/10/25/le-hunan-lautre-visage-du-miracle-chinois/</link>
-      <description>[Le Grand Continent] Des usines soviétiques aux géants industriels, de Mao à la culture virale, plongée dans une province qui raconte les métamorphoses de la Chine de Xi. L’article L’autre visage du miracle chinois est dans le Hunan est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">4abe4e9b9d98d5660a38108f13ed074079ad752d</guid>
-      <pubDate>Sun, 25 Oct 2026 13:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
