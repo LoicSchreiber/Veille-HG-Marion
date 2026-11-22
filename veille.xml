@@ -6,7 +6,15 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 21 Nov 2026 16:34:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 16:51:00 +0000</lastBuildDate>
+    <item>
+      <title>En Espagne, Vox est aux portes du pouvoir</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/22/en-espagne-vox-est-aux-portes-du-pouvoir/</link>
+      <description>[Le Grand Continent] À une semaine du vote, un sondage exclusif Cluster 17 projette une majorité absolue à la coalition de la droite et de l’extrême droite L’article En Espagne, Vox est aux portes du pouvoir est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">c0d560bd9587de08c77df7f47f208c12ad70c0d2</guid>
+      <pubDate>Sun, 22 Nov 2026 05:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bien-être étudiant : le temps passé avec des amis compte plus que le sport ou le sommeil</title>
       <link>https://theconversation.com/bien-etre-etudiant-le-temps-passe-avec-des-amis-compte-plus-que-le-sport-ou-le-sommeil-295714</link>
@@ -1598,14 +1606,6 @@
       <category>Le Grand Continent</category>
       <guid isPermaLink="false">c924cac3feca05e0811b29aaa7f083323fa29f75</guid>
       <pubDate>Thu, 29 Oct 2026 17:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>En Israël, Netanyahou désavoué dans les urnes peut encore rester au pouvoir</title>
-      <link>https://theconversation.com/en-israel-netanyahou-desavoue-dans-les-urnes-peut-encore-rester-au-pouvoir-295469</link>
-      <description>[The Conversation FR - International] Les élections législatives du 27 octobre 2026 en Israël ont désavoué la coalition de Benjamin Netanyahou sans dégager de majorité alternative. Le politiste Dov Waxman décrypte les résultats et les obstacles à la formation d’un nouveau gouvernement.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">d1c634fe3bb13c91b237967e380658d1e596c5cb</guid>
-      <pubDate>Thu, 29 Oct 2026 10:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
