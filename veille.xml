@@ -6,7 +6,71 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:47:00 +0000</lastBuildDate>
+    <item>
+      <title>Innovation et souveraineté se jouent d’abord dans l’enseignement supérieur et la recherche</title>
+      <link>https://theconversation.com/innovation-et-souverainete-se-jouent-dabord-dans-lenseignement-superieur-et-la-recherche-296717</link>
+      <description>[The Conversation FR - Éducation] Les moyens par étudiant s’érodent année après année. Apparemment indolore, cette baisse devrait hypothéquer la croissance future de l’économie française.</description>
+      <category>The Conversation FR - Éducation</category>
+      <guid isPermaLink="false">54b4612b5b1a9e3ef992fd5cd611242f538bd447</guid>
+      <pubDate>Thu, 26 Nov 2026 16:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le nouveau quitte ou double de Pedro Sanchez : les élections générales espagnoles anticipées au 29 novembre 2026</title>
+      <link>https://theconversation.com/le-nouveau-quitte-ou-double-de-pedro-sanchez-les-elections-generales-espagnoles-anticipees-au-29-novembre-2026-297308</link>
+      <description>[The Conversation FR - International] Pedro Sanchez joue son avenir dans des élections anticipées, sur fond de crises multiples. Favoris, le PP et Vox espèrent conquérir le pouvoir.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">5a4165784aef7383be8d680c5ffa0e072e781bd7</guid>
+      <pubDate>Thu, 26 Nov 2026 16:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Ukraine a détruit pour la première fois un drone à réaction avec une arme laser</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/26/lukraine-a-detruit-pour-la-premiere-fois-un-drone-a-reaction-avec-une-arme-laser/</link>
+      <description>[Le Grand Continent] La puissance du «&amp;#160;Blysk&amp;#160;» correspond à celle de deux bouilloires électriques L’article L&amp;rsquo;Ukraine a détruit pour la première fois un drone à réaction avec une arme laser est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">9b2cbad33ebcc966b2bc6f671ec6ea7c742e288f</guid>
+      <pubDate>Thu, 26 Nov 2026 16:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceX obtient l’autorisation de lancer un million de centres de données en orbite d’ici 2040</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/26/spacex-obtient-lautorisation-de-lancer-un-million-de-centres-de-donnees-en-orbite-dici-2040/</link>
+      <description>[Le Grand Continent] L'entreprise viserait 77 GW de puissance de calcul en orbite en 2031 L’article SpaceX obtient l’autorisation de lancer un million de centres de données en orbite d’ici 2040 est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">8ad56f0561675622aad0182599a5a606ef192d99</guid>
+      <pubDate>Thu, 26 Nov 2026 11:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le blocus maritime américain étouffe l’économie iranienne</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/26/le-blocus-maritime-americain-etouffe-leconomie-iranienne/</link>
+      <description>[Le Grand Continent] Des responsables iraniens proposent de nouvelles actions offensives pour briser le blocus L’article Le blocus maritime américain étouffe l’économie iranienne est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">d396989186bc25dd4f6437fbcef0f8e36d8807e9</guid>
+      <pubDate>Thu, 26 Nov 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le dilemme de Singapour</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/26/le-dilemme-de-singapour/</link>
+      <description>[Le Grand Continent] Entre la Chine et les États-Unis, est-il encore possible de ne pas choisir&amp;#160;? L’article Le dilemme de Singapour est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">eed03a077eb18fb37cb336e8c2aba8bd1f2cd605</guid>
+      <pubDate>Thu, 26 Nov 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La loi cachée du capitalisme</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/25/la-loi-cachee-du-capitalisme/</link>
+      <description>[Le Grand Continent] Derrière les grandes mutations de l’ordre économique mondial se trouvent systématiquement des ruptures énergétiques L’article La loi cachée du capitalisme est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">f505863172611c23633d244e87ed1159e61288c1</guid>
+      <pubDate>Wed, 25 Nov 2026 19:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’accord signé entre l’Australie et les Îles Salomon marque un revers pour Pékin</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/25/laccord-signe-entre-laustralie-et-les-iles-salomon-marque-un-revers-pour-pekin/</link>
+      <description>[Le Grand Continent] Le texte prive la Chine de toute possibilité d'y installer une base militaire L’article L&amp;rsquo;accord signé entre l&amp;rsquo;Australie et les Îles Salomon marque un revers pour Pékin est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">944c71cc4bf31d7b4d9d9e6dc23d7d2986df5590</guid>
+      <pubDate>Wed, 25 Nov 2026 19:09:00 +0000</pubDate>
+    </item>
     <item>
       <title>Qui était Bérénice, antique souveraine juive à la réputation sulfureuse ?</title>
       <link>https://theconversation.com/qui-etait-berenice-antique-souveraine-juive-a-la-reputation-sulfureuse-297433</link>
@@ -1542,70 +1606,6 @@
       <category>The Conversation FR - International</category>
       <guid isPermaLink="false">db6dad44c1bc7330000a68ef963f62d94441c9b9</guid>
       <pubDate>Mon, 02 Nov 2026 16:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Football : les dessous du financement de la congélation des ovocytes des joueuses par la Fédération espagnole</title>
-      <link>https://theconversation.com/football-les-dessous-du-financement-de-la-congelation-des-ovocytes-des-joueuses-par-la-federation-espagnole-293921</link>
-      <description>[The Conversation FR - International] Avancée réelle pour les droits des footballeuses ou mesure servant avant tout les intérêts de la Fédération espagnole de football et de sa clinique partenaire&amp;nbsp;?</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">6c5ef914f94fdc364dd23ee81abc04a6a27baf97</guid>
-      <pubDate>Mon, 02 Nov 2026 14:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le plan de l’extrême droite allemande pour mettre l’Europe au service de Berlin</title>
-      <link>https://legrandcontinent.eu/fr/2026/11/02/le-plan-de-lextreme-droite-allemande-pour-mettre-leurope-au-service-de-berlin/</link>
-      <description>[Le Grand Continent] L’AfD ne veut plus simplement quitter l’Union, elle veut la transformer de l’intérieur L’article Le plan de l’extrême droite allemande pour mettre l’Europe au service de Berlin est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">535797810d7b50e4f3de3f57ed4ee2e1c159ebc3</guid>
-      <pubDate>Mon, 02 Nov 2026 18:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’armée russe recule en Ukraine et subit ses pertes les plus élevées depuis 2022</title>
-      <link>https://legrandcontinent.eu/fr/2026/11/02/larmee-russe-recule-en-ukraine-et-subit-ses-pertes-les-plus-elevees-depuis-2022/</link>
-      <description>[Le Grand Continent] Moscou perd près de 1 000 soldats pour saisir 1 km² de territoire L’article L’armée russe recule en Ukraine et subit ses pertes les plus élevées depuis 2022 est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">b6a2ec9d2c4391fdb3de8678a57adc3ec36e14be</guid>
-      <pubDate>Mon, 02 Nov 2026 18:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qu’est-ce qui constituerait une victoire démocrate aux élections de mi-mandat ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/11/02/quest-ce-qui-constituerait-une-victoire-democrate-aux-elections-de-mi-mandat/</link>
-      <description>[Le Grand Continent] Quatre scénarios et trois perspectives pour préparer l’après- midterms L’article Qu’est-ce qui constituerait une victoire démocrate aux élections de mi-mandat&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">289aeb240afd2fcd9c47b9344ccb852159b97894</guid>
-      <pubDate>Mon, 02 Nov 2026 15:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bukele est-il en train de créer une force d’intervention en Amérique ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/11/02/bukele-est-il-en-train-de-creer-une-force-dintervention-en-amerique/</link>
-      <description>[Le Grand Continent] Le Salvador a déployé plus de 2 000 soldats en Haïti L’article Bukele est-il en train de créer une force d’intervention en Amérique&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">f94edd83633fb84abf542716cf214f0a131041d7</guid>
-      <pubDate>Mon, 02 Nov 2026 13:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claremont et l’atelier du trumpisme contre-révolutionnaire</title>
-      <link>https://legrandcontinent.eu/fr/2026/11/02/claremont-et-latelier-du-trumpisme-contre-revolutionnaire/</link>
-      <description>[Le Grand Continent] Comment un cénacle de disciples de Leo Strauss est devenu l'antre doctrinal de la droite MAGA L’article Claremont et l’atelier du trumpisme contre-révolutionnaire est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">4fa83e6e6577ddc60077541f1f29c1f02c0f3682</guid>
-      <pubDate>Mon, 02 Nov 2026 06:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Avec la victoire d’Iliana Yotova à la présidentielle, la Bulgarie bascule-t-elle dans le camp de Moscou ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/11/01/avec-la-victoire-diliana-yotova-a-la-presidentielle-la-bulgarie-bascule-t-elle-dans-le-camp-de-moscou/</link>
-      <description>[Le Grand Continent] Après cinq ans d’instabilité politique, le Premier ministre Rumen Radev renforce son emprise sur les institutions bulgares L’article Avec la victoire d’Iliana Yotova à la présidentielle, la Bulgarie bascule-t-elle dans le camp de Moscou&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">524868f3f26495d4b4f73a3e0779a0a8a4326e4f</guid>
-      <pubDate>Sun, 01 Nov 2026 19:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Colloque à Clermont-Ferrand les 17 et 18 novembre autour de la guerre d’Algérie</title>
-      <link>https://www.aphg.fr/colloque-a-clermont-ferrand-les-17-et-18-novembre-autour-de-la-guerre-dalgerie/</link>
-      <description>[APHG] Le 18 novembre, l’APHG Auvergne co-organise un colloque sur le thème « L’histoire franco-algérienne : histoire, mémoires et transmission ». Cette journée est précédée la veille au soir d’un apéro-concert. L’article Colloque à Clermont-Ferrand les 17 et 18 novembre autour de la guerre d&amp;rsquo;Algérie est apparu en premier sur APHG .</description>
-      <category>APHG</category>
-      <guid isPermaLink="false">eecf5d0df6a3bddf95cf8fd1605a77ab32734fc1</guid>
-      <pubDate>Sun, 01 Nov 2026 12:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
