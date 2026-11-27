@@ -6,7 +6,71 @@
     <atom:link href="https://loicschreiber.github.io/veille/veille.xml" rel="self" type="application/rss+xml"/>
     <description>Flux agrégé de 6 sources de veille.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:39:00 +0000</lastBuildDate>
+    <item>
+      <title>Adam Smith, 250 ans après « la Richesse des nations » : ce que la main invisible a fini par nous faire oublier</title>
+      <link>https://theconversation.com/adam-smith-250-ans-apres-la-richesse-des-nations-ce-que-la-main-invisible-a-fini-par-nous-faire-oublier-296719</link>
+      <description>[The Conversation FR - Histoire] «&amp;nbsp;La Richesse des nations&amp;nbsp;» est une œuvre plus équilibrée que voudraient le faire croire ceux qui en font l’acte de naissance du libéralisme. Smith souhaite un équilibre des pouvoirs économiques et politiques.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">94b60a1e49d8ea6ffafd5dade062e904a41de456</guid>
+      <pubDate>Mon, 23 Nov 2026 16:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pour Thomas Hobbes, la curiosité est le propre de l’homme et le ressort de toute innovation</title>
+      <link>https://theconversation.com/pour-thomas-hobbes-la-curiosite-est-le-propre-de-lhomme-et-le-ressort-de-toute-innovation-287011</link>
+      <description>[The Conversation FR - Histoire] Dans son célèbre ouvrage le « Léviathan », Thomas Hobbes (1588-1679) rappelle que la curiosité distingue l’humain de l’animal.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">6872aafbbbd84b69559271289d7135eb17949111</guid>
+      <pubDate>Thu, 19 Nov 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salaire d’appoint, le « quart en moins » : l’économiste Rachel Silvera retrace un siècle d’inégalités salariales</title>
+      <link>https://theconversation.com/salaire-dappoint-le-quart-en-moins-leconomiste-rachel-silvera-retrace-un-siecle-dinegalites-salariales-295569</link>
+      <description>[The Conversation FR - Histoire] Dix&amp;nbsp;ans après la création du hashtag par le média «&amp;nbsp;Les Glorieuses&amp;nbsp;», l’économiste Rachel&amp;nbsp;Silvera remonte aux origines du «&amp;nbsp;salaire d’appoint&amp;nbsp;» dévolu aux femmes pendant des siècles.</description>
+      <category>The Conversation FR - Histoire</category>
+      <guid isPermaLink="false">11b3ec90efc67e3423c89e1805de0155562061d3</guid>
+      <pubDate>Sun, 08 Nov 2026 08:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hongrie, Serbie : pourquoi jouer l’Est contre l’Ouest pourrait ne plus rapporter aux petits États européens</title>
+      <link>https://theconversation.com/hongrie-serbie-pourquoi-jouer-lest-contre-louest-pourrait-ne-plus-rapporter-aux-petits-etats-europeens-297251</link>
+      <description>[The Conversation FR - International] En Hongrie puis en Serbie, les électeurs ont congédié des dirigeants qui misaient à la fois sur l’UE, sur Pékin et Moscou. Pour les petits États, jouer l’Est contre l’Ouest ne rapporte peut-être plus.</description>
+      <category>The Conversation FR - International</category>
+      <guid isPermaLink="false">77527b04b013cc759ca40a8ac40fcff232633b4b</guid>
+      <pubDate>Fri, 27 Nov 2026 09:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Une défaite de Sánchez en Espagne laisserait seulement deux dirigeants de gauche au Conseil européen</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/27/une-defaite-de-sanchez-en-espagne-laisserait-seulement-deux-dirigeants-de-gauche-au-conseil-europeen/</link>
+      <description>[Le Grand Continent] Le Parti populaire et Vox pourraient réunir suffisamment de sièges pour former une majorité L’article Une défaite de Sánchez en Espagne laisserait seulement deux dirigeants de gauche au Conseil européen est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">256fe671d501126da597de9639a3c5097a7c936c</guid>
+      <pubDate>Fri, 27 Nov 2026 18:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Europe fait face à une vague d’affaires d’espionnage russe</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/27/leurope-fait-face-a-une-vague-daffaires-despionnage-russe/</link>
+      <description>[Le Grand Continent] Du 21 au 27 novembre, la revue a recensé 32 actions hostiles contre l'Europe L’article L&amp;rsquo;Europe fait face à une vague d&amp;rsquo;affaires d&amp;rsquo;espionnage russe est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">45451d3e03f8ff9c0e328a422c9cc72f5f177f13</guid>
+      <pubDate>Fri, 27 Nov 2026 13:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plus d’un an après l’imposition de sanctions, les États-Unis concluent un accord pour les actifs de Lukoil</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/27/plus-dun-an-apres-limposition-de-sanctions-les-etats-unis-concluent-un-accord-pour-les-actifs-de-lukoil/</link>
+      <description>[Le Grand Continent] Le consortium d'acquéreurs est dirigé par un soutien financier de Trump L’article Plus d’un an après l’imposition de sanctions, les États-Unis concluent un accord pour les actifs de Lukoil est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">2bc0d54c29f34b782a24552ec8f3b27fa8191f62</guid>
+      <pubDate>Fri, 27 Nov 2026 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qu’est-ce que l’altruisme efficace ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/11/27/quest-ce-que-laltruisme-efficace/</link>
+      <description>[Le Grand Continent] Comprendre la philosophie la plus influente et la moins connue de la révolution de l’IA L’article Qu’est-ce que l’altruisme efficace&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
+      <category>Le Grand Continent</category>
+      <guid isPermaLink="false">7478eb24f16ca0e90a0a706e585598a19401913d</guid>
+      <pubDate>Fri, 27 Nov 2026 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Innovation et souveraineté se jouent d’abord dans l’enseignement supérieur et la recherche</title>
       <link>https://theconversation.com/innovation-et-souverainete-se-jouent-dabord-dans-lenseignement-superieur-et-la-recherche-296717</link>
@@ -1542,70 +1606,6 @@
       <category>The Conversation FR - Histoire</category>
       <guid isPermaLink="false">66b98d2b009e946f0176b63e04eed9cbf3ec14d4</guid>
       <pubDate>Tue, 03 Nov 2026 15:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Du steamer au trimaran : comment la saga des « Gitana » illustre un siècle et demi d’innovations navales</title>
-      <link>https://theconversation.com/du-steamer-au-trimaran-comment-la-saga-des-gitana-illustre-un-siecle-et-demi-dinnovations-navales-295361</link>
-      <description>[The Conversation FR - Histoire] Le multicoque «&amp;nbsp;Gitana&amp;nbsp;18&amp;nbsp;» est un bijou de technologie dont l’histoire remonte à la fin du XIXᵉ&amp;nbsp;siècle.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">2b961b65ac64ff85d9423430669f1a2d1a759ebb</guid>
-      <pubDate>Tue, 03 Nov 2026 15:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Au lycée, la pénibilité du travail scolaire est source de colère et de souffrance</title>
-      <link>https://theconversation.com/au-lycee-la-penibilite-du-travail-scolaire-est-source-de-colere-et-de-souffrance-294544</link>
-      <description>[The Conversation FR - Éducation] Dénoncée par les lycéens mobilisés, la dégradation des conditions d’études pèse-t-elle sur leur santé&amp;nbsp;? Une enquête auprès de 7&amp;nbsp;000&amp;nbsp;élèves apporte un éclairage sociologique.</description>
-      <category>The Conversation FR - Éducation</category>
-      <guid isPermaLink="false">a66f18b7133db797058147c1e01de7d91efa4c69</guid>
-      <pubDate>Tue, 03 Nov 2026 15:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Talion au Moyen-Orient : l’inéluctable engrenage ?</title>
-      <link>https://theconversation.com/talion-au-moyen-orient-lineluctable-engrenage-295768</link>
-      <description>[The Conversation FR - International] La vengeance est une spirale sans fin dont le Moyen-Orient semble bien en peine de s’extraire.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">2f23f618e253e18ee59bb74dc1d46f767e2d657c</guid>
-      <pubDate>Tue, 03 Nov 2026 15:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Europe se dirige-t-elle vers une nouvelle crise énergétique cet hiver ?</title>
-      <link>https://legrandcontinent.eu/fr/2026/11/03/leurope-se-dirige-t-elle-vers-une-nouvelle-crise-energetique-cet-hiver/</link>
-      <description>[Le Grand Continent] L’effondrement précoce du vortex polaire pourrait entraîner une vague de froid L’article L’Europe se dirige-t-elle vers une nouvelle crise énergétique cet hiver&amp;#160;? est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">64ac0e705cabcf0a2feba26379c3d04d89e76e58</guid>
-      <pubDate>Tue, 03 Nov 2026 11:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Midterms : pourquoi les centres de données sont devenus un sujet central de la campagne</title>
-      <link>https://legrandcontinent.eu/fr/2026/11/03/midterms-pourquoi-les-centres-de-donnees-sont-devenus-un-sujet-central-de-la-campagne/</link>
-      <description>[Le Grand Continent] Le soutien à l’IA est devenu toxique pour certains candidats L’article Midterms&amp;#160;: pourquoi les centres de données sont devenus un sujet central de la campagne est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">c6c42dd3eecfce7b6b1f40a12c6b74649ceabd9f</guid>
-      <pubDate>Tue, 03 Nov 2026 05:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La bulle et le contrôle</title>
-      <link>https://legrandcontinent.eu/fr/2026/11/03/la-bulle-et-le-controle/</link>
-      <description>[Le Grand Continent] L’intelligence artificielle est le nouveau champ de bataille L’article La bulle et le contrôle est apparu en premier sur Le Grand Continent .</description>
-      <category>Le Grand Continent</category>
-      <guid isPermaLink="false">9d93684e1c5214b5b9d567ecff18f698c7e92c98</guid>
-      <pubDate>Tue, 03 Nov 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le vieux principe du droit anglais qui protège Donald Trump des plaintes en diffamation</title>
-      <link>https://theconversation.com/le-vieux-principe-du-droit-anglais-qui-protege-donald-trump-des-plaintes-en-diffamation-295694</link>
-      <description>[The Conversation FR - Histoire] Donald Trump a traité de « djihadiste » le candidat démocrate au Sénat dans le Michigan. Une plainte en diffamation aurait pourtant peu de chances d’aboutir, car l’immunité souveraine, héritée du droit anglais, protège les élus fédéraux.</description>
-      <category>The Conversation FR - Histoire</category>
-      <guid isPermaLink="false">afb24ec809949b5913c9238d9ba3e1378da0a7f0</guid>
-      <pubDate>Mon, 02 Nov 2026 15:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ce qu’un Congrès dominé par les démocrates changerait pour l’Europe</title>
-      <link>https://theconversation.com/ce-quun-congres-domine-par-les-democrates-changerait-pour-leurope-295713</link>
-      <description>[The Conversation FR - International] Une victoire des démocrates au Congrès ne fera pas pour autant de Washington un allié fiable, surtout en ce qui concerne la Russie et l’Ukraine.</description>
-      <category>The Conversation FR - International</category>
-      <guid isPermaLink="false">db6dad44c1bc7330000a68ef963f62d94441c9b9</guid>
-      <pubDate>Mon, 02 Nov 2026 16:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
